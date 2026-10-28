@@ -3,6 +3,7 @@
 import argparse
 from datetime import datetime, timezone
 import hashlib
+from io import BytesIO
 import json
 import os
 from pathlib import Path
@@ -10,6 +11,7 @@ import re
 import subprocess
 import tempfile
 import sys
+import zipfile
 from urllib.parse import urlparse, parse_qs
 
 
@@ -115,6 +117,19 @@ def process_resource(resource: dict, incoming: Path, root: Path,
     if not is_pdf and not data.startswith(b"PK\x03\x04"):
         raise ValueError("invalid_file: conteúdo não é PDF nem arquivo ZIP reconhecido.")
     suffix = ".pdf" if is_pdf else ".zip"
+    media_type = "application/pdf" if is_pdf else "application/zip"
+    if not is_pdf:
+        try:
+            with zipfile.ZipFile(BytesIO(data)) as archive:
+                names = set(archive.namelist())
+            if "ppt/presentation.xml" in names:
+                suffix = ".pptx"
+                media_type = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+            elif "word/document.xml" in names:
+                suffix = ".docx"
+                media_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        except zipfile.BadZipFile as error:
+            raise ValueError("invalid_file: contêiner ZIP incompleto ou inválido.") from error
     relative = f".local/fontes/originais/{digest}{suffix}"
     target = local_path(root, relative)
     pages_path = f".local/fontes/paginas/{digest}.json"
@@ -148,7 +163,7 @@ def process_resource(resource: dict, incoming: Path, root: Path,
         atomic_write(target, data)
     file = {
         "file_id": digest, "original_name": receipt["original_name"],
-        "relative_path": relative, "media_type": "application/pdf" if is_pdf else "application/zip",
+        "relative_path": relative, "media_type": media_type,
         "byte_size": len(data), "sha256": digest, "retrieved_at": receipt["retrieved_at"],
         "extraction": extraction,
     }

@@ -6,6 +6,8 @@ from io import StringIO
 from pathlib import Path
 import tempfile
 import unittest
+import zipfile
+from io import BytesIO
 
 ROOT = Path(__file__).resolve().parents[2]
 spec = importlib.util.spec_from_file_location("fontes", ROOT / "scripts/fontes.py")
@@ -131,6 +133,22 @@ class ProcessingTests(SourceFixture, unittest.TestCase):
         self.receive(pdf_bytes(["Original text"]))
         (self.incoming / "moodle-resource-123.bin").write_bytes(b"changed")
         with self.assertRaisesRegex(ValueError, "hash_mismatch"):
+            fontes.process_resource(self.resource, self.incoming, self.root)
+
+    def test_preserves_real_pptx_type_without_claiming_text_extraction(self):
+        data = BytesIO()
+        with zipfile.ZipFile(data, "w") as archive:
+            archive.writestr("ppt/presentation.xml", "<presentation/>")
+        self.receive(data.getvalue(), "slides.pptx")
+        record = fontes.process_resource({**self.resource, "kind": "slides"}, self.incoming, self.root)
+        file = record["files"][0]
+        self.assertTrue(file["relative_path"].endswith(".pptx"))
+        self.assertEqual(file["media_type"], "application/vnd.openxmlformats-officedocument.presentationml.presentation")
+        self.assertEqual(file["extraction"]["status"], "unsupported")
+
+    def test_rejects_corrupted_zip_container(self):
+        self.receive(b"PK\x03\x04not a complete archive", "slides.pptx")
+        with self.assertRaisesRegex(ValueError, "ZIP"):
             fontes.process_resource(self.resource, self.incoming, self.root)
 
     def test_refuses_paths_that_escape_the_project(self):
