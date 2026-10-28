@@ -1,0 +1,950 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6601124",
+  "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+  "lessons": [
+    18,
+    19
+  ],
+  "authors": [
+    "Jeffry Frieden"
+  ],
+  "title": "O fim de Bretton Woods",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Bretton Woods ruiu por razões políticas, não técnicas: o próprio sucesso do sistema (finanças internacionais reanimadas, perda de peso relativo dos EUA, inflação americana) tornou a defesa do dólar-ouro incompatível com as prioridades domésticas de um governo de economia relativamente fechada, que preferiu romper com o ouro em 1971. Em paralelo, o mesmo esgotamento do compromisso entre integração internacional e metas nacionais atingiu o comércio e o investimento direto no mundo rico, a industrialização por substituição de importações (ISI) no mundo em desenvolvimento e a planificação socialista, encerrando a era do pós-guerra.",
+  "question": "Por que o sistema monetário de Bretton Woods (e, de modo mais amplo, o arranjo econômico do pós-guerra nos três mundos) entrou em colapso no início dos anos 1970, apesar de ter produzido crescimento e prosperidade?",
+  "argument": [
+    {
+      "claim": "Nixon decidiu em agosto de 1971 se deveria fechar a janela do ouro e soltar o dólar da paridade fixa; investidores atacavam o dólar e os britânicos pediam para converter todas as reservas em dólares em ouro, o que expunha os EUA a serem arruinados por qualquer detentor de dólares.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 1,
+          "quote": "Nos mercados de câmbio"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "Ficamos completamente expostos."
+        }
+      ]
+    },
+    {
+      "claim": "O compromisso original combinava liberdade para a política doméstica com integração internacional: ouro a US$35 por onça, demais moedas fixadas no dólar, com margem para ajustes cambiais pontuais e política monetária própria, possível porque os fluxos financeiros de curto prazo eram quase inexistentes (trauma dos anos 1930, oportunidades domésticas, controle de capitais).",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "o ouro estava fixado na moeda norte-americana a uma taxa de US$35 por"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "quase não havia fluxos monetários de curto prazo; em parte devido ao"
+        }
+      ]
+    },
+    {
+      "claim": "O sucesso do sistema gerou duas mudanças que o arruinaram. Primeira: a restauração das finanças internacionais nos anos 1960, de modo que especuladores passaram a mover dinheiro conforme as diferenças monetárias e ameaçaram a autonomia das políticas internas.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "O sistema foi arruinado por dois aspectos, ambos resultados do sucesso"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "anos 1970, o sistema financeiro global possuía cerca de US$165 bilhões e"
+        }
+      ]
+    },
+    {
+      "claim": "Segunda mudança: pressão sobre o dólar, decorrente da maior importância econômica da Europa ocidental e do Japão e do encolhimento da parcela americana. Enquanto os EUA dominavam, ninguém duvidava do dólar; depois, passou-se a duvidar do compromisso americano com a taxa de câmbio. Bretton Woods suportava desvalorizações esporádicas de outras moedas, mas não do dólar, base do sistema.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "econômica da Europa ocidental e do Japão. Enquanto os Estados Unidos"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "sobreviveria a desvalorizações esporádicas, mas o mesmo não se aplicava"
+        }
+      ]
+    },
+    {
+      "claim": "1959-1960: o déficit do balanço de pagamentos americano minou a confiança no dólar; o Fed elevou juros para atrair demanda por dólares e causou recessão, primeira vez desde os anos 1930 em que a política monetária americana sacrificou metas nacionais por internacionais (episódio que Nixon associava à sua derrota em 1960).",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "O problema surgiu pela primeira vez em 1959 e 1960, quando um"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "Pela primeira vez desde a década de 1930, a política monetária"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "Nixon atribuía sua derrota para John F. Kennedy nas eleições presidenciais"
+        }
+      ]
+    },
+    {
+      "claim": "Nos anos 1960 o problema se agravou: Vietnã e Guerra à Pobreza financiadas com déficit levaram a inflação americana acima da dos parceiros. Com câmbio nominal fixo, isso gerou uma apreciação real do dólar (valor oficial acima do valor real, talvez 10 a 15%), que beneficiava os americanos (importar, investir e viajar) e permitia ao governo cumprir suas obrigações externas, mas corroía a confiança dos estrangeiros.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "enfrentadas pelo país: a do Vietnã e o grande aumento dos gastos sociais"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "tornou-se significativamente mais alta do que na maioria das nações"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "artificial da moeda norte-americana. A taxa de câmbio do dólar – seu preço"
+        }
+      ]
+    },
+    {
+      "claim": "Estrangeiros passaram a trocar o dólar pouco confiável pelo ouro confiável: de 1961 a 1968 converteram US$7 bilhões (cerca de 40% das reservas de ouro americanas), US$3 bilhões deles pela França, cujos líderes (De Gaulle, Pompidou) criticavam o privilégio americano. Medidas de contenção (venda de ouro pelas potências, controles de capital americanos, mercado privado de ouro ao lado do oficial) não bastaram.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Os Estados Unidos impuseram controles de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "autorizaram um mercado privado a tomar conta do"
+        }
+      ]
+    },
+    {
+      "claim": "Não havia ouro suficiente para trocar todos os dólares. As únicas saídas seriam austeridade (reduzir preços e restaurar o valor real do dólar) ou juros mais altos (2 a 3 pontos percentuais), e o governo Nixon recusou ambas na corrida eleitoral de 1972.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+        }
+      ]
+    },
+    {
+      "claim": "A explicação de fundo é política: com a integração, o sistema ficava parecido com o padrão-ouro e exigia sacrificar objetivos nacionais pela moeda. Quem ganha com estabilidade cambial (bancos, investidores) apoia a austeridade; trabalhadores e empresas atingidas se opõem. Os EUA eram relativamente fechados (comércio abaixo de 10% da economia), então os eleitores nunca priorizariam a ordem monetária sobre a prosperidade doméstica.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Bancos, empresas e investidores que perderiam com as alterações no"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        }
+      ]
+    },
+    {
+      "claim": "Em 15 de agosto de 1971 Nixon retirou o dólar do ouro; o dólar caiu cerca de 10% nos meses seguintes, foi imposta sobretaxa de 10% às importações e controles de salários e preços; nova desvalorização de 10% em 1973. A balança comercial melhorou e o desemprego caiu, mas Bretton Woods deixou de existir.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "internacionais, e, em 15 de agosto de 1971, Richard Nixon retirou o dólar"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "impacto da desvalorização impondo uma taxa de 10% sobre as importações"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "Woods, em 1973 a administração Nixon, mais uma vez, desvalorizou o"
+        }
+      ]
+    },
+    {
+      "claim": "A mesma lógica política atingiu comércio e investimento: o boom exportador da Europa e do Japão pressionou produtores americanos (aço, automóveis, têxteis), que passaram ao neoprotecionismo por barreiras não tarifárias (antidumping, restrições voluntárias às exportações), sem reverter a liberalização anterior; contra o IED havia desconfiança crescente (Servan-Schreiber, caso ITT no Chile) e restrições em muitos países; e entre 1968 e 1973 a Europa viveu conflito trabalhista e greves, com inflação corroendo os acordos salariais.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 10,
+          "quote": "em 1973, o comércio se tornou duas vezes mais importante para a Europa"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "restrições voluntárias às exportações e outros métodos – não reverteram os"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 12,
+          "quote": "indicava que as principais beneficiadas pela"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 14,
+          "quote": "Em quase todos os países da Europa ocidental, entre 1968"
+        }
+      ]
+    },
+    {
+      "claim": "No mundo em desenvolvimento a ISI entrou em crise: dependência crescente de importações com exportações desestimuladas gerou crises recorrentes de balanço de pagamentos, déficits orçamentários, inflação, desigualdade (economias duais) e, com frequência, autoritarismo (Brasil 1964 e outros). O modelo exportador do Leste Asiático parecia evitar esses problemas, mas os beneficiários da ISI bloquearam reformas. O G-77 buscou mudar as regras internacionais, com pouco resultado.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 15,
+          "quote": "A ISI causou problemas crônicos nas balanças comercial e de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 17,
+          "quote": "A mesma situação enfrentada pelo Brasil se repetia por todo o mundo"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "O modelo voltado para as exportações adotado pelo Leste Asiático"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "Os que se beneficiavam com a ISI, contudo, impediram as tentativas de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 21,
+          "quote": "O G-77 buscava conter a influência econômica do mundo"
+        }
+      ]
+    },
+    {
+      "claim": "O socialismo planificado também estagnou: reformas de descentralização ameaçavam a elite técnica e administrativa e a base política do partido, foram revertidas ou interrompidas; o crescimento desacelerou, a defasagem tecnológica aumentou (poucos incentivos à inovação) e o bloco passou a depender de importações e empréstimos do Ocidente. Conclusão: nos três grupos (capitalistas avançados, ISI, socialistas) o conjunto de objetivos do pós-guerra ficou cada vez mais difícil de sustentar e a era terminou no início dos anos 1970.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 22,
+          "quote": "As reformas ameaçavam o equilíbrio social e político dos países"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 23,
+          "quote": "A planificação econômica central, de fato, ofereceu poucos incentivos"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 25,
+          "quote": "A era do pós-guerra terminou no início da década de 1970. O mundo"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 26,
+          "quote": "simultânea de todos esses objetivos tornava-se mais difícil com o passar do"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Inflação americana mais alta que a dos parceiros (Vietnã e Guerra à Pobreza financiadas com déficit) sob câmbio nominal fixo gerou apreciação real do dólar, déficit comercial e perda de confiança no valor do dólar em ouro; estrangeiros passaram a converter dólares em ouro.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "enfrentadas pelo país: a do Vietnã e o grande aumento dos gastos sociais"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "tornou-se significativamente mais alta do que na maioria das nações"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Perda de peso relativo dos EUA na economia mundial (ascensão da Europa ocidental e do Japão) fez a confiança no dólar deixar de ser dada, transformando em problema a divergência entre condições monetárias americanas e as dos parceiros.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "econômica da Europa ocidental e do Japão. Enquanto os Estados Unidos"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Reativação dos mercados financeiros internacionais nos anos 1960: capitais de curto prazo (especuladores) respondem a diferenças monetárias e atacam a moeda, o que transmite as dúvidas sobre o dólar e reduz a autonomia macroeconômica nacional. Antes, a quase ausência desses fluxos protegia a política monetária de cada país.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "quase não havia fluxos monetários de curto prazo; em parte devido ao"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "anos 1970, o sistema financeiro global possuía cerca de US$165 bilhões e"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Conflito entre estabilidade cambial e autonomia doméstica: defender o dólar exigiria juros altos, corte de gastos e recessão. Bancos e investidores apoiam a austeridade; trabalhadores e firmas atingidas se opõem. Com economia relativamente fechada (comércio abaixo de 10%) e eleição próxima, o governo Nixon priorizou a economia doméstica; Frieden afirma que o colapso foi por razões políticas, não técnicas.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Para um governo, a importância relativa da estabilidade cambial e da"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "Nixon atribuía sua derrota para John F. Kennedy nas eleições presidenciais"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Pressão protecionista nos EUA: déficit comercial (1971, primeiro registrado), importações crescendo o dobro das exportações e giro da AFL-CIO ao protecionismo aumentaram o incentivo a desvalorizar; a desvalorização era vista como protetora da indústria, o que pesou na decisão de Camp David.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "Em 1971, os Estados Unidos importavam mais que exportavam, o primeiro"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 3,
+          "quote": "Nos tornemos competitivos. Os empresários vão gostar."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Neoprotecionismo por barreiras não tarifárias: como o Gatt vedava aumentar tarifas, setores prejudicados usaram acusações de dumping e restrições voluntárias às exportações, que funcionam como cartel entre produtores americanos e estrangeiros e mantêm preços americanos acima do mundial.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 10,
+          "quote": "Os membros do Gatt haviam concordado em não aumentar as tarifas"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "Basicamente, as RVEs formavam um"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Interesses entrincheirados bloqueiam reformas: na ISI (indústrias protegidas, subsidiadas) e no socialismo planificado (elite técnica e partido), grupos beneficiados impediram a abertura ou a descentralização.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "Os que se beneficiavam com a ISI, contudo, impediram as tentativas de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 22,
+          "quote": "As reformas ameaçavam o equilíbrio social e político dos países"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "O sucesso gerou o próprio fim: o compromisso estimulou comércio, investimento e finanças, e esses laços fortes alimentaram tanto a ideia de que a economia mundial restringia as políticas nacionais quanto a de que metas nacionais limitavam os mercados globais.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "cada vez mais fortes entre os países geraram a ideia de que a economia"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "Woods, em 1973 a administração Nixon, mais uma vez, desvalorizou o"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Estados Unidos e o colapso do padrão ouro-dólar",
+      "period": "1959-1973",
+      "outcome": "Déficits, inflação e perda de confiança levaram a conversões em ouro; Nixon fechou a janela do ouro em 15/08/1971, desvalorizou o dólar (cerca de 10% e novamente 10% em 1973) e impôs sobretaxa de 10%.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "internacionais, e, em 15 de agosto de 1971, Richard Nixon retirou o dólar"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "Woods, em 1973 a administração Nixon, mais uma vez, desvalorizou o"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "O problema surgiu pela primeira vez em 1959 e 1960, quando um"
+        }
+      ]
+    },
+    {
+      "name": "França e a conversão de dólares em ouro",
+      "period": "1961-1968",
+      "outcome": "Franceses compraram cerca de US$3 bilhões dos US$7 bilhões retirados das reservas americanas e criticaram o privilégio do dólar (De Gaulle, Pompidou).",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Em meados de março do ano de 1968, no auge da crise, US$400 milhões foram"
+        }
+      ]
+    },
+    {
+      "name": "Europa ocidental e Japão: boom exportador e conflito",
+      "period": "1950-1973",
+      "outcome": "Comércio dobrou de importância na Europa e quadruplicou no Japão; pressões protecionistas nos EUA; na Europa, greves de 1968 a 1973 (maio de 1968 na França, Outono Quente de 1969 na Itália).",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 10,
+          "quote": "em 1973, o comércio se tornou duas vezes mais importante para a Europa"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 14,
+          "quote": "Na França, em maio de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 14,
+          "quote": "Em quase todos os países da Europa ocidental, entre 1968"
+        }
+      ]
+    },
+    {
+      "name": "Barreiras não tarifárias e RVEs no aço",
+      "period": "1968",
+      "outcome": "Os EUA obtiveram que produtores japoneses e europeus de aço limitassem exportações; efeito de cartel e preços americanos altos.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "em 1968 ao conseguir que os produtores de aço japoneses e europeus"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "cartel entre os produtores dos Estados Unidos e os estrangeiros para manter"
+        }
+      ]
+    },
+    {
+      "name": "Multinacionais e restrições ao IED (Europa, Canadá, Chile, países em desenvolvimento)",
+      "period": "anos 1960-início dos anos 1970",
+      "outcome": "Desconfiança crescente, controles no Canadá e na França, exclusão de setores no mundo em desenvolvimento; caso ITT no Chile contra Allende.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 13,
+          "quote": "Muitos países começaram a restringir a entrada de multinacionais na"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 13,
+          "quote": "Primeiramente, a ITT tentou impedir a"
+        }
+      ]
+    },
+    {
+      "name": "Brasil sob ISI",
+      "period": "1960-1970",
+      "outcome": "Industrialização rápida, mas crises de balanço de pagamentos, inflação de 96% em 1964, golpe militar em abril de 1964, desigualdade (\"Belíndia\") e exportações industriais irrisórias.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 17,
+          "quote": "A substituição de importações do Brasil obteve grandes vitórias e criou"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 17,
+          "quote": "passou para 96% em 1964"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 19,
+          "quote": "Brasil se tornou a sociedade mais desigual do mundo: os 5% mais ricos do"
+        }
+      ]
+    },
+    {
+      "name": "Outros países de ISI (Chile, Argentina, Índia, Turquia, Filipinas, Indonésia, México)",
+      "period": "1950-1976",
+      "outcome": "Padrão recorrente de crise de balanço de pagamentos, inflação, descontentamento, golpe ou repressão; crescimento abaixo da média mundial; exportações latino-americanas de 8% para 3% do total mundial (1950-1973).",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 17,
+          "quote": "A mesma situação enfrentada pelo Brasil se repetia por todo o mundo"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 19,
+          "quote": "Entre 1950 e 1973, as exportações da América Latina caíram de 8%"
+        }
+      ]
+    },
+    {
+      "name": "Coreia do Sul e Taiwan (modelo exportador)",
+      "period": "até 1973",
+      "outcome": "Exportavam 41% e 50% dos produtos industriais (contra 3% a 4% da América Latina); sem crises sérias de balanço de pagamentos e sem dualismo, mas com salários baixos e repressão trabalhista.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "Em 1973, a Coreia exportava"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "subvalorizada para manter a competitividade"
+        }
+      ]
+    },
+    {
+      "name": "URSS e Comecon",
+      "period": "1960-início dos anos 1970",
+      "outcome": "Reformas (Kosygin 1965, Tchecoslováquia, Hungria) revertidas; atraso tecnológico, dependência de importações e crédito ocidentais; greves na Polônia em dezembro de 1970.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 22,
+          "quote": "Os soviéticos reverteram ou ignoraram as"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 23,
+          "quote": "Mas os países socialistas ficavam para trás em termos tecnológicos,"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 24,
+          "quote": "se parecia com um país em desenvolvimento: exportava matérias-primas e"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Padrão ouro-dólar (Bretton Woods)",
+      "definition": "Ouro fixado a US$35 por onça e demais moedas fixadas ao dólar; governos podiam trocar dólares por ouro; combinava câmbio estável com margem de autonomia doméstica.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "o ouro estava fixado na moeda norte-americana a uma taxa de US$35 por"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "vieram hoje nos pedir para cobrir um rombo de US$ 3 bilhões, todas as"
+        }
+      ]
+    },
+    {
+      "term": "Apreciação real do dólar",
+      "definition": "Fortalecimento artificial do dólar: com câmbio nominal constante e preços americanos subindo mais, a moeda vale menos do que a paridade oficial indica.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "artificial da moeda norte-americana. A taxa de câmbio do dólar – seu preço"
+        }
+      ]
+    },
+    {
+      "term": "Independência de política macroeconômica sob fluxos financeiros inativos",
+      "definition": "Sem fluxos de curto prazo, juros diferentes entre países não provocavam fuga de capital; com os mercados reativados, essa autonomia é ameaçada.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 5,
+          "quote": "quase não havia fluxos monetários de curto prazo; em parte devido ao"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 6,
+          "quote": "anos 1970, o sistema financeiro global possuía cerca de US$165 bilhões e"
+        }
+      ]
+    },
+    {
+      "term": "Dumping",
+      "definition": "Venda abaixo do custo de produção para conquistar mercado, proibida pelo Gatt; Frieden nota que o conceito é relativo e as queixas costumam ser pedidos de proteção.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "Uma delas seria acusar os vendedores estrangeiros de dumping – a venda de"
+        }
+      ]
+    },
+    {
+      "term": "Restrições Voluntárias às Exportações (RVE) e Barreiras Não Tarifárias (BNT)",
+      "definition": "Formas de protecionismo que contornam o veto do Gatt a tarifas; RVEs funcionam como cartel entre produtores nacionais e estrangeiros.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "Basicamente, as RVEs formavam um"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 11,
+          "quote": "restrições voluntárias às exportações e outros métodos – não reverteram os"
+        }
+      ]
+    },
+    {
+      "term": "ISI (industrialização por substituição de importações)",
+      "definition": "Industrialização protegida voltada ao mercado interno; gera \"intensidade importadora\" e viés contra exportações (proteção e câmbio supervalorizado), levando a crises de balanço de pagamentos.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 15,
+          "quote": "A ISI causou problemas crônicos nas balanças comercial e de"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 15,
+          "quote": "supervalorizadas aumentavam os preços domésticos e tornavam as"
+        }
+      ]
+    },
+    {
+      "term": "Economia dual (\"Belíndia\")",
+      "definition": "Setor moderno de capital intensivo e trabalho organizado ao lado de massa de agricultores e pobres urbanos excluídos; metáfora de Edmar Bacha para o Brasil.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 18,
+          "quote": "importações era intensivo em capital."
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 18,
+          "quote": "pequena parte como a Bélgica e todo o resto como a"
+        }
+      ]
+    },
+    {
+      "term": "Investimento direto estrangeiro (IED) / multinacionais",
+      "definition": "Capital estrangeiro em fábricas que traz tecnologia, empregos e assume o risco, sem criar obrigações para os governos, mas que passou a gerar objeções de concorrentes locais e temor de dominação.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 12,
+          "quote": "estrangeiro não gerava obrigações para os formuladores de políticas"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 12,
+          "quote": "No início de 1970, havia US$200 bilhões em IEDs"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Em 1971 os EUA tiveram o primeiro déficit comercial registrado; as importações cresciam duas vezes mais rápido que as exportações e em 1968 já se importavam mais automóveis do que se exportavam.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 2,
+          "quote": "Em 1971, os Estados Unidos importavam mais que exportavam, o primeiro"
+        }
+      ]
+    },
+    {
+      "fact": "De 1961 a 1968 estrangeiros trocaram US$7 bilhões em dólares por ouro, cerca de 40% das reservas americanas; US$3 bilhões pelos franceses.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1971 os americanos importaram o dobro de manufaturados e investiram o dobro no exterior em relação a 1967; dólar sobrevalorizado 10 a 15% segundo alguns cálculos.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 7,
+          "quote": "americanos importaram duas vezes mais produtos manufaturados e"
+        }
+      ]
+    },
+    {
+      "fact": "O dólar caiu cerca de 10% após agosto de 1971; nova desvalorização de 10% em 1973.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 4,
+          "quote": "Nos meses seguintes, o dólar caiu cerca de 10%. Nixon reforçou o"
+        }
+      ]
+    },
+    {
+      "fact": "O comércio internacional correspondia a menos de 10% da economia americana.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        }
+      ]
+    },
+    {
+      "fact": "A capacidade de produção de aço do Japão passou de 1 milhão de toneladas (1950) para 117 milhões (1974); em 1973 a produtividade automotiva japonesa quase igualou a americana.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 10,
+          "quote": "país de produzir aço aumentou de um milhão de toneladas em 1950 para"
+        }
+      ]
+    },
+    {
+      "fact": "No Brasil, a inflação passou de cerca de 20% nos anos 1950 para 96% em 1964; os 5% mais ricos ganhavam o mesmo que os 80% mais pobres.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 17,
+          "quote": "passou para 96% em 1964"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 19,
+          "quote": "Brasil se tornou a sociedade mais desigual do mundo: os 5% mais ricos do"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento per capita de 1950 a 1973: Chile 1%, Argentina 2%, Índia 1,6%; exportações da América Latina caíram de 8% para 3% do total mundial.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 19,
+          "quote": "Argentina era de 2% e o da Índia era de 1,6%."
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 19,
+          "quote": "Entre 1950 e 1973, as exportações da América Latina caíram de 8%"
+        }
+      ]
+    },
+    {
+      "fact": "Coreia do Sul exportava 41% e Taiwan 50% dos produtos industriais em 1973.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 20,
+          "quote": "Em 1973, a Coreia exportava"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O texto é narrativo e de síntese; a explicação política (preferências de eleitores e grupos) é afirmada pelo autor com base em falas e episódios de Camp David, sem teste sistemático.",
+    "A ordem de causas é interpretação do autor: ele atribui o colapso a razões políticas e não técnicas; uma leitura alternativa (inferência minha, não do texto) enfatizaria a contradição estrutural do dólar-ouro (ver slides, dilema de Triffin), que Frieden não nomeia neste capítulo.",
+    "A tese de que o sucesso de Bretton Woods causou seu fim e a generalização para ISI e socialismo são comparações amplas; os mecanismos políticos dos três blocos são analogias do autor (a ISI e o planejamento \"como\" o ouro-dólar), não prova de causa única.",
+    "Os dados sobre a sobrevalorização do dólar (10 a 15%) vêm de cálculos de terceiros, citados com a ressalva 'segundo alguns cálculos'.",
+    "O capítulo termina em 1973; não trata da fase pós-Bretton Woods (câmbio flutuante, choques do petróleo).",
+    "Possível objeção (inferência): a ISI e o socialismo dependem de fatores internos próprios; vincular tudo a um 'fim de era' simultâneo pode ocultar diferenças de causa."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "Dilema de Triffin: o sistema exigia que os EUA fornecessem dólares por déficits no balanço de pagamentos e, ao mesmo tempo, mantivessem a conversão em ouro; insustentável no longo prazo. Para Eichengreen (citado nos slides), manter um papel monetário para o ouro foi a falha fatal. Este ponto vem dos slides, não de Frieden.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 17,
+          "quote": "Dilema Triffin dizia respeito à tensão entre a crescente dependência estrangeira"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 19,
+          "quote": "Para Eichengreen, essa era a falha fatal do Bretton Woods"
+        }
+      ]
+    },
+    {
+      "point": "Da escassez ao excesso de dólares: após a guerra faltavam dólares na Europa; com a reconstrução, eurodólares e retomada dos mercados financeiros, surge o excesso (dollar glut) e as reservas de ouro americanas caem.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 30,
+          "quote": "Logo após o fim da guerra – escassez de dólares no mundo. Por que?"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 33,
+          "quote": "Surgiram novos instrumentos financeiros, como eurodólares, fundos offshore, e mecanismos de evasão aos controles;"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 40,
+          "quote": "1959-1960 - pela primeira vez há déficit na balança de pagamento norte-americana"
+        }
+      ]
+    },
+    {
+      "point": "Inflação americana mais alta com câmbio nominal fixo gera valorização real do dólar, perda de competitividade e mais pressão sobre o ouro (alinhado com Frieden).",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 42,
+          "quote": "Dólar se valoriza em termos reais e se torna menos competitivo em relação às outras moedas"
+        }
+      ]
+    },
+    {
+      "point": "Tentativas de salvar o sistema: Gold Pool (1961), imposto de equalização das taxas de juros (1963) e Direitos Especiais de Saque (1968); falharam por não atacar a emissão excessiva de dólares, e os SDRs vieram tarde e com menos aceitação.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 44,
+          "quote": "EUA e aliados criam o Gold Pool (1961)"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 45,
+          "quote": "Interest Rate Equalization Tax (1963)"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 46,
+          "quote": "Special Drawing Rights (SDRs) (1968)"
+        }
+      ]
+    },
+    {
+      "point": "Cronologia do fim: desvalorização da libra (1967), colapso do Gold Pool (1968) com sistema de dois níveis e ouro livre a até US$120, suspensão da conversibilidade por Nixon em 1971.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 47,
+          "quote": "Em 1967 - a desvalorização da libra esterlina"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 47,
+          "quote": "O Gold Pool entrou em colapso em 1968"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 47,
+          "quote": "Em 1971 Nixon suspende a conversibilidade do dólar e o sistema colapsa."
+        }
+      ]
+    },
+    {
+      "point": "Os slides resumem Frieden: a única salvação seria austeridade ou juros muito maiores, e o sistema colapsou por razões políticas, pois governos precisariam sacrificar metas nacionais pela moeda.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 48,
+          "quote": "BW colapsa por razões políticas"
+        }
+      ]
+    },
+    {
+      "point": "Após 1971-73 o ouro perdeu o papel residual; em 1978 foi eliminado de vez, mas o dólar continuou como âncora e reserva e o FMI passou a supervisionar um 'sistema estável de taxas de câmbio'.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 49,
+          "quote": "O papel monetário internacional do ouro foi eliminado definitivamente em 1978"
+        }
+      ]
+    },
+    {
+      "point": "Questões do professor aplicáveis: por que o déficit comercial dos EUA elevava reservas de dólares no resto do mundo e como isso afetava Bretton Woods no longo prazo; por que os arquitetos mantiveram o ouro; por que o plano de Keynes mitigaria os problemas; por que o ouro passou de US$35 em Londres.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que o déficit comercial dos EUA levava ao aumento de reserva de dólares do resto do sistema?"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que os arquitetos do Bretton Woods cometeram o pecado mortal de manter um papel monetário para o ouro?"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "O capítulo não contém figuras ou tabelas na extração; todos os dados estão no texto corrido. Não há figuras a consultar (páginas 1 a 26)."
+  ]
+}

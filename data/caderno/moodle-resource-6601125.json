@@ -1,0 +1,992 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6601125",
+  "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+  "lessons": [
+    18,
+    19
+  ],
+  "authors": [
+    "Christopher M. Meissner"
+  ],
+  "title": "The Bretton Woods System (cap. 12 de One from the Many)",
+  "year": 2024,
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Meissner, o sistema de Bretton Woods (câmbio fixo ajustável em torno do dólar, controles de capital e FMI) era inviável no longo prazo: nem deficitários, nem superavitários, nem os EUA aceitaram o custo do ajuste, e o fim dos controles de capital tornou o regime insustentável. O dilema de Triffin é uma explicação plausível, mas o autor não o trata como a causa necessária do colapso, que veio com a suspensão da conversibilidade do dólar em 15/8/1971.",
+  "question": "Como o sistema de Bretton Woods foi desenhado, como funcionou na prática e por que entrou em colapso em 1971-1973?",
+  "argument": [
+    {
+      "claim": "O desenho de 1944 buscou conciliar integração internacional e autonomia de política, evitar fluxos de capital desestabilizadores e desvalorizações competitivas, e dividir o peso do ajuste com os países superávitários, em linha com o keynesianismo de pleno emprego.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 1,
+          "quote": "Second, there was a desire to avoid the destabilizing capital"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 1,
+          "quote": "by the 1940s, it was now widely understood that the burden of adjustment"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 1,
+          "quote": "policymakers sought to encourage surplus countries to share"
+        }
+      ]
+    },
+    {
+      "claim": "O compromisso refletiu a disputa EUA x Reino Unido: o autor registra duas leituras (compromisso entre os dois ou manobra americana para impor o dólar no lugar da libra e consolidar a hegemonia), sem decidir entre elas.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "Some view the ultimate particulars of the Bretton Woods agreement as"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "Replacing sterling with the dollar as the leading"
+        }
+      ]
+    },
+    {
+      "claim": "Regras centrais: capital controlado (só conversibilidade na conta corrente, apesar da insistência americana em contas de capital abertas); paridades fixas em relação ao dólar, único definido em ouro (US$ 35 a onça); paridade ajustável em caso de 'desequilíbrio fundamental'; FMI com cotas e vigilância.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "Next, a system of fixed exchange rates was reinstated. Exchange rates or"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "when the parity was inviolable, the established parities could be altered in the"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "world would now be based on a dollar standard with each ounce of gold valued at $35."
+        }
+      ]
+    },
+    {
+      "claim": "A proposta britânica de um fundo de até US$ 23 bilhões, financiado pelos superavitários, foi recusada pelos EUA por temor de obrigações ilimitadas; as cotas somaram US$ 8,8 bilhões (EUA 2,7; Reino Unido 1,3), o que limitou a capacidade do FMI de aliviar desequilíbrios.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "The United States refused this"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "original “quotas” or contributions to the IMF totaled $8.8 billion, with the United"
+        }
+      ]
+    },
+    {
+      "claim": "Nos primeiros anos o sistema sofreu tensão: paridades sobrevalorizadas, déficits comerciais persistentes e 'escassez de dólares' levaram a desvalorizações de até 30% (Reino Unido 1949, França 1948, Alemanha 1949) e de dezenas de outros países. Só em meados dos anos 1950 houve estabilização, com crescimento europeu e ajuda americana, e a conversibilidade da conta corrente veio em 1958.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "Britain (1949), France (1948), and Germany (1949) all devalued"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "By the mid-1950s, the situation had stabilized."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "It took until 1958"
+        }
+      ]
+    },
+    {
+      "claim": "Resultado positivo: controles de capital e repressão financeira doméstica quase eliminaram crises bancárias e gêmeas, porque os bancos não podiam se endividar em moeda estrangeira. Mas crises cambiais foram frequentes, mais do que na Grande Depressão ou depois de 1971, quase sempre por déficit comercial persistente, perda de reservas e desvalorização.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "One notable success of the Bretton Woods period was the near elimination"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 5,
+          "quote": "Keeping a lid on foreign"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 5,
+          "quote": "quency of currency crises rose to levels even higher than during the Great"
+        }
+      ]
+    },
+    {
+      "claim": "O ajuste não funcionou: deficitários adiaram a austeridade até a situação de reservas se tornar insustentável e ignoraram o FMI; superavitários rejeitaram os conselhos do Fundo (mais consumo e inflação, perda de competitividade). 'Desequilíbrio fundamental' era conceito mal definido e o FMI não tinha poder de coação, num período em que o emprego interno prevalecia sobre o câmbio.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Bretton Woods System, most deficit countries preferred to delay adjustment."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Surplus nations also disdained advice from the IMF"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "fundamental disequilibrium” was simply not a well-defined term."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "The system was"
+        }
+      ]
+    },
+    {
+      "claim": "O dólar no centro gerou um problema próprio: com a recuperação europeia, as reservas de ouro dos EUA caíram (de cerca de 2/3 do total mundial em 1948 para metade em 1958) e por volta de 1963 os passivos com entidades oficiais estrangeiras superaram o ouro americano. O autor usa a analogia de um banco com reservas fracionárias, em que a credibilidade da promessa de converter dólar em ouro se erode e abre espaço para corrida.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "In 1948, the United States held about"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Around 1963, US liabilities payable to official foreign entities,"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "The Bretton Woods system was analogous to a bank operating on the"
+        }
+      ]
+    },
+    {
+      "claim": "Contestação e remédios falhos nos anos 1960: a França (De Gaulle, Rueff) questionou a conversibilidade e denunciou o 'privilégio exorbitante'; o Gold Pool (1961) durou pouco porque os déficits de EUA e Reino Unido eram persistentes e a França não aceitava ser avalista final; os controles de capital foram corroídos pelo mercado de eurodólares; o imposto de equalização de juros e a ampliação dos DES (SDRs) não resolveram, pois a discórdia franco-americana inviabilizou o aumento dos DES.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 8,
+          "quote": "By the early 1960s, French president Charles De Gaulle, backed by"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "The arrangement"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "Out of the reach of US authorities, this market yielded a (higher)"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "French and American"
+        }
+      ]
+    },
+    {
+      "claim": "Colapso em 1970-71: pressão especulativa sobre o dólar, queixas alemãs de inflação importada, boatos de resgate de ouro por França e Reino Unido, valorização do marco e do florim. Em 15/8/1971 Nixon anunciou, sem consultar aliados ou o FMI, que os EUA deixariam de honrar US$ 35 por onça e propôs sobretaxa de 10% nas importações. O Acordo Smithsonian (1972) fracassou e em 1973 começou o câmbio flutuante.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "German policymakers complained of the imported"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "The long-expected dollar devaluation came on August 15, 1971, a Sunday"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "A futile attempt in 1972 to stabilize exchange"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "A new era of"
+        }
+      ]
+    },
+    {
+      "claim": "Balanço do autor: a visão de que o desenho com uma só moeda-âncora era falho (dilema de Triffin) é 'plausível, mas não necessariamente' a razão da falência. Para ele o sistema era simplesmente inviável: deficitários não fizeram o ajuste, superavitários não aliviaram sua parte e os EUA, guardiões do sistema, não controlaram seus déficits (inflação acelerada após 1965).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Triffin’s views were somewhat plausible, but not necessarily the reason"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Ultimately, the Bretton Woods system was simply unworkable."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Accelerating inflation in the United States"
+        }
+      ]
+    },
+    {
+      "claim": "Fatores estruturais e políticos de fundo: os controles de capital tornaram-se obsoletos e ingovernáveis e os mercados acharam formas mais baratas de proteção cambial; além disso, o sistema repousava num pacto implícito da Guerra Fria (proteção americana contra o bolchevismo em troca de privilégio financeiro e econômico dos EUA). O resultado foi mais integração e muito mais instabilidade, com o dólar ainda dominante.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Capital flows were limited with capital controls"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "The Bretton Woods system also was built upon an implicit compromise"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "but it also involved much greater instability."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Ajuste assimétrico e falta de vontade política: o regime de paridades ajustáveis dependia de os países mudarem política ou paridade a tempo, mas deficitários adiavam a austeridade e superavitários recusavam inflação e consumo maiores; o FMI não tinha força para obrigá-los. Para o autor este é o núcleo da inviabilidade do sistema (problema de economia política, pois o emprego interno vinha antes do câmbio).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Associated austerity was postponed for as long as possible until the reserve"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Without the political will to adjust, the Bretton Woods system was unable to"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Exchange"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Os EUA, custodiantes do sistema, não conteram seus déficits e a inflação pós-1965 foi 'a gota final'; o autor afirma que os EUA também evitaram as restrições do acordo. Há ainda o conflito distributivo em torno do 'privilégio exorbitante' (França) e da inflação importada (Alemanha).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "States, failed to rein in its deficits. Accelerating inflation in the United States"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "The United States clearly also"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 8,
+          "quote": "America’s exorbitant privilege."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Erosão dos controles de capital: multinacionais abriram depósitos em dólares fora dos EUA (eurodólares), o ouro tinha preço de mercado superior ao oficial e agentes especularam contra o dólar, passando para moedas mais seguras como o marco. É o canal pelo qual os déficits americanos viraram pressão sobre o ouro e a paridade de US$ 35.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "As time passed, the capital controls that gave nations some breathing"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "Agents attempted to speculate on the dollar by withdrawing their funds"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Capital flows were limited with capital controls"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Dilema de Triffin (explicação de desenho, apresentada como plausível mas não necessariamente decisiva): a oferta de dólares determina a liquidez mundial; se não cresce junto com a economia há deflação e desemprego, se cresce compromete a conversão em ouro, cuja quantidade é praticamente fixa.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Under Bretton Woods, the supply of US dollars"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "the amount of gold was"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Controles de capital mais repressão financeira como proteção contra crises: impedem endividamento externo dos bancos e posições externas líquidas muito negativas, e por isso quase eliminam crises bancárias e gêmeas no período (efeito protetor, não causa do colapso).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 5,
+          "quote": "nor did nations build up massive negative net international investment"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "mostly eliminated the problem of twin banking and"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Reino Unido",
+      "period": "1949; anos 1960",
+      "outcome": "Desvalorizou a libra em 1949 por déficits comerciais e 'escassez de dólares'; manteve câmbios múltiplos; no Gold Pool, seus déficits persistentes reduziram a confiança dos parceiros. Na negociação de 1944 propôs um fundo maior, recusado pelos EUA.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "Britain (1949), France (1948), and Germany (1949) all devalued"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "United Kingdom and many other countries persisted in maintaining multiple exchange rates,"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "did not last very long, since British and American deficits were persistent,"
+        }
+      ]
+    },
+    {
+      "name": "França",
+      "period": "1948; 1958-59; anos 1960",
+      "outcome": "Desvalorizou em 1948 e em 1958-59; nos anos 1960, com De Gaulle e Rueff, passou a contestar o sistema baseado no dólar e o 'privilégio exorbitante' e recusou-se a assumir passivos de devedores seriais no Gold Pool; barrou os DES sem aperto fiscal americano; em 1971 circulavam boatos de que pediria o resgate de ouro.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "France’s devaluation in 1958-1959"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 8,
+          "quote": "began to openly question the"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "The French would not assume ultimate"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "The French wanted the United States to"
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "period": "1949; 1970-71",
+      "outcome": "Desvalorizou em 1949 em fase de déficit; depois, já superavitária, queixou-se da inflação importada via paridade com o dólar, e o marco se valorizou com força em 1971.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "Britain (1949), France (1948), and Germany (1949) all devalued"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "German policymakers complained of the imported"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "The German mark"
+        }
+      ]
+    },
+    {
+      "name": "Europa Ocidental (conjunto)",
+      "period": "fim dos anos 1940 a 1958",
+      "outcome": "Passou de déficit para superávit com crescimento forte, Plano Marshall, UEP e alívio da dívida alemã; declarou conversibilidade da conta corrente em 1958.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "Strong economic growth"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "European economies moved from deficit to surplus."
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "period": "1945-1971",
+      "outcome": "Passaram de grande credor líquido, com ouro abundante, a emissor de déficits persistentes; passivos superaram o ouro por volta de 1963; tentaram medidas (promoção de exportações, regulação do ouro privado, Gold Pool, imposto de equalização), e em 15/8/1971 Nixon suspendeu o preço oficial do ouro.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Although the United States began the post-War period as"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "The US government provided incentives to keep dollar deposits onshore by taxing"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "President Nixon told a press conference that the United States"
+        }
+      ]
+    },
+    {
+      "name": "Gold Pool",
+      "period": "1961 em diante",
+      "outcome": "Arranjo de reservas em ouro de curto prazo entre grandes países para proteger paridades; durou pouco porque os déficits eram estruturais e a França não aceitou ser a garantidora final.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "In order to"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "This was a reserve pooling arrangement that would lend"
+        }
+      ]
+    },
+    {
+      "name": "Acordo Smithsonian",
+      "period": "1972-1973",
+      "outcome": "Tentativa de restabelecer câmbios fixos após a quebra de 1971; fracassou rapidamente e abriu caminho ao câmbio flutuante em 1973. Países europeus só voltariam a atrelar moedas entre si no início dos anos 1980.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "A futile attempt in 1972 to stabilize exchange"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "countries would eventually manage to re-peg their exchange rates with each"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Adjustable peg (paridade ajustável)",
+      "definition": "Câmbio fixo em relação ao dólar, mas com paridade alterável em caso de 'desequilíbrio fundamental'; em princípio dava mais autonomia à política monetária e fiscal que o padrão-ouro clássico, de paridade inviolável.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "when the parity was inviolable, the established parities could be altered in the"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "The adjustable peg allowed, in"
+        }
+      ]
+    },
+    {
+      "term": "Desequilíbrio fundamental",
+      "definition": "Condição que justificaria mudar a paridade; segundo o autor, não tinha limiar ou medida precisa nem era definível do mesmo modo para todos os países.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "fundamental disequilibrium” was simply not a well-defined term."
+        }
+      ]
+    },
+    {
+      "term": "Conversibilidade da conta corrente",
+      "definition": "Liberdade de trocar moeda para transações de bens e serviços, com investimentos estrangeiros estritamente controlados; foi o que os delegados aprovaram, ao invés da conversibilidade plena pedida pelos EUA.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "account convertibility only. This means that trading foreign currency and"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "Myriad forms of capital controls existed"
+        }
+      ]
+    },
+    {
+      "term": "Especulação desestabilizadora",
+      "definition": "Aposta de que uma moeda que cai em relação à paridade continuará caindo, reforçando a tendência; no pré-1914 a especulação era estabilizadora (apostava-se no retorno à paridade). Os controles de capital deveriam limitar a primeira.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "De-stabilizing speculation would entail a bet that a currency"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 2,
+          "quote": "This stabilized exchange rates, since deviations from parity"
+        }
+      ]
+    },
+    {
+      "term": "Direitos de saque e DES (SDRs)",
+      "definition": "Os recursos das cotas do FMI serviam de colchão de reservas e o Fundo podia emprestar a membros em dificuldade ('drawing rights'); a ampliação dos DES, discutida nos anos 1960, foi bloqueada por desacordo franco-americano.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "The IMF could now"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "These funds came to be called"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "enlarging the special drawing rights (SDRs) that the IMF could deploy to"
+        }
+      ]
+    },
+    {
+      "term": "Escassez de dólares",
+      "definition": "Falta de dólares na Europa do pós-guerra que, junto com paridades sobrevalorizadas e déficits comerciais persistentes, levou às desvalorizações de 1948-49.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "pressures associated"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "with their persistent trade deficits and the “dollar shortage”"
+        }
+      ]
+    },
+    {
+      "term": "Privilégio exorbitante",
+      "definition": "Expressão francesa para a suposta vantagem dos EUA, cujos credores precisavam acumular dólares como lastro de suas moedas, permitindo-lhes tomar emprestado barato e, em tese, reemprestar a juros mais altos.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 8,
+          "quote": "America’s exorbitant privilege."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 8,
+          "quote": "This privilege allegedly allowed the United States to borrow from the rest of the world at very low interest rates"
+        }
+      ]
+    },
+    {
+      "term": "Dilema de Triffin",
+      "definition": "Impasse entre prover dólares suficientes para a liquidez mundial e manter a conversão em ouro, de oferta quase fixa; segundo Meissner, sem solução prática dados os objetivos de 1944.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Robert Triffin famously identified a problem that has come to be"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "No practical solution was available given the policy objectives"
+        }
+      ]
+    },
+    {
+      "term": "Expenditure switching e expenditure shifts",
+      "definition": "Os dois tipos de mudança de gasto e composição necessários a um ajuste suave do balanço de pagamentos, que o sistema não conseguiu induzir sem vontade política.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Without the political will to adjust, the Bretton Woods system was unable to"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "provide either the expenditure switching or the expenditure shifts needed"
+        }
+      ]
+    },
+    {
+      "term": "Crise gêmea",
+      "definition": "Crise cambial e crise bancária ocorrendo com até um ano de diferença; praticamente ausente no período de Bretton Woods.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "A twin crisis occurs when a currency crisis and a banking crisis occur within one"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Conferência de 1944 em Bretton Woods, com delegados de 44 países aliados; o FMI existiu formalmente em dezembro de 1945; ouro a US$ 35 a onça.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 1,
+          "quote": "Delegates from forty-four allied countries were"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "The IMF formally came into existence in December 1945."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "world would now be based on a dollar standard with each ounce of gold valued at $35."
+        }
+      ]
+    },
+    {
+      "fact": "Cotas originais do FMI: US$ 8,8 bilhões (EUA 2,7; Reino Unido 1,3), contra a proposta britânica de até US$ 23 bilhões.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 3,
+          "quote": "original “quotas” or contributions to the IMF totaled $8.8 billion, with the United"
+        }
+      ]
+    },
+    {
+      "fact": "Desvalorizações de até 30% por Reino Unido (1949), França (1948) e Alemanha (1949); dezenas de outros países ajustaram suas paridades.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "Britain (1949), France (1948), and Germany (1949) all devalued"
+        }
+      ]
+    },
+    {
+      "fact": "Parcela do ouro mundial em poder dos EUA: cerca de 2/3 em 1948 e metade em 1958.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "2/3 of world gold reserves, but by 1958 it held only one-half."
+        }
+      ]
+    },
+    {
+      "fact": "As moedas líderes declararam conversibilidade da conta corrente só em 1958; Reino Unido e outros mantiveram câmbios múltiplos.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "It took until 1958"
+        }
+      ]
+    },
+    {
+      "fact": "Frequência de crises cambiais em 1945-1971 maior do que na Grande Depressão ou após 1971; crises bancárias e gêmeas quase ausentes (Figura 12.2).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 5,
+          "quote": "quency of currency crises rose to levels even higher than during the Great"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "One notable success of the Bretton Woods period was the near elimination"
+        }
+      ]
+    },
+    {
+      "fact": "Passivos americanos com entidades oficiais estrangeiras superaram o ouro dos EUA por volta de 1963; a razão ouro/passivos externos declinou ao longo do tempo (Figura 12.3).",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Around 1963, US liabilities payable to official foreign entities,"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "over time the ratio of US gold reserves to US external liabilities was"
+        }
+      ]
+    },
+    {
+      "fact": "Gold Pool criado em 1961; imposto de equalização de juros; discussão dos DES travada por EUA e França.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "Gold Pool arose in 1961."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "interest equalization tax.”"
+        }
+      ]
+    },
+    {
+      "fact": "Em 15 de agosto de 1971 Nixon suspendeu o preço de US$ 35 e propôs sobretaxa de 10% sobre importações; Connally: 'o dólar é nossa moeda, mas o problema é de vocês'.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "would no longer honor the official price of $35 per ounce of gold. Rather"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 9,
+          "quote": "“The US dollar is our currency, but it is your problem.”"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1973 já vigorava o câmbio flutuante; o dólar nunca mais foi conversível em ouro.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "“floating” exchange rates had commenced by 1973."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "never again to be made convertible"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Inferência minha: o autor relata duas leituras para o acordo (compromisso EUA-Reino Unido ou manobra americana pela hegemonia) sem se posicionar; na prova, apresente as duas e não atribua uma delas ao autor.",
+    "Meissner não adota o dilema de Triffin como causa principal ('plausível, mas não necessariamente'); atribuir a ele a tese triffiniana seria erro. A causa que ele destaca é a inviabilidade política do ajuste e a falta de disciplina dos EUA.",
+    "Inferência minha: o texto descreve vários fatores (ajuste, déficits americanos, inflação, fuga de capital, Guerra Fria) sem hierarquia causal rigorosa; ordenar causa x transmissor x economia política é classificação do estudante.",
+    "O capítulo é breve e não detalha os planos Keynes/White (só menciona a proposta britânica de fundo de US$ 23 bilhões); o aprofundamento vem dos slides.",
+    "O autor admite que o quadro de crises (Figura 12.2) é contagem de probabilidades por país-ano, sujeita às bases de dados de Bordo et al. e Laeven e Valencia.",
+    "Objeção possível (inferência minha): as desvalorizações e a conversibilidade de 1958 mostram que o sistema funcionou por mais de uma década, então o juízo de 'inviável' diz respeito ao longo prazo, como o autor qualifica."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "Bretton Woods deveria recuperar o fluxo livre de bens e capitais pré-1914 sem repetir as fraquezas do padrão-ouro, equilibrando integração e política monetária independente, evitando fluxos de capital desestabilizadores e dando estabilidade cambial sem penalizar demais os deficitários.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 7,
+          "quote": "Os arquitetos do sistema de Bretton Woods buscaram criar um sistema financeiro e comercial internacional"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 8,
+          "quote": "MAS deveria evitar replicar as fraquezas e instabilidades do padrão-ouro;"
+        }
+      ]
+    },
+    {
+      "point": "Estrutura: câmbio fixo ajustável (banda de ±1%), dólar lastreado em ouro a US$ 35/onça, conversibilidade da conta corrente e liberdade para restringir a conta de capital (autonomia de política), com FMI e BIRD.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 9,
+          "quote": "Cada moeda seria atrelada ao dólar (podendo flutuar a cotação em +-1%)"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 12,
+          "quote": "2) Obrigação de manter convertibilidade da conta corrente;"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 14,
+          "quote": "3) liberdade para impor restrições nas transações na conta de capital"
+        }
+      ]
+    },
+    {
+      "point": "O ouro como 'pecado original': o papel residual do ouro gerou o Dilema Triffin; para Eichengreen, manter um papel monetário para o ouro foi a falha fatal. Razões da manutenção: símbolo de estabilidade, crença de que o dólar só seria aceito se conversível, e falta de imaginação para um sistema sem âncora metálica.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 16,
+          "quote": "Esse papel residual que o ouro tinha dentro do Bretton Woods levou ao Dilema Triffin"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 19,
+          "quote": "Para Eichengreen, essa era a falha fatal do Bretton Woods"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 21,
+          "quote": "Faltava imaginação para conceber um sistema internacional com estabilidade sem âncora metálica"
+        }
+      ]
+    },
+    {
+      "point": "Por que não câmbio flutuante: nos anos 1940 o consenso associava flutuação a especulação, desvalorizações competitivas e protecionismo; Friedman só nos anos 1950 deu força ao câmbio flutuante pleno.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 22,
+          "quote": "Nos anos 1940, o consenso era que regimes de câmbio flutuante eram um desastre."
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 23,
+          "quote": "Somente com Milton Friedman, nos anos 1950"
+        }
+      ]
+    },
+    {
+      "point": "Planos Keynes x White: Keynes propunha Câmara de Compensações e Bancor, impondo parte do ajuste aos superavitários; White defendeu o dólar conversível em ouro, fundo de US$ 5 bilhões e controles sobre deficitários sem custo aos superavitários; os EUA, mais fortes, impuseram o plano de White.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 26,
+          "quote": "criação do Bancor - uma unidade contábil global"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 27,
+          "quote": "o plano de Keynes impunha parte do ajuste aos países superavitários"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 29,
+          "quote": "Como os EUA tinham a posição mais forte na economia global, impuseram sua proposta"
+        }
+      ]
+    },
+    {
+      "point": "Da falta ao excesso de dólares: escassez no pós-guerra, Plano Marshall, desvalorizações de 1949, UEP e GATT; nos anos 1950 Europa e Japão crescem, e em 1958 declaram conversibilidade; guerras (Vietnã, Coreia) e gastos sociais ampliam déficits, e surge o 'dollar glut'.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 30,
+          "quote": "Logo após o fim da guerra – escassez de dólares no mundo."
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 35,
+          "quote": "Em 1958, os países europeus finalmente declararam conversibilidade"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 40,
+          "quote": "escassez de dólares deu lugar ao excesso de dólares"
+        }
+      ]
+    },
+    {
+      "point": "Colapso: a volta dos mercados financeiros e da especulação tornou o câmbio fixo sem controles insustentável; a inflação americana valorizou o dólar em termos reais; o preço do ouro disparou em Londres; Gold Pool (1961), imposto de equalização (1963) e DES (1968, primeira alocação em 1970, tarde demais) falharam; a libra desvalorizou em 1967, o Gold Pool ruiu em 1968 e Nixon encerrou a conversibilidade em 1971.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 38,
+          "quote": "isso podia levar a crises cambiais, corridas contra o dólar"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 42,
+          "quote": "Dólar se valoriza em termos reais"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 46,
+          "quote": "Primeira alocação de recursos na SDR foi em 1970"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 47,
+          "quote": "Em 1971 Nixon suspende a conversibilidade do dólar e o sistema colapsa."
+        }
+      ]
+    },
+    {
+      "point": "Interpretação política (Frieden): salvar o sistema exigiria austeridade nos EUA ou juros muito altos; o BW colapsa por razões políticas porque governos não aceitaram sacrificar objetivos nacionais pelo câmbio. Depois: ouro eliminado em 1978, mas dólar segue central e FMI supervisiona um 'sistema estável de taxas de câmbio'.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 48,
+          "quote": "BW colapsa por razões políticas"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 48,
+          "quote": "Frieden argumenta que única forma de salvar o sistema"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 49,
+          "quote": "O papel monetário internacional do ouro foi eliminado definitivamente em 1978"
+        }
+      ]
+    },
+    {
+      "point": "Questões do professor: o que foi Bretton Woods; diferenças e similaridades com o padrão-ouro; por que o déficit americano elevava reservas em dólar do resto do sistema e seus efeitos no longo prazo; por que se manteve o ouro; por que o plano Keynes teria mitigado os problemas; por que o ouro passou de US$ 35 em Londres e o que isso implicava.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Quais eram as diferenças e similaridades entre o Bretton Woods e o Padrão Ouro?"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que os arquitetos do Bretton Woods cometeram o pecado mortal de manter um papel monetário para o ouro?"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que a proposta britânica, materializada na ideia do Keynes"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "Página 5, Figura 12.1: taxas de câmbio (moeda local por dólar, 1950=100) de Alemanha, Japão, França e Reino Unido, 1950-1973. A extração perdeu as séries; consultar o original.",
+    "Página 6, Figura 12.2: probabilidade anual de crises cambiais, bancárias, gêmeas e 'qualquer crise' em 1950-1971 (Bretton Woods) e 1971-2011 (flutuação). A extração só traz o eixo; as barras não foram capturadas. Usei apenas o que o texto afirma: crises cambiais mais frequentes em Bretton Woods, bancárias e gêmeas quase ausentes.",
+    "Página 8, Figura 12.3: ouro monetário dos EUA e passivos externos em dólar, 1950-1971 (bilhões de US$); as séries não foram capturadas. O texto afirma que a razão ouro/passivos caiu."
+  ]
+}

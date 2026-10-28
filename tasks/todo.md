@@ -62,8 +62,8 @@
 - Dependências: nenhuma. Arquivos: `scripts/caderno.py`, `tests/caderno/`.
 
 ## 9. Aulas 18–19 (piloto)
-- [ ] Entradas `deep` de Eichengreen cap. 2, Frieden (fim de Bretton Woods) e Meissner cap. 12, com `professor_emphasis` dos slides.
-- [ ] Teste de suficiência com a questão do padrão-ouro.
+- [x] Entradas `deep` de Eichengreen cap. 2, Frieden (fim de Bretton Woods) e Meissner cap. 12, com `professor_emphasis` dos slides.
+- [x] Teste de suficiência com a questão do padrão-ouro. Resultado: as aulas 18–19 cobrem o ouro em Bretton Woods, não na Grande Depressão; a questão de exemplo depende das aulas 11–14.
 - Verificação: `validate` passa nessas entradas; esqueleto da resposta montado só com o caderno. Conferência manual da tese e do argumento.
 - Dependências: 7, 8.
 

@@ -1,0 +1,862 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6601122",
+  "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+  "lessons": [
+    18,
+    19
+  ],
+  "authors": [
+    "Barry Eichengreen"
+  ],
+  "title": "The Monetary Role of Gold as the Original Sin of Bretton Woods",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Eichengreen sustenta que a falha fatal de Bretton Woods foi manter um papel monetário residual para o ouro (conversibilidade do dólar a preço fixo, com ouro e dólar ambos como reservas), o que gerou o Dilema de Triffin e o problema de confiança e acabou derrubando o sistema. Esse papel não era necessário: a experiência posterior a 1971-73 mostra que o resto do arranjo sobreviveu sem ouro, e ele foi mantido por herança histórica, credibilidade/disciplina sobre a moeda-chave e incapacidade de conceber uma âncora alternativa.",
+  "question": "Por que os arquitetos de Bretton Woods mantiveram um papel monetário para o ouro, e que consequências isso teve para a estabilidade e o colapso do sistema?",
+  "argument": [
+    {
+      "claim": "Bretton Woods foi desenhado para evitar as rigidezes e a instabilidade do padrão-ouro do entreguerras (paridades fixas mas ajustáveis, conversibilidade na conta corrente, controles de capital, FMI), mas conservou um papel monetário para o ouro: o autor chama isso de falha fatal e pecado original.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 2,
+          "quote": "designed a system of pegged but adjustable exchange rates"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 2,
+          "quote": "was that it retained a monetary role for gold"
+        }
+      ]
+    },
+    {
+      "claim": "Mecânica do papel residual do ouro: os EUA mantinham reservas em ouro e vendiam ouro a bancos centrais estrangeiros a US$ 35 a onça; os demais podiam guardar reservas em ouro, dólares ou outras moedas. Como a oferta de ouro era inelástica e o preço fixo, o aumento da demanda por reservas foi suprido sobretudo por dólares.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "at the price of $35 an ounce established in 1934 and maintained subsequently."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "supply of gold, provided mainly through mining in"
+        }
+      ]
+    },
+    {
+      "claim": "Consequência: os passivos externos em dólar cresceram em relação ao ouro dos EUA (cruzamento já em 1960), gerando dúvidas sobre a capacidade americana de converter dólares em ouro a US$ 35. Esse é o Dilema de Triffin / problema de confiança, que o autor atribui ao papel residual do ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "The crossover point where the foreign currency obligations of the United"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "Understandably, this excess of foreign dollar holdings over US monetary gold"
+        }
+      ]
+    },
+    {
+      "claim": "O ouro era dispensável: após 1971-73 o ouro deixou de ter papel residual, mas o restante do sistema (paridades ao dólar de países em desenvolvimento, controles de capital, composição das reservas, FMI) mudou pouco, e o arranjo durou mais que o próprio Bretton Woods.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "Convertibility of national currencies like the dollar into gold at a fixed"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "change in the level or composition of the international reserves"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "resemblance to the Bretton Woods system that preceded it"
+        }
+      ]
+    },
+    {
+      "claim": "Os contemporâneos conheciam o problema (Mlynarski em 1929, Nurkse em 1944, Meade, Keynes com o bancor), de modo que a manutenção do ouro não foi ignorância, e o autor busca três explicações: herança histórica, força do vínculo ouro-dólar e falta de conceito alternativo.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "Feliks Mlynarski, a Polish banker and finance ministry official"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "a synthetic reserve unit, dubbed"
+        }
+      ]
+    },
+    {
+      "claim": "Explicação 1 (história): o sistema monetário sempre fora organizado em torno de metais preciosos, o que criou a presunção de que, uma vez com papel para o ouro, sempre com papel para o ouro. O autor ressalva que dizer que sempre foi assim é exagero: o padrão-ouro clássico foi curto, limitado e peculiar, e a prata dominou boa parte do século XIX.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "a role for gold, always a role for gold. This history made it hard for even"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 7,
+          "quote": "prior to 1914 was in fact short in life,"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 7,
+          "quote": "Silver and not gold was the dominant commodity money used in financial"
+        }
+      ]
+    },
+    {
+      "claim": "Explicação 2 (dólar e EUA): os EUA tinham as maiores reservas de ouro e Roosevelt fixou o preço em US$ 35 em 1934; o dólar conversível virou o ponto de referência dos anos 1930. Acreditava-se, de forma incorreta segundo o autor, que a aceitação do dólar como reserva dependia desse vínculo. Esse vínculo também restringia a política monetária americana, o que legisladores e estrangeiros viam com bons olhos.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "the largest gold reserves of any country"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "albeit incorrect, as subsequent events would reveal"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "placed limits on the discretionary conduct of US monetary policy"
+        }
+      ]
+    },
+    {
+      "claim": "Explicação 3 (a mais importante, segundo o autor): falta de capacidade de conceber uma alternativa. No problema do enésimo país, o país maior deixa a moeda flutuar, mas precisa de outra âncora nominal (hoje, a meta de inflação). Isso não era bem compreendido em 1944; sem poder ancorar o dólar em outras moedas, só restava âncora-lo no ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "that in a system of n countries only n-1 of them"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "But inflation targeting as a concept was not well understood in 1944."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "History suggested that if the currency of the nth country"
+        }
+      ]
+    },
+    {
+      "claim": "Antecedentes no padrão-ouro: reservas em divisas cresceram antes de 1914 e, depois da Primeira Guerra, o padrão ouro-câmbio dos anos 1920 (Genoa, 1922) apoiou-se em Londres e Nova York como centros, com os demais países mantendo ouro mais divisas; a razão divisas/ouro subiu a 58% em 1929. Para o autor, partes do desenho de Bretton Woods já existiam quinze anos antes.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 8,
+          "quote": "Lindert estimates that the ratio of monetary reserves held in foreign exchange"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 8,
+          "quote": "whose central banks would hold their reserves entirely in gold, while other"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "In a sense, some of the outlines of Bretton Woods"
+        }
+      ]
+    },
+    {
+      "claim": "Nos anos 1930 havia arranjos de estabilidade cambial sem papel central para o ouro (área da libra com a Exchange Equalisation Account; Acordo Tripartite de 1936), o que mostra que alternativas existiam na prática. O autor pergunta por que não foram consideradas em Bretton Woods e sugere que a resposta está no papel do ouro nos EUA.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "In the course of the 1930s a growing number of countries had moved off"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "advocates of a return to a gold standard of the pre-1932 variety"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "This, then, was another arrangement designed to stabilize exchange rates"
+        }
+      ]
+    },
+    {
+      "claim": "Nos planos para o pós-guerra, nem Keynes nem White eliminaram o papel do ouro; ele servia para atrair países como a França, disciplinar o país da moeda-chave e dar credibilidade. Até críticos e alternativas (Williams, Triffin, Harrod, Graham) permaneceram presos ao ouro ou não articularam substituto coerente, o que o autor toma como evidência do peso da história.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "eliminated the international monetary role of gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "in order to enlist the support of countries like France"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "It was a way of imposing discipline on the key currency country at"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 13,
+          "quote": "of the influence of the historical role of gold in shaping and limiting the"
+        }
+      ]
+    },
+    {
+      "claim": "Desfecho: da escassez de dólares (anos 1940-50) passou-se ao excesso (anos 1960); a corrida ao ouro de 1960, o Gold Pool (1961), o imposto de 1963 e os SDRs apenas adiaram o problema; a desvalorização da libra (1967) derrubou o Pool (1968), criou-se o mercado de dois níveis e, em agosto de 1971, Nixon suspendeu a conversibilidade, encerrando o sistema ouro-dólar. O autor conclui que o sistema era frágil e que o papel do ouro foi fonte central dessa fragilidade.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "This agreement was then formalized as the Gold Pool in November 1961."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "devaluation, the Gold Pool hemorrhaged gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "A leading source of this fragility was the monetary role of gold."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "Predictably this gave rise to what was variously called the Triffin"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Dilema de Triffin / problema de confiança: com ouro e dólar ambos como reservas e conversibilidade a preço fixo, a demanda crescente por reservas é atendida por dólares (oferta de ouro inelástica), os passivos em dólar superam o ouro dos EUA e surgem dúvidas sobre a conversão a US$ 35. Na leitura do autor, o ouro é a causa do desenho instável (e, portanto, do colapso) de Bretton Woods.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "Predictably this gave rise to what was variously called the Triffin"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Corrida a conversão: governos e investidores privados tinham incentivo a converter dólares em ouro (corrida de 1960, preço de US$ 40 em Londres, conversões contínuas fora do Gold Pool, conversões em 1970), de modo que o regime de conversibilidade transmitia desconfiança em perdas efetivas de ouro dos EUA. Interpretação do resumo: aqui o ouro funciona como canal de transmissão da crise de confiança, além de causa estrutural.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "market price of gold in London up to $40, significantly above the"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "replenishing their gold stocks outside the pool"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "into gold for official foreign holders in August 1971"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Função de disciplina e credibilidade: o ouro foi mantido para atrair países com experiência ruim sem âncora (França), para disciplinar o país da moeda-chave e dar confiança ao novo regime. No lado americano, o vínculo limitava a política monetária expansionista e o Congresso preferia restringir a discricionariedade do Executivo (Thomas Amendment, Gold Standard Act de 1934).",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "It was a way of imposing discipline on the key currency country at"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "US legislators, by passing the Thomas"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "the new system. It was seen as disciplining the policies of countries, like the"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Dependência de trajetória e limite conceitual: a história monetária baseada em metais e a ausência do conceito de âncora nominal alternativa (meta de inflação) fizeram de um papel para o ouro a única opção pensável para ancorar a moeda do enésimo país, mesmo para quem criticava o ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "a role for gold, always a role for gold. This history made it hard for even"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "History suggested that if the currency of the nth country"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Falha da ação coletiva nos remendos: o Gold Pool tentava defender o ouro dos EUA, mas seus membros repunham ouro fora do Pool convertendo dólares no Tesouro americano, anulando o esforço. Medidas ad hoc (imposto de 1963, pressão sobre aliados, SDRs tardios) atrasaram, sem resolver as contradições.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "What the left hand gave, the right hand"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "Special Drawing Rights, was reached in 1968 but activated"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Padrão-ouro clássico e padrão ouro-câmbio dos anos 1920 (Genoa 1922; Londres e Nova York como centros)",
+      "period": "1870-1913; 1920s",
+      "outcome": "O autor mostra que o regime clássico foi curto e limitado (prata dominante até os anos 1870, China na prata) e que reservas em divisas cresceram (de cerca de 10% para 17% da razão divisas/ouro em 1913 e 58% em 1929, segundo Lindert e Nurkse). O sistema dos anos 1920 prefigura Bretton Woods. O texto não analisa a Grande Depressão nem a propagação da crise via ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 7,
+          "quote": "prior to 1914 was in fact short in life,"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 8,
+          "quote": "Lindert estimates that the ratio of monetary reserves held in foreign exchange"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "In a sense, some of the outlines of Bretton Woods"
+        }
+      ]
+    },
+    {
+      "name": "Área da libra esterlina e Exchange Equalisation Account (Reino Unido)",
+      "period": "a partir de 1932",
+      "outcome": "Reino Unido deixou de gerir a moeda com referência ao ouro e passou a estabiliza-la contra o dólar; os demais membros estabilizaram contra a libra. Houve ampla aceitação e poucos defensores de voltar ao ouro; exemplo de arranjo com papel mínimo para o ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "Starting in 1932, with the establishment of the Exchange Equalisation Account (EEA),"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "advocates of a return to a gold standard of the pre-1932 variety"
+        }
+      ]
+    },
+    {
+      "name": "Acordo Tripartite (França, Reino Unido, EUA)",
+      "period": "1936",
+      "outcome": "A França, ainda no ouro e com câmbio cada vez mais sobrevalorizado, buscou desvalorizar com respaldo internacional; EUA e Reino Unido, vendo o câmbio como subordinado a estabilidade interna de preços, aceitaram apenas três declarações separadas, sem compromisso formal; reconheceu-se implicitamente as novas taxas. Mais um arranjo de estabilização sem ouro central.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "on the gold standard and suffering from an increasingly overvalued exchange"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "saw the exchange rate as subordinate to domestic price stability and"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "statements implicitly recognized the newly established exchange rates of 105"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos e o preço do ouro (saída do padrão-ouro e retorno a US$ 35)",
+      "period": "1933-1934, e anos 1930",
+      "outcome": "Roosevelt tirou o dólar do ouro em março de 1933, elevou o preço de US$ 20,67 para US$ 35 e o fixou em janeiro de 1934; o Tesouro esterilizou entradas de ouro quando indesejadas. O dólar conversível a esse preço virou âncora do sistema na segunda metade dos anos 1930.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "price of gold up from $20.67 to $35 an ounce"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "sterilized gold inflows"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "substantial gold inflows in the second half of the 1930s"
+        }
+      ]
+    },
+    {
+      "name": "França e as preferências por ouro",
+      "period": "anos 1920; Bretton Woods",
+      "outcome": "A experiência francesa com um sistema sem âncora de ouro na primeira metade dos anos 1920 foi ruim, e por isso o papel do ouro em Bretton Woods serviu para obter sua adesão; a França preferia manter reservas em ouro mesmo sob Bretton Woods.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "in order to enlist the support of countries like France"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "with a system not anchored by gold in the first half of the 1920s had been"
+        }
+      ]
+    },
+    {
+      "name": "Planos de Keynes, White, Williams, Triffin, Harrod e Graham",
+      "period": "1930s-1947",
+      "outcome": "Nenhum eliminou o papel do ouro: Keynes (bancor fixo em ouro, ainda que não inteiramente), White (ouro como melhor meio de troca internacional; metade da contribuição ao FMI em ouro), Williams (ouro como âncora das moedas-chave), Harrod (elevar periodicamente o preço do ouro, solução duvidosa por criar aposta unilateral), Graham (cesta de commodities, generalização do padrão ouro-câmbio, com custo de estocagem). Triffin só articulou o SDR nos anos 1960.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "fixed (but not unalterably) in terms of gold and accepted"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 13,
+          "quote": "Gold was still relevant"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 13,
+          "quote": "proposed periodically raising the price of gold in order to restore an"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 14,
+          "quote": "currencies, but rather to replace gold with a basket of commodities, not just gold"
+        }
+      ]
+    },
+    {
+      "name": "Do dólar escasso ao dólar em excesso; corrida ao ouro e Gold Pool",
+      "period": "1945-1961",
+      "outcome": "Após a guerra havia grave escassez de dólares; o ouro dos EUA subiu e depois caiu nos anos 1950 e mais rápido nos 1960. Em 1960, o preço livre em Londres foi a US$ 40; o Gold Pool (nov. 1961, oito bancos centrais) tentou manter US$ 35, mas foi neutralizado pelas conversões fora do Pool.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 14,
+          "quote": "In the aftermath of World War II the dollar shortage was acute, reflecting"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 14,
+          "quote": "American gold holdings then began falling more rapidly in the 1960s, as"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "Eight central banks, including the Federal Reserve, committed to buying and"
+        }
+      ]
+    },
+    {
+      "name": "Colapso do sistema ouro-dólar (libra 1967, fim do Pool 1968, Nixon 1971)",
+      "period": "1963-1971",
+      "outcome": "Imposto de equalização de juros (1963), SDRs acordados em 1968 e ativados em 1970 (tarde), desvalorização da libra no fim de 1967, colapso do Gold Pool em 1968, mercado de dois níveis, conversões crescentes em 1970, suspensão da conversibilidade por Nixon em agosto de 1971 e Acordo Smithsonian em dezembro de 1971.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "the Interest Rate Equalization Tax of 1963, for example, which was"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "devaluation of the pound sterling"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "while now allowing the market price of gold to"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "sonian Agreement in December 1971"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pecado original de Bretton Woods",
+      "definition": "Reter um papel monetário para o ouro (paridades em ouro ou dólar e conversibilidade do dólar em ouro a US$ 35), embora fosse dispensável.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 2,
+          "quote": "was that it retained a monetary role for gold"
+        }
+      ]
+    },
+    {
+      "term": "Dilema de Triffin",
+      "definition": "Tensão entre os passivos externos crescentes do país de moeda de reserva e seu estoque limitado de ouro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+        }
+      ]
+    },
+    {
+      "term": "Problema de confiança (Machlup)",
+      "definition": "Dúvida sobre a capacidade dos EUA de converter dólares em ouro a preço fixo, devido ao excesso de dólares em mãos estrangeiras sobre o ouro monetário americano.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "Understandably, this excess of foreign dollar holdings over US monetary gold"
+        }
+      ]
+    },
+    {
+      "term": "Padrão ouro-câmbio (gold-exchange standard)",
+      "definition": "Sistema em que ouro e uma ou mais moedas nacionais líderes cumprem funções de unidade de conta, meio de pagamento e reserva de valor internacionais; reservas em divisas rendem juros.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 8,
+          "quote": "We can thus see in this period the emergence of a"
+        }
+      ]
+    },
+    {
+      "term": "Problema do enésimo país (nth-country)",
+      "definition": "Em um sistema de n países só n-1 podem administrar seu câmbio; o enésimo (o maior) pode flutuar se tiver outra âncora nominal, como a meta de inflação.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 6,
+          "quote": "that in a system of n countries only n-1 of them"
+        }
+      ]
+    },
+    {
+      "term": "Área da libra / Exchange Equalisation Account",
+      "definition": "Arranjo em que o Reino Unido e membros da Commonwealth e parceiros comerciais estabilizavam as moedas contra a libra, sem referência ao ouro, com o EEA do Tesouro britânico intervindo no câmbio.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "Starting in 1932, with the establishment of the Exchange Equalisation Account (EEA),"
+        }
+      ]
+    },
+    {
+      "term": "Bancor",
+      "definition": "Unidade de reserva sintética proposta por Keynes (International Clearing Union) para complementar e substituir dólares e ouro; mesmo assim fixa em termos de ouro no texto da proposta britânica.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 5,
+          "quote": "a synthetic reserve unit, dubbed"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "fixed (but not unalterably) in terms of gold and accepted"
+        }
+      ]
+    },
+    {
+      "term": "Gold Pool e mercado de dois níveis",
+      "definition": "Pool (1961) de bancos centrais para defender o preço oficial de US$ 35 em Londres; após seu colapso (1968), autoridades transacionavam entre si ao preço oficial e o preço de mercado flutuava.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "This agreement was then formalized as the Gold Pool in November 1961."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "while now allowing the market price of gold to"
+        }
+      ]
+    },
+    {
+      "term": "Special Drawing Rights (SDR)",
+      "definition": "Ativo de reserva internacional do FMI, no espírito do bancor, acordado em 1968 e ativado em 1970 para dar alternativa a acumulação de dólares.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "Special Drawing Rights, was reached in 1968 but activated"
+        }
+      ]
+    },
+    {
+      "term": "Segunda Emenda ao FMI (1978)",
+      "definition": "Eliminou oficialmente a função do ouro como numerário das paridades e base de avaliação do SDR, e mudou o mandato do FMI para um sistema estável de taxas de câmbio.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 18,
+          "quote": "5. The Second Amendment changed the role of gold"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Preço oficial do ouro de US$ 35 por onça, estabelecido em 1934 e mantido; paridades em dólar ou ouro com margem de 1%.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "at the price of $35 an ounce established in 1934 and maintained subsequently."
+        }
+      ]
+    },
+    {
+      "fact": "Razão entre divisas e ouro nas reservas monetárias: cerca de 10% em 1880 e 1890, 17% em 1913, 58% em 1929.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 8,
+          "quote": "Lindert estimates that the ratio of monetary reserves held in foreign exchange"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 9,
+          "quote": "In a sense, some of the outlines of Bretton Woods"
+        }
+      ]
+    },
+    {
+      "fact": "Os passivos externos em dólar dos EUA passaram o ouro americano em 1960; a medida restrita aos passivos perante autoridades monetárias cruzou em 1964 (nota 3).",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "The crossover point where the foreign currency obligations of the United"
+        }
+      ]
+    },
+    {
+      "fact": "O preço do ouro em Londres mal divergiu de US$ 35 até março de 1968, quando as autoridades passaram a transacionar só entre si; o preço real do ouro caiu ao longo do período (nota 2).",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "the real price of gold fell steadily over the Bretton Woods period"
+        }
+      ]
+    },
+    {
+      "fact": "Corrida ao ouro de 1960 levou o preço livre de Londres a US$ 40, acima do preço oficial, ao temor de conversões em massa e ao Gold Pool.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "market price of gold in London up to $40, significantly above the"
+        }
+      ]
+    },
+    {
+      "fact": "Bretton Woods durou no máximo cerca de 25 anos, ou pouco mais da metade disso se contada a partir da conversibilidade na conta corrente em 1958, e sobreviveu a 1971 só com medidas ad hoc não previstas pelos fundadores.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "It survived through 1971 only with"
+        }
+      ]
+    },
+    {
+      "fact": "Depois de 1971 o nível de reservas mudou pouco, o dólar seguiu como centro e controles de capital permaneceram.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "The level of reserves was not"
+        }
+      ]
+    },
+    {
+      "fact": "Tripartite: as taxas implicitamente aceitas foram de 105 francos e US$ 5 por libra, sem números nos textos (nota 23: apenas consulta e cooperação).",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 10,
+          "quote": "statements implicitly recognized the newly established exchange rates of 105"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Inferência do resumo: o capítulo trata do papel do ouro em Bretton Woods (pós-1944), não da Grande Depressão. Seu material sobre o padrão-ouro (1870-1913, anos 1920) e a saída do ouro nos anos 1930 é contextual; o texto não compara países que abandonaram o ouro cedo e tarde nem avalia o ouro como causa ou transmissor da Depressão. Para a pergunta de prova sobre a Depressão, só da para usar o texto como apoio indireto (arranjos sem ouro nos anos 1930 e o peso do ouro nas mentalidades).",
+    "O argumento contrafactual central (o ouro era dispensável) apoia-se na experiência posterior a 1971-73; o próprio autor admite que o pós-Bretton Woods pode não ser perfeito e não detalha seus defeitos.",
+    "Possível objeção (inferência do resumo): as demais explicações (credibilidade, disciplina, adesão da França) sugerem que o ouro tinha função política real na época; o autor as trata como equivocadas ou insuficientes ex post, não como irracionais.",
+    "O autor ressalva que a ideia de que o sistema sempre fora organizado em torno do ouro é exagero, o que limita a explicação histórica que ele mesmo oferece.",
+    "A solução de Harrod (elevar o preço do ouro) é criticada pelo autor por criar aposta unilateral; o autor também aponta custos práticos na proposta de Graham (cesta de commodities).",
+    "O texto afirma, sem desenvolver, que o Gold Pool e outras medidas apenas adiaram o problema; a magnitude de cada medida não é quantificada no capítulo."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "O ouro como pecado original de Bretton Woods: para Eichengreen, o papel monetário do ouro era a falha fatal; os EUA precisavam ser deficitários para prover dólares e ao mesmo tempo manter a conversão em ouro, o que era insustentável.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 19,
+          "quote": "Para Eichengreen, essa era a falha fatal do Bretton Woods"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 17,
+          "quote": "O problema do ouro - Dilema Triffin"
+        }
+      ]
+    },
+    {
+      "point": "Três razões para manter o ouro: símbolo tradicional de estabilidade, forte vínculo ouro-dólar (crença de que o dólar só seria aceito se conversível) e falta de imaginação para conceber estabilidade cambial sem âncora metálica.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 21,
+          "quote": "Faltava imaginação para conceber um sistema internacional com estabilidade sem âncora metálica"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 21,
+          "quote": "O ouro era um símbolo tradicional de estabilidade;"
+        }
+      ]
+    },
+    {
+      "point": "Antecedentes do padrão-ouro: assimetria estrutural (superavitários sem incentivo a mudar; deficitários com fuga de ouro e ajuste recessivo), retorno mal calibrado após a Primeira Guerra, e, segundo o slide, a crise do padrão-ouro agravou a Grande Depressão e inspirou Bretton Woods. Essa última ligação é afirmada no slide, não no capítulo de Eichengreen.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 4,
+          "quote": "Países com moedas sobrevalorizadas sofriam déficits e fuga de ouro"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 5,
+          "quote": "A crise do padrão-ouro agravou a Grande Depressão"
+        }
+      ]
+    },
+    {
+      "point": "Por que não câmbio flutuante: nos anos 1940 o consenso associava flutuação a especulação, desvalorizações competitivas e protecionismo; só com Friedman, nos anos 1950, o apoio ganhou espaço.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 22,
+          "quote": "Nos anos 1940, o consenso era que regimes de câmbio flutuante eram um desastre."
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 23,
+          "quote": "Somente com Milton Friedman, nos anos 1950"
+        }
+      ]
+    },
+    {
+      "point": "Planos Keynes e White: nenhum eliminou o papel do ouro; Keynes propunha a Clearing Union com bancor e ajuste dividido com os superavitários; White impos o dólar conversível e prevaleceu porque os EUA eram os maiores credores e donos do ouro.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 25,
+          "quote": "Nenhum deles eliminava o papel monetário internacional do ouro"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 29,
+          "quote": "os EUA, que eram os maiores credores e detinham grande parte do ouro mundial"
+        }
+      ]
+    },
+    {
+      "point": "Do dólar escasso ao dólar em excesso e fim do sistema: reconstrução da Europa e Japão, retomada dos mercados financeiros, perda de confiança, ouro a US$ 40 em Londres, Gold Pool (com europeus convertendo dólares fora do Pool), imposto de 1963, SDRs tardios, libra em 1967, Pool em 1968 e Nixon em 1971.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 44,
+          "quote": "Apesar do acordo, os países europeus continuavam a converter seus saldos em dólar por ouro"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 47,
+          "quote": "Houve um aumento massivo nas conversões de dólares por ouro."
+        }
+      ]
+    },
+    {
+      "point": "Interpretação alternativa citada no slide (Frieden): o sistema teria colapsado por razões políticas, pois governos precisariam sacrificar objetivos nacionais para sustentar a moeda; salva-lo exigiria austeridade nos EUA ou juros muito mais altos. Isso complementa, e não é a tese de Eichengreen.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 48,
+          "quote": "BW colapsa por razões políticas"
+        }
+      ]
+    },
+    {
+      "point": "Questão final do professor ligada ao texto: por que os arquitetos cometeram o pecado mortal de manter o ouro; por que o plano britânico teria mitigado os problemas; por que o ouro passou de US$ 35 em Londres (o slide escreve grama; o texto fala em onça) e qual a consequência para o sistema.",
+      "refs": [
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que os arquitetos do Bretton Woods cometeram o pecado mortal de manter um papel monetário para o ouro?"
+        },
+        {
+          "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
+          "pdf_page": 50,
+          "quote": "Por que o ouro ficou mais caro do que US$ 35 por grama em Londres"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "O capítulo não contém figuras nem tabelas; a leitura não depende de elementos gráficos. A página 1 é a folha de rosto do JSTOR e as páginas 17-19 trazem notas de rodapé (notas 2 e 3 sobre preço do ouro e pontos de cruzamento, na p. 17)."
+  ]
+}
