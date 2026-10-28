@@ -1,12 +1,12 @@
 # Mapa de capacidades — Guia EAE1244
 
-Status: mapa aprovado pelo usuário em 28/10/2026. A especificação de `fontes` está em revisão; implementação ainda não iniciada.
+Status: mapa e especificação de `fontes` aprovados pelo usuário em 28/10/2026. Módulo `fontes` em implementação incremental.
 
 Direção aprovada: [caderno por aula + atlas de debates + oficina de respostas](docs/ideas/guia-eae1244.md).
 
 | ID do módulo | Responsabilidade | Depende de | Especificação prevista após aprovação |
 | --- | --- | --- | --- |
-| `fontes` | Inventariar e baixar as leituras; preservar os originais e registrar origem, integridade e texto extraído com localização. | — | [SPEC-fontes.md](SPEC-fontes.md), em revisão |
+| `fontes` | Inventariar e baixar as leituras; preservar os originais e registrar origem, integridade e texto extraído com localização. | — | [SPEC-fontes.md](SPEC-fontes.md), aprovada |
 | `caderno` | Produzir resumos por texto e aula, com referências às fontes e maior profundidade nas aulas 17–28. | `fontes` | `SPEC-caderno.md` |
 | `atlas` | Relacionar autores e textos por debates, convergências, divergências e contexto, com evidências rastreáveis. | `caderno` | `SPEC-atlas.md` |
 | `oficina` | Criar questões discursivas de treino, roteiros de resposta e critérios para revisar a própria resposta. | `caderno`, `atlas` | `SPEC-oficina.md` |
@@ -29,4 +29,4 @@ Ordem de construção: `fontes` → `caderno` → `atlas` → `oficina` → `htm
 - Entrega local, com o HTML utilizável sem internet após o download e os originais acessíveis no pacote local.
 - Sem serviços de IA durante o uso, publicação na internet ou correção automática.
 
-Os contratos de dados e os critérios de aceitação serão definidos nas especificações dos módulos. A próxima revisão é a de `SPEC-fontes.md`; os demais módulos serão especificados na ordem aprovada.
+O contrato de `fontes` está aprovado. Os demais módulos serão especificados na ordem aprovada após a obtenção do acervo.

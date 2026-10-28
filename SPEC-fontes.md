@@ -2,7 +2,7 @@
 
 Módulo: `fontes`, conforme o [mapa de capacidades aprovado](CAPABILITY-MAP.md).
 
-Status: proposta para revisão do usuário. Esta especificação não autoriza por si só a implementação e não representa downloads já realizados.
+Status: aprovada pelo usuário em 28/10/2026, com execução incremental solicitada. O progresso da implementação está em `tasks/todo.md`; a aprovação não representa downloads já realizados.
 
 ## Objetivo
 
