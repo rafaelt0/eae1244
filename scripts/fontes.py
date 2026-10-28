@@ -7,12 +7,17 @@ from io import BytesIO
 import json
 import os
 from pathlib import Path
+import posixpath
 import re
 import subprocess
 import tempfile
 import sys
 import zipfile
 from urllib.parse import urlparse, parse_qs
+import xml.etree.ElementTree as ET
+
+RID = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id"
+FALLBACK = "{http://schemas.openxmlformats.org/markup-compatibility/2006}Fallback"
 
 
 def extract_pdf(path: Path) -> list[dict]:
@@ -57,6 +62,62 @@ def extract_pdf(path: Path) -> list[dict]:
             "pdf_page": number, "printed_label": None, "text": text,
             "method": "pdftotext", "flags": flags, "review_notes": [],
         })
+    return pages
+
+
+def slide_paragraphs(element: ET.Element, result: list[str]) -> None:
+    """Parágrafos de texto do slide, ignorando conteúdo de compatibilidade duplicado."""
+    for child in element:
+        if child.tag == FALLBACK:
+            continue
+        if child.tag.endswith("}p"):
+            runs = [node.text or "" for node in child.iter() if node.tag.endswith("}t")]
+            result.append("".join(runs))
+        else:
+            slide_paragraphs(child, result)
+
+
+def extract_pptx(path: Path) -> list[dict]:
+    """Texto por slide de um contêiner PPTX, na ordem de apresentação."""
+    path = path.resolve()
+    data = path.read_bytes()
+    if not data.startswith(b"PK\x03\x04"):
+        raise ValueError("Conteúdo recebido não é PPTX.")
+    try:
+        with zipfile.ZipFile(BytesIO(data)) as archive:
+            names = set(archive.namelist())
+            if "ppt/presentation.xml" not in names:
+                raise ValueError("PPTX sem apresentação.")
+            relations = {}
+            if "ppt/_rels/presentation.xml.rels" in names:
+                for rel in ET.fromstring(archive.read("ppt/_rels/presentation.xml.rels")):
+                    relations[rel.get("Id")] = rel.get("Target")
+            presentation = ET.fromstring(archive.read("ppt/presentation.xml"))
+            targets = [relations[item.get(RID)] for item in presentation.iter()
+                       if item.tag.endswith("}sldId") and item.get(RID)]
+            pages = []
+            for number, target in enumerate(targets, 1):
+                member = posixpath.normpath(posixpath.join("ppt", target.lstrip("/")))
+                if member not in names:
+                    raise ValueError("invalid_file: slide referenciado ausente.")
+                paragraphs: list[str] = []
+                slide_paragraphs(ET.fromstring(archive.read(member)), paragraphs)
+                text = "\n".join(p for p in paragraphs if p).strip()
+                flags = []
+                if not text:
+                    flags.append("empty_text")
+                elif sum(c.isalpha() for c in text) < 20:
+                    flags.append("low_text")
+                pages.append({
+                    "pdf_page": number, "printed_label": None, "text": text,
+                    "method": "pptx-xml", "flags": flags, "review_notes": [],
+                })
+    except zipfile.BadZipFile as error:
+        raise ValueError("invalid_file: contêiner ZIP incompleto ou inválido.") from error
+    except ET.ParseError as error:
+        raise ValueError("invalid_file: XML do PPTX ilegível.") from error
+    except (KeyError, TypeError) as error:
+        raise ValueError("invalid_file: relações do PPTX ausentes ou inválidas.") from error
     return pages
 
 
@@ -145,20 +206,19 @@ def process_resource(resource: dict, incoming: Path, root: Path,
                 atomic_write(target, data)
             return {**resource, "status": "verified", "files": [reusable],
                     "previous_files": (previous or {}).get("previous_files", []), "error": None}
-    pages = extract_pdf(source) if is_pdf else []
+    pages = extract_pdf(source) if is_pdf else extract_pptx(source) if suffix == ".pptx" else []
     extraction = {
-        "status": "needs_ocr" if any(p["flags"] for p in pages) else "ready",
-        "method": "pdftotext" if is_pdf else None,
-        "page_count": len(pages) if is_pdf else None,
-        "pages_path": pages_path if is_pdf else None,
+        "status": (("needs_ocr" if any(p["flags"] for p in pages) else "ready")
+                   if pages else "unsupported"),
+        "method": "pdftotext" if is_pdf else "pptx-xml" if pages else None,
+        "page_count": len(pages) if pages else None,
+        "pages_path": pages_path if pages else None,
         "review_status": "pending", "review_notes": [], "pages_sha256": None,
     }
-    if is_pdf:
+    if pages:
         encoded = json_bytes(pages)
         atomic_write(local_path(root, pages_path), encoded)
         extraction["pages_sha256"] = hashlib.sha256(encoded).hexdigest()
-    else:
-        extraction["status"] = "unsupported"
     if not target.exists():
         atomic_write(target, data)
     file = {

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course_url": "https://edisciplinas.usp.br/course/view.php?id=142088",
   "captured_at": "2026-10-28T19:19:55.115Z",
-  "processed_at": "2026-10-28T19:30:27.505198+00:00",
+  "processed_at": "2026-10-28T20:35:38.969043+00:00",
   "resources": [
     {
       "kind": "reading",
@@ -55,19 +55,19 @@
         {
           "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
           "original_name": "aula 17 - 2. GM 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 1198976,
           "sha256": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
           "retrieved_at": "2026-10-28T19:21:24.686909+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 39,
+            "pages_path": ".local/fontes/paginas/10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "9b37321b4d7ffcc44d768d2987246b3fe17c64ec2b048df7f9dd91b98e247c51"
           }
         }
       ],
@@ -185,7 +185,7 @@
             "pages_path": ".local/fontes/paginas/6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "b68485f948bae836d1d07ba32cc63ad3b5e3a3589191eb01da225fb0f6fe56b8"
+            "pages_sha256": "68d0678a8b9639948460afd37b5e402c67bbc4918a9dbd4a1e43768dd4456499"
           }
         }
       ],
@@ -209,19 +209,19 @@
         {
           "file_id": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
           "original_name": "Aulas 18-19 BW 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 138826,
           "sha256": "e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4",
           "retrieved_at": "2026-10-28T19:21:07.119521+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "ready",
+            "method": "pptx-xml",
+            "page_count": 50,
+            "pages_path": ".local/fontes/paginas/e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "923cdd3acd1629f624974a77efa6c4cf3996654e2f9fe7bdf7ad864aaf1f8914"
           }
         }
       ],
@@ -279,19 +279,19 @@
         {
           "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
           "original_name": "AULA 20.pptx",
-          "relative_path": ".local/fontes/originais/6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 844590,
           "sha256": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
           "retrieved_at": "2026-10-28T19:21:08.041520+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 41,
+            "pages_path": ".local/fontes/paginas/6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "4e3e09d169e8a965942cfb6272e8a344a955d9d1872eb58996053366b3ec77a1"
           }
         }
       ],
@@ -387,19 +387,19 @@
         {
           "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
           "original_name": "AULA 20-21 URSS colapso 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 829593,
           "sha256": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
           "retrieved_at": "2026-10-28T19:21:09.855101+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 40,
+            "pages_path": ".local/fontes/paginas/54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "61e163a1986c665be8b33e37237c90fe2e46b26894814dac999a47a5352c8e40"
           }
         }
       ],
@@ -457,19 +457,19 @@
         {
           "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
           "original_name": "AULA 23 Tigtres Asiáticos 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 368967,
           "sha256": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
           "retrieved_at": "2026-10-28T19:21:11.067886+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 32,
+            "pages_path": ".local/fontes/paginas/8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "eb3634e79f08d6a20cfbcb2162507f4bf8b0291b9e4d534565cb154494b9864d"
           }
         }
       ],
@@ -584,7 +584,7 @@
             "pages_path": ".local/fontes/paginas/4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "4befc6b8e5ff1c54552ff9f53ecc6ab229dccad8990f123a1332ea314adb4cc0"
+            "pages_sha256": "c659c8a05cb5a8813ae83fdb9d34beeeb0cd1eee330c0b821776e0cb76498d93"
           }
         }
       ],
@@ -799,7 +799,7 @@
             "pages_path": ".local/fontes/paginas/e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "42cd0efa0e0e4aa20445925125315942361dd0a93a564243b94c9a7394e8d2b9"
+            "pages_sha256": "f41ffcdb929a6ba3aca0ee6272716cf5b11cbdcc1e7aa6ead07656b2a824d250"
           }
         }
       ],
@@ -823,19 +823,19 @@
         {
           "file_id": "e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a",
           "original_name": "Aula 1 - Primeira globalização.pptx",
-          "relative_path": ".local/fontes/originais/e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 1241661,
           "sha256": "e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a",
           "retrieved_at": "2026-10-28T19:21:16.054680+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 46,
+            "pages_path": ".local/fontes/paginas/e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "c3c674262f64c41580f603ea773151baa8a48ed46de4e115a9431167b7684a40"
           }
         }
       ],
@@ -931,19 +931,19 @@
         {
           "file_id": "56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130",
           "original_name": "AULAS 3-4 - padrão ouro.pptx",
-          "relative_path": ".local/fontes/originais/56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 662295,
           "sha256": "56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130",
           "retrieved_at": "2026-10-28T19:21:19.828485+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 53,
+            "pages_path": ".local/fontes/paginas/56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "d7cc2880342275eb112002e15e375d7593e85e7ebb24b714fe448d314a800763"
           }
         }
       ],
@@ -1075,19 +1075,19 @@
         {
           "file_id": "8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59",
           "original_name": "AULA 6 -8 1 GM, anos 1920 - 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 2136694,
           "sha256": "8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59",
           "retrieved_at": "2026-10-28T19:21:21.909922+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 86,
+            "pages_path": ".local/fontes/paginas/8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "223e544c2d06d4657f4230fa3d3fe7e69b18b0d04af4aa5fdf00c20b67a7594b"
           }
         }
       ],
@@ -1127,7 +1127,7 @@
             "pages_path": ".local/fontes/paginas/547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "c27c998ae06d2d443dc2c3abcb5724fcdbe27e13b6b1267555bf60cc24f7ee7f"
+            "pages_sha256": "b3a7c1dea64a6b9d8c3cbb8ea1cb360904b4d14558dd8cb808e47e74586e1932"
           }
         }
       ],
@@ -1163,7 +1163,7 @@
             "pages_path": ".local/fontes/paginas/27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "85a78c9dc455532f99281b265d1701dd703c806681ee0f9c777eca836f9b1daf"
+            "pages_sha256": "6e02f2c35ed4c455190174072bdda8380652740a53bacc44626945f290eaa0c9"
           }
         }
       ],
@@ -1199,7 +1199,7 @@
             "pages_path": ".local/fontes/paginas/b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "42583f1662730c0d79e964d2648bcdf578356b07b6c4e57953ed996aa6259a4c"
+            "pages_sha256": "ace9d34f25159336dcca42a2cd6a5cf871b2ef427e1f1f0f922937923843cc04"
           }
         }
       ],
@@ -1331,19 +1331,19 @@
         {
           "file_id": "4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686",
           "original_name": "Aulas 9 e 10 - GD. 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 2622243,
           "sha256": "4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686",
           "retrieved_at": "2026-10-28T19:21:28.455600+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 63,
+            "pages_path": ".local/fontes/paginas/4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "117e1989544c04792a564e92229dc2fbd132efe6f4b3fc98850f60ff11d1dfe3"
           }
         }
       ],
@@ -1444,19 +1444,19 @@
         {
           "file_id": "c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c",
           "original_name": "AULAS 11 E 12 - Recuperaçã GD 2026.2.pptx",
-          "relative_path": ".local/fontes/originais/c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 349804,
           "sha256": "c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c",
           "retrieved_at": "2026-10-28T19:29:18.600874+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "needs_ocr",
+            "method": "pptx-xml",
+            "page_count": 44,
+            "pages_path": ".local/fontes/paginas/c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "aecc3a980764f9fac117248e355bdc090966c935f815c2189a839059927a156e"
           }
         }
       ],
@@ -1562,19 +1562,19 @@
         {
           "file_id": "c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f",
           "original_name": "aulas 13-14 - 2026.2 - fascismo, nazismo e comunismo.pptx",
-          "relative_path": ".local/fontes/originais/c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f.zip",
-          "media_type": "application/zip",
+          "relative_path": ".local/fontes/originais/c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f.pptx",
+          "media_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
           "byte_size": 528367,
           "sha256": "c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f",
           "retrieved_at": "2026-10-28T19:23:40.178074+00:00",
           "extraction": {
-            "status": "unsupported",
-            "method": null,
-            "page_count": null,
-            "pages_path": null,
+            "status": "ready",
+            "method": "pptx-xml",
+            "page_count": 51,
+            "pages_path": ".local/fontes/paginas/c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": null
+            "pages_sha256": "8dbc8b0a03f7803d1ae4bf5465713e4391c933c501583e79f9f385f4f4bf429c"
           }
         }
       ],
