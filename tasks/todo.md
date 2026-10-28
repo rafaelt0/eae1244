@@ -9,25 +9,25 @@
 - Arquivos: `.gitignore`, inventário inicial e arquivos locais do piloto.
 
 ## 2. Processar um PDF por página
-- [ ] Implementar `process` com preservação do original, metadados e extração paginada.
-- [ ] Rejeitar HTML de login, bytes truncados e caminhos fora do projeto; manter páginas sem texto como pendência.
+- [x] Implementar `process` com preservação do original, metadados e extração paginada.
+- [x] Rejeitar HTML de login, bytes truncados e caminhos fora do projeto; manter páginas sem texto como pendência.
 - Verificação: `python3 -m unittest discover -s tests/fontes -p 'test_*.py' -v`; piloto real com número de páginas conferido.
 - Dependências: 1.
 - Arquivos: `scripts/fontes.py`, `tests/fontes/test_fontes.py`, fixtures sintéticas geradas pelo teste.
 
 ## 3. Verificar cobertura e reexecuções
-- [ ] Implementar `verify` para integridade, páginas e recortes total/prioritário, com códigos de saída corretos.
-- [ ] Testar reexecução, versões anteriores, nomes repetidos, ausência de arquivos e seleção vazia.
+- [x] Implementar `verify` para integridade, páginas e recortes total/prioritário, com códigos de saída corretos.
+- [x] Testar reexecução, versões anteriores, nomes repetidos, ausência de arquivos e seleção vazia.
 - Verificação: suíte de testes e adulteração controlada em diretório temporário.
 - Dependências: 2.
 - Arquivos: `scripts/fontes.py`, `tests/fontes/test_fontes.py`.
 
 ## Checkpoint do piloto
-- [ ] Piloto completo no disco; testes passam; mudanças em commits separados.
+- [x] Piloto completo no disco; testes passam; mudanças em commits separados.
 
 ## 4. Ampliar o acervo
-- [ ] Inventariar todos os recursos e aulas, com classificação e instruções de leitura.
-- [ ] Baixar e processar primeiro as leituras das aulas 17–28 e depois as demais e os arquivos de apoio.
+- [x] Inventariar todos os recursos e aulas, com classificação e instruções de leitura.
+- [x] Baixar e processar primeiro as leituras das aulas 17–28 e depois as demais e os arquivos de apoio.
 - Verificação: contagens e IDs confrontados com o curso; hashes e estados no manifesto.
 - Dependências: 3.
 - Arquivos: `data/fontes/inventory.json`, `data/fontes/manifest.json`, acervo local.
