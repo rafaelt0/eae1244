@@ -57,7 +57,7 @@
 - Arquivos: manifesto, extrações locais.
 
 ## 8. Validador do caderno
-- [ ] Teste que falha, depois `scripts/caderno.py` com `validate` e `coverage`: esquema, páginas, trechos literais, afirmações sem fonte, escopos e códigos de saída.
+- [x] Teste que falha, depois `scripts/caderno.py` com `validate` e `coverage`: esquema, páginas, trechos literais, afirmações sem fonte, escopos e códigos de saída.
 - Verificação: `python3 -m unittest discover -s tests/caderno -p 'test_*.py' -v`; falha controlada com trecho adulterado.
 - Dependências: nenhuma. Arquivos: `scripts/caderno.py`, `tests/caderno/`.
 
