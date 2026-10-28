@@ -1,0 +1,921 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614390",
+  "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+  "lessons": [
+    26
+  ],
+  "authors": [
+    "Luis Bértola",
+    "José Antonio Ocampo"
+  ],
+  "title": "The Economic Development of Latin America since Independence (capítulo 4, \"State-led Industrialization\", trecho das páginas impressas 162–190)",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Bértola e Ocampo, a industrialização liderada pelo Estado (da reação aos choques dos anos 1930 e da Segunda Guerra até o choque do petróleo de 1973 e a crise da dívida) deu à América Latina as maiores taxas de crescimento do PIB e da produtividade de sua história, com avanços sociais e aprendizado tecnológico, e muitas críticas tradicionais (viés antiagrícola, sobrevalorização, inflação generalizada, Estado empresário inchado) não se sustentam no conjunto da região. Mas o modelo empilhou proteção sem prazo nem contrapartidas, perdeu espaço nas exportações mundiais, não construiu sistemas nacionais de inovação nem coalizões industriais capazes de ir adiante (exceto o Brasil) e ficou vulnerável a crises de balanço de pagamentos, de modo que a região reduziu a distância em relação aos países industrializados só até onde sua fraqueza tecnológica permitia.",
+  "question": "Como interpretar o desempenho econômico e social da América Latina sob a industrialização liderada pelo Estado: foi um fracasso estrutural que anunciava a crise dos anos 1980 ou um modelo bem-sucedido que poderia ter sido redirecionado se não fosse a crise da dívida?",
+  "argument": [
+    {
+      "claim": "O trecho distingue três fases da industrialização: a \"pragmática\" (substituição de importações como resposta a preços relativos e choques dos anos 1930 e da guerra), a \"clássica\" (do fim da guerra a meados dos anos 1960, com escassez de divisas) e a \"madura\" (com estratégias divergentes após meados dos anos 1960 e o choque de 1973).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "The Latin American industrialization process went through three different stages"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "The first was the “pragmatic” phase of"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "The third phase came when state-led industrialization reached what could be"
+        }
+      ]
+    },
+    {
+      "claim": "Na fase clássica, a escassez de divisas gerou crises recorrentes de balanço de pagamentos (inclusive a \"estrangulação externa\" após a Guerra da Coreia), e a resposta típica a cada crise foi elevar a proteção, agora dentro de estratégias mais conscientes e planos de desenvolvimento, com muitos instrumentos (tarifas, câmbio múltiplo, bancos de fomento, crédito dirigido, empresas estatais, leis de similares).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "foreign exchange continued to be one of its hallmarks."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "commodity prices fell following the Korean War (the period of"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "the typical policy response to each successive crisis was to raise protection levels"
+        }
+      ]
+    },
+    {
+      "claim": "O defeito de desenho central: novas camadas de proteção foram sobrepostas às antigas (padrão \"geológico\"), por economia política, pois a proteção virou direito permanente; não havia prazo nem vínculo entre incentivos e desempenho, o que gerou concentração industrial e rendas, e tornou o sistema em parte autodestrutivo (atividades intensivas em insumos importados).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "new layers of protection were"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "protection for a given sector came to be viewed as a permanent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "The system had not been designed to implement time-bound protection measures"
+        }
+      ]
+    },
+    {
+      "claim": "A integração regional foi vista pela CEPAL como forma de racionalizar a proteção (escala, disciplina de mercado, base para exportações), mas, com exceção do Mercado Comum Centro-Americano, esbarrou nos mesmos problemas de economia política: oposição à liberalização de importações competitivas e fracasso dos esforços de programar o desenvolvimento industrial conjunto.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "regional integration would reduce the costs of import substitution by"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "problems of political"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "almost invariably resounding failures."
+        }
+      ]
+    },
+    {
+      "claim": "A partir de meados dos anos 1960 surgem três estratégias: (1) o \"modelo misto\", com promoção de exportações (manufaturas leves) em cima da proteção existente; (2) aprofundar a substituição de importações (Peru; planos de bens intermediários e de capital no Brasil, México e Venezuela após 1973); (3) ataque frontal ao papel do Estado, pioneiro no Cone Sul sob ditaduras militares na segunda metade dos anos 1970.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "There were three major strategies,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "placed increasing emphasis on export promotion and was what we have"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "The third strategy involved a frontal attack on the role of the state in economic"
+        }
+      ]
+    },
+    {
+      "claim": "Sobre o capital estrangeiro, os autores desmentem a ideia de que a região rejeitou o investimento direto estrangeiro (IDE): ele foi canalizado a setores considerados de interesse nacional, houve restrições a remessas e royalties e nacionalizações (cobre no Chile, petróleo na Venezuela), mas a região recebeu a maior parte do IDE para países em desenvolvimento, e Japão, Coreia e Taiwan eram mais fechados que ela.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Latin America continued to receive nearly 70 percent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Consequently, the idea that Latin America"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Republic of Korea and"
+        }
+      ]
+    },
+    {
+      "claim": "A industrialização atingiu seu pico em 1973-74 (participação da indústria no PIB), antes do colapso da crise da dívida; houve grande diversidade entre países, com forte diversificação só em Brasil, México e Argentina, e aprendizado tecnológico (adaptação de tecnologias, inovações secundárias) que não formou sistemas nacionais de inovação comparáveis aos do Japão e dos primeiros tigres asiáticos.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "alization process reached its peak in Latin America in 1973-4."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 5,
+          "quote": "Argentina were highly diversified."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 6,
+          "quote": "The national innovation systems that were developed were not strong enough,"
+        }
+      ]
+    },
+    {
+      "claim": "O desempenho foi excepcional: PIB per capita cresceu 2,7% ao ano em 1945-80, crescimento do PIB de 5,5% ao ano raramente visto antes e nunca repetido nas três décadas após 1980; produtividade e PTF subiram até meados dos anos 1970 e depois estagnaram, e o auge de crescimento regional foi 6,7% ao ano em 1967-74, com Brasil e México liderando.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "climbed steeply between 1950 and 1975."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "peaking at an"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+        }
+      ]
+    },
+    {
+      "claim": "O desempenho foi desigual: o crescimento não foi suficiente para colocar a região entre os grandes internacionais (abaixo do Japão e dos tigres asiáticos), o Cone Sul e Cuba, líderes da era de exportação de commodities, ficaram para trás, e a maioria dos fracassos coincidiu com revoluções, ditaduras ou guerras civis.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "However, apart from the cases of Brazil, Mexico, and Venezuela (for shorter"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "On the downside, there was the slow pace of growth in the economies that had"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Most of the countries that did poorly had undergone revolutions:"
+        }
+      ]
+    },
+    {
+      "claim": "Os autores testam as três críticas tradicionais: o viés antiagrícola não se confirma (a agricultura cresceu 3,5% ao ano em 1950-74 e recebeu apoio institucional), o viés antiexportador foi real e importante, e os desequilíbrios macroeconômicos (inflação, déficits, sobrevalorização) ficaram restritos a um grupo limitado de países e a momentos específicos.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Agriculture was not, in fact, sidelined from the growth trends in production and"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 10,
+          "quote": "The anti-export bias was a much more important factor."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "that the second and third features were present in no more than a limited group"
+        }
+      ]
+    },
+    {
+      "claim": "A inflação e o déficit fiscal foram problemas recorrentes de Brasil e Cone Sul; no resto da região, só se espalharam no fim do período, ligados ao boom de financiamento externo e ao choque mundial dos anos 1970. A inflação dos anos 1980 aparece mais como efeito do que como causa da crise da dívida.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "The soaring inflation rates of the 1980s therefore appear to be"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "inflation were recurring problems in Brazil and the Southern Cone"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "the first boom in private external financing"
+        }
+      ]
+    },
+    {
+      "claim": "Balanço final: a industrialização permitiu aprendizado tecnológico e as maiores taxas de crescimento da história, mas limitou-se por retrocessos nos setores exportadores tradicionais e pela fraca inovação; as tensões políticas (oposição das elites exportadoras, conflito com a classe trabalhadora, resistência à integração, coalizão industrial fraca, exceto o Brasil) travaram o avanço, e a crise da dívida e a nova revolução tecnológica agravaram o quadro. Os autores concluem que a mera abertura e redução do Estado não bastava; faltava salto tecnológico.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "highest rates of GDP and productivity growth of its history."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "it also needed to make a qualitative leap in"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Choques externos dos anos 1930 e da Segunda Guerra, via mudança de preços relativos e respostas de política, deflagraram a substituição de importações em setores \"estratégicos\"; depois, crises recorrentes de balanço de pagamentos (escassez de divisas) levaram a elevar a proteção a cada crise e a adotar planos de industrialização.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "external shocks of the 1930s and the Second World"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "foreign exchange continued to be one of its hallmarks."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "the typical policy response to each successive crisis was to raise protection levels"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "A proteção acumulada em camadas, tratada como direito permanente de cada setor, sem prazo nem condicionalidade a desempenho, gerou rendas, concentração industrial e dificuldade de reformar a estrutura; a mesma lógica bloqueou a integração regional ao abranger importações competitivas. Inferência dos autores sobre a causa: a economia política da época.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "This was clearly due to the political economy of the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "protectionist strata that was to become an emblematic feature of state-led"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "LAIA) was faced with"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "O câmbio múltiplo e discriminatório foi canal para taxar implicitamente importações competitivas e exportações tradicionais e subsidiar as não tradicionais, por ser decisão administrativa do banco central e politicamente mais fácil que tributar exportações explicitamente; a volatilidade da taxa de câmbio real instabilizava os incentivos a exportar e levava setores a pedir mais proteção.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "With the introduction of multiple exchange-rate systems, the management of"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "since explicitly taxing traditional"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "The instability of the real exchange rate made it difficult"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "O viés antiexportador e a incapacidade de aproveitar a expansão do comércio mundial no pós-guerra (queda da participação latino-americana, sobretudo em alimentos e petróleo, e colapso de Argentina, Cuba, Chile e Uruguai) reduziram o dinamismo e deixaram a região exposta à volatilidade das commodities.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 10,
+          "quote": "greatest drawbacks of state-led industrialization was its inability to take full"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "In other words,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "structural volatility of an export sector that still relied"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Limites políticos para aprofundar a industrialização: oposição dos setores exportadores tradicionais, conflitos com a classe trabalhadora (nos países mais avançados, do Cone Sul) e coalizão industrial fraca (exceto no Brasil, onde as elites concordavam numa estratégia nacional de produção e tecnologia); instabilidade política argentina. Os autores contrastam com a Ásia oriental.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "traditional export sectors; another was the confrontations with the working class"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "Brazil marks a sharp contrast in this"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Fraqueza tecnológica: os sistemas de ciência e tecnologia eram orientados pela oferta, confinados a estatais e agricultura, desconectados da demanda produtiva, e não havia política de spillovers do IDE; por isso o hiato tecnológico não diminuiu de forma sustentada. Os autores apontam isso como o limite para fechar a distância em relação aos industrializados.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 6,
+          "quote": "failed to achieve a sustained reduction in"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 6,
+          "quote": "The science and technology"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "Latin America had narrowed"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Choques da dívida e do petróleo: após o choque de 1973 e o boom de financiamento externo privado dos anos 1970, as crises de balanço de pagamentos voltaram e a dívida se acumulou, reduzindo a margem de política; os autores veem a crise da dívida como um choque externo que desviou e talvez bloqueou a transição para uma industrialização mais equilibrada, mas apresentam isso como conjectura.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "Balance-of-payments crises had once again become frequent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "The main macroeconomic problems that countries ran up against during the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "Itis hard to know what would have happened if the region had not been hit by a"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Brasil",
+      "period": "1945-1980 (ênfase 1967-74 e pós-1973)",
+      "outcome": "Forte crescimento; dos que mais ganharam participação industrial; após 1973 plano de bens intermediários e de capital com impulso exportador, tornando-se o país com estrutura industrial mais completa; coalizão de elites com estratégia nacional; mesmo assim, PIB per capita em 1980 era 33% do do Ocidente industrializado; alta inflação recorrente.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "Brazil coupled this move"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "Brazil’s per capita GDP was equivalent to just 33 percent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the dominant elites were clearly in agreement on a national"
+        }
+      ]
+    },
+    {
+      "name": "México",
+      "period": "1945-1980",
+      "outcome": "Bom desempenho, sobretudo em 1967-74; maquila a partir de 1965; planos de industrialização após 1973 (beneficiário do choque do petróleo); exportações fracas entre meados dos anos 1950 e 1970; PIB per capita de 39% do ocidental em 1980.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Mexico’s establishment of a program for maquila operations near the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "and Mexico’s to 39 percent of that of the industrialized West in 1980"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "between the mid-1950s"
+        }
+      ]
+    },
+    {
+      "name": "Cone Sul (Argentina, Chile, Uruguai)",
+      "period": "1913-1980",
+      "outcome": "Antigos líderes de renda caíram de 88% (1913) para 47% (1980) do PIB per capita ocidental; Argentina teve a pior queda na participação em exportações mundiais (de 2,6% a 0,4%); reformas liberais pioneiras sob ditaduras nos anos 1970; inflação alta e câmbio instável.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "71 percent in 1950 and 47 percent in 1980."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "world exports slid from 2.6 percent in 1925-9"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "carried out by military"
+        }
+      ]
+    },
+    {
+      "name": "Cuba",
+      "period": "1905-1985",
+      "outcome": "PIB per capita em 1957 praticamente igual ao de 1916; perdeu mais terreno no início da revolução e só voltou a crescer de forma sustentada nos anos 1970-85; participação nas exportações mundiais implodiu antes e depois da revolução.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "experienced extreme volatility up until its revolution against a backdrop of"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "saw its share of world exports implode both before and after its"
+        }
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "period": "pós-guerra a 1980",
+      "outcome": "Economia de crescimento mais rápido logo após a guerra; industrialização como \"semear o petróleo\"; exportações em queda (queda da participação no comércio mundial de petróleo e saída via OPEP); nacionalização do petróleo no início dos anos 1970.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "the Andean economies also did well, and this was particularly true of Venezuela in"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "where the industrialization policy was seen as a"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "and its share of the world oil trade began to dwindle."
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "period": "fim dos anos 1960",
+      "outcome": "Melhor exemplo de aprofundamento da substituição de importações, afastando-se da tradição de exportação de commodities; participação industrial no PIB cresceu muito menos que nos maiores.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Peru is the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "in the late 1960s (Thorp and Bertram 1978: part IV). In addition, Brazil, Mexico,"
+        }
+      ]
+    },
+    {
+      "name": "Pequenas economias (Costa Rica, Equador, Panamá, Bolívia, Nicarágua)",
+      "period": "1950-1980",
+      "outcome": "Costa Rica, Equador e Panamá com crescimento per capita acima da média regional; Bolívia e Nicarágua entre os piores; exportações ajudaram em Panamá e Equador (petróleo), mas não em Costa Rica, e bom desempenho exportador não garantiu sucesso (Nicarágua).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Costa"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Rica, Ecuador, and Panama posted long-term per capita GDP growth rates"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "the 1967-74 boom and Paraguay in 1974-80. Bolivia and Nicaragua, on the other"
+        }
+      ]
+    },
+    {
+      "name": "Colômbia",
+      "period": "pós-guerra a 1980",
+      "outcome": "Piores resultados na guerra civil (a \"Violência\") no início do pós-guerra; bom desempenho a partir de 1967; câmbio de crawling peg a partir dos anos 1960 com Brasil.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Colombia was also immersed in"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "Colombia from 1967 on."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "Brazil and Colombia succeeded in using crawling peg systems in order to shield"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Industrialização liderada pelo Estado (fases pragmática, clássica e madura)",
+      "definition": "Três fases: pragmática (anos 1930-guerra), clássica (pós-guerra a meados dos anos 1960) e madura (estratégias divergentes até 1973-80).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "The Latin American industrialization process went through three different stages"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "The third phase came when state-led industrialization reached what could be"
+        }
+      ]
+    },
+    {
+      "term": "Estrangulação externa",
+      "definition": "Termo da CEPAL para a onda de crises de balanço de pagamentos de meados dos anos 1950 a meados dos 1960, após queda dos preços de commodities pós-Guerra da Coreia.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 1,
+          "quote": "commodity prices fell following the Korean War"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "“external strangulation.” On average, in relative terms, central government public"
+        }
+      ]
+    },
+    {
+      "term": "Padrão geológico de proteção",
+      "definition": "Acúmulo de camadas de proteção e incentivos sobre os já existentes, sem reestruturar nem retirar, por economia política.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "new layers of protection were"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "“geologic” pattern of"
+        }
+      ]
+    },
+    {
+      "term": "Modelo misto",
+      "definition": "Estratégia dominante entre meados dos anos 1960 e 1973, com promoção de exportações (manufaturas leves) somada à proteção e à integração regional.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "placed increasing emphasis on export promotion and was what we have"
+        }
+      ]
+    },
+    {
+      "term": "Câmbio múltiplo e crawling peg",
+      "definition": "Múltiplas taxas de câmbio como instrumento de política comercial; crawling peg (minidesvalorizações graduais) introduzido a partir de meados dos anos 1960 para reduzir a instabilidade do câmbio real.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "the management of"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "crawling"
+        }
+      ]
+    },
+    {
+      "term": "Pessimismo exportador",
+      "definition": "Marca da fase clássica: baixa expectativa de crescimento das exportações, com diferenças regionais.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "“Export pessimism” was also a hallmark of the “classical” phase, but there were"
+        }
+      ]
+    },
+    {
+      "term": "Convergência truncada",
+      "definition": "Episódios de crescimento rápido seguidos por outros em que a região perde terreno novamente.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "“truncated convergence,” or, in other words, episodes of rapid growth that are"
+        }
+      ]
+    },
+    {
+      "term": "Sistemas nacionais de inovação",
+      "definition": "Redes de ciência, tecnologia e educação ligadas ao sistema produtivo; segundo os autores, eram fracas e orientadas pela oferta na América Latina.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 6,
+          "quote": "primarily supply-driven models whereby"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "national innovation systems in tandem with a parallel effort to improve its"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Crescimento do PIB per capita de 2,7% ao ano em 1945-80 e participação da região na produção mundial de 9,5% em 1980 (dois pontos acima de 1945 e quatro acima de 1929).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "reaching 9.5 percent by 1980, which was two percentage points more than at"
+        }
+      ]
+    },
+    {
+      "fact": "O crescimento anual de 5,5% (1945-80) havia sido atingido antes só por períodos curtos (cerca de 5% na década anterior à Primeira Guerra e nos anos 1920) e não se repetiu nas três décadas após a crise da dívida.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "the average annual 5.5 percent growth rate for 1945-80 had been"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "nor would it be seen again during the three decades"
+        }
+      ]
+    },
+    {
+      "fact": "PIB por trabalhador cresceu 2,7% ao ano em 1950-80; produtividade e PTF subiram entre cerca de 1936 e 1977 e estagnaram depois.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "GDP per worker rose"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "an upswing between 1936 and 1977"
+        }
+      ]
+    },
+    {
+      "fact": "Pico de crescimento de 6,7% ao ano em 1967-74.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+        }
+      ]
+    },
+    {
+      "fact": "A participação da indústria no PIB atingiu o pico em 1973-74; a produção agrícola cresceu 3,5% ao ano em 1950-74 e 4,3% em 1974-80.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "alization process reached its peak in Latin America in 1973-4."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "output expanded at an annual rate of 3.5 percent in 1950-74"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1980, o PIB per capita do Brasil era 33% e o do México 39% do Ocidente industrializado; o Cone Sul caiu de 88% (1913) e 81% (1929) para 71% (1950) e 47% (1980).",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "Brazil’s per capita GDP was equivalent to just 33 percent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "71 percent in 1950 and 47 percent in 1980."
+        }
+      ]
+    },
+    {
+      "fact": "A participação latino-americana no comércio mundial caiu para pouco mais de 4% no início dos anos 1970, cerca de três pontos abaixo de 1925-29 ou do pré-1914.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 10,
+          "quote": "Latin America’s share in world trade shrank to just slightly more than 4 percent in"
+        }
+      ]
+    },
+    {
+      "fact": "Participação argentina nas exportações mundiais de 2,6% (1925-29) para 0,4% ao fim do período; Cuba tinha quase 1% nos anos 1920.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "world exports slid from 2.6 percent in 1925-9"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 11,
+          "quote": "with a nearly 1 percent share of world trade"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1973-81 a América Latina recebeu cerca de 70% do IDE para países em desenvolvimento.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 3,
+          "quote": "Latin America continued to receive nearly 70 percent"
+        }
+      ]
+    },
+    {
+      "fact": "Os gastos do governo central dobraram de 12% para 22% do PIB entre 1950 e 1982, financiados por impostos; a participação de estatais no PIB não agrícola foi em média 10%, abaixo da dos demais em desenvolvimento.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "climbing from 12 percent to 22 percent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "percent, which was lower than the average for the rest of the developing world."
+        }
+      ]
+    },
+    {
+      "fact": "Inflação: nos anos 1950-60, só Brasil e o Cone Sul tinham inflação acima da mundial; nos demais ela ficou entre 2% e 4% (mediana) até 1971; média simples de 14,2% em 1971-80 sem os de alta inflação, contra 17,1% do FMI para em desenvolvimento.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "between the mid-1950s and 1971."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 13,
+          "quote": "percent, as compared to the IMF estimate of 17.1 percent for developing"
+        }
+      ]
+    },
+    {
+      "fact": "População cresceu 2,7% ao ano em 1950-80 e a população urbana a até 4,4% ao ano em 1950-70; urbanização perto de 80% em 1980 nos países de urbanização precoce.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "2.7 percent between 1950 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "between 1950 and 1970. This was unprecedented in world history and, in fact,"
+        }
+      ]
+    },
+    {
+      "fact": "A força de trabalho não agrícola cresceu 4% ao ano em 1950-80; o subemprego total caiu de 46% para 38% e o emprego urbano subiu de 44% para 67%.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "The non-farm workforce grew at the very rapid annual rate of 4 percent in"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "fell from 46 percent in 1950 to 38 percent in 1980."
+        }
+      ]
+    },
+    {
+      "fact": "A maior melhora dos índices de desenvolvimento humano frente aos industrializados ocorreu entre 1930 e 1960, com pouco progresso nas duas últimas décadas do século XX.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the greatest improvement in"
+        }
+      ]
+    },
+    {
+      "fact": "Jørgensen e Paldam mostram que não houve apreciação real de longo prazo do câmbio oficial nos oito maiores países em 1946-85.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "long-term appreciation of the real official exchange rate in any of the eight largest"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O OCR é ruidoso nas páginas 1, 3, 4, 5, 6, 7, 8, 10, 11 e 13-14, que contêm tabelas e gráficos: números de tabelas não foram usados quando ilegíveis; só dados do texto corrido e de tabelas legíveis.",
+    "O trecho é parte do capítulo 4 (título de cabeçalho \"State-led Industrialization\", páginas impressas 162-190) e começa e termina no meio de argumentos (a página 1 abre no meio da discussão do ambiente internacional; a página 15 termina no meio de uma frase), de modo que o capítulo todo não está coberto.",
+    "O ano da obra e a identificação do capítulo como o capítulo 4 vêm só dos cabeçalhos e de referências internas (\"Table 4.5\", \"Figure 4.3\"); o ano da obra não consta no texto extraído.",
+    "Os autores contestam as visões convencionais (viés antiagrícola, sobrevalorização, Estado inchado, rejeição ao IDE); a interpretação de que a industrialização foi bem-sucedida até o limite tecnológico é a tese deles, e a ressalva (\"it is hard to know what would have happened\") deixa em aberto se o modelo poderia ter sido reformado sem a crise da dívida.",
+    "Objeções aos autores citadas no texto: Fajnzylber (1983) argumenta que a proteção penalizava bens de capital, enquanto analistas do Brasil dizem que a proteção a bens de capital elevou os custos de investimento; Haber (2006) sustenta que o Estado financista prejudicou o desenvolvimento financeiro (os autores consideram a questão difícil de responder).",
+    "A classificação dos mecanismos em causa, transmissor e economia política é minha inferência a partir do texto; os autores não usam esses rótulos.",
+    "O texto não dá um número único de comparação com o Leste Asiático; a comparação com Japão e tigres é qualitativa."
+  ],
+  "figures_note": [
+    "Página 1 (impressa 163): Figura 4.3, indicadores de crises de balanço de pagamentos 1950-80 (A: países com programas do FMI e financiamento; B: reservas brutas e líquidas, % do PIB); o OCR dos gráficos está ilegível, consultar o original.",
+    "Página 3 (impressa 166): Tabela 4.5, dinâmica das exportações (crescimento real e abertura por país e período); parcialmente legível, com valores corrompidos em várias linhas; conferir no original antes de citar números.",
+    "Página 4 (impressa 168): Figura 4.4, valor adicionado da manufatura como parcela do PIB 1950-2006, e Tabela 4.6 (participação da indústria por país), ilegíveis na extração (texto rotacionado).",
+    "Páginas 5-6 (impressas 170-172): Tabela 4.7, composição do valor adicionado industrial em 1974 por setor, ilegível na extração.",
+    "Página 7 (impressa 174): Figura 4.5, taxas decenais de crescimento do PIB; Tabela 4.8 parcialmente legível, com crescimento do PIB, da força de trabalho e da produtividade por grupo de países.",
+    "Página 8 (impressa 176): Figura 4.6, PTF (média simples, 1960 = 1) para LA7, LA17 e EUA, ilegível.",
+    "Página 10 (impressa 180): Tabela 4.9, população e urbanização, ilegível.",
+    "Página 11 (impressa 182): Tabela 4.10, exportações latino-americanas 1953-2000 por categoria SITC; legível em parte, mas com colunas desalinhadas e células faltando.",
+    "Páginas 12-13 (impressas 185-187): Figura 4.7 (inflação) e Figura 4.8 (receitas, gastos e saldo fiscal, 1950-85), ilegíveis.",
+    "Página 14 (impressa 188): Tabela 4.11, participação de estatais e de bancos públicos; legível em grande parte, mas com alguns valores corrompidos.",
+    "Página 15 (impressa 190): Tabela 4.12 (padrões de trabalho por país, García e Tokman) é mencionada, mas não aparece no trecho."
+  ]
+}

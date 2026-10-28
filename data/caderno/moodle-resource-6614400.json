@@ -1,0 +1,924 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614400",
+  "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+  "lessons": [
+    25
+  ],
+  "authors": [
+    "Christopher M. Meissner"
+  ],
+  "title": "International Financial Flows and Financial Crises after the End of the Bretton Woods System (cap. 13 de One from the Many)",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Meissner, o fim de Bretton Woods e a abertura das contas de capital trouxeram de volta os fluxos internacionais de capital e, com eles, as crises financeiras (dívida latino-americana de 1982, MCE europeu de 1992, Ásia de 1997, além da dívida dos países pobres), que os controles de capital e a repressão financeira de 1945-1971 haviam suprimido. As crises variam em causa (déficits, credibilidade, risco moral, descasamento de moedas e prazos, contágio), são praticamente imprevisíveis e difíceis de prevenir, e a liberalização só traz benefícios com regulação e instituições adequadas; o benefício dos fluxos para o crescimento é pouco comprovado.",
+  "question": "Por que os fluxos internacionais de capital e as crises financeiras voltaram depois de 1971, o que esses fluxos entregaram, e o que se pode fazer para prever, prevenir e administrar as crises?",
+  "argument": [
+    {
+      "claim": "Entre 1945 e 1971, controles de capital e repressão financeira (bancos fortemente regulados) praticamente eliminaram crises bancárias e de dívida; as crises cambiais que ocorreram eram de 'primeira geração', curtas e ligadas a déficits persistentes e política monetária incompatível com a paridade fixa.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "Indeed, it is remarkable that the years between 1945 and 1971 saw no"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "said, currency crises did occur between 1945 and 1971, but they mainly took"
+        }
+      ]
+    },
+    {
+      "claim": "Na leitura do autor, a crise de primeira geração (modelo de Krugman) decorre de déficit fiscal financiado por emissão: as reservas encolhem, o mercado antecipa o fim da paridade e esgota as reservas antes que elas acabem, o que derruba o câmbio.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "determined that such crises were the inevitable"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Krugman showed that well before reserves run dry, capital markets will"
+        }
+      ]
+    },
+    {
+      "claim": "Nos anos 1970 os países afrouxaram ou eliminaram controles de capital (muitos já enfraquecidos por evasão); os fluxos cresceram, primeiro via bancos e, nos anos 1990, via mercado de títulos, com a expansão do investimento direto desde os anos 1980. Os recursos foram sobretudo para países ricos, não para os pobres.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Throughout the 1970s, countries began to progressively loosen or"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Despite the return of capital flows, rich countries, not"
+        }
+      ]
+    },
+    {
+      "claim": "O benefício esperado dos fluxos (convergência de retornos, mais capital por trabalhador, compartilhamento de risco) tem evidência fraca: quase não há relação robusta com crescimento da renda per capita, e o compartilhamento de risco melhorou apenas um pouco, ficando muito abaixo da integração perfeita.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "retical case for free international capital flows is akin to that of free trade."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "there is surprisingly little reliable evidence that the capital flows of"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "diversification puzzle remains a mystery and presents a major anomaly for"
+        }
+      ]
+    },
+    {
+      "claim": "Fluxos de capital também plantam crises: a narrativa genérica é de liberalização aconselhada pelo Consenso de Washington, câmbio fixo, déficits em conta corrente, entrada rápida de capital e acúmulo de passivos externos, até que uma reversão ou parada súbita (sudden stop) exige superávit comercial imediato e depreciação, o que encarece a dívida em dólares.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "Fixed exchange rates were another key recommendation."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "current account deficits, fast inflows of foreign capital, and an accumulation"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "Try repaying a dollar of debt when dollars are now suddenly"
+        }
+      ]
+    },
+    {
+      "claim": "Crise da dívida latino-americana (1982): o boom de commodities e os petrodólares depositados em bancos de Nova York foram reemprestados à América Latina a juros baixos; o choque de juros de Volcker (11,5% para 17,5% entre 1979 e abril de 1980) e a queda da demanda mundial em 1981-82 inviabilizaram o pagamento. O México deu calote em agosto de 1982 e os demais o seguiram; a 'década perdida' durou até meados dos anos 1990 e foi resolvida pelos bônus Brady (1989).",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "returns on their money by lending to banks in low-income countries where"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        }
+      ]
+    },
+    {
+      "claim": "Crise europeia de 1992: sem déficits crônicos no Reino Unido ou na França, a libra e outras moedas do MCE caíram por ataque especulativo. O autor adota o modelo de crise autorrealizável (equilíbrios múltiplos), em que a crise depende de credibilidade e do ataque, não de fundamentos ruins; o Reino Unido preferiu abandonar a paridade a elevar os juros a níveis danosos.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "The self-fulfilling model says that a currency can crash out of a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "but if there were no attack, no crisis will occur."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 14,
+          "quote": "treasury, faced with a choice of raising interest rates to economically"
+        }
+      ]
+    },
+    {
+      "claim": "Crise do Leste Asiático (1997-98): crise não antecipada pelos indicadores usuais, de novo com equilíbrios múltiplos e pânico, agravada por risco moral (a paridade com o dólar era vista como seguro, estimulando dívida de curto prazo em dólares) e por fragilidades de governança/'capitalismo de compadrio'; foi transmitida regionalmente por quatro canais de contágio.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Second, and once again, the financial crisis was unanticipated. Capital"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "Economists identified four potential channels. First, a depreciation"
+        }
+      ]
+    },
+    {
+      "claim": "A resposta do FMI (juros altos, austeridade, garantias bancárias, privatização) foi vista como inadequada e intrusiva; o FMI era pequeno demais para uma crise simultânea de grandes economias. As perdas de produto foram de 5% a 10%, com custos políticos e de saúde; a Malásia adotou controles de capital contra a orientação do FMI.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "While well intentioned, the IMF goals of stabilizing the currency and the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Output losses in the East Asian economies ranged"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "implemented his own heterodox response. The centerpiece of his go-it-alone"
+        }
+      ]
+    },
+    {
+      "claim": "Previsão e prevenção: prever o momento das crises é quase impossível (choques aleatórios às expectativas, mercados que evoluem e contornam regras, literatura de alerta antecipado sem resultados robustos). Entre as medidas de prevenção estão câmbio flutuante ou fixo duro, supervisão e regulação, falência eficiente e controles de capital, todas com limitações.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 20,
+          "quote": "Financial crises are like earthquakes. Although earthquakes"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 21,
+          "quote": "A significant literature in economics has devoted itself to predicting"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Stronger supervision and regulation of the financial system is another"
+        }
+      ]
+    },
+    {
+      "claim": "Gestão de crises: o FMI é pequeno demais para ser emprestador internacional de última instância, mas seus acordos standby funcionam como sinal e monitor delegado; cláusulas de ação coletiva (CACs) facilitam a renegociação de dívida soberana. Nos países muito pobres (HIPC), o alívio de dívida teve amplo sucesso.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 24,
+          "quote": "simply not big enough, nor is it designed to play this role."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 25,
+          "quote": "Since 2003, bonds issued in New York contain CACs. Bonds under British"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "While many of the countries classified as HIPCs remain economically"
+        }
+      ]
+    },
+    {
+      "claim": "Conclusão do autor: a liberalização financeira pode trazer benefícios (o investimento direto parece mais estável), mas exige regulação e instituições; as crises são difíceis de evitar, e o teste de sucesso é eliminar a repetição de uma crise específica e reduzir o custo da gestão.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "seems to be more stable, yielding greater social returns."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 30,
+          "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Política fiscal e monetária inconsistente com a paridade fixa (déficit financiado por emissão, perda de reservas) leva a ataque e desvalorização: crise cambial de primeira geração (modelo de Krugman), típica de 1945-1971.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "determined that such crises were the inevitable"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Krugman showed that well before reserves run dry, capital markets will"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Superendividamento externo somado a choque de juros e queda da demanda mundial: o calote latino-americano de 1982 teve como causas principais o excesso de empréstimos e a exposição a mudanças nas taxas de juros.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "With benefit of hindsight, it is easy to see that over-borrowing and"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "Borrowing was the fuel, and the interest rate shock was the spark that started"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Crise autorrealizável: a perda de credibilidade da paridade (juros alemães altos após a reunificação, impossibilidade de o Reino Unido ou a França acompanhá-los) basta para provocar o ataque, sem déficits crônicos; há múltiplos equilíbrios.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "The self-fulfilling model says that a currency can crash out of a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "Notice that the typical signals in the Krugman model for"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Risco moral e descasamento de moedas e prazos: o câmbio fixo com o dólar dava sensação de seguro, estimulando dívida de curto prazo em dólares; ao cair o câmbio, a dívida ficou mais cara em moeda local. O empréstimo de curto prazo foi visto como causa primária da crise asiática.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Indeed, short-term lending was viewed"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Contágio financeiro no Leste Asiático por quatro canais: comércio direto (invasão de importações), perda de mercado em terceiros países, choques correlacionados nos fundamentos (ex.: ascensão da China) e canal de informação ('wake-up call').",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "Economists identified four potential channels. First, a depreciation"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "an information channel was identified. Economic theorists dubbed this a"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Reversão ou parada súbita de fluxos de capital e juros dos EUA: o choque de Volcker elevou o custo de crédito mundial e transmitiu a crise às dívidas latino-americanas em 1981-82; a parada súbita obriga a ajuste imediato da conta corrente com depreciação.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "eral funds rate from 11.5% in mid-1979 to 17.5% by April 1980. The largest"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "capital flows suddenly reversed or stopped flowing into a country."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Papel de governos e do FMI/Consenso de Washington: conselheiros do Banco Mundial e do FMI deram cobertura intelectual à liberalização; no Leste Asiático, relações próximas entre governo, conglomerados e bancos estatais (Coreia, Indonésia) foram apontadas após a crise como agravantes; a receita do FMI foi vista como intrusão na soberania.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "capital controls that had previously sheltered the local financial system. The"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Government involvement in these economies conspired to make the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "quota were already contentious. Doing so for a set of large economies facing"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Dívida odiosa e credores indiferentes: em países muito pobres, credores emprestaram indiscriminadamente por objetivos econômicos e geopolíticos a governantes autocráticos que desviaram recursos; a dívida ficou com a população, e o alívio só veio após campanha internacional (HIPC).",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 26,
+          "quote": "International banks, multilateral agencies, and official creditors (i.e.,"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 27,
+          "quote": "The term “Odious Debt” evolved in"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Incentivos e regulação: bancos e participantes de mercado não internalizam o custo social de suas apostas, e regulações pós-crise são contornadas por novas formas de alavancagem, o que dificulta a prevenção. Esta é leitura do autor com ressalva ('may infer').",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 20,
+          "quote": "Financial crises cannot be predicted for another economic reason having"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 20,
+          "quote": "We may also infer that banks"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Crises de 1945-1971 (Bretton Woods)",
+      "period": "1945-1971",
+      "outcome": "Sem crises bancárias ou de dívida significativas; apenas crises cambiais de primeira geração, curtas.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "Indeed, it is remarkable that the years between 1945 and 1971 saw no"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "said, currency crises did occur between 1945 and 1971, but they mainly took"
+        }
+      ]
+    },
+    {
+      "name": "Crise da dívida latino-americana (México e demais países da região)",
+      "period": "1979-1989, calote do México em agosto de 1982",
+      "outcome": "Calote em cadeia; 'década perdida' de 1982 a meados dos anos 1990 (inflação, estagnação, queda do padrão de vida); resolução pelos bônus Brady em 1989.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "Treasury Nicholas F. Brady, who negotiated it, allowed unpaid loans to be"
+        }
+      ]
+    },
+    {
+      "name": "Crise europeia do MCE (Reino Unido, Itália, Suécia, Noruega, Finlândia, França)",
+      "period": "1992-1993",
+      "outcome": "Em 16/9/1992 a libra caiu 5% frente ao marco e saiu do MCE; Itália e os países nórdicos tiveram ataques e depreciações; a França alargou a banda em 1993.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "and continuing losses of hard-won"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "falls 5% overnight against the German mark, thus ending the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "France was"
+        }
+      ]
+    },
+    {
+      "name": "Crise do Leste Asiático (Tailândia, Coreia do Sul, Malásia, Indonésia)",
+      "period": "1997-1998",
+      "outcome": "Moedas colapsaram quase ao mesmo tempo; perdas de produto de 5% a 10%; instabilidade política (Suharto deposto) e social; Malásia impôs controles de capital.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 15,
+          "quote": "The sheen began to wear thin starting in late 1997 and into 1998, when a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Output losses in the East Asian economies ranged"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Suharto were forced from office"
+        }
+      ]
+    },
+    {
+      "name": "Países pobres muito endividados (HIPC)",
+      "period": "Anos 1970 a 2010 e depois",
+      "outcome": "Crise lenta de dívida; iniciativa HIPC reduziu dívidas e elevou gastos sociais; 37 países qualificados até fevereiro de 2020.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 26,
+          "quote": "A major humanitarian and economic crisis caused by excessive foreign"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "As of the early 2000s, the HIPC initiative had succeeded in reducing debt"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "had qualified. Such nations have seen real reductions in their debt-to-GDP"
+        }
+      ]
+    },
+    {
+      "name": "Canadá (contraexemplo de estabilidade financeira)",
+      "period": "Longo prazo",
+      "outcome": "Maior estabilidade financeira que a maioria dos países, atribuída a sistema bancário concentrado, boa regulação e burocracia profissional.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Canada is a country that has benefited from greater financial stability"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "than most other nations over the long-run. A highly concentrated banking"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Crise de primeira geração (Krugman)",
+      "definition": "Crise cambial causada por déficit persistente e emissão monetária incompatíveis com a paridade; o ataque ocorre com certeza em algum momento.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "determined that such crises were the inevitable"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 12,
+          "quote": "fundamental problem is an ongoing deficit. An attack will occur at"
+        }
+      ]
+    },
+    {
+      "term": "Crise autorrealizável / equilíbrios múltiplos",
+      "definition": "Modelo (Obstfeld, citado por Eichengreen e Wyplosz) em que a moeda cai se houver ataque e não cai se não houver, independentemente de déficits ou reservas; ligado à credibilidade.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "The self-fulfilling model says that a currency can crash out of a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "To understand better the idea of multiple outcomes or “multiple equilibria”"
+        }
+      ]
+    },
+    {
+      "term": "Crise gêmea (twin crisis)",
+      "definition": "Crise bancária e cambial simultâneas, tipicamente com bancos que têm passivos externos e câmbio em colapso.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 2,
+          "quote": "Twin crises, simultaneous banking and currency crises, were"
+        }
+      ]
+    },
+    {
+      "term": "Repressão financeira",
+      "definition": "Sistema bancário muito regulado e restrito; junto com controles de capital, é apontada como causa de ausência de crises em 1945-1971.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "and positive impact capital controls and financial repression (i.e., heavily"
+        }
+      ]
+    },
+    {
+      "term": "Sudden stop (parada súbita)",
+      "definition": "Interrupção ou reversão repentina dos fluxos de capital, que exige virada rápida da conta corrente para superávit, corte de consumo e forte depreciação.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "A sudden stop in capital flows requires a massive turnaround in the trade"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "To repay debt, national expenditures must be lower than"
+        }
+      ]
+    },
+    {
+      "term": "Risco moral",
+      "definition": "Excesso de risco por quem se sente segurado; no caso asiático, devedores achavam que a paridade com o dólar era garantida e tomaram dívida de curto prazo em dólares.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Moral hazard occurs when someone who is insured engages in excessive"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        }
+      ]
+    },
+    {
+      "term": "Consenso de Washington",
+      "definition": "Prescrição de liberalização financeira e câmbio fixo promovida por Banco Mundial e FMI, também chamada 'neoliberalismo'.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 8,
+          "quote": "came to be known as the “Washington Consensus” and has also been called"
+        }
+      ]
+    },
+    {
+      "term": "Paradoxo de Lucas",
+      "definition": "Em teoria o capital deveria ir de países ricos para emergentes; na prática, os ricos receberam a maior parte, e desde o fim dos anos 1990 fluiu também capital de países pobres para ricos (reservas da China, fundos soberanos).",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Despite the return of capital flows, rich countries, not"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 5,
+          "quote": "until the global financial crisis of 2007-2008 was heavy capital flows toward"
+        }
+      ]
+    },
+    {
+      "term": "Quebra do 'hot money' e controles de capital",
+      "definition": "Controles para limitar fluxos de curto prazo reversíveis, como o desestímulo à saída rápida de capital no Chile; têm custos e podem ser evadidos.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 23,
+          "quote": "In Chile, the government penalized foreign capital that exited the country"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 23,
+          "quote": "international banks and fund managers have always been able to find ways"
+        }
+      ]
+    },
+    {
+      "term": "Bônus Brady",
+      "definition": "Securitização de empréstimos inadimplentes em títulos negociáveis, com colateral dos devedores e garantias dos EUA, que limpou balanços bancários e reativou o crédito.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "Treasury Nicholas F. Brady, who negotiated it, allowed unpaid loans to be"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "Brady bonds turned"
+        }
+      ]
+    },
+    {
+      "term": "Cláusulas de ação coletiva (CAC)",
+      "definition": "Permitem renegociar bônus soberanos por maioria qualificada em vez de unanimidade, repartindo perdas de forma mais equitativa; presentes em Nova York desde 2003.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 24,
+          "quote": "approval of a qualified majority of bondholders rather than unanimity"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 25,
+          "quote": "Since 2003, bonds issued in New York contain CACs. Bonds under British"
+        }
+      ]
+    },
+    {
+      "term": "Dívida odiosa",
+      "definition": "Dívida acumulada por governantes despóticos e sem representação popular, herdada pelos países.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 1,
+          "quote": "odious debt—national"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 27,
+          "quote": "The term “Odious Debt” evolved in"
+        }
+      ]
+    },
+    {
+      "term": "Condicionalidade e papel catalítico do FMI",
+      "definition": "Empréstimo standby condicionado a ações de política que sinalizam compromisso crível e levam o mercado a recuperar confiança.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 24,
+          "quote": "In the past, the IMF has imposed strict"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 24,
+          "quote": "Conditionality means that in"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Entre 1980 e 2014 houve 152 episódios de surtos e reversões de entrada de capital em 53 economias emergentes; em cerca de 25% deles houve crise financeira, frequência três vezes maior que a média da amostra.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "calculated that between 1980 and 2014 there were 152 episodes of surges and"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "25% of the cases, nations experienced a financial crisis. This frequency is"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 5,
+          "quote": "three times higher than the average incidence of crises in the entire sample"
+        }
+      ]
+    },
+    {
+      "fact": "Fluxos brutos chegaram a duas a três vezes o PIB em muitas economias avançadas na primeira década do século XXI; a China chegou a acumular mais de 4 trilhões de dólares em títulos dos EUA como reservas.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "gross flows expanding to two to three times GDP in many advanced countries"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 5,
+          "quote": "At its peak, the People’s Republic of China had accumulated more"
+        }
+      ]
+    },
+    {
+      "fact": "Correlação do consumo local com o dos EUA: cerca de 0,05 em 1950-1971 e 0,26 em 1973-2009 (Tabela 13.1); ainda bem abaixo de 1, o que seria integração perfeita.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "sumption between 1950 and 1971 was about 0.05 under the Bretton Woods"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "system and 0.26 between 1973 and 2009. This implies that closed capital"
+        }
+      ]
+    },
+    {
+      "fact": "Volcker elevou a taxa dos fundos federais de 11,5% em meados de 1979 para 17,5% em abril de 1980; em março de 1980 a alta foi de 14% para 17%; inflação nos EUA e em outros países líderes ficou entre 15% e 20%.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "eral funds rate from 11.5% in mid-1979 to 17.5% by April 1980. The largest"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "leading countries averaged 15% to 20%. Extremely low real interest rates in"
+        }
+      ]
+    },
+    {
+      "fact": "Indicadores tradicionais de dívida (reservas/dívida, dívida/exportações) não estavam críticos antes de 1982; na Tabela 13.2 a razão dívida/exportações média foi 106,6 em 1973 e 98,3 em 1980 (valores x 100).",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "As it turns out, none of these traditional indicators were all that"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "Unweighted Averages 106.6 1214 116.0 98.3"
+        }
+      ]
+    },
+    {
+      "fact": "Em 16/9/1992 os juros de curto prazo do Reino Unido subiram para 12% e foi anunciada alta a 15%; a libra caiu 5% contra o marco; Soros ganhou bilhões vendendo libras a descoberto.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "Another hike in interest rates up to 15% later in the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 12,
+          "quote": "George Soros, now a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 11,
+          "quote": "falls 5% overnight against the German mark, thus ending the"
+        }
+      ]
+    },
+    {
+      "fact": "Indicadores como dívida de curto prazo/reservas e dívida pública não estavam perto de níveis críticos antes da crise asiática.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "indicators such as short-term debt-to-reserve ratios, and public debt"
+        }
+      ]
+    },
+    {
+      "fact": "Perdas de produto no Leste Asiático de 5% a 10% após 1997, maiores se medidas contra a tendência; a pesquisa do autor com Stuckler e King associa as crises a problemas de saúde como infartos.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Output losses in the East Asian economies ranged"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 19,
+          "quote": "There was a rising incidence of heart attacks and other stress-related causes of"
+        }
+      ]
+    },
+    {
+      "fact": "Estudo de Kaminsky e Reinhart (1970-1995): crises mais prováveis com moeda e juros acima da tendência, câmbio real apreciado e exportações abaixo da tendência, mas resultados dependem de metodologia, países e anos.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 21,
+          "quote": "proposed that crises are more likely when the growth of the money supply"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 21,
+          "quote": "The problem with this line of research is that the results seem to be heavily"
+        }
+      ]
+    },
+    {
+      "fact": "Hong Kong tem currency board desde 1983, com a base monetária lastreada um para um em dólares; Equador e El Salvador adotaram o dólar.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Hong Kong’s currency board, successfully managed since 1983 by the Hong"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Ecuador and El Salvador officially substituted the dollar for their national"
+        }
+      ]
+    },
+    {
+      "fact": "Capacidade total de empréstimo do FMI limitada a 1 trilhão de dólares, sem poder de emitir moeda.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 24,
+          "quote": "simply not big enough, nor is it designed to play this role."
+        }
+      ]
+    },
+    {
+      "fact": "HIPC: dívidas médias de 120% do PIB; limiar sustentável de 150% de dívida/exportações; 32 de 40 países chegaram à conclusão até 2010; 37 qualificados em fevereiro de 2020; reduções de até 90% da razão dívida/PIB; custo de cerca de 76 bilhões de dólares em 2010.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 27,
+          "quote": "High debt ratios that averaged 120% of GDP in the HIPC countries"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "comparing the debt-to-export ratio to a sustainable ratio of 150%. Ifa country"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "had qualified. Such nations have seen real reductions in their debt-to-GDP"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 28,
+          "quote": "of debt reliefin 2010 as about $76 billion. Multilateral institutions themselves"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Inferência minha: o autor mistura teorias (primeira geração, autorrealizável, risco moral, contágio); na prova, classifique cada crise pelo mecanismo dominante e diga que Meissner admite combinações e que 'as causas das crises são tipicamente únicas'.",
+    "Inferência minha: a classificação causa/transmissor/economia política é mais nossa que do autor. Sugestão: causas = déficits, endividamento em moeda estrangeira, risco moral; transmissores = juros dos EUA, parada súbita e contágio; economia política = Consenso de Washington, FMI e governança/dívida odiosa.",
+    "Objeções do autor à evidência pró-liberalização: fraca relação com crescimento, risco compartilhado ainda baixo, e o 'enigma' da diversificação; o autor também reconhece que os anos 1950-60 tiveram crescimento alto, o que os críticos poderiam usar a favor da repressão financeira.",
+    "Objeções ao FMI: Stiglitz criticou a austeridade imposta; o autor registra que o FMI suavizou a condicionalidade depois, apoiou o alívio HIPC e ganhou transparência, mas segue pequeno.",
+    "O autor diz que a estratégia de acumular reservas (ex.: Coreia do Sul) parece 'combater a batalha de ontem'; é opinião do autor, não prova.",
+    "O OCR da página 12 (Figura 13.3) e da página 15 (Figura 13.4) é ruidoso; não citei trechos desses gráficos. A Tabela 13.2 (p. 11) está legível, mas só com valores médios e medianas de seis países.",
+    "O texto não traz o ano da obra; o capítulo é do livro One from the Many (Oxford University Press), com dados citados até 2021."
+  ],
+  "figures_note": [
+    "Página 2, Figura 13.1: ativos e passivos externos sobre o PIB mundial, 1970-2009, para economias de alta renda e emergentes; a extração só captura os eixos, não as séries.",
+    "Página 5, Figura 13.2: percentual de países com controles de capital por renda, 1950-2016; as linhas não foram capturadas.",
+    "Página 7, Tabela 13.1: correlações de consumo e produto em quatro regimes monetários (1880-2009); a tabela foi extraída com ruído e colunas desalinhadas. Usei apenas os valores citados no texto (0,05 e 0,26).",
+    "Página 11, Tabela 13.2: razões de dívida 1973-1980 (Argentina, Brasil, Chile, Colômbia, México, Venezuela); a extração está legível mas com alguns valores ambíguos (ex.: '1214'); consultar o original.",
+    "Página 12, Figura 13.3: taxas de câmbio contra o marco alemão, 1990-1995, para Reino Unido, Suécia, França e Itália; extração ilegível.",
+    "Página 15, Figura 13.4: taxas de câmbio contra o dólar em seis países (1994=100), 1994-2005; extração ilegível.",
+    "Página 18, Figura 13.5: PIB real contra a tendência em cinco mercados emergentes, 1989-2005; as curvas não foram capturadas."
+  ]
+}

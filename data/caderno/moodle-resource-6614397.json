@@ -1,0 +1,1017 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614397",
+  "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+  "lessons": [
+    28
+  ],
+  "authors": [
+    "Nicholas Crafts"
+  ],
+  "title": "The world economy in the 1990s: a long-run perspective",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Crafts, os anos 1990 trouxeram globalização sem precedentes (comércio, capital e TIC) e a continuação do crescimento rápido de China e Índia, mas não confirmam as promessas populares: a \"morte da distância\" foi muito exagerada, a \"nova economia\" não transformou milagrosamente o crescimento e a convergência neoclássica de Lucas parecia ainda distante, porque a geografia e sobretudo as instituições continuam a segurar a renda de África e da ex-União Soviética. O autor defende pensar convergência e divergência em termos de padrão de vida (expectativa de vida, IDH), o que atenua a \"divergência em grande escala\" de renda, ressalvando a ameaça da AIDS, e explica o recuo da Europa frente aos EUA depois de 1995 por uma capacidade social menos adequada à TIC.",
+  "question": "O que a experiência dos anos 1990, vista em perspectiva de longo prazo, ensina sobre crescimento, convergência e divergência, e exige repensar a sabedoria convencional sobre crescimento econômico?",
+  "argument": [
+    {
+      "claim": "Contexto: a década teve extensão e intensificação inéditas da globalização; o comércio mundial de mercadorias subiu de 12,7% para 18,8% do PIB mundial (1990-2000) e os ativos estrangeiros de 48,6% para 92,0% do PIB mundial, sustentados por menores custos de transporte e comunicação e por escolhas de política.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "increase in world merchandise exports relative to world GDP from 12.7 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "from 25.2 percent in 1980 to 48.6 percent in 1990, and further to 92.0 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "Obviously, this was facilitated by the more general adoption of policies of"
+        }
+      ]
+    },
+    {
+      "claim": "A TIC se consolidou como tecnologia de uso geral comparável a vapor e eletricidade, difundindo-se também em países de renda média e baixa.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "as a general-purpose technology deserving to be mentioned in the same breath"
+        }
+      ]
+    },
+    {
+      "claim": "Fatos novos da década: ascensão da China (parcela da produção manufatureira mundial de 2,7% para 7,0%), aceleração da Índia, colapso soviético e surgimento de cerca de vinte e cinco economias de transição, choque da AIDS sobre a expectativa de vida e perda da ultrapassagem europeia sobre os EUA a partir de meados dos anos 1990.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "in 1990 to 7.0 percent in 2000 and of world manufactured exports from 1.9"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "of rapid growth in China and the acceleration of growth in India, the two most"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "AIDS hit African countries very hard, and by the end of"
+        }
+      ]
+    },
+    {
+      "claim": "Contabilidade do crescimento: apesar da TIC, não houve retomada da PTF nos países industriais; o crescimento asiático dependeu mais de aprofundamento do capital (com possível exceção da China); a PTF seguiu negativa na África subsaariana. A leitura do autor é que as reformas do Consenso de Washington pouco mudaram as perspectivas de crescimento.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "whole there was no resurgence in TFP growth during the 1990s. On the contrary,"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "growth owed proportionately less to TFP growth and more to capital deepening"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 7,
+          "quote": "ington Consensus did little to transform growth prospects in the late twentieth"
+        }
+      ]
+    },
+    {
+      "claim": "Diferenças de renda entre países refletem muito lacunas de PTF, e não só de capital físico e humano; logo o modelo neoclássico de Solow com tecnologia universal e sua previsão de convergência final são pouco confiáveis.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "In other words, the pure neoclassical (Solow) model"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "based on universal technology is inapplicable, and, as such, its forecast of"
+        }
+      ]
+    },
+    {
+      "claim": "Em renda per capita houve \"divergência em grande escala\": a África caiu de 20,4% do nível dos EUA em 1870 para 5,2% em 2000, e a diferença absoluta subiu de 1.945 para 26.665 dólares de 1990 (Geary-Khamis). Nos anos 1990, porém, China e Índia reduziram a distância percentual em relação aos EUA, e a pobreza extrema (US$1 por dia) caiu, graças à Ásia, enquanto aumentou na África subsaariana.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "the US level in 1870, this had fallen to 9.4 percent by 1950 and to 5.2 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "gence experience, in that both China and India (together comprising about 37"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "This decrease came entirely from growth in East and South"
+        }
+      ]
+    },
+    {
+      "claim": "Ressalva central: em padrões de vida (IDH, expectativa de vida) não houve divergência em grande escala; as lacunas de África, China e Índia em relação à OCDE se estreitaram desde 1950, e ganhos de mortalidade valem proporcionalmente mais para países pobres. A AIDS ameaça reverter isso (perda de bem-estar equivalente a cerca de 80% do PIB per capita nos países mais atingidos).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "the long run and shows that gaps between Africa, China and India and the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "proportionate gains for poor countries have tended to exceed those of rich"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "South Africa, and Zimbabwe) could be equivalent to around 80 percent of GDP"
+        }
+      ]
+    },
+    {
+      "claim": "Globalização e crescimento: \"globalizadores\" cresceram muito mais que \"não globalizadores\" nos anos 1980 e 1990 (5,0% contra 1,4% nos 1990s); a abertura comercial ajuda o crescimento, em parte via instituições, mas os efeitos da mobilidade de capitais são muito mais discutíveis, por causa das crises financeiras. China e Tigres Asiáticos (salvo Hong Kong) foram \"Estados desenvolvimentistas\" e evitaram a crise de 1997 por não liberalizar a conta de capitais.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "On balance, the evidence does suggest that openness to trade is good for"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "mobility are much more debatable. Broadly speaking, in the absence of a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "because it had not liberalized the capital account of the balance of payments."
+        }
+      ]
+    },
+    {
+      "claim": "TIC e geografia: a \"morte da distância\" não ocorreu; a distância continuou a pesar muito em comércio, finanças, IDE e tecnologia, e o acesso a mercados explica cerca de 70% da variância das rendas mundiais. A TIC mudou o papel da geografia (offshoring, terceirização), sem aboli-la, e seus ganhos se difundiram globalmente pela queda de preços dos equipamentos.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "In fact, the evidence suggests that distance was very much still alive in"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "that distance from markets and suppliers “explained”"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 13,
+          "quote": "ing the role that geography plays in location decisions but not abolishing it."
+        }
+      ]
+    },
+    {
+      "claim": "Europa versus EUA: de 1950 a meados dos anos 1990 a produtividade cresceu mais na Europa (catch-up da era de ouro com capacidade social e contratos sociais), mas desde 1995 os EUA aceleraram, ligados à TIC. Crafts rejeita a tese simples de esclerose europeia: tributação e regulação afetaram sobretudo níveis (horas, emprego), não impediram o catch-up de produtividade até meados dos anos 1990; o que pesou foi regulação trabalhista (proteção ao emprego) e preço alto dos bens de capital de TIC, que reduziram o investimento em TIC.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Since 1995, however, the United States has experienced a productivity growth"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Catch-up in early postwar Europe was by no means automatic. It was based"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "Prior to the mid-1990s Europe had a strong record of faster productivity"
+        }
+      ]
+    },
+    {
+      "claim": "Convergência no século XXI: Lucas prevê convergência acelerada num mundo globalizado, mas o autor aponta dois obstáculos (geografia, que cria clubes de convergência, e instituições persistentes) e conclui que, ao fim dos anos 1990, a visão de Lucas ainda estava distante; o contraste é entre países da UE (reformas condicionadas) e a CEI/África (equilíbrio ruim).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Crescimento por acumulação de capital e por PTF: o crescimento asiático rápido nos anos 1990 foi mais de aprofundamento do capital (apoiado em taxas de poupança muito altas) do que de PTF; nos países da OCDE a PTF seguiu modesta. Inferência: isso torna a trajetória asiática dependente de poupança e sujeita a retornos decrescentes (Crafts aponta razões capital/produto menos favoráveis).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "growth owed proportionately less to TFP growth and more to capital deepening"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "relied on very high savings rates as incremental capital to output ratios became"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Instituições e políticas como causa da divergência de renda: no século XX houve grandes recompensas para países com boas instituições e políticas, e as penalidades por errar ficaram maiores depois da Segunda Guerra, quando o catch-up se tornou possível em mais lugares. Direitos de propriedade, contratos exequíveis e governo comprometido com a não predação são condição do catch-up; instituições ruins são persistentes.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "century there were big rewards for countries with good institutions and policy;"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "absence of well-deﬁned property rights, enforceable contracts and government"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "bad institutions are frequently persistent and, once in place, can be virtually"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Globalização (comércio e, com ressalvas, capital) como transmissor do crescimento: a abertura comercial beneficia o crescimento direta e indiretamente (via qualidade institucional); a abertura financeira tem efeito positivo de até um ponto percentual só na ausência de crise e com boas instituições, mas a globalização elevou a incidência de crises financeiras (Extremo Oriente 1997/98), que corroeu o ganho.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "On balance, the evidence does suggest that openness to trade is good for"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "of up to one percentage point is predicted (Edison"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "TIC como transmissor: a queda rápida dos preços dos equipamentos (Lei de Moore) transferiu os ganhos dos países produtores a usuários no mundo todo (\"economias sociais\" de Bayoumi e Haacker); a internet ampliou fornecedores e reduziu a vantagem da integração vertical, incentivando terceirização e importação.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 13,
+          "quote": "estimates of “social savings” from ICT by Bayoumi and Haacker (2002).5"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 13,
+          "quote": "suppliers of inputs, it has reduced the"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Geografia e economia da localização: com custos de transporte intermediários, ligações entre empresas atraem a atividade para o centro; a distância seguiu pesando (fluxos de comércio caem de 100 a 1.000 km para 7 a 8.000 km), e o acesso ao mercado é muito desigual. Crafts considera o efeito direto da geografia sobre o crescimento fraco frente a instituições e política.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "distance from markets and suppliers “explained”"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "growth regressions suggests that the direct inﬂuence of geography on growth is"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "weak relative to that of institutions and policy (Gallup, Sachs, and Mellinger,"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Capacidade social e contratos sociais do pós-guerra europeu: moderação salarial em troca de alto investimento num arranjo corporativista, com liberalização comercial e mais seguro social em troca de maior exposição ao risco externo. Esse legado, nos anos 1970, elevou gasto público, tributos e regulação de trabalho e produtos, e o autor sugere que soluções de ontem viram problemas de amanhã quando muda a tecnologia (inferência dele a partir do caso da TIC).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "“social contracts”"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 16,
+          "quote": "that facilitated wage moderation in return for high investment in a corporatist"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 22,
+          "quote": "may subsequently have become"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Proteção ao emprego e regulação como freio ao investimento em TIC na Europa: custos de demissão dificultam reorganizar o trabalho, necessário para colher os ganhos da TIC; a relação é negativa para investimento em TIC, não para investimento em geral. O efeito é limitado: eliminar a proteção deixaria menos da metade da diferença de investimento em TIC/PIB com os EUA.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "legislation. The rationale is that employment protection legislation, which raises"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "were as laissez-faire as the United States rather less than half of the gap in the"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Condicionalidade da UE: nos países da Europa Central e Báltica, a reforma institucional foi condição para a adesão, um prêmio valioso o bastante para sustentar coalizões pró-reforma e levar a rápida melhora do Estado de direito; na Rússia e na CEI, um equilíbrio ruim persistiu.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "conditionality in that institutional reform was a sine qua non"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "bad equilibrium has been established from which"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Doença e capital humano: a AIDS reverte o ganho histórico de expectativa de vida e pode criar uma nova divergência em padrões de vida, sobretudo na África; a incidência de HIV na China e na Índia no fim dos anos 1990 era semelhante à dos países africanos mais afetados cerca de doze anos antes.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "The incidence of HIV infection in China"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 22,
+          "quote": "threatens to reverse at a stroke one of the most remarkable achievements of"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "China",
+      "period": "1990-2000 (e 1870-2000)",
+      "outcome": "Crescimento per capita de 6,31% ao ano nos anos 1990; participação na produção manufatureira mundial de 2,7% para 7,0% e nas exportações de manufaturas de 1,9% para 4,7%; a PTF no quadro 2.5 está muito provavelmente superestimada; evitou a crise de 1997 sem abrir a conta de capitais.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "in 1990 to 7.0 percent in 2000 and of world manufactured exports from 1.9"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 23,
+          "quote": "Estimates for China present big problems. Those reported in table 2.5 almost certainly"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "because it had not liberalized the capital account of the balance of payments."
+        }
+      ]
+    },
+    {
+      "name": "Índia",
+      "period": "1990-2000",
+      "outcome": "Aceleração do crescimento per capita (3,87% ao ano), muito acima das economias maduras da OCDE; ainda com lacuna grande de renda em relação aos EUA e com 358,6 milhões abaixo de US$1 por dia em 2001; risco de epidemia de AIDS.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "of rapid growth in China and the acceleration of growth in India, the two most"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "26,000 for India. Here, however, the 1990s showed some respite from the"
+        }
+      ]
+    },
+    {
+      "name": "Tigres Asiáticos (Hong Kong, Singapura, Coreia do Sul, Taiwan)",
+      "period": "1950-2000",
+      "outcome": "Crescimento per capita de 5,98% (1950-73), 6,13% (1973-90) e 4,83% (1990-2000); renda de 43,0% para 56,9% da dos EUA entre 1990 e 2000; com exceção de Hong Kong, são exemplos de latecomer gerschenkroniano e não de globalizadores plenos.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "Similarly, the Asian Tigers – with the exception of Hong Kong – also fall into"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "The growth of these countries seems to be that of a modern-day"
+        }
+      ]
+    },
+    {
+      "name": "África subsaariana",
+      "period": "1870-2000",
+      "outcome": "Divergência: de 20,4% da renda dos EUA em 1870 a 5,2% em 2000; PTF negativa nos anos 1990, baixo aprofundamento do capital; pobreza extrema em alta (315,8 milhões abaixo de US$1 por dia em 2001); AIDS; sem sinal de catch-up.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "the US level in 1870, this had fallen to 9.4 percent by 1950 and to 5.2 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "Third, during the 1990s TFP growth continued to be negative in sub-Saharan"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "rapid catch-up growth in Africa, and the bounce-back of Latin America from"
+        }
+      ]
+    },
+    {
+      "name": "América Latina",
+      "period": "1980-2000",
+      "outcome": "Recuperação decepcionante após a crise da dívida dos anos 1980: crescimento per capita de 1,46% nos anos 1990; PTF e aprofundamento do capital fracos; indicador de Estado de direito em queda (-0,12 para -0,35 entre 1996 e 2002).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "rapid catch-up growth in Africa, and the bounce-back of Latin America from"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 7,
+          "quote": "ington Consensus did little to transform growth prospects in the late twentieth"
+        }
+      ]
+    },
+    {
+      "name": "Europa Ocidental versus Estados Unidos",
+      "period": "1950-2003",
+      "outcome": "Europa teve produtividade mais alta de 1950 a meados dos anos 1990 e superou os EUA em PIB por hora, mas a diferença de PIB per capita ficou estável porque as horas e a participação no emprego caíram; desde 1995 os EUA aceleraram (produtividade 1,9% contra 1,6% ao ano em 1995-2000), ligado à TIC.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Throughout the years from the early 1950s to the mid-1990s labour"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Since 1995, however, the United States has experienced a productivity growth"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "force participation offset the differential productivity performance, as table 2.11"
+        }
+      ]
+    },
+    {
+      "name": "Economias de transição: Europa Central/Báltica versus CEI",
+      "period": "anos 1990 e projeções de longo prazo",
+      "outcome": "Países que aderiram à UE em 2004 melhoraram rapidamente as instituições; CEI com Estado de direito baixo (Rússia -0,78 em 2002). Projeção de crescimento médio de 3,91% ao ano para a Europa Oriental e 2,38% para a CEI; o crescimento de dois dígitos de Lucas é improvável.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "countries, all now either EU member states or accession candidates, have rather"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "First, that the CIS countries, which have not for the most"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido, Irlanda, Alemanha, Suécia (países da UE)",
+      "period": "1973-2003",
+      "outcome": "Nos quadros 2.11 e 2.12, mostram diferenças de produtividade, horas e regulação em relação aos EUA; o Reino Unido, com proteção ao emprego muito fraca para os padrões europeus, tem forte contribuição do aprofundamento do capital em TIC.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "This may"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "also help to explain why the United Kingdom, with very weak employment"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Globalização (anos 1990)",
+      "definition": "Integração inédita de mercados de capitais e de produtos, apoiada em menores custos de transporte/comunicação e em escolhas de política (abertura comercial, liberalização financeira).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "extension and intensiﬁcation of globalization in terms of the international"
+        }
+      ]
+    },
+    {
+      "term": "\"Morte da distância\"",
+      "definition": "Ideia popular de que a TIC aboliria o peso da geografia; Crafts mostra que foi muito exagerada e que a TIC apenas modificou o papel da localização.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "“death of distance” (Cairncross, 2001)"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "“death of distance” was"
+        }
+      ]
+    },
+    {
+      "term": "Tecnologia de uso geral (GPT)",
+      "definition": "Tecnologia, como vapor e eletricidade, de aplicação ampla; a TIC tem esse estatuto, mas seus ganhos de produtividade demoram a se realizar.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "as a general-purpose technology deserving to be mentioned in the same breath"
+        }
+      ]
+    },
+    {
+      "term": "Contabilidade do crescimento / PTF",
+      "definition": "Técnica para identificar fontes imediatas do crescimento (PTF, educação, aprofundamento do capital); as estimativas de PTF têm erro de medida, sobretudo para comparar épocas.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "Growth accounting is a standard technique for identifying the proximate sources"
+        }
+      ]
+    },
+    {
+      "term": "Aprofundamento do capital",
+      "definition": "Aumento do capital por trabalhador; fonte principal do crescimento asiático nos anos 1990, apoiada em poupança muito alta.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 6,
+          "quote": "relied on very high savings rates as incremental capital to output ratios became"
+        }
+      ]
+    },
+    {
+      "term": "Divergência em grande escala (divergence big time)",
+      "definition": "Descrição de Pritchett para o alargamento dramático da diferença de PIB per capita entre os países mais pobres e mais ricos ao longo do século XX.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "widened dramatically"
+        }
+      ]
+    },
+    {
+      "term": "Convergência β e σ",
+      "definition": "β: países mais pobres crescem mais depressa; σ: redução da dispersão. Crafts cita Neumayer: componentes não monetários do IDH mostraram os dois tipos de convergência desde os anos 1960.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "exhibited both β- and σ -convergence"
+        }
+      ]
+    },
+    {
+      "term": "Índice de Desenvolvimento Humano (IDH)",
+      "definition": "Indicador baseado em renda, longevidade e educação, usado para mostrar que as lacunas de padrão de vida se estreitaram desde 1950 mesmo com divergência de renda.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "Consider the Human Development Index, which is based on income,"
+        }
+      ]
+    },
+    {
+      "term": "Globalizadores e não globalizadores",
+      "definition": "Classificação de Dollar e Kraay baseada na expansão do comércio em relação ao PIB; inclui China, Índia e outros 22 países entre os globalizadores.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "is based on the expansion of trade relative to GDP, and includes in the former"
+        }
+      ]
+    },
+    {
+      "term": "Estado desenvolvimentista / latecomer gerschenkroniano",
+      "definition": "Modelo de crescimento de China e Tigres (Coreia, Taiwan) com diversidade institucional e abertura limitada, em contexto de custos de transação altos e falhas de mercado.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "The growth of these countries seems to be that of a modern-day"
+        }
+      ]
+    },
+    {
+      "term": "Nova geografia econômica",
+      "definition": "Quando custos de transporte são muito altos ou muito baixos a atividade se dispersa; em níveis intermediários, ligações entre empresas atraem a atividade para o centro.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "When transport costs are"
+        }
+      ]
+    },
+    {
+      "term": "Capacidade social (Abramovitz)",
+      "definition": "Estruturas de incentivo que estimulam inovação e investimento, necessárias ao catch-up; depende também da natureza das oportunidades tecnológicas.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "on having “social capability” (Abramovitz, 1986)"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 18,
+          "quote": "depends not only on institutional arrangements and policy choices but on the"
+        }
+      ]
+    },
+    {
+      "term": "Paradoxo de Lucas",
+      "definition": "Observação de que o capital em geral não fluiu de países ricos para pobres; Lucas (2000) prevê que desapareça num mundo globalizado.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The “Lucas paradox” (Lucas,"
+        }
+      ]
+    },
+    {
+      "term": "Clubes de convergência",
+      "definition": "Cenário de vários grupos de países com diferentes níveis de renda de estado estacionário, em lugar de equalização total.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        }
+      ]
+    },
+    {
+      "term": "Condicionalidade",
+      "definition": "Uso de exigência de reforma institucional como condição para adesão à UE, que sustenta coalizões pró-reforma.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "conditionality in that institutional reform was a sine qua non"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Exportações mundiais de mercadorias/PIB mundial: 1,0% (1820), 4,6% (1870), 7,9% (1913), 9,0% (1929), 5,5% (1950), 10,5% (1973), 12,7% (1990), 18,8% (2000). Ativos estrangeiros/PIB mundial: 17,5% (1913), 8,4% (1930), 4,9% (1945), 25,2% (1980), 48,6% (1990), 62,0% (1995), 92,0% (2000). Tabela 2.1.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "increase in world merchandise exports relative to world GDP from 12.7 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "from 25.2 percent in 1980 to 48.6 percent in 1990, and further to 92.0 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 3,
+          "quote": "World merchandise exports/world GDP (%)"
+        }
+      ]
+    },
+    {
+      "fact": "Internet hosts por mil habitantes 1995/2000: Finlândia 42,2/200,2; EUA 21,1/179,1; Brasil 0,2/7,2; Suazilândia 0/1,4. Celulares por mil 1990/1999: Finlândia 52/651; EUA 21/312; Brasil 0/89 (tabela 2.2).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 2,
+          "quote": "Table 2.2 reports data on the spread of"
+        }
+      ]
+    },
+    {
+      "fact": "Produção manufatureira mundial: EUA/América do Norte 46,9% (1953), 35,1% (1973), 23,4% (1990), 26,4% (2000); Japão 16,8% (1990), 13,8% (2000); China 2,7% (1990) para 7,0% (2000); Reino Unido 22,9% (1880) para 3,5% (2000). Participação da China no estoque mundial de IDE: 1,4% (1990) a 5,8% (1999). Queda da participação europeia nas exportações de manufaturas em cerca de 12 pontos percentuais.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "in 1990 to 7.0 percent in 2000 and of world manufactured exports from 1.9"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "cent in 1990 to 4.7 percent in 2000. This represents the most dramatic arrival"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "pronounced decline in Europe’s share of manufactured exports by about"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento do PIB per capita (% ao ano, 1990-2000): China 6,31; Ásia (Tigres) 4,83; Índia 3,87; Europa Ocidental 1,76; EUA 1,95; América Latina 1,46; África 0,14. Em 1950-73 a Europa Ocidental fez 4,05 e os Tigres 5,98 (tabela 2.4).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 5,
+          "quote": "Table 2.4 Growth rates of real GDP per capita (percent per year)"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento da produtividade do trabalho 1990-2000 (% ao ano) e PTF: países industriais 1,5 (PTF 0,5); China 8,8 (PTF 5,3); Leste Asiático 3,4 (PTF 0,6; capital 2,3); América Latina 0,9 (PTF 0,4); Sul da Ásia 2,8 (PTF 1,2); África -0,2 (PTF -0,5). Na era de ouro 1950-73: França PTF 3,2, Japão 4,1, Alemanha Ocidental 3,6 (tabela 2.5).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 7,
+          "quote": "Table 2.5 Sources of labor productivity growth (percent per year)"
+        }
+      ]
+    },
+    {
+      "fact": "PIB per capita em dólares de 1990 (Geary-Khamis), 1870/1950/2000: África 500/894/1.464; China 530/439/3.425; Índia 533/619/1.910; Europa Ocidental 1.960/4.579/19.002; EUA 2.445/9.561/28.129. Em percentagem dos EUA: África 20,4% (1870), 5,2% (2000); China 21,7% (1870), 4,6% (1950), 12,2% (2000); Tigres 56,9% (2000) (tabela 2.6).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "Table 2.6 Levels of GDP per capita in 1990 dollars Geary–Khamis"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "the US level in 1870, this had fallen to 9.4 percent by 1950 and to 5.2 percent"
+        }
+      ]
+    },
+    {
+      "fact": "A diferença absoluta entre a África e os EUA subiu de 1.945 para 8.667 (1950) e 26.665 (2000) em dólares de 1990; a renda africana em 2000 era cerca de mil dólares menor que a dos EUA em 1870. China e Índia tinham, em 2000, defasagem de quase 25.000 e mais de 26.000.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "to 26,665 in 1990 dollars Geary-Khamis, while the level of real GDP per capita"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "1990 dollars Geary-Khamis, by 2000 it was nearly 25,000 for China and over"
+        }
+      ]
+    },
+    {
+      "fact": "Pobreza: população abaixo de US$1 por dia caiu de 1.481,8 milhões (40,4%) em 1981 para 1.092,7 milhões (21,1%) em 2001, queda de 126 milhões desde 1990 e de 389 milhões desde 1981; China 633,7 para 211,6 milhões; Índia 382,4 para 358,6; África subsaariana 163,6 para 315,8 (41,6% para 46,9%). Abaixo de US$2 por dia, o total subiu de 2.450,0 para 2.735,6 milhões; Europa Oriental e Ásia Central tiveram aumento forte (20,2 para 93,5 milhões) (tabela 2.7).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "the developing world in 2001, a reduction of 126 million since 1990 and of 389"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "on less than $1 per day fell to 1.09 billion or 21 percent of the population of"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "increase in poverty in Eastern Europe and Central Asia after the collapse of the"
+        }
+      ]
+    },
+    {
+      "fact": "IDH: África 0,271 (1950) para 0,478 (2001); China 0,225 para 0,721; Índia 0,247 para 0,590; América do Norte 0,774 para 0,937 (tabela 2.8). Valor da queda de mortalidade (Becker, Philipson e Soares, 1965-95): mais de 70% do PIB de 1995 para o Egito contra cerca de 15% para os EUA. Sem AIDS, o IDH da África em 2001 seria 0,531.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "Table 2.8 Human Development Index averages"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "1995 was worth over 70 percent of 1995 GDP whereas for the United States the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "not been affected by this disease, HDI in Africa would have been 0.531 in 2001,"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento do PIB per capita de globalizadores contra não globalizadores: anos 1960 1,4 contra 2,4; 1970 2,9 contra 3,3; 1980 3,5 contra 0,8; 1990 5,0 contra 1,4 (tabela 2.9, Dollar e Kraay).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "Table 2.9 The growth of real GDP per capita (percent per year)"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "category China and India along with twenty-two other countries. This might"
+        }
+      ]
+    },
+    {
+      "fact": "Efeitos da distância (fluxos relativos a 1.000 km = 100): comércio 42 (2.000 km), 18 (4.000 km), 7 (8.000 km); IDE 75, 56, 42; tecnologia 65, 28, 5. Acesso ao mercado mundial (América do Norte = 100): Europa Ocidental 92, Sudeste Asiático 52, América Latina 35, África subsaariana 34, Oceania 21 (tabela 2.10). A distância \"explica\" cerca de 70% da variância da renda mundial.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 13,
+          "quote": "Table 2.10 Distance, economic interactions, and world market access"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "that distance from markets and suppliers “explained”"
+        }
+      ]
+    },
+    {
+      "fact": "Serviços de negócios offshore chegaram a cerca de US$26 bilhões em 2001, concentrados em Índia e Irlanda, crescendo 30 a 40% ao ano; a General Motors se desfez da divisão de autopeças.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "McKinsey Global Institute (2003) has estimated that by"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "2001 offshored business services amounted to about $26 billion (skewed"
+        }
+      ]
+    },
+    {
+      "fact": "Europa/EUA: nível da produtividade e do PIB per capita (EU15 em relação aos EUA): produtividade -31% (1973), -12% (1990), -8% (2003); PIB per capita -29%, -30%, -29%. Crescimento da produtividade do trabalho 1995-2000: EU15 1,6% contra EUA 1,9% ao ano; 1973-90: 2,6% contra 1,2% (tabela 2.11). A diferença de PTF entre UE e EUA caiu de 20% (1979) para 10% (1995).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 15,
+          "quote": "Table 2.11 The relationship between real GDP and labor productivity in the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 16,
+          "quote": "Whereas the TFP gap between the European Union and the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 16,
+          "quote": "United States was 20 percent in 1979, by 1995 this had halved to 10 percent"
+        }
+      ]
+    },
+    {
+      "fact": "A contribuição da TIC à produtividade do trabalho em 1995-2000 foi de 1,2% ao ano nos EUA contra 0,6% na UE; o investimento em TIC na UE subiu de 2,2% do PIB (1990) para 2,9% (2000), valor que os EUA já gastavam em 1980. Restrições de oferta de bens e trabalho explicariam cerca de 40% da diferença de PIB per capita UE-EUA.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 16,
+          "quote": "to labor productivity growth in 1995–2000 in the United States was twice that"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "of GDP in 1990 to 2.9 percent of GDP in 2000, about what the United States"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 16,
+          "quote": "accounted for about 40 percent of the real GDP per capita"
+        }
+      ]
+    },
+    {
+      "fact": "Regulação (tabela 2.12): índice de proteção ao emprego (0-2) da mediana da UE 1,35 (1980-87) para 1,10 (1998), EUA 0,10; regulação de mercados de produtos (0-6) da mediana da UE 5,6 (1978) para 3,2 (1998), EUA 4,0 para 1,4; receitas tributárias distorcivas da mediana da UE 17,1% (1955) para 29,8% (2000) do PIB, EUA 19,1% para 24,9%.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 18,
+          "quote": "Table 2.12 Supply-side policy stances"
+        }
+      ]
+    },
+    {
+      "fact": "Estado de direito (escala de -2,5 a +2,5), 1996/2002: Europa da OCDE 1,63/1,65; Tigres 1,34/1,22; candidatos à UE 0,33/0,68; América Latina -0,12/-0,35; África -0,60/-0,71; Rússia -0,80/-0,78 (tabela 2.13).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "NB: The indicator is scaled from −2.5 to +2.5."
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "Table 2.13 The rule of law governance indicator"
+        }
+      ]
+    },
+    {
+      "fact": "Projeções de crescimento do PIB per capita: Eslováquia 5,32; República Tcheca 4,64; Polônia 4,09; média da Europa Oriental 3,91; Rússia 1,78; Geórgia 1,11; média da CEI 2,38% ao ano (tabela 2.14).",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "Table 2.14 Projections for the long-run growth of real GDP per"
+        }
+      ]
+    },
+    {
+      "fact": "Mesmo céticos acreditam que a tendência de crescimento dos EUA subiu em mais de meio ponto percentual com a TIC; mesmo assim a \"nova economia\" não foi uma transformação milagrosa.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 22,
+          "quote": "trend growth has risen by over half a percentage point (Gordon, 2003a), the “new"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 22,
+          "quote": "economy” was not the miraculous transformation of growth prospects that its"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Crafts diz que a avaliação é preliminar: \"too soon to tell\" o que os anos 1990 implicam para a análise do crescimento (p. 6); as conclusões são hipóteses, não prova.",
+    "Medidas de PTF são sujeitas a erro; comparações no tempo são menos confiáveis que entre países na mesma época. As estimativas da China para PTF e produto provavelmente estão muito exageradas (nota 2: superestimação de 1,7 p.p. na produtividade do trabalho e 1,6 p.p. na PTF não agrícola entre 1978 e 1998, segundo Young). Nota 4: a PTF pode estar subestimada em até 0,8% ao ano.",
+    "Ao colocar PTF 1950-73 (Maddison) junto com os períodos posteriores (Bosworth e Collins) o autor reconhece não comparabilidade estrita, que considera pouco importante (nota 1).",
+    "Inferência minha: a causa da alta de crescimento de globalizadores pode ser em parte reversa (países que crescem mais expandem o comércio); o texto apenas relata a classificação por expansão do comércio e diz que o resultado \"might be taken\" como favorável à globalização.",
+    "A explicação do recuo europeu depois de 1995 é apresentada como um conjunto de hipóteses (incentivos, atraso de difusão, ajuste à TIC) e não como resultado único; o próprio autor diz que o efeito da proteção ao emprego explicaria menos da metade da diferença de investimento em TIC.",
+    "Previsões de Lucas contra o ceticismo de Crafts: o autor usa projeções (tabela 2.14) baseadas em regressões de crescimento com qualidade institucional, que são sensíveis a premissas; o texto não faz cálculo próprio de convergência para África e ex-URSS, apenas afirma que o otimismo é difícil.",
+    "Objeção ao autor (inferência minha): seu argumento de que o IDH não diverge depende da escolha de um indicador composto; ele mesmo recomenda conceitos de renda baseados em utilidade (Nordhaus).",
+    "Qualidade da extração: o capítulo tem 23 páginas parcialmente por OCR; algumas ligaduras tipográficas (\"ﬁ\", \"ﬂ\") aparecem no texto extraído, e as citações transcritas os preservam. As tabelas foram extraídas com espaçamento irregular."
+  ],
+  "figures_note": [
+    "Páginas 3 a 5, 7 a 11, 13, 15, 18, 20 e 21: tabelas 2.1 a 2.14 foram extraídas como texto com espaçamento irregular. As colunas da tabela 2.3 (p. 4) sobre a Ásia nas exportações estão desalinhadas (linhas \"Rest of Asia\", \"South and South-East Asia\" e China), de modo que os números dessas linhas precisam ser conferidos no original.",
+    "Página 15: a tabela 2.11 (lacuna de PIB per capita entre UE e EUA e crescimento 1973-2003) é complexa; conferir sinais e colunas no original antes de citar números por país.",
+    "Página 1: capa só com o título da coletânea e organizadores (Paul W. Rhode e Gianni Toniolo); a página não traz conteúdo do capítulo. O ano da obra não consta no texto extraído."
+  ]
+}

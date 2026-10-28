@@ -76,7 +76,7 @@
 - Dependências: 9.
 
 ## 11. Aulas 24–28
-- [ ] Li (24); Frieden cap. 16 e Meissner cap. 13 (25); Bertola e Ocampo (26 e 27); Crafts (28).
+- [x] Li (24); Frieden cap. 16 e Meissner cap. 13 (25); Bertola e Ocampo (26 e 27); Crafts (28).
 - Verificação: `validate --scope priority` passa; segundo teste de suficiência com duas questões novas.
 - Dependências: 10.
 
