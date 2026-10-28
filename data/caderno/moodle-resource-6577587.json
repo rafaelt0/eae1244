@@ -1,0 +1,1366 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6577587",
+  "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+  "lessons": [
+    17
+  ],
+  "authors": [
+    "Mark Harrison"
+  ],
+  "title": "Resource mobilization for World War II: the U.S.A., U.K., U.S.S.R., and Germany, 1938-1945",
+  "year": 1988,
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Harrison, a Segunda Guerra foi decidida pela capacidade aliada de produzir muito mais munições que o Eixo, e comparar as economias de guerra exige medir a intensidade da mobilização (renda nacional e força de trabalho), corrigindo distorções de conceito e de contabilidade dos números tradicionais. Nessa medida, a mobilização soviética foi a mais intensa e, em 1943-44, mais equilibrada e sustentada que a alemã, apesar de a URSS partir de base menor, sem folga e sofrer invasão; a Alemanha mobilizou muita renda, mas com desequilíbrio entre soldados, trabalhadores da indústria bélica e civis.",
+  "question": "Quais fatores permitiram que o potencial superior dos Aliados se realizasse em produção de guerra nas diferentes economias, e como se comparam a preparação, a coordenação central e a intensidade da mobilização de EUA, Reino Unido, URSS e Alemanha, em especial a eficácia do esforço soviético?",
+  "argument": [
+    {
+      "claim": "Ponto de partida (Goldsmith, citado pelo autor): o que decidiu a guerra foi a capacidade dos Aliados de produzir muito mais munições que o Eixo. A pergunta de Harrison é que fatores realizaram esse potencial sob condições de combate; a URSS foi negligenciada na literatura comparativa porque os dados soviéticos demoraram a ser liberados.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "what won the war for them in the end was their ability to"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "produce more, and vastly more, munitions than the Axis.1"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "In contrast, Soviet experience has suffered neglect.3 The main reason is that"
+        }
+      ]
+    },
+    {
+      "claim": "O autor propõe um estudo comparativo da mobilização de recursos em três dimensões (preparação e necessidades; liderança e coordenação central; intensidade da mobilização) e adverte que é preciso eliminar distorções de conceito e medida nas estatísticas já estabelecidas para EUA, Reino Unido e Alemanha.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "How may the effectiveness of the Soviet economic war effort be compared with"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "political leadership and"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "distortions of concept and measurement from the comparative statistical record already established for"
+        }
+      ]
+    },
+    {
+      "claim": "Preparação (seção I): Alemanha e URSS arcaram com os maiores ônus de rearmamento prévio; o rearmamento britânico foi bem menor e os EUA praticamente não se prepararam. A Alemanha rearmou numa economia com desemprego, de modo que o gasto militar ocupou folga, e suas conquistas trouxeram retornos econômicos: suas vitórias foram 'baratas'.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "The most extensive economic burdens of war"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "rearmament was initiated in an"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "claimed only 7 per cent of the national income."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "perhaps 20 per cent"
+        }
+      ]
+    },
+    {
+      "claim": "A URSS foi o único adversário a tentar um contrapeso militar à Alemanha, mas partiu de base industrial de nível técnico mais baixo e já sobrecarregada (pleno emprego excessivo): o rearmamento acelerado só podia ser financiado subtraindo recursos do setor civil, sobretudo do consumo das famílias.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "The only country to attempt the building of a true military counterweight to"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "accelerated rearmament could only be financed by"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "subtracting resources from the civilian sector, especially from household"
+        }
+      ]
+    },
+    {
+      "claim": "O padrão de rearmamento diferiu: a Alemanha maximizou poder militar de curto prazo (armas e estoques para campanhas imediatas, grande efetivo), enquanto os adversários, sem poder escolher tempo e lugar da batalha, planejaram um conflito longo, com rearmamento 'intensivo' (mecanização e reequipamento). Em termos reais por soldado, a vantagem anglo-americana sobre a Alemanha virou um abismo até 1944; o resultado soviético ficou mais próximo do alemão, por causa da base de baixa produtividade e do custo alto do armamento em rublos.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "German rearmament tended to emphasize the maximization of specific kinds of short-term"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "Her adversaries, unable to choose the time or place of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 8,
+          "quote": "the relatively high rouble costs of Soviet weaponry and low rouble pay of conscripts."
+        }
+      ]
+    },
+    {
+      "claim": "A Alemanha liderou a produção de munições até 1940, mas, com compromissos de conquista e ocupação e limites à mobilização industrial, passou a depender de recrutamento de pessoal. Depois de 1940 sua produção subiu devagar e a aliada se multiplicou, de modo que a aceleração de 1943-44 veio tarde. O padrão aliado de guerra longa deu continuidade a programas e, na URSS, uma economia mais resiliente, com subcontratação civil pronta para conversão.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 8,
+          "quote": "After 1940 German munitions"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 8,
+          "quote": "production rose only slowly whereas Allied production multiplied."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 8,
+          "quote": "more resilient, more mobilized wartime economic"
+        }
+      ]
+    },
+    {
+      "claim": "Coordenação central (seção II): a URSS reagiu em 1941-42 com decretos e iniciativa individual no topo (evacuação industrial salvou a indústria de defesa) e com iniciativa de baixo; isso bastou para sobreviver no curto prazo, mas não formou uma economia coordenada. No fim de 1941 tudo fora da defesa estava desorganizado, e a 'regra por decreto' teve de dar lugar a administração legal-burocrática, consolidada no fim de 1942 num Bureau de Operações.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 9,
+          "quote": "saved Soviet specialized"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "One was the capacity of Soviet leadership for high-level initiative and individual"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "But everything else was in an utter shambles."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "By the end of 1942 this transition had been achieved."
+        }
+      ]
+    },
+    {
+      "claim": "Nos demais países: o Reino Unido coordenou por comitês e controles burocráticos centralizados (Beaverbrook foi exceção, e seu efeito pode ter sido menor ou até negativo); a Alemanha manteve autoridade pessoal (Führerprinzip) e responsabilidades divididas, e Speer não obteve centralização, deixando reservas intocadas; os EUA tiveram agências concorrentes e só após 18 meses um padrão coerente, sem nunca cair em economia de escassez.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "the rule was to fight the war by committee."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "Germany’s war economy presents the opposite case, where personal authority"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 12,
+          "quote": "remained full of untouched reserves-of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 12,
+          "quote": "Multiple high-level agencies with overlapping responsibilities"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 13,
+          "quote": "Alone of the major Allies, the United States never had to resort to direction of"
+        }
+      ]
+    },
+    {
+      "claim": "Intensidade (seção III): o autor critica a tese tradicional (Carroll) de que o Reino Unido (64%) estava mais mobilizado que os EUA (42%) e a Alemanha só igualou o pico britânico em 1944, apontando medidas incompatíveis, itens de capital, descompasso calendário/ano fiscal e uso de 'produto total disponível'. Corrigido, EUA e Reino Unido têm parcelas semelhantes no pico, e a Alemanha já era a mais mobilizada em 1943 pela parcela da renda.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 14,
+          "quote": "U.K. had committed no less than 64 per cent of her national income to the war"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 14,
+          "quote": "This finding is seriously misleading."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "two countries allocated similar shares of national income to reported"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "by 1943 Germany was the most"
+        }
+      ]
+    },
+    {
+      "claim": "Transferências internacionais: o Lend-Lease foi contado duas vezes (pelos EUA como gasto de segurança nacional e pelos receptores em seus orçamentos de guerra). Por isso o autor usa duas medidas: (I) utilização nacional dos recursos, independentemente da origem, e (II) financiamento doméstico, descontando importações líquidas; no pico, a medida (I) dá Reino Unido 57% contra EUA 47%, e a (II) inverte, EUA 53-54% contra 47% do Reino Unido.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "U.S. Lend-Lease transfers were double counted."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "Measure (II) shows the domestic finance of resources supplied to the war effort,"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "allocated more resources (irrespective of origin) to the war (57 versus 47 per cent of"
+        }
+      ]
+    },
+    {
+      "claim": "A URSS teve a mobilização de renda mais alta (até dois terços em 1942 pela medida doméstica, três quartos com recursos externos; 76% em 1943 pela utilização), embora sua renda real tenha caído mais de dois quintos em 1940-42, enquanto EUA e Reino Unido se beneficiaram de crescimento da renda real durante a guerra e a Alemanha, de crescimento menor.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "The U.S.S.R. showed a higher level of economic mobilization than either of her"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "In 1943, on a national utilization basis, the 1942 record was perhaps even"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "income grew by more than a quarter, and this supplied just over half the domestic"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "fell by more than two-fifths in 1940-2 under the impact of invasion and territorial"
+        }
+      ]
+    },
+    {
+      "claim": "Mobilização do trabalho (tabela 5): a URSS foi a mais intensa (quase um quarto da força de trabalho fardada e mais um terço em trabalho de guerra em 1943), depois o Reino Unido (45%) e os EUA (cerca de um terço). A Alemanha, apesar de 60% da renda mobilizada, quase não ampliou o emprego industrial de guerra (mulheres e horas pouco mudaram), porque o financiamento ia para um efetivo militar inchado em detrimento de equipamento e suprimento.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "The U.K. had achieved a higher degree of mobilization-45 per cent either in"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "The most intensive workforce mobilization among the Allies, however,"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "the industrial mobilization of labour remained at a relatively low"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "a privileged and bloated contingent of military personnel"
+        }
+      ]
+    },
+    {
+      "claim": "Limites: Reino Unido e URSS tiveram de evitar mobilização excessiva (racionamento centralizado de mão de obra, teto de 2 milhões para o exército britânico em março de 1941; a mobilização soviética de 1942 não duraria mais de um ano, e o alívio de 1943 foi condição para continuar). Os EUA nunca se aproximaram do excesso; a Alemanha passou da subutilização do trabalho à sobremobilização em 1944.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "avoid excessive mobilization of labour and other inputs for war."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "could not have been sustained for any longer than a"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "ceiling of two million on the size of the ground forces in March 1941.36 In the Soviet"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "The German economy, in contrast, passed almost directly from undermobilization of"
+        }
+      ]
+    },
+    {
+      "claim": "Recursos externos (tabela 6): todos menos os EUA dependeram muito de suprimento externo, com dependência de pico semelhante; Reino Unido e URSS via Lend-Lease, Alemanha via conquistas, prisioneiros e trabalho forçado.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "all except the United States relied heavily on external supply, and the degree of each"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "The U.S.S.R. was also heavily dependent on Lend-Lease, which may have"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "– 7.5 million by 1944."
+        }
+      ]
+    },
+    {
+      "claim": "Conclusão (seção IV): pela intensidade (não pela eficiência de uso), o desempenho soviético foi claramente superior ao nazista; a mobilização de 1942 foi provavelmente excessiva, mas estabilizada em 1943 e então mais equilibrada. O ônus da guerra foi muito mais severo para a URSS (única a sobreviver à invasão como Estado), e entre meados de 1941 e meados de 1944 seus recursos foram empregados contra a Alemanha com intensidade bem maior que os do Reino Unido ou da América do Norte.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "Soviet wartime economic performance was clearly superior to that of Nazi"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "country of World War II to survive invasion as a nation state."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 24,
+          "quote": "greater intensity than those of the United Kingdom or North America."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Folga prévia e pleno emprego: economias com capacidade ociosa e desemprego (Alemanha nos anos 1930, Reino Unido e EUA ao entrar na guerra) puderam expandir produção e renda real sem retirar recursos de outros usos; a URSS, já em emprego pleno e com base menor, só podia mobilizar subtraindo do consumo civil e sofreu queda da renda.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "rearmament was initiated in an"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "starting point (less than full employment"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "and with spare capacity which allowed substantial expansion of economic activity"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "subtracting resources from the civilian sector, especially from household"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Rearmamento 'intensivo' e preparação para guerra longa (Aliados) versus maximização de poder de curto prazo (Alemanha): o primeiro padrão gerou continuidade de programas e resiliência; o segundo depende de vitória rápida (Blitzkrieg).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "German rearmament tended to emphasize the maximization of specific kinds of short-term"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 8,
+          "quote": "more resilient, more mobilized wartime economic"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 9,
+          "quote": "The Blitzkrieg was aimed primarily at"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Intensidade da mobilização do produto e do trabalho (parcela da renda e da força de trabalho dedicada à guerra), distinta da eficiência: o autor mede só a intensidade e afirma que os dois aspectos são complementares.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "the intensity of resource use.43 Neither is sufficient on its own-a nation may be"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "intensity, rather than efficiency in the use of resources for warfare."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Estrutura de comando e coordenação central: a URSS passou do comando pessoal improvisado (1941) à administração burocrática centralizada (fim de 1942); o Reino Unido coordenou por comitês; a Alemanha manteve autoridade pessoal e responsabilidades divididas (Führerprinzip, Gauleiter, Sauckel, SS), com reservas intocadas; os EUA criaram agências concorrentes e só depois um controle central (Office of War Mobilization, maio de 1943).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "By the end of 1942 this transition had been achieved."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "the rule was to fight the war by committee."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 12,
+          "quote": "remained full of untouched reserves-of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 13,
+          "quote": "of policy also had to be secured, in May 1943, in the Office of War Mobilization"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Interesses privados e institucionais como barreira: na Alemanha, o Reich Labour Office resistiu à centralização do trabalho (preferindo trabalho escravo importado) e produtores de bens de capital garantiram alta formação de capital; na URSS, interesses locais e burocráticos não prevaleceram contra a centralização.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "Until D-Day the Reich Labour Office successfully"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "private interests of capital goods producers ensured a relatively high commitment of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 12,
+          "quote": "local traditions and bureaucratic"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Lend-Lease e suprimento externo como transmissor de recursos dos EUA para Reino Unido e URSS (e, no caso alemão, a extração de recursos e trabalho dos territórios ocupados): permitiu mobilização maior do que a base doméstica sustentaria e foi contado em dobro nas estatísticas tradicionais.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "U.S. Lend-Lease transfers were double counted."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "The U.S.S.R. was also heavily dependent on Lend-Lease, which may have"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "Her main source of credit"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Efeito de desequilíbrio da mobilização: mobilizar demais trabalho e insumos sem equilibrar frente, retaguarda e civis ameaça a continuidade do esforço; no Reino Unido, a regra foi um soldado para um trabalhador de defesa e dois civis, o que exigiu racionamento de mão de obra e teto ao exército. Na Alemanha, o desequilíbrio entre soldados, indústria e civis era insustentável.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "In the United Kingdom the maximum degree of mobilization consistent with"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "Behind the high"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "União Soviética",
+      "period": "1938-1945 (invasão em 1941; pico em 1942-43)",
+      "outcome": "Rearmamento prévio mais intenso entre os adversários da Alemanha; queda de mais de dois quintos da renda real em 1940-42; mobilização de até dois terços da renda em 1942 (pela medida doméstica) e 76% em 1943 (utilização); força de trabalho a 54% em 1943; evacuação industrial e transição de decretos para administração legal em 18 meses; alívio parcial em 1943 como condição de sustentabilidade; a mais intensa de todas.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "perhaps 20 per cent"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "fell by more than two-fifths in 1940-2 under the impact of invasion and territorial"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "The U.S.S.R. showed a higher level of economic mobilization than either of her"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 10,
+          "quote": "By the end of 1942 this transition had been achieved."
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "period": "1935-1945 (pico de renda mobilizada em 1943)",
+      "outcome": "Maior rearmamento prévio, em economia com desemprego, e vitórias baratas até 1941-42; 60% da renda em 1943 (três quartos com recursos externos) mas pouca mobilização do trabalho industrial, economia dividida e reservas intocadas; excesso de mobilização em 1944 após D-Day; colapso.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "Table 1 shows that in the years 1935-9 Germany"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "when the requirements of domestically financed resource mobilization had already"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "the industrial mobilization of labour remained at a relatively low"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "The German economy, in contrast, passed almost directly from undermobilization of"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido",
+      "period": "1935-1945",
+      "outcome": "Rearmamento tardio e limitado por doutrina financeira (7% da renda em 1938); depois de maio de 1940, economia de escassez com controles não-preço; renda cresceu mais de um quarto entre 1939 e 1943, financiando pouco mais da metade do esforço doméstico; 45% da força de trabalho em 1943; coordenação por comitês e sistema de racionamento de mão de obra.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "claimed only 7 per cent of the national income."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "the rule was to fight the war by committee."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "income grew by more than a quarter, and this supplied just over half the domestic"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "The U.K. had achieved a higher degree of mobilization-45 per cent either in"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "period": "1939-1945",
+      "outcome": "Praticamente sem rearmamento até 1940; produção de guerra cresceu em grande parte sem regulação no primeiro ano; renda real cresceu cerca de metade; até 47-54% da renda mobilizada em 1943-44; só cerca de um terço da força de trabalho mobilizada; nunca entrou em economia de escassez nem recorreu a serviço obrigatório universal ou direção do trabalho industrial.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "The United States abstained altogether from the rearmament process, defence"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "U.S. national income grew by about one-half in real terms; the increase was sufficient to"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 13,
+          "quote": "Alone of the major Allies, the United States never had to resort to direction of"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Mobilização de recursos (intensidade)",
+      "definition": "Parcela do produto nacional e da força de trabalho dedicada ao esforço de guerra; o autor a distingue da eficiência com que os insumos viram produtos úteis.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "intensity, rather than efficiency in the use of resources for warfare."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "the intensity of resource use.43 Neither is sufficient on its own-a nation may be"
+        }
+      ]
+    },
+    {
+      "term": "Medida (I): utilização nacional",
+      "definition": "Recursos usados no esforço de guerra, independentemente de sua origem, como parcela do produto; indica prioridades nacionais. É o limite superior para Reino Unido, URSS e Alemanha e o inferior para os EUA.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "Measure (I) shows the national utilization of resources supplied to the war"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "is the lower bound on measured mobilization of national income."
+        }
+      ]
+    },
+    {
+      "term": "Medida (II): financiamento doméstico",
+      "definition": "Gasto militar menos importações líquidas (para Reino Unido, URSS e Alemanha), como parcela do produto; mede a mobilização interna. Para os EUA usa-se o gasto de defesa reportado (limite superior).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "Measure (II) shows the domestic finance of resources supplied to the war effort,"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "resulting in a lower bound of measured national income mobilization."
+        }
+      ]
+    },
+    {
+      "term": "Dupla contagem do Lend-Lease",
+      "definition": "Bens militares americanos entregues a aliados entram uma vez como gasto de segurança nacional dos EUA e outra nos orçamentos dos receptores.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "U.S. Lend-Lease transfers were double counted."
+        }
+      ]
+    },
+    {
+      "term": "Economia de escassez (shortage economy)",
+      "definition": "Economia restrita por recursos e sujeita a regulação não-preço de população ativa, capacidade, bens de investimento, insumos, comércio exterior e varejo; o autor aplica o termo ao Reino Unido e à URSS, e diz que os EUA nunca a tiveram.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "regulation of the working population (its participation and distribution), of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 13,
+          "quote": "Such was the increase in participation,"
+        }
+      ]
+    },
+    {
+      "term": "Rearmamento 'intensivo'",
+      "definition": "Padrão de EUA, Reino Unido e URSS: alta alocação a mecanização e reequipamento, com planejamento de longo prazo, em contraste com o alemão, de grande força combatente com estoques limitados.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "rearmament pattern than that adopted by Germany, stressing a"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 6,
+          "quote": "military stockbuilding.11"
+        }
+      ]
+    },
+    {
+      "term": "Blitzkrieg",
+      "definition": "Estratégia alemã de surpresa e preempção em armas combinadas, voltada a vencer antes que o adversário mobilizasse seus recursos.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "The Blitzkrieg strategy helps to explain"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 9,
+          "quote": "The Blitzkrieg was aimed primarily at"
+        }
+      ]
+    },
+    {
+      "term": "Führerprinzip e responsabilidades divididas",
+      "definition": "Autoridade pessoal e divisão de responsabilidades econômicas entre figuras como Göring, Funk, Thomas, Todt e Speer, que dificultou a centralização na economia de guerra alemã.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 11,
+          "quote": "personal authority"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 12,
+          "quote": "Funk for the civilian economy under the"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Produção de munições de combate (US$ bilhões, preços de 1944), 1944: EUA 42, Alemanha 17, URSS 16, Reino Unido 11, Japão 6, Canadá 1,5. Em 1935-39 (média anual): Alemanha 2,4, URSS 1,6, Reino Unido 0,5, EUA 0,3. Em 1942: EUA 20, URSS 11,5, Reino Unido 9, Alemanha 8,5.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "U.S.A. 0.3 1.5 4.5 20 38 42"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "U.S.S.R. 1.6 5 8.5 11.5 14 16"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "Germany 2.4 6 6 8.5 13.5 17"
+        }
+      ]
+    },
+    {
+      "fact": "Antes da guerra, em 1935-39, a Alemanha adquiriu munições em volume igual ao de todos os seus futuros adversários somados; em 1938, o gasto militar alemão custava um sexto da renda nacional (17-18% na tabela 3).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "equal in real terms to the munitions production of all her future adversaries"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "expenditures were costing her one-sixth of her national income.6 Only the Soviet"
+        }
+      ]
+    },
+    {
+      "fact": "Defesa em 1938: Reino Unido, 7% da renda nacional. URSS: talvez 20% em 1940, mais que a Alemanha em 1938. A França teve preparação limitada e os EUA não rearmaram até 1940.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "claimed only 7 per cent of the national income."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "perhaps 20 per cent"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 5,
+          "quote": "The United States abstained altogether from the rearmament process, defence"
+        }
+      ]
+    },
+    {
+      "fact": "Razão munições/pagamento militar (tabela 2A): em 1940, EUA 4,2, Reino Unido 4,1, URSS 3,3, Alemanha 1,0; em 1942, EUA 3,9, Reino Unido 2,7, URSS 2,6, Alemanha 0,9. Em 1944 a URSS chega a 3,6 contra 2,4 (EUA) e 1,9 (Reino Unido).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 7,
+          "quote": "1940 4.2 4.1 3.3 1.0"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 7,
+          "quote": "1942 3.9 2.7 2.6 0.9"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 7,
+          "quote": "1944 2.4 1.9 3.6"
+        }
+      ]
+    },
+    {
+      "fact": "Munições por militar (tabela 2B, US$ de 1944 por homem): em 1942, EUA 5.400, Reino Unido 2.200, URSS 1.100, Alemanha 900; em 1944, EUA 3.700, Reino Unido 2.200, URSS 1.400, Alemanha 1.400.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 7,
+          "quote": "1942 5,400 2,200 1,100 900"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 7,
+          "quote": "1944 3,700 2,200 1,400 1,400"
+        }
+      ]
+    },
+    {
+      "fact": "Parcela do produto líquido mobilizada, medida (I)/(II) (tabela 3), 1943: EUA 47/53, Reino Unido 57/47, URSS 76/58, Alemanha 76/60. Em 1942: EUA 36/40, Reino Unido 54/43, URSS 75/66, Alemanha 69/52. Em 1944: EUA 47/54, Reino Unido 56/47, URSS 69/52. Em 1938: Reino Unido 7/2, Alemanha 17/18.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "1943 47 53 57 47 76 58 76 60"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "1942 36 40 54 43 75 66 69 52"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "1944 47 54 56 47 69 52"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1939-40, medida (I): EUA 1% (1939) e 1% (1940), Reino Unido 16% (1939) e 48% (1940), URSS 20% (1940), Alemanha 25% (1939) e 44% (1940).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "1939 1 2 16 8 … … 25 24"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "1940 1 3 48 31 20 20 44 36"
+        }
+      ]
+    },
+    {
+      "fact": "O pico da mobilização soviética doméstica ficou para trás em 1943: a vitória em Stalingrado, a recuperação do produto, a prioridade a aço, energia e transporte e o acesso ao Lend-Lease aparecem como fatores associados.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "of Soviet domestic resource mobilization was associated with military"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "victory at Stalingrad, with recovery of national output, rising priority being attached"
+        }
+      ]
+    },
+    {
+      "fact": "Produto real (tabela 4): EUA (1939=100) 149 em 1943 e 152 em 1944; Reino Unido (1938=100) 131 em 1943; URSS (1937=100) 66 em 1942, 77 em 1943, 93 em 1944; Alemanha (1939=100) 116 em 1943.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "1942 137 128 66 105"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "1943 149 131 77 116"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "1944 152 124 93"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento da renda e financiamento: a renda dos EUA cresceu cerca de metade em termos reais, suprindo todo o aumento do gasto de guerra doméstico exceto um terço; a do Reino Unido cresceu mais de um quarto (1939-43), suprindo pouco mais da metade; a da Alemanha cresceu menos, financiando até um terço do aumento do gasto militar; a da URSS caiu mais de dois quintos em 1940-42.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "income grew by about one-half in real terms"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "income grew by more than a quarter, and this supplied just over half the domestic"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "up to one-third of the"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "fell by more than two-fifths in 1940-2 under the impact of invasion and territorial"
+        }
+      ]
+    },
+    {
+      "fact": "Força de trabalho em esforço de guerra (tabela 5, % da população ativa): EUA 9,4 (1940) e 35,4 (1943); Reino Unido 18,6 (1939) e 45,3 (1943); URSS 14 (1940) e 54 (1943); Alemanha 18,3 (1939) e 37,6 (1943). Em 1943, forças armadas: EUA 16,4, Reino Unido 22,3, URSS 23, Alemanha 23,4.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1940 8.4 1.0 9.4"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1943 19.0 16.4 35.4"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1943 23.0 22.3 45.3"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1943 31 23 54"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1943 14.2 23.4 37.6"
+        }
+      ]
+    },
+    {
+      "fact": "Alemanha: emprego industrial de Grupo I praticamente estável (14,1% em 1939 e 14,2% em 1943); as mulheres foram apenas um quinto do aumento de 1 milhão da população ativa alemã entre 1939 e 1943, contra aumento do emprego feminino britânico (2,2 milhões) quase seis vezes o aumento da população ativa total.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 18,
+          "quote": "1939 14.1 4.2 18.3"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "women contributed a mere fifth of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 19,
+          "quote": "war economy, p. 78)."
+        }
+      ]
+    },
+    {
+      "fact": "Reino Unido: o ponto de equilíbrio sustentável foi um soldado para um trabalhador de defesa e dois civis; Churchill impôs em março de 1941 teto de 2 milhões para o exército (depois 2,4 milhões).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "by one worker in the defence industries and two more workers retained in the civilian"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 20,
+          "quote": "ceiling of two million on the size of the ground forces in March 1941.36 In the Soviet"
+        }
+      ]
+    },
+    {
+      "fact": "Dependência externa (tabela 6, % da renda): Reino Unido 17 (1940), 14 (1941), 10 (1943); URSS 9 (1942), 18 (1943), 17 (1944); Alemanha 12 (1941), 17 (1942), 16 (1943); EUA com valores negativos (exportador líquido, -6 em 1943-44).",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "1940 -2 17 … 7"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "1943 -6 10 18 16"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "1944 -6 9 17"
+        }
+      ]
+    },
+    {
+      "fact": "Reino Unido: em 1944 quase 40% dos armamentos vieram do exterior; as importações líquidas no conjunto da guerra superaram um ano de renda nacional pré-guerra; o Lend-Lease foi cerca de 15% do gasto militar dos EUA e até 6% de sua renda nacional.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "by 1944 almost 40 per cent of Britain’s armaments came"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "Britain imported net resources"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 21,
+          "quote": "valued at more than one year’s pre-war national income."
+        }
+      ]
+    },
+    {
+      "fact": "URSS: Lend-Lease pode ter equivalido a um sexto do NNP soviético em 1943-44; até um quarto dos aviões (final de 1943) e até um quinto dos tanques (1942) vieram do exterior; caminhões, tratores e comida enlatada americanos deram mobilidade ao Exército Vermelho.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "supplied resources equal to one-sixth of Soviet NNP at 1937 factor cost in 1943-4."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "overseas sources contributed up to one-quarter of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "tractors, and tinned food provided the Red Army with decisive mobility in its"
+        }
+      ]
+    },
+    {
+      "fact": "Alemanha: importou recursos equivalentes a cerca de um sexto da renda em 1942-43, além de 7,5 milhões de prisioneiros de guerra e trabalhadores forçados até 1944; a URSS usou até 4,3 milhões de prisioneiros alemães e japoneses.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "worth (again) nearly one-sixth of her national income."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "– 7.5 million by 1944."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 22,
+          "quote": "forced labour of up to 4.3 million German and"
+        }
+      ]
+    },
+    {
+      "fact": "Frentes de combate (Goldsmith): os alemães produziram mais de US$ 50 bilhões de armamento para a frente oriental contra cerca de US$ 60 bilhões do lado soviético (com recursos externos); no oeste, os Aliados dispuseram de mais de US$ 100 bilhões contra cerca de US$ 40 bilhões de Alemanha e Itália. De junho de 1941 a janeiro de 1944, as forças soviéticas enfrentaram sempre ao menos 90% das tropas terrestres de linha de frente alemãs.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 24,
+          "quote": "billion. On the western front, in contrast, the Allies disposed of well over $100 billion"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 24,
+          "quote": "Soviet armed forces always faced at least 90 per cent of Germany’s"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "the Germans produced over $50 billion of weaponry for use on the eastern"
+        }
+      ]
+    },
+    {
+      "fact": "Correção de Carroll: o autor mostra que a diferença entre PNB a preços de mercado e PNL a custo de fatores nos EUA superava um quinto do PNB em tempo de guerra, e que os gastos militares dos EUA eram 41,9% do PNB a preços correntes em 1944.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 14,
+          "quote": "amounted to more than one-fifth of GNP."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 14,
+          "quote": "United States war outlays are estimated in proportion to GNP at current prices"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Escopo: o autor mede só intensidade da mobilização, não eficiência no uso dos recursos; ele próprio diz que nenhuma das duas basta sozinha (a conclusão sobre superioridade soviética vale 'por esse padrão').",
+    "Qualidade dos dados: os números soviéticos e alguns britânicos têm incerteza declarada (apêndices A, B e C sob consulta ao autor); a série soviética está a custo de fatores constante de 1937, o que acompanha melhor mudanças reais mas não o sacrifício corrente do uso não bélico; os dados alemães deixam de ser confiáveis depois de 1943.",
+    "As partes dos EUA, Reino Unido e URSS não são plenamente comparáveis: o autor adverte que as parcelas de força de trabalho (tabela 5) não devem ser comparadas de perto com as de renda (tabela 3), por diferenças de cobertura e definição.",
+    "Objeções do autor a outros: a tese tradicional de Carroll (e Weeks) de que o Reino Unido estava mais mobilizado que os EUA e de que a Alemanha só igualou o pico britânico em 1944 é rejeitada por medidas incompatíveis, itens de capital, calendário/ano fiscal e dupla contagem do Lend-Lease; Overy é criticado por inferir perdas de consumo alemãs da parcela militar alta, pois soldados passaram a ser sustentados pelo orçamento militar (mas o desequilíbrio militar-industrial é real).",
+    "Ambiguidade interpretativa (inferência minha): o texto diz que em 1943 a Alemanha era a mais mobilizada pela parcela da renda, mas na tabela 3 a medida (I) mostra URSS e Alemanha ambas com 76% em 1943; a diferença aparece na medida (II) (Alemanha 60, URSS 58) e os trechos de conclusão tratam o pico soviético como equivalente ao alemão.",
+    "O texto não discute em profundidade a vitória militar em si (aérea e naval, Exército Vermelho) nem destruição física e baixas; a hipótese de 'o que venceu foi produzir mais' vem de Goldsmith e o autor a aceita como ponto de partida, sem testá-la contra explicações alternativas (inferência minha; essas hipóteses são tratadas nos slides).",
+    "Papel dos líderes: o autor afirma que erros de Hitler eram fatais e os de Stalin passaram a ter importância decrescente depois de 1941 e do cerco de Stalingrado; que a liderança individual (Beaverbrook) pode ter pesado menos que fatores impessoais; é leitura qualitativa, apoiada em fontes secundárias.",
+    "A tabela 1 (Goldsmith) é uma estimativa de 1946 em preços americanos de 1944; a estimativa da produção soviética tem confiabilidade discutida (apêndice A)."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "A guerra foi vencida pela capacidade aliada de produzir muito mais munições que o Eixo; a produção dependia de três fatores: situação prévia (desenvolvimento, folga ou pleno emprego, tempo de preparação), capacidade de coordenar recursos de forma central e sustentável, e intensidade de mobilização do produto e do trabalho. É a estrutura da leitura de Harrison.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 7,
+          "quote": "a guerra foi vencida pela capacidade aliada de produzir muito mais munições que o Eixo"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 7,
+          "quote": "2) a capacidade de coordenar recursos de forma centralizada e sustentável."
+        }
+      ]
+    },
+    {
+      "point": "Preparação: Alemanha (Segundo Plano Quadrienal 1936; gasto militar de cerca de 18% do PIB em 1938-39; 2/3 do investimento industrial a projetos militares; PIB cresceu 3x mais que os gastos militares em 1932-38) contra Reino Unido (rearmamento lento a partir de 1935, medo de instabilidade financeira), EUA (gasto de defesa de 1,4% em 1940 e mais de 37% em 1945) e URSS (gasto crescente nos anos 1930 e trabalho de cerca de 2 milhões no Gulag).",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 8,
+          "quote": "Alemanha iniciou sua preparação para a guerra já em 1936, com o Segundo Plano Quadrienal."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 9,
+          "quote": "PIB de 32-38 cresce 3x mais que os gastos militares;"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 10,
+          "quote": "medo de instabilidade financeira maior que medo de agressões externas;"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 11,
+          "quote": "O gasto com defesa foi 1,4% em 1940 e atingiu mais de 37% do PIB em 1945."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 12,
+          "quote": "com algo em torno de 2 milhões de pessoas."
+        }
+      ]
+    },
+    {
+      "point": "Padrões de rearmamento e economias de guerra: Alemanha buscava ganhos militares imediatos (Blitzkrieg); URSS, Reino Unido e EUA planejaram guerras longas, com rearmamento mais intensivo. URSS e Reino Unido viveram 'economia de escassez'; os EUA foram a única potência a lutar uma 'guerra total' sem escassez, com produção em massa fordista e Lend-Lease.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 14,
+          "quote": "Alemanha focava em ganhos militares imediatos"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 16,
+          "quote": "Tanto URSS quanto Reino Unido viveram uma"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 18,
+          "quote": "Não houve destruição de infraestrutura e as linhas de suprimento internas nunca foram interrompidas."
+        }
+      ]
+    },
+    {
+      "point": "Coordenação: o sistema alemão funcionava de modo oposto ao soviético, baseado na autoridade pessoal de Hitler e em responsabilidades fragmentadas; a Alemanha não superou barreiras institucionais e ideológicas à coordenação central. Na URSS, improvisação e comando pessoal tiveram papel central no início; no Reino Unido, comitês e estruturas burocráticas.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 17,
+          "quote": "A economia de guerra alemã funcionava de modo oposto à soviética;"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 17,
+          "quote": "Alemanha não conseguiu superar barreiras institucionais e ideológicas para coordenar centralmente seus recursos."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 16,
+          "quote": "na URSS improvisação e o comando pessoal tiveram papel inicial central;"
+        }
+      ]
+    },
+    {
+      "point": "Medidas de mobilização: medida (I) é o tamanho do esforço real, independentemente da origem; medida (II) é o financiamento doméstico (desconta importações líquidas para Reino Unido, URSS e Alemanha; soma exportações militares para os EUA).",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 20,
+          "quote": "Medida (I) - tamanho do esforço real de guerra"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 20,
+          "quote": "Medida (II) - Financiamento Doméstico"
+        }
+      ]
+    },
+    {
+      "point": "Alemanha na guerra: já em 1943 era o país mais mobilizado em parcela da renda (60% do produto, ou 75% com recursos externos), mas sem mobilizar proporcionalmente a força de trabalho industrial, com muito gasto em soldados e pouco em equipamento; estimativa de 28,6% do custo do esforço de guerra alemão vindo da extração dos países ocupados.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 25,
+          "quote": "Alemanha já em 1943 era o país mais mobilizado em termos de participação da renda nacional dedicada à guerra"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 25,
+          "quote": "muito gasto com soldados, relativamente pouco com equipamento e suprimento;"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 24,
+          "quote": "Uma estimativa é que 28,6% do custo com o esforço de guerra alemão resultaram da extração de recursos dos países ocupados."
+        }
+      ]
+    },
+    {
+      "point": "Reino Unido: renda 27% acima da de 1938 em 1943, financiando mais da metade do esforço; consumo das famílias caiu de 78,8% (1938) para 51,9% (1943); 45% da força de trabalho mobilizada, equilíbrio de um soldado para um trabalhador de defesa e dois civis, alocação centralizada de mão de obra e teto de 2 milhões de soldados (1941).",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 26,
+          "quote": "de 78,8% in 1938 para 51,9% em 1943"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 27,
+          "quote": "45% da força de trabalho mobilizada."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 27,
+          "quote": "Churchill impôs em 1941 um teto de 2 milhões de soldados no exército."
+        }
+      ]
+    },
+    {
+      "point": "URSS: mobiliza recursos em colapso econômico (renda caiu quase 40% entre 1940 e 1942, mobilização de 75% em 1942, quase 25% da força de trabalho na guerra e mais um terço em produção de guerra); a redução parcial em 1943 foi condição de sobrevivência. Foi o segundo maior receptor de Lend-Lease, atrás do Reino Unido, e dependeu de alumínio americano para a produção de aviões.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 29,
+          "quote": "renda nacional caiu quase 40% entre 1940 e 1942"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 29,
+          "quote": "a redução parcial em 1943 foi uma condição de sobrevivência para manter a guerra até a vitória"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 28,
+          "quote": "a URSS tornou-se o 2o maior receptor de recursos do Lend-Lease"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 36,
+          "quote": "o aumento só foi viabilizado pela transferência de alumínio dos Estados Unidos via Lend-Lease"
+        }
+      ]
+    },
+    {
+      "point": "EUA: aumento da renda real em mais de 50%, produção de guerra de 0% do PIB em 1939 para 40% em 1943, 54% da renda mobilizada no auge, US$ 47 bilhões em Lend-Lease (1941-45), cerca de 1/3 da população ativa no esforço de guerra, alta produtividade sem economia de escassez.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 30,
+          "quote": "maior beneficiário da guerra"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 30,
+          "quote": "47 bilhões de dólares entre 1941-45 em Lend-lease;"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 31,
+          "quote": "Cerca de 1/3 da população ativa estava no esforço de guerra"
+        }
+      ]
+    },
+    {
+      "point": "Resumo do professor: a URSS chegou ao limite em 1942 e precisou aliviar; o Reino Unido evitou o colapso com planejamento e limites; a Alemanha sacrificou a eficiência por um exército inchado; os EUA, com abundância, mantiveram alta produtividade sem escassez.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 32,
+          "quote": "A URSS chegou ao limite em 1942 e precisou aliviar."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 32,
+          "quote": "A Alemanha sacrificou a eficiência por um exército inchado."
+        }
+      ]
+    },
+    {
+      "point": "Interpretações da derrota do Eixo (além de Harrison): (a) derrota no campo de batalha pelo Exército Vermelho após Barbarossa; (b) superioridade aérea e naval dos Aliados (O'Brien), com destruição pré-produção, da capacidade de produção e anulação do emprego dos equipamentos; também importam capacidade industrial, acesso a matérias-primas (bauxita) e prioridade a navios e aviões. A leitura de Harrison (produzir mais e mobilizar com intensidade) se liga ao argumento da capacidade industrial.",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 33,
+          "quote": "os Nazistas foram derrotados principalmente pelo Exército Vermelho"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 33,
+          "quote": "os Nazistas foram derrotados militarmente sobretudo pela superioridade do poder aéreo e naval dos Aliados (O'Brien)."
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 34,
+          "quote": "i) destruição pré-produção"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 36,
+          "quote": "Alemanha e Japão sofreram restrições crescentes de abastecimento dessas matérias-primas."
+        }
+      ]
+    },
+    {
+      "point": "Questões propostas pelo professor: (1) O que distinguiu a preparação econômica e militar para a guerra entre os países que entraram no conflito a partir de 1939? (2) Compare os resultados da mobilização de guerra dos países; houve beneficiados ou só perdedores? (3) Discuta possíveis hipóteses sobre a derrota do Eixo e as compare; qual parece a mais plausível?",
+      "refs": [
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 39,
+          "quote": "O que distinguiu a preparação econômica e militar para a guerra entre os países que entraram no conflito a partir de 1939?"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 39,
+          "quote": "Houve beneficiados ou só perdedores?"
+        },
+        {
+          "file_id": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
+          "pdf_page": 39,
+          "quote": "Qual parece a mais plausível?"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "Texto, p. 2 (tabela 1), p. 7 (tabela 2, partes A e B), p. 16 (tabela 3), p. 17 (tabela 4), p. 18 (tabela 5) e p. 22 (tabela 6): as tabelas estão extraídas como texto, mas a formatação em colunas é ruidosa; confira os valores com o original antes de citar números exatos (especialmente os pontos '…' de dados ausentes).",
+    "Slides, p. 13 (tabela 2, munições e efetivos), p. 19 (tabela 3, mobilização do produto líquido), p. 21 (tabela 4, produto nacional real), p. 22 (tabela 1.3, PIB de guerra das grandes potências 1938-45), p. 23 (tabela 5, força de trabalho), p. 37 (tabela 1.11, perdas por destruição física) e p. 38 (tabela 3, baixas de guerra 1938-45, Klemann e Kudryashov 2012): são imagens/tabelas sem texto extraído; as tabelas 1.3, 1.11 e de baixas não estão em Harrison, devem ser lidas no original dos slides."
+  ]
+}

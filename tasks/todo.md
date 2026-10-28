@@ -71,7 +71,7 @@
 - [ ] Você revisa as três entradas e o formato antes de ampliar.
 
 ## 10. Aulas 17, 20, 21–23
-- [ ] Harrison (17); texto sobre a Europa (20); Allen e Eichengreen (21–22); Rodrik (23), cada um com `professor_emphasis` quando houver slides.
+- [x] Harrison (17); texto sobre a Europa (20); Allen e Eichengreen (21–22); Rodrik (23), cada um com `professor_emphasis` quando houver slides.
 - Verificação: `validate` por entrada; conferência manual por amostragem.
 - Dependências: 9.
 

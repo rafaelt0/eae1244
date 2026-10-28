@@ -1,0 +1,1284 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614378",
+  "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+  "lessons": [
+    21,
+    22
+  ],
+  "authors": [
+    "Robert C. Allen"
+  ],
+  "title": "The rise and decline of the Soviet economy",
+  "year": 2001,
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Allen, a URSS cresceu rápido de 1928 a cerca de 1970 porque acumulou capital depressa e deu emprego industrial a uma mão de obra rural subempregada, graças à prioridade à indústria pesada e às metas de produção com restrição orçamentária branda (soft budget); a coletivização e o terror de Stalin pouco acrescentaram. O crescimento caiu depois de 1970 porque o excedente de trabalho se esgotou e a liderança respondeu com decisões de investimento desastrosas (reconstrução de fábricas velhas e exploração da Sibéria), agravadas pela corrida armamentista que desviou P&D civil; ele rejeita tanto a explicação por falha de incentivos quanto a leitura de simples retornos decrescentes ao capital.",
+  "question": "Por que a economia soviética cresceu tão rápido de 1928 a cerca de 1970 e por que seu desempenho se deteriorou de forma tão abrupta depois disso?",
+  "argument": [
+    {
+      "claim": "Allen contesta a leitura dominante de que o socialismo soviético foi um fracasso desde sempre (incentivos ruins e problemas de agente-principal): em certos aspectos e épocas a economia teve bom desempenho, em outros não, e é preciso analisar o que funcionou e o que falhou.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 2,
+          "quote": "The predominant interpretation today is failure – Soviet"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 2,
+          "quote": "the condemnation of the economy is too sweeping: in certain respects and in certain times, it performed"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 3,
+          "quote": "Para Allen - deve-se analisar com cautela"
+        }
+      ]
+    },
+    {
+      "claim": "O desempenho divide-se em dois por volta de 1970. Até lá, medida pelo PIB per capita, a URSS foi a economia não pertencente à OCDE mais bem-sucedida, cresceu acima da regressão de convergência da OCDE e foi talvez a segunda mais bem-sucedida do mundo, atrás do Japão.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 2,
+          "quote": "The growth record divides in two sometime around"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "It was the most successful non-OECD country in this period."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "was arguably the second most successful economy in the world."
+        }
+      ]
+    },
+    {
+      "claim": "Allen responde a três objeções ao rótulo de sucesso: (1) repressão e fome da coletivização, que na simulação elevaram o crescimento só um pouco, enquanto as políticas decisivas não tiveram consequências tão graves; (2) consumo estagnado, tese de Bergson baseada em dados dos anos 1950, pois evidências posteriores indicam alta de um quarto no consumo per capita nos anos 1930, concentrada na população urbana; (3) padrão de vida abaixo do ocidental, pois o grupo de comparação correto são países com renda semelhante em 1928, e a URSS superou todos, exceto o Japão.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "state terrorism accompanying the collectivization of agriculture did increase growth"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "per capita consumption increased by one-quarter in the 1930s.2 The gains accrued to the urban population"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "similar level of income in 1928. The USSR outperformed all of those countries"
+        }
+      ]
+    },
+    {
+      "claim": "A narrativa central é de acumulação de capital: em 1928 a URSS era uma economia com capital escasso e trabalho excedente, e cresceu por meio século enquanto a taxa de investimento era empurrada para cima; por volta dos anos 1970 essa fase terminou porque todos tinham emprego.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "Capital accumulation will be the protagonist in the narrative proposed here."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "1928 the USSR was a capital-scarce, labour-surplus"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "By the 1970s this phase of growth was"
+        }
+      ]
+    },
+    {
+      "claim": "Para explicar a alta do investimento (de 8% em 1928 para mais de 20% em meados dos anos 1930), Allen examina três políticas: a alocação de bens de produção para o próprio setor produtor (aço e máquinas), a coletivização agrícola (a pergunta de Nove: Stalin era necessário?) e as metas de produção com crédito que tornaram a restrição orçamentária branda.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The investment rate was pushed up from"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "As Alec Nove ~1964! put it: Was Stalin Necessary?"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The third was the use of output targets and the corresponding provision of soft"
+        }
+      ]
+    },
+    {
+      "claim": "Por simulações contrafactuais cada vez mais distantes da experiência soviética, ele mostra que a estratégia de investimento em indústria pesada e o soft budget bastam para explicar a acumulação: o estoque de capital simulado para 1939 fica a 0,2% do valor real, e a coletivização acrescenta só 8%.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Two factors were of cardinal importance in promoting"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The strategy of investing in heavy industry"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+        }
+      ]
+    },
+    {
+      "claim": "Conclusões institucionais do autor: a NEP (camponeses preservados, mercado entre cidade e campo) era um quadro propício à industrialização rápida e Stalin não foi necessário; o desenvolvimento autárquico do setor de bens de produção foi viável, sem seguir a vantagem comparativa; e o planejamento de metas com soft budget mobilizou mão de obra que ficaria desempregada.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Stalin, in other words, was not necessary."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Exporting wheat and importing machinery – that is,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "central planning of firm output in conjunction with the soft-budget constraint was"
+        }
+      ]
+    },
+    {
+      "claim": "Para a queda pós-1970, Allen apresenta três histórias: falha tecnológica (a usual entre sovietólogos), retornos decrescentes ao capital (sem papel para erro de política) e a sua, de erros de investimento. A queda não é coincidência no tempo: o fim do trabalho excedente criou desafios que a liderança comunista tratou mal.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        }
+      ]
+    },
+    {
+      "claim": "Contra a falha tecnológica ele levanta três dúvidas: problema de cronologia (as instituições de P&D e seus incentivos eram antigos e não mudaram em 1970), desincentivos à inovação menos fortes do que se crê (houve experimentação nas fábricas, como no cimento) e um evento externo coincidente, a corrida armamentista, que desviou recursos de P&D do setor civil para o militar. Se a Guerra Fria causou a queda da produtividade, explica mais da metade da desaceleração.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 8,
+          "quote": "First, there is a timing problem."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "much experimentation went on."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "then it accounts for over half of the Soviet growth slowdown."
+        }
+      ]
+    },
+    {
+      "claim": "Segundo a leitura de Weitzman, a produção soviética teria baixa elasticidade de substituição entre capital e trabalho (cerca de 0,4), o que dá uma lógica integrada: com trabalho excedente, mais capital gera produto quase proporcional; esgotado o excedente, acumular capital deixa de gerar crescimento porque falta mão de obra para operar a capacidade nova. O indicador é a alta das vagas não preenchidas de 1% (1960) para 12,2% (1985).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 11,
+          "quote": "In this framework, a rise in the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "Thereafter, capital accumulation failed"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "which rose from 1 per cent in 1960, to 4.9 per cent in 1970"
+        }
+      ]
+    },
+    {
+      "claim": "Allen duvida dessa explicação: Japão teve histórico de investimento semelhante e mesmo assim decolou, com elasticidade próxima de 1 ou maior em economias capitalistas avançadas. Para ele, o 0,4 é uma ilusão estatística: reflete a má alocação massiva do investimento soviético, não diferença real de tecnologia, e o ajuste de função de produção a esses dados é espúrio.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "With similar investment histories, one would expect similar growth performance"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "the value of 0.4 is an illusion."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 16,
+          "quote": "this result"
+        }
+      ]
+    },
+    {
+      "claim": "A má alocação teve duas fontes. (a) Passagem de usinas novas (green field) para reconstrução de usinas velhas, que ampliou capital sem elevar produto nem poupar trabalho, como no aço (capital +55%, produto +10%, TFP -12% em 1975-85). (b) Esgotamento de recursos e deslocamento para a Sibéria, que consumiu parcela enorme do orçamento de investimento (carvão, petróleo, metais ferrosos tiveram quedas de TFP acima de 10%).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "the capital stock went up by 55 per cent"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "The shift in emphasis to reconstruction of old sites was disastrous."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "Three industries had TFP falls of more than 10 per cent between 1975 and"
+        }
+      ]
+    },
+    {
+      "claim": "Para o autor, a política de autossuficiência em matérias-primas e energia, em vez de importar insumos baratos ou reduzir a demanda por energia, prendeu a URSS numa armadilha ricardiana; o consumo de energia por unidade de PIB não caiu, e a conservação foi barrada por falta de normas, soft budgets e ausência de medidores.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "The resource constraints in metals and fuels meant that the Soviet"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "Instead, the Soviets tried to be self-sufficient in everything."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "Third, and most important, the majority of farms, residences,"
+        }
+      ]
+    },
+    {
+      "claim": "Conclusão: o declínio teve causa externa (Guerra Fria, que cortou P&D civil) e interna (fim do excedente de trabalho e dos recursos acessíveis). Ao contrário das análises de incentivos, os planos foram cumpridos; o problema é que não faziam sentido. A força do sistema, mudar tudo por diretriz do topo, virou fraqueza por falta de imaginação no topo.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "The external reason was the Cold War,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "On the contrary, the plans were implemented; the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "the economy stopped growing because of the"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Acumulação de capital sobre trabalho excedente (1928-c.1970): com capital escasso e muita gente subempregada na zona rural, investir mais e absorver essa mão de obra na indústria elevava o produto quase na mesma proporção. Lógica do modelo em palavras: se capital e trabalho têm de ser usados em proporções quase fixas, mais capital só rende produto enquanto sobra trabalho; esgotado o excedente, o trabalho passa a limitar a produção.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The rapid growth before 1970 was due to exceptional growth of the capital stock, a"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "surplus labour was exhausted."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The rapid accumulation"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Estratégia de investimento em indústria pesada: reinvestir uma fração maior da produção de bens de produção no próprio setor (de 7% nos anos 1920 para 23% em meados dos anos 1930) elevou o estoque de capital simulado de 1939 em 90% sobre o cenário de consumo, e aumentou até o consumo per capita em 1940.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "from 7 per cent in the 1920s to 23 per cent in the mid-1930s"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "the 1939 capital stock"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "increased consumption per head by 1940."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Metas de produção com restrição orçamentária branda: no modelo soft budget impõe-se pleno emprego e o produto marginal do trabalho cai abaixo do salário; no modelo hard budget o salário iguala o produto marginal e surge desemprego. Nos anos 1930 isso mobilizou mão de obra ociosa (ganho adicional de 23% no capital simulado). Segundo Allen, é a mesma prática criticada em Kornai nos anos 1980, época de pleno emprego, mas adequada ao excedente de trabalho dos anos 1930.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "the marginal product of labour sinks below the wage"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "further gain of 23 per cent."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "Kornai ~1992! criticized these practices in the 1980s, when there was"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Coletivização como transmissor de migração rural-urbana: preços baixos de compra reduziram a renda rural e a deportação de kulaks e o terror aumentaram a migração para as cidades. Efeito negativo em meados dos anos 1930 (PIB, investimento, consumo, população) e ganho pequeno depois (8% no capital simulado).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Collectivization raised growth by increasing"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Terrorism increased economic growth to that"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "negative effect on all indicators"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Fim do excedente de trabalho como ponto de inflexão: por volta dos anos 1960-70 o trabalho tornou-se o fator limitante; capital novo ficou sem operários (10-12% do incremento de capital fixo ficou sem uso nos anos 1970, segundo um dirigente do Gosplan citado).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "unutilized, owing to a shortage of labour"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "because there was no"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 14,
+          "quote": "it passed the corner in the 1960s as growth began to decelerate."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Erros de investimento pós-1960 (explicação preferida por Allen): reconstrução de fábricas velhas em vez de usinas novas e investimento maciço em recursos esgotados e remotos da Sibéria. O planejamento não monitorava capacidade nem tinha normas de emprego, e gerentes acumulavam trabalho e capital para metas futuras. Inferência nossa: tais erros são tratados pelo autor como decisão da liderança, não como falha de cumprimento de planos.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "First, investment shifted from the construction of new manufacturing"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "The planners were not able to monitor changes in capacity, nor did they have objective"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "retooling old factories and by throwing additional fortunes into Siberian"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Corrida armamentista (Guerra Fria): elevou o gasto militar de 12% do PIB (1966-70) para 16% (1981-85); o efeito direto sobre o investimento seria pequeno, mas desviou P&D e engenheiros do setor civil para o militar e privou de investimento a indústria civil de máquinas. Allen a apresenta como uma das causas, não a única.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "12 per cent of its GDP on defence in 1966–70 against 16 per"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "diverting R&D resources from civilian to military innovation."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "The Cold War may have been one factor contributing to the fall in Soviet"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Autossuficiência em energia e matérias-primas (armadilha ricardiana): esgotamento de jazidas acessíveis e custos crescentes na Sibéria, sem recurso a importações baratas, como fez o Japão, nem a corte da demanda de energia. Segundo o texto, o objetivo era autossuficiência, não excedente de receita sobre o custo.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "Ricardian trap."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "Japan was at the opposite pole."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "the objectives were self-sufficiency and the full"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "URSS, industrialização e convergência (1928-c.1970)",
+      "period": "1928-1970",
+      "outcome": "Renda baixa em 1928 e crescimento alto: país não OCDE mais bem-sucedido, acima da regressão de convergência da OCDE e atrás só do Japão. PIB acima de 5% ao ano; taxa de investimento de 8% (1928) a mais de 20% (anos 1930); consumo per capita subiu um quarto nos anos 1930.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "Its income was low in 1928, and its"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "per year from 1928 to 1970, but the annual rate dropped to 3.7 per cent in 1970–75,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "over 20 per cent in the mid-1930s"
+        }
+      ]
+    },
+    {
+      "name": "URSS, desaceleração e estagnação",
+      "period": "1970-1985",
+      "outcome": "Crescimento do PNB cai de 3,7% (1970-75) para 2,6% (1975-80) e 2,0% (1980-85); emprego, capital e terra desaceleram; TFP, segundo a série convencional, fica negativa (controversa por pressupor Cobb-Douglas). Para Allen, o capital continuou crescendo sem produto proporcional.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "per year from 1928 to 1970, but the annual rate dropped to 3.7 per cent in 1970–75,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The growth slowdown was the result of deterioration in all sources of growth."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "This result is quite"
+        }
+      ]
+    },
+    {
+      "name": "Japão (contraste)",
+      "period": "1950-1989",
+      "outcome": "Em 1950 o PIB per capita era US$ 1.873 no Japão e US$ 2.834 na URSS; taxas de investimento parecidas (17% e 22% em 1950, 38% e 35% em 1989), mas em 1989 o Japão chegou a US$ 17.757 contra US$ 7.078 da URSS. O Japão importa matérias-primas; construiu 9 usinas siderúrgicas novas de cerca de 9 milhões de t.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 14,
+          "quote": "In 1950 GDP per head was $2834 in the USSR and $1873 in Japan."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "~$17,757 in Japan versus $7078 in"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "Japan’s success was achieved by building nine new"
+        }
+      ]
+    },
+    {
+      "name": "Siderurgia soviética",
+      "period": "1960-1985",
+      "outcome": "Produção de aço de 65,3 para 155 milhões de t. Oito usinas novas (anos 1960-70) fizeram 5/8 do aumento até 1980 e elevaram a TFP em 1965-75; usinas velhas, 3/8; reconstrução custou 55% mais que expandir em terreno novo. No aço, capital +55%, emprego +9%, produto +10%, TFP -12% em 1975-85.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "Soviet steel production increased by 90"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "it cost 55 per cent more to increase capacity in old"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "employment rose 9 per cent, and output grew by"
+        }
+      ]
+    },
+    {
+      "name": "Petróleo e carvão",
+      "period": "1975-1985",
+      "outcome": "Carvão: capital +62%, emprego +25%, produto +4%, TFP -24%. Petróleo: capital multiplicado por 2,42, emprego +25%, produto -21%. A participação da energia no orçamento de investimento industrial subiu de 28% para 39%.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "employment increased by a quarter, and output grew by only 4 per cent."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "In 1975–85 the capital stock was increased by a factor of 2.42, employment rose by a"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "increased its share of the industrial investment budget from 28 to 39 per cent."
+        }
+      ]
+    },
+    {
+      "name": "Eletricidade (contraste de bom desempenho)",
+      "period": "1965-1985",
+      "outcome": "Produto cresceu 2,3 vezes e o capital 2,1 vezes em 1965-75; em 1975-85, 1,5 contra 1,7. Reconstrução era 20% do investimento em 1970 (34% depois), contra 60% (80% depois) em metais ferrosos.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "increased by a factor of 2.3 from 1965 to 1975, while the capital stock grew"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "the proportion in ferrous metals"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "was 60 per cent."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Soft budget constraint (restrição orçamentária branda)",
+      "definition": "As empresas recebem metas de produção e o crédito bancário para cumpri-las, sem serem eliminadas por falta de lucro; no modelo de Allen, isso mantém pleno emprego e o salário acima do produto marginal do trabalho.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "firms were given output targets and the bank credits to"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "In the soft-budget model full employment is"
+        }
+      ]
+    },
+    {
+      "term": "Hard budget constraint e regra de emprego capitalista",
+      "definition": "Emprego fixado de modo que o salário iguale o valor do produto marginal do trabalho; gera desemprego, e serve de cenário contrafactual mais distante da URSS.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "the wage equals the marginal product, and unemployment results."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "capitalist employment rule ~employment is set so"
+        }
+      ]
+    },
+    {
+      "term": "Fração de reinvestimento (e)",
+      "definition": "Parcela da produção de bens de produção reinvestida no próprio setor; foi de 7% nos anos 1920 para 23% em meados dos anos 1930.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "NOTE: e is the fraction of producer goods output reinvested in the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "from 7 per cent in the 1920s to 23 per cent in the mid-1930s"
+        }
+      ]
+    },
+    {
+      "term": "Contrafactual (simulação) de Allen",
+      "definition": "Série de modelos de simulação em que se retiram políticas soviéticas, uma a uma, para ver quanto cada uma contribuiu para o estoque de capital de 1939 (capital não agrícola em bilhões de rublos de 1937).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "I have analysed these policies with a series of simulation models that describe"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Actual and simulated nonagricultural capital stock"
+        }
+      ]
+    },
+    {
+      "term": "Economia de trabalho excedente e capital escasso",
+      "definition": "Situação da URSS de 1928: população rural grande e pouco produtiva, pouco capital; o crescimento por acumulação absorve esse excedente até o desemprego acabar.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "a small capital stock and a large, ineffectively employed, rural population."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "By the 1970s this phase of growth was"
+        }
+      ]
+    },
+    {
+      "term": "Elasticidade de substituição entre capital e trabalho",
+      "definition": "Mede quanto um fator pode substituir o outro. Weitzman estimou cerca de 0,4 para a URSS (0,403 no texto); economias capitalistas avançadas teriam 1,0 ou mais. Com valor zero (proporções fixas), o produto só cresce se ambos os fatores crescerem; a figura 2 usa esse caso extremo para mostrar a lógica.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 11,
+          "quote": "with an elasticity of substitution between capital and labour of .4."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 11,
+          "quote": "isoquants assume fixed proportions – an elasticity of substitution of zero rather"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "a value of 1.0 or even greater"
+        }
+      ]
+    },
+    {
+      "term": "Isoquanta e proporções fixas",
+      "definition": "Linha que mostra as combinações de capital e trabalho que produzem uma unidade de PIB; com proporções fixas, a isoquanta tem canto reto, e mais de um fator sem o outro não eleva o produto. Com elasticidade 0,4 o canto é curvo e a desaceleração ocorre em uma ou duas décadas.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 11,
+          "quote": "More labour ~L 2 ! or capital ~K2 ! yields no extra output"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "isoquant has a curved corner rather than a right"
+        }
+      ]
+    },
+    {
+      "term": "TFP e Cobb-Douglas",
+      "definition": "A produtividade total dos fatores da tabela 1 é calculada por contabilidade do crescimento que pressupõe função Cobb-Douglas; Allen avisa que a queda da TFP é controversa justamente por isso.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "since it presumes a Cobb-Douglas"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 8,
+          "quote": "the Soviet production function was not a Cobb-Douglas"
+        }
+      ]
+    },
+    {
+      "term": "Armadilha ricardiana",
+      "definition": "Esgotamento das fontes de matéria-prima existentes eleva custos, sobretudo de capital, ao ampliar a produção em regiões novas ou antigas; saídas: importar barato ou reduzir a demanda.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "The depletion of existing raw material sources implied"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "Replace expensive domestic raw materials with cheap imports or reduce"
+        }
+      ]
+    },
+    {
+      "term": "Investimento de reconstrução vs. green field",
+      "definition": "Reconstrução é modernizar fábricas antigas; green field é construir usinas novas em terreno novo. A primeira elevou o capital sem elevar o produto; a segunda elevou a TFP.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "One was the degree of reconstruction investment undertaken"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "These plants pushed up TFP"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "PIB per capita: o Japão é a exceção na OCDE por ser pobre em 1820 e 1928 e o mais bem-sucedido desde então; entre os países da OCDE, os mais pobres (Espanha, Noruega, Irlanda) cresceram mais e convergiram; fora da OCDE predominou a divergência (Europa ocidental 2,5 vezes mais rica que o Sul da Ásia em 1820; 15 vezes em 1989).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "as countries like Spain, Norway, and Ireland have"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "In 1820 western Europe was two and a half times richer than South Asia; by"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "1989 the lead had grown to fifteen times."
+        }
+      ]
+    },
+    {
+      "fact": "Taxas anuais de crescimento do PNB (tabela 1, Ofer): 5,8% (1928-40), 5,7% (1950-60), 5,2% (1960-70), 3,7% (1970-75), 2,6% (1975-80), 2,0% (1980-85). Texto: o PNB cresceu acima de 5% ao ano até 1970.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "per year from 1928 to 1970, but the annual rate dropped to 3.7 per cent in 1970–75,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "then to 2.6 per cent in 1975–80, finally hitting 2.0 per cent in 1980–85"
+        }
+      ]
+    },
+    {
+      "fact": "Estoque de capital não agrícola em 1928: 136,3 bilhões de rublos de 1937; em 1939, real 344,7. Simulado com e = 0,07 e emprego capitalista: 162,9; com e = 0,23: 258,7 (+90%); com soft budget: 318,0 (+23%); com coletivização: 343,9 (+8%).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "That economy would generate a 1939 capital stock of 162.9"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "billion rubles – not much above the 1928 starting value of 136.3 and a scant increase"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The simulated capital stock rises to 318.0 in 1939 – a further gain of 23 per cent."
+        }
+      ]
+    },
+    {
+      "fact": "A agricultura teve termos de troca que melhoraram durante o primeiro Plano Quinquenal, por causa de inflação de 30 vezes nos preços de alimentos nos mercados livres, o que contraria a história-padrão de Preobrazhensky/Millar.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "agriculture’s terms of trade actually improved"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "during the first Five Year Plan, owing to the thirty-fold inflation of food prices on"
+        }
+      ]
+    },
+    {
+      "fact": "Vagas não preenchidas no primeiro turno: 1% (1960), 4,9% (1970), 7,3% (1975), 9,9% (1980), 12,2% (1985).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "which rose from 1 per cent in 1960, to 4.9 per cent in 1970"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "to 7.3 per cent in 1975,"
+        }
+      ]
+    },
+    {
+      "fact": "Gasto de defesa (estimativa revista da CIA): 12% do PIB em 1966-70 e 16% em 1981-85; a substituição total por investimento teria elevado a taxa de investimento só de 36% para 40%.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "12 per cent of its GDP on defence in 1966–70 against 16 per"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "from 36 to 40 per cent of GDP"
+        }
+      ]
+    },
+    {
+      "fact": "Se a TFP não tivesse caído, o crescimento de 1980-85 subiria de 2% para 4% ao ano, ainda abaixo dos 5,7% dos anos 1960. A TFP passou de 1,5% ao ano nos anos 1960 para -0,5% em 1980-85.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "increases the latter from 2 to 4 per cent per year."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "still less than the 5.7 per"
+        }
+      ]
+    },
+    {
+      "fact": "Simulação Solow-Swan com função CES (parâmetros de Weitzman, elasticidade 0,403) e taxas históricas de investimento reproduz o PIB per capita real de 1928-89 com diferença de até 10% em 1989.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 13,
+          "quote": "The correspondence is remarkably close: The series are within 10 per cent of each other in"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 12,
+          "quote": "The parameter"
+        }
+      ]
+    },
+    {
+      "fact": "Investimento: URSS 22% e Japão 17% em 1950; 35% e 38% em 1989. Estoque de capital por habitante no Japão quase o dobro do soviético em 1989.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 14,
+          "quote": "Soviets had already"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "Both countries grew by pushing their investment"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 15,
+          "quote": "reaching a value almost twice that of"
+        }
+      ]
+    },
+    {
+      "fact": "Siderurgia: produção japonesa de 26,9 para 105,3 milhões de t (1960-85); usinas novas japonesas com média de 9 milhões de t, contra 7 milhões nas soviéticas; escala mínima eficiente de 6 milhões de t.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "Japanese steel production grew from 26.9 to 105.3 million tons"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "The minimum efficient size of a steel mill was 6 million"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "7 million tons in the USSR versus 9"
+        }
+      ]
+    },
+    {
+      "fact": "Reconstrução: fábricas russas que receberam esse investimento no início dos anos 1970 ampliaram a força de trabalho em 18%; expansões em usinas velhas custavam 55% mais que em terrenos novos.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "increased their workforces by"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "cost 55 per cent more to increase capacity in old"
+        }
+      ]
+    },
+    {
+      "fact": "Minério de ferro: produção de 142,1 para 502,0 milhões de t (1960-80); teor de ferro de 44,5% para 34,7%; rocha removida por tonelada de minério de 5 para 8 t (1977-82).",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "production of iron ore increased from 142.1 million tons to 502.0 million"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 19,
+          "quote": "increased from 5 to 8 tons"
+        }
+      ]
+    },
+    {
+      "fact": "Intensidade energética em 1980: URSS 0,95 tep por US$ 1.000 de PIB, OECD 0,50, Canadá 0,74; em 1988 o Ocidente reduziu (OECD 0,41; Canadá 0,64) e a URSS subiu para 0,99.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "In 1980 the USSR consumed 0.95 tons of oil equivalent per US$1000 of GDP, in"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "consumption in the USSR rose to 0.99 tons per US$1000"
+        }
+      ]
+    },
+    {
+      "fact": "Oleodutos do programa de gás exigiam 21.000 km de tubos de 1420 mm, quase todos importados, pois construir laminadores demoraria; o autor usa isso como exemplo do conflito entre prioridades militares e civis.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "21,000 km of"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "Virtually all of this pipe was imported,"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Allen trabalha com simulações e contrafactuais, não com dados diretos: os resultados dependem dos parâmetros e das hipóteses do modelo (por exemplo, e, regra de emprego e funções de migração).",
+    "O texto reconhece a controvérsia da queda da TFP: ela pressupõe Cobb-Douglas, e a alternativa de Weitzman tem sua própria elegância, mas Allen a considera implausível em perspectiva internacional (contraste com o Japão).",
+    "A tese de que o 0,4 de elasticidade é ilusão não é demonstrada com teste direto: o argumento repousa na evidência setorial (tabela 3) e em exemplos como o aço e a energia; é uma interpretação do autor.",
+    "Sobre a Guerra Fria, Allen afirma 'se' ela explica a queda de produtividade, ela responde por mais da metade da desaceleração; é uma condicional, apoiada em indicadores de difícil interpretação (número de protótipos).",
+    "Ao afirmar que Stalin 'não foi necessário', o autor se baseia na simulação do capital não agrícola; isso não significa que ele ignore os custos humanos, que descreve como deploráveis, mas que o critério é a contribuição econômica.",
+    "Dados soviéticos são sujeitos a dúvidas (Wolf diz que o crescimento do capital nos anos 1970-80 foi superestimado); Allen cita a correção de Rumer e diz que isso não muda os resultados de forma significativa.",
+    "Pontos de interpretação: o professor resume Allen como 'catch-up' mais soft budget, e conclui que uma industrialização de mercado geraria resultados parecidos; isso é leitura dos slides, e o artigo apenas afirma que a NEP era um quadro propício e que Stalin não era necessário.",
+    "O professor associa a queda dos anos 1970 à baixa elasticidade (Leontief); o artigo, por sua vez, trata esse valor como artefato de investimento mal alocado. A combinação dessas duas leituras deve ser feita com cuidado numa resposta de prova."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "Allen pede cautela diante da tese de que o socialismo soviético nunca poderia ter funcionado; antes de 1970, pelo PIB, a economia soviética estava entre as mais bem-sucedidas do mundo. As perguntas centrais: o que foi típico e o que foi único, e como a URSS se saiu em relação a outros países.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 3,
+          "quote": "Para Allen - deve-se analisar com cautela"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 3,
+          "quote": "O que foi típico e o que foi único no desenvolvimento econômico soviético?"
+        }
+      ]
+    },
+    {
+      "point": "Comparação internacional: a URSS foi o país não OCDE mais bem-sucedido, cresceu acima da regressão de convergência e melhor que todos, exceto o Japão; mesmo na era de prata a redução do hiato com os EUA foi lenta e, no bloco comunista, só a Tchecoslováquia estava acima da Irlanda no fim da era de prata.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 9,
+          "quote": "URSS - baixo nivel de renda em 1928 e taxa de crescimento alta"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 6,
+          "quote": "mesmo na era de prata, redução do gap foi lenta;"
+        }
+      ]
+    },
+    {
+      "point": "Três objeções ao sucesso e as respostas de Allen: repressão e coletivização (aumentaram pouco o crescimento), consumo (+25% nos anos 1930) e padrão de vida (comparar com países de renda semelhante em 1928, não com os EUA).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 10,
+          "quote": "apesar de horríveis, terrorismo de estado e coletivização da agricultura aumentaram o crescimento econômico, ainda que pouco;"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 11,
+          "quote": "Allen contesta essa visão - crescimento do consumo aumentou em 25% nos anos 1930"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 11,
+          "quote": "Allen afirma que o comparativo da URSS não  pode ser os EUA"
+        }
+      ]
+    },
+    {
+      "point": "Fases: crescimento quase 6% ao ano em 1928-60 por mobilização de fatores; acima de 5% em 1960-70 com início da desaceleração; colapso em 1970-85. A explicação de Allen está na acumulação de capital.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 14,
+          "quote": "1928–60 – crescimento de quase 6% a.a"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 15,
+          "quote": "1970-85 - crescimento desaba"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 16,
+          "quote": "Para Allen, a resposta está na acumulação de capital."
+        }
+      ]
+    },
+    {
+      "point": "Anos 1930: investimento de 8% para mais de 20%; três políticas a analisar (alocação de bens intermediários, coletivização e metas com soft budget).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 17,
+          "quote": "Taxa de investimento passou de 8% em 1928 para mais de 20% na década de 1930"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 18,
+          "quote": "coletivização da agricultura"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 18,
+          "quote": "uso de metas de produção e as provisões de soft budget"
+        }
+      ]
+    },
+    {
+      "point": "Contrafactual: e = 0,07 gera 162,9 bilhões de rublos em 1939; e = 0,23 gera 258,7 (+90%); pleno emprego soviético, 318,0 (+23%); coletivização, 343,9 (+8%). Para o professor, 'investir em indústria pesada compensa' e 'soft budget compensa também'.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 21,
+          "quote": "o estoque de capital cresceria para 258,7 bilhões de rublos"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 22,
+          "quote": "softbudget compensa também"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 23,
+          "quote": "o estoque de capital aumentaria para 343,9 bilhões de rublos"
+        }
+      ]
+    },
+    {
+      "point": "Resultados do professor: a NEP teria bastado e Stalin foi desnecessário; a priorização da indústria pesada foi decisiva, e vantagens comparativas não eram necessárias; o planejamento com soft budget mobilizou mão de obra desempregada. Em suma, o socialismo foi propício ao crescimento, mas Stalin foi desnecessário.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 24,
+          "quote": "Stalin não era necessário"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 24,
+          "quote": "desenvolvimento autárquico permitiu expansão industrial"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 25,
+          "quote": "EM SUMA: Desenvolvimento do socialismo foi propício para o crescimento econômico da URSS, Stalin foi desnecessário."
+        }
+      ]
+    },
+    {
+      "point": "Queda dos anos 70: três abordagens (fracasso tecnológico, retornos decrescentes, erros de investimento). Contra o fracasso tecnológico: problema de cronologia, desincentivos menos fortes que o suposto e a Guerra Fria, responsável por mais da metade da desaceleração se tiver efeito.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 26,
+          "quote": "Três abordagens explicam a queda a partir dos anos 1970"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 27,
+          "quote": "timming problem"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 28,
+          "quote": "ela então é responsável por mais da metade da desaceleração do crescimento soviético"
+        }
+      ]
+    },
+    {
+      "point": "Retornos decrescentes: a Cobb-Douglas permitiria seguir crescendo só com capital; a URSS tinha proporções quase fixas (Leontief) e baixa elasticidade; esgotado o trabalho excedente, o crescimento para mesmo que o investimento continue. As vagas não preenchidas foram de 1% (1960) para 12,2% (1985).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 31,
+          "quote": "Se a URSS tivesse uma função Cobb-Douglas, o esgotamento da mão de obra não pararia o crescimento"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 33,
+          "quote": "Mas quando o trabalho disponível se esgota, o crescimento para mesmo que o investimento em capital continue."
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 36,
+          "quote": "o número de vagas não preenchidas cresceu de 1% em 1960 para 12,2% em 1985"
+        }
+      ]
+    },
+    {
+      "point": "Para Allen, o baixo valor de elasticidade reflete erros massivos de investimento, não diferença de tecnologia. Duas mudanças nos anos 1960: modernizar firmas velhas em vez de construir novas e redirecionar investimento para a Sibéria; TFP caiu em carvão, petróleo e metais ferrosos em 1975-85.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 36,
+          "quote": "Para Allen, o baixo valor de elasticidade reflete erros massivos nas estratégias de investimento da URSS"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 37,
+          "quote": "investimento passa da construção de novas firmas para modernização das antigas"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 37,
+          "quote": "a produtividade total dos fatores (TFP) caiu drasticamente em indústrias-chave"
+        }
+      ]
+    },
+    {
+      "point": "Resumo do professor: grande potencial de catch-up, soft budget e ênfase em insumos industriais e bélicos contribuíram; uma industrialização de mercado geraria resultados similares; além disso pesam o esgotamento do catch-up, incentivos contra produtividade, rigidez do consumo e queda do crescimento populacional, mas para Allen as decisões de investimento em energia e matérias-primas foram as principais causas do ocaso.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 38,
+          "quote": "A URSS cresceu aceleradamente no entre guerras em função de um enorme potencial de catch-up."
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 39,
+          "quote": "Contudo, Allen argumenta que decisões desastrosas de investimentos em energia e matéria prima foram as principais causas do ocaso."
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 39,
+          "quote": "Moscou tinha como objetivo manter a URSS autossuficiente em energia e matéria prima"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: em que sentido o modelo soviético foi bem-sucedido?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Em que sentido o modelo soviético de desenvolvimento econômico foi bem sucedido?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: o que é soft budget e por que é tão importante em elevar o produto?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "O que é soft budget, por que ele é tão importante em elevar o produto?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: por que a produtividade caiu no pós-guerra e se reduziu na década de 70?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Por que a produtividade na economia soviética caiu no pós-guerra e reduziu-se na década de 70?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: quais foram as causas econômicas da queda da URSS?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Quais foram as causas econômicas da queda da URSS?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: em que sentidos o crescimento da URSS difere do da Europa Ocidental visto na aula anterior?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Em quais sentidos o crescimento da URSS se diferencia do visto na aula passada para a Europa Ocidental?"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "Artigo, página 2 (impressa 860): Figura 1, crescimento do PIB per capita de 1928 a 1970 contra o nível de 1928 (OCDE e não OCDE, regressão de convergência); a extração perdeu o gráfico. Consultar o original.",
+    "Artigo, página 4: Tabela 1 (insumos, produto e produtividade, 1928-85, Ofer). A extração tem as taxas de PNB, trabalho, capital e produtividade legíveis, mas os sinais negativos foram perdidos (por exemplo, valores de terra e TFP aparecem como '20.1' e '20.5' no lugar de -0,1 e -0,5 aproximadamente); conferir os sinais no original. Obs.: leitura dos números negativos é inferência.",
+    "Artigo, página 6: Tabela 2 (estoque de capital não agrícola, real e simulado, por e e por cenário); a extração trouxe os números, mas a leitura por colunas deve ser conferida no original.",
+    "Artigo, páginas 11-12: Figura 2 (diagrama de Weitzman com isoquanta de proporções fixas, pontos A, Y1, Y2, K1, K2, L1, L2); a figura não foi extraída. A lógica está descrita no texto. As equações (1)-(3) do modelo Solow-Swan com CES (página 12-13) também aparecem com ruído de OCR e não foram usadas.",
+    "Artigo, página 13: Figura 3 (PIB per capita soviético real contra o simulado, 1928-89). Página 14: Figura 4 (isoquanta unitária soviética 1928-89, com datas). Gráficos não extraídos.",
+    "Artigo, página 16: Tabela 3 (crescimento da TFP por indústria, 1965-85: gás, eletricidade e química moderadamente bem-sucedidos; carvão, petróleo e metais ferrosos desastres); os sinais negativos foram perdidos na extração. Consultar o original.",
+    "Slides 4, 7, 8, 12, 20 e 30 são imagens sem texto: slide 4 (tabelas 12.1 e 12.3, PIB per capita da Europa Ocidental, EUA, Leste Europeu e URSS), slide 7 (tabela 1.1, PIB por pessoa no mundo, 1820-1989), slide 8 (figura 1, crescimento 1928-89), slide 12 (figuras 1.2 e 1.3, URSS frente à Europa e ao Leste Asiático), slide 20 (tabela 2, estoque de capital real e simulado) e slide 30 (figura 2, modelo de Weitzman). Slides 13 a 15 trazem a tabela das fases econômicas descrita só em texto."
+  ]
+}

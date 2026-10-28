@@ -1,0 +1,1001 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614380",
+  "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+  "lessons": [
+    23
+  ],
+  "authors": [
+    "Dani Rodrik"
+  ],
+  "title": "Getting interventions right: how South Korea and Taiwan grew rich (Economic Policy, abril de 1995)",
+  "year": 1995,
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Rodrik sustenta que o crescimento da Coreia do Sul e de Taiwan desde o início dos anos 1960 não foi liderado por exportações, e sim por um boom de investimento. Os governos elevaram o retorno privado do capital ao subsidiar e coordenar investimentos e superar uma falha de coordenação, e isso funcionou porque os dois países partiam de capital humano alto e distribuição muito igualitária de renda e riqueza; a abertura externa foi consequência da demanda por bens de capital importados.",
+  "question": "Por que Coreia do Sul e Taiwan cresceram tão rápido a partir dos anos 1960: foi a orientação para exportações (a explicação ortodoxa) ou o investimento induzido por intervenção estatal, e por que essa intervenção funcionou ali e não em outros países?",
+  "argument": [
+    {
+      "claim": "A história ortodoxa diz que, esgotada a fase fácil da substituição de importações e reduzida a ajuda dos EUA, os dois países passaram a políticas pró-exportação (câmbio unificado e desvalorizado, insumos importados livres de tarifa, juros mais altos, alguma liberalização), o que levou à especialização por vantagem comparativa e a mais renda, investimento, poupança e produtividade. Os revisionistas (Amsden, Wade) criticam essa visão por subestimar a intervenção estatal, mas a corrente principal e a revisionista concordam na importância da estratégia exportadora, e é isso que Rodrik contesta.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 3,
+          "quote": "The standard story to which most orthodox economists subscribe is one"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "Export orientation led both economies to specialize according to"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "I will argue in this paper that the standard story, as sketched above, is"
+        }
+      ]
+    },
+    {
+      "claim": "Primeiro golpe na tese exportadora: o aumento da lucratividade relativa das exportações nos anos 1960 foi pequeno demais e mal sincronizado para explicar o boom exportador. Na Coreia, os incentivos já existiam desde 1959-60, a inflação os corroeu em 1961-64 e a lucratividade só voltou ao nível de 1959-60 no início dos anos 1970, embora a razão exportações/PIB tenha ficado quase dez vezes maior. Em Taiwan, os incentivos vinham dos anos 1950 e o primeiro surto (1963-64) coincidiu com apreciação real de cerca de 10%.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 9,
+          "quote": "What is striking about the experience of South Korea and"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 10,
+          "quote": "export-GDP ratio was nearly ten times larger than in"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 13,
+          "quote": "export spurt (in 1963-4) was actually associated with a decrease in export incentives"
+        }
+      ]
+    },
+    {
+      "claim": "Os incentivos exportadores eram condição necessária (sem câmbio muito sobrevalorizado ou barreiras a insumos importados o desempenho seria inimaginável), mas não suficientes, e a lenta liberalização das importações não explica o boom.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "must have been a necessary condition for exports to take off in Korea"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "export incentives were not sufficient in themselves"
+        }
+      ]
+    },
+    {
+      "claim": "Segundo golpe: não há razão teórica para que orientação exportadora gere boom de investimento. Ela torna alguns setores mais lucrativos e outros menos, com efeito líquido indeterminado, e o raciocínio de Stolper-Samuelson sugere queda do retorno do capital em países pobres em capital. Turquia (anos 1980) e Chile mostram ganhos de incentivos exportadores sem resposta do investimento.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 15,
+          "quote": "The net effect on investment demand is indeterminate."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 15,
+          "quote": "Yet, as"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 15,
+          "quote": "should have been associated with a decline in the return to capital"
+        }
+      ]
+    },
+    {
+      "claim": "Terceiro golpe: a base exportadora inicial era pequena demais para puxar o PIB. Exportações eram menos de 5% do PIB na Coreia por volta de 1960 e pouco mais de 10% em Taiwan, e decomposições de crescimento e um modelo CGE atribuem às exportações fração pequena do crescimento.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "Exports were less than 5% of GDP in Korea around 1960, and barely"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "export expansion could not"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "outward-oriented policies in Korea have litde significance in driving growth"
+        }
+      ]
+    },
+    {
+      "claim": "Quarto golpe: não há evidência de externalidades tecnológicas das exportações. Correlações entre exportação e produtividade não indicam causalidade (firmas produtivas exportam mais), a produtividade industrial não foi espetacular e as exportações manufatureiras eram no máximo um quarto das exportações por volta de 1960.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 17,
+          "quote": "The trouble is there is virtually no evidence that exports or outward orientation"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 17,
+          "quote": "Such correlations obviously say"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 17,
+          "quote": "manufactured exports accounted for a quarter or less of total exports"
+        }
+      ]
+    },
+    {
+      "claim": "O fato central a explicar é o investimento: a razão investimento/PIB subiu de cerca de 10% no fim dos anos 1950 para 30% em 1980, acompanhada por poupança equivalente, e a produtividade total dos fatores (PTF) foi respeitável, mas comparável à da América Latina. Com a enorme acumulação de fatores quase não sobra resíduo, e a causa próxima do milagre é acumulação de capital.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "Investment rose from around 10% of GDP in the late 1950s in both countries to 30% in 1980."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "The East Asian TFP figures do not stand out in comparison with those for Latin American"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "capital accumulation rather than an increase in industrial factor productivity"
+        }
+      ]
+    },
+    {
+      "claim": "A causalidade é invertida: o investimento exige importar bens de capital, e como o endividamento externo não é ilimitado, as exportações precisam subir como proporção do PIB para pagar essas importações. Importações acompanham o investimento e a alta da razão importações/PIB vem sobretudo de máquinas e equipamentos; a orientação exportadora viabiliza o crescimento, mas não o determina.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 20,
+          "quote": "Export orientation enables growth (by allowing imports to increase), but it is not its"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 22,
+          "quote": "Since the mid-1960s, the share of capital goods"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 22,
+          "quote": "with causality running from investment to imports"
+        }
+      ]
+    },
+    {
+      "claim": "Condições iniciais: por volta de 1960 os dois países eram pobres, mas tinham indicadores sociais típicos de países com renda várias vezes maior (matrículas primárias quase universais, alfabetização acima do previsto) e os menores níveis de desigualdade de renda e de terra entre 41 países. Esse perfil, estatisticamente, 'explica' cerca de 88% (Coreia) e 87% (Taiwan) do crescimento 1960-85, o que mostra que o desempenho não foi estatisticamente miraculoso, mas ainda exige uma teoria.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 23,
+          "quote": "placed them among the ranks of countries at several times their income"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 24,
+          "quote": "Korea and Taiwan are the two countries closest to the origin"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 25,
+          "quote": "Table 6 shows that almost 90% of the two countries' growdi experience since"
+        }
+      ]
+    },
+    {
+      "claim": "Mecanismo central, a falha de coordenação: com mão de obra qualificada, mas pouco capital físico, o retorno ao investimento coordenado era altíssimo e o retorno ao investimento individual baixo, porque insumos e tecnologias do setor moderno são imperfeitamente comercializáveis e há economias de escala. Nenhum investidor entra sozinho no setor moderno, cuja rentabilidade depende da presença simultânea dos insumos especializados, que por sua vez dependem da demanda desse setor.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 27,
+          "quote": "modern sector unless others are doing so as well"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+        }
+      ]
+    },
+    {
+      "claim": "A resposta estatal: a partir do fim dos anos 1950 (Taiwan) e do início dos anos 1960 (Coreia), os governos melhoraram o clima de investimento e passaram a subsidiar (crédito a juros reais negativos, incentivos fiscais) e coordenar (orientação administrativa, joint ventures forçadas, empresas públicas) o investimento privado, elevando o retorno privado ao nível do retorno social. Os investimentos tornaram-se rentáveis também em termos sociais.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "not only removed some policy-induced distortions, but also served"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "raising the private return to capital in the modern sectors to"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "the level of the social return."
+        }
+      ]
+    },
+    {
+      "claim": "A intervenção funcionou, e não degenerou em busca de renda (rent seeking), por causa das condições iniciais: mão de obra qualificada permitiu burocracia competente; a igualdade (grupos industriais e agrários poderosos haviam sido eliminados pela ocupação japonesa, pela chegada dos chineses continentais e pela reforma agrária) isolou a formulação de políticas de grupos de pressão, dispensou redistribuição populista e deixou os líderes livres para supervisionar a burocracia. Rodrik vê a igualdade como provavelmente a razão mais importante.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "availability of relatively skilled labour, enabling the formation of a competent bureaucracy"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "neidier government had to contend with powerful industrial or"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "This is probably the single most important reason why extensive government"
+        }
+      ]
+    },
+    {
+      "claim": "Conclusão e alcance: segundo Rodrik, a política governamental importou, e o debate real é sobre quais políticas fizeram diferença (as hipóteses de que a política atrapalhou, foi irrelevante ou apenas acelerou algo inevitável são difíceis de sustentar, dado o fraco desempenho dos anos 1950). Como outros países não tinham essas condições iniciais, a relevância da experiência para outras economias pode ser limitada.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the real debate should be over which government"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the relevance of their experience with"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "government intervention to other developing economies may well be limited"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Investimento: o aumento da demanda por investimento no início dos anos 1960 (razão investimento/PIB de cerca de 10% para 30%) é a causa próxima do crescimento; Rodrik conclui que a acumulação de capital, e não a PTF, determina o milagre.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 5,
+          "quote": "A much more plausible explanation for the economic take-off is the sharp"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "Investment rose from around 10% of GDP in the late 1950s in both countries to 30% in 1980."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "capital accumulation rather than an increase in industrial factor productivity"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Causa de fundo: a falha de coordenação em economias com muita mão de obra qualificada e pouco capital físico, superada por subsídios e coordenação estatal que elevaram o retorno privado do capital. Escala, não comercialização perfeita de insumos e tecnologia, e complementaridades tornam o investimento individual pouco lucrativo.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 5,
+          "quote": "alleviating a coordination"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "Coordination failure is least likely to happen when the economy is well endowed"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Instrumentos de transmissão da política ao investimento: crédito a taxas reais negativas com bancos nacionalizados e socialização de risco na Coreia; incentivos fiscais (Lei de Incentivo ao Investimento de 1960) em Taiwan; orientação administrativa e joint ventures forçadas; empresas públicas que fornecem insumos básicos. Também é um transmissor a cadeia investimento, importações de bens de capital e exportações para pagá-las, que gera a abertura comercial como consequência.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "the chief form of investment subsidy was the extension of credit to large"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "The most important direct subsidies in Taiwan came in"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 38,
+          "quote": "Public enterprises played a very important role in enhancing the profitability of"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 20,
+          "quote": "commensurate increase in imports (also as a share of GDP)"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Economia política: igualdade inicial de renda e riqueza (reforma agrária, enfraquecimento de elites) deu autonomia ao Estado frente a grupos de pressão, evitou pressão redistributiva e populismo e permitiu supervisão próxima da burocracia, controlando o rent seeking; Park, na Coreia, premiava quem investia conforme suas prioridades e penalizava os demais.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "Such powerful groups had been decimated by die Japanese"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "The political leadership in Taiwan and Korea could concentrate on expanding die pie instead."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "entrepreneurs who undertook investments in line with his priorities would be richly rewarded"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Condição inicial habilitadora: capital humano alto em relação à renda e ao capital físico, que é condição necessária, mas não suficiente, e torna alto o retorno à coordenação. Na leitura do autor, os incentivos exportadores são necessários, mas não suficientes, e por isso entram aqui como condição, e não como causa.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 39,
+          "quote": "While the initial human capital advantage may have been a necessary condition"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "export incentives were not sufficient in themselves"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Coreia do Sul",
+      "period": "anos 1950 a 1980 (decolagem a partir de 1961-64)",
+      "outcome": "Renda per capita de US$ 883 (1960) para US$ 6.206 (1989), crescimento de 6,82% ao ano. Exportações/PIB de menos de 5% para mais de 30% no início dos anos 1980; crédito subsidiado a chaebol com bancos nacionalizados após o golpe de 1961, e empresas públicas como a POSCO.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "South Korea              883              6206              6.82"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "Exports were less than 5% of GDP in Korea around 1960, and barely"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "Korean banks were nationalized"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "period": "anos 1950 a 1980 (Programa de 19 Pontos de 1960)",
+      "outcome": "Renda per capita de US$ 1.359 (1960) para US$ 8.207 (1989), 6,17% ao ano. Incentivos exportadores já nos anos 1950; subsídios principalmente fiscais; empresas públicas relevantes (13-14% do PIB); Estado criou indústrias de PVC, fibras e eletrônica e as repassou ao setor privado.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "Taiwan                  1359              8207              6.17"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "The maximum business income tax paid by enterprises was"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 36,
+          "quote": "In Taiwan, it was the"
+        }
+      ]
+    },
+    {
+      "name": "Hyundai e Lucky-Goldstar (chaebol coreanos)",
+      "period": "1964-1975 (Hyundai); pós-anos 1940 (Lucky-Goldstar)",
+      "outcome": "Ilustram complementaridades, escala e não comercialização da tecnologia: Hyundai passou do cimento (1964) aos automóveis (1967) e à construção naval com apoio estatal e demanda cativa; Lucky-Goldstar se diversificou em atividades relacionadas.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 29,
+          "quote": "Hyundai first entered"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 30,
+          "quote": "The Korean government provided Hyundai with substantial assistance, as well as"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 30,
+          "quote": "This natural step-by-step evolution"
+        }
+      ]
+    },
+    {
+      "name": "POSCO (Coreia)",
+      "period": "início dos anos 1970 a 1984",
+      "outcome": "O Banco Mundial negou o empréstimo, alegando falta de vantagem comparativa; o governo seguiu adiante com capital e infraestrutura subsidiados, e a POSCO se tornou muito eficiente; o conteúdo local subiu de 44% para 75% entre 1977 e 1984.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 39,
+          "quote": "down by the World Bank when it applied for a loan to construct a steel plant."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 39,
+          "quote": "Between 1977 and 1984, the local content of POSCO's output rose"
+        }
+      ]
+    },
+    {
+      "name": "Turquia e Chile (contraexemplos)",
+      "period": "anos 1980",
+      "outcome": "Grandes aumentos de lucratividade das exportações na Turquia (mais de 50%) não elevaram o investimento privado, que caiu e só se recuperou no fim dos anos 1980; no Chile, o investimento respondeu de modo lento aos incentivos exportadores até 1989.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 15,
+          "quote": "In Turkey, there was a"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 15,
+          "quote": "private investment actually fell in diis period"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong, Filipinas, República Dominicana, Paraguai e Sri Lanka (comparações)",
+      "period": "c. 1960-1989",
+      "outcome": "Hong Kong já tinha investimento acima de 20% do PIB em 1960 e razão estável desde então, o que Rodrik lê como indício de que elevar o investimento exige ação governamental. Os quatro outros países tinham vantagem de capital humano semelhante à da Coreia e de Taiwan, mas cresceram bem menos (1,58% a 2,72% ao ano).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 43,
+          "quote": "Hong Kong was already a"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 44,
+          "quote": "None of them experienced the kind of growth rates that"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 44,
+          "quote": "Philippines       1.58"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Crescimento liderado por exportações (export-led growth)",
+      "definition": "Explicação ortodoxa: políticas pró-exportação levaram à especialização por vantagem comparativa e a mais renda, investimento, poupança e produtividade. Rodrik a considera incompleta e com a causalidade invertida.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 3,
+          "quote": "The standard story to which most orthodox economists subscribe is one"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "It also has backward the causal"
+        }
+      ]
+    },
+    {
+      "term": "Falha de coordenação",
+      "definition": "Situação em que o retorno ao investimento coordenado é alto e o retorno ao investimento individual é baixo, por interdependência entre decisões de produção e investimento sob escala e não comercialização de insumos; mais grave em economias com mão de obra qualificada e pouco capital.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "the rate of return to coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "most severe"
+        }
+      ]
+    },
+    {
+      "term": "Condições iniciais",
+      "definition": "Capital humano acima do esperado pela renda e distribuição de renda e riqueza muito igual, que preparam a decolagem e tornam a intervenção eficaz e livre de rent seeking.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 23,
+          "quote": "social indicators placed them among the ranks of countries at several times their income"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "an exceptionally high degree of equality in income and wealth"
+        }
+      ]
+    },
+    {
+      "term": "Subsídio ao investimento",
+      "definition": "Crédito a juros reais negativos e garantias de resgate (Coreia) ou isenções e créditos fiscais (Taiwan) que elevam o retorno privado do capital.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "In Korea, the chief form of investment subsidy was the extension of credit to large"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "The most important direct subsidies in Taiwan came in"
+        }
+      ]
+    },
+    {
+      "term": "Coordenação direta e empresas públicas",
+      "definition": "O Estado organiza empresários em investimentos que não fariam sozinhos (criação de fábricas entregues a privados, joint ventures forçadas) e assume indústrias a montante com forte encadeamento e escala.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 36,
+          "quote": "organizing private entrepreneurs into"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 38,
+          "quote": "ensuring that key inputs were available locally for private"
+        }
+      ]
+    },
+    {
+      "term": "Rent seeking",
+      "definition": "Busca de ganhos a partir de intervenções do Estado; Rodrik afirma que a intervenção gera oportunidades para isso e que a igualdade e a supervisão dos líderes sobre a burocracia o controlaram.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "interventions naturally"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "productive activities rather than rent seeking"
+        }
+      ]
+    },
+    {
+      "term": "Produtividade total dos fatores (PTF)",
+      "definition": "Resíduo do crescimento não explicado pela acumulação de fatores; em Coreia e Taiwan ficou próxima à da América Latina, de modo que o milagre se explica pela acumulação.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "Table 2 shows the results of Young's (1994)"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "there is very little growth 'residual' left over to explain"
+        }
+      ]
+    },
+    {
+      "term": "Efeito de desequilíbrio (imbalance effect)",
+      "definition": "Explicação alternativa mais simples (Mulligan e Sala-i-Martin): crescimento mais alto quando capital humano é grande em relação ao capital físico, sem papel obrigatório do governo; Rodrik a rejeita porque preveria milagres em outros países com a mesma vantagem.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 44,
+          "quote": "Recent theories of growth show that an initial imbalance between human and"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 48,
+          "quote": "Dani rejects this possible alternative explanation because it would have also"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Renda per capita (US$ de 1985): Coreia 883 (1960) para 6.206 (1989), 6,82% ao ano; Taiwan 1.359 para 8.207, 6,17%; Gana -0,54%, Brasil 3,58%, México 2,36%, Argentina 0,63% no mesmo período.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "South Korea              883              6206              6.82"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 4,
+          "quote": "Argentina              3294              3608              0.63"
+        }
+      ]
+    },
+    {
+      "fact": "Exportações/PIB: de praticamente zero para mais de 30% (Coreia) e de cerca de 10% para mais de 40% (Taiwan) até o início dos anos 1980; aceleração entre meados dos anos 1960 e meados dos anos 1970.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 6,
+          "quote": "ratio rose from virtually zero in Korea to more than 30% by the"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 6,
+          "quote": "increase in export orientation was particularly rapid in the decade from the"
+        }
+      ]
+    },
+    {
+      "fact": "Investimento subiu de cerca de 10% do PIB no fim dos anos 1950 para 30% em 1980, com aumento de poupança equivalente; transferência líquida de recursos externos pequena (Taiwan) ou moderada (Coreia).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "Investment rose from around 10% of GDP in the late 1950s in both countries to 30% in 1980."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "Consequently, the net resource transfer from abroad has been either small"
+        }
+      ]
+    },
+    {
+      "fact": "PTF 1966-90: Coreia 1,2% ao ano (economia) e 2,7% (indústria); Taiwan 1,8% e 1,4%; Brasil 2,0% (1950-80) e México 1,7% (1940-80). Kim e Lau encontram progresso técnico essencialmente nulo.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "South Korea                      1966-90                       1.2*                    2.7"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "the rate of technical progress in South Korea and Taiwan has been"
+        }
+      ]
+    },
+    {
+      "fact": "Coreia: a lucratividade relativa das exportações não voltou ao nível de 1959-60 até o início dos anos 1970, apesar de a razão exportações/PIB já ser quase dez vezes maior; subsídio da 'wastage allowance' de 4,6% em média em 1968 e de 17-21% em alguns têxteis e calçados.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 10,
+          "quote": "Frank et al. estimate"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 10,
+          "quote": "export-GDP ratio was nearly ten times larger than in"
+        }
+      ]
+    },
+    {
+      "fact": "Taiwan: em 1963-64 o surto exportador coincidiu com apreciação real de cerca de 10%; no início dos anos 1980 a lucratividade das exportações estava no nível de 1961, mas a razão exportações/PIB era mais de quatro vezes maior.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 13,
+          "quote": "decrease in export incentives, indicated by a real appreciation of around 10%"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 13,
+          "quote": "more than four times as large"
+        }
+      ]
+    },
+    {
+      "fact": "Contribuição das exportações: Hong calcula no máximo 10% do crescimento coreano em 1966-70; exportações menores que 5% do PIB (Coreia) e pouco acima de 10% (Taiwan) por volta de 1960.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "export expansion could not"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 16,
+          "quote": "Exports were less than 5% of GDP in Korea around 1960, and barely"
+        }
+      ]
+    },
+    {
+      "fact": "Educação em 1960: matrícula primária 0,94 (Coreia) e 0,96 (Taiwan) contra 0,57 e 0,62 previstos pela renda; alfabetização 0,71 e 0,54 contra 0,31 e 0,36 previstos; Coreia e Taiwan são os países mais próximos da origem no gráfico de Gini de renda e de terra (41 países).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 24,
+          "quote": "Korea            0.57                0.94              0.10                        0.27                     0.31              0.71"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 24,
+          "quote": "Korea and Taiwan are the two countries closest to the origin"
+        }
+      ]
+    },
+    {
+      "fact": "As condições iniciais (matrícula primária, desigualdade) explicam 88% do crescimento previsto da Coreia (real 5,95%; previsto 5,24%) e 87% de Taiwan; sem Coreia e Taiwan na amostra, 82% e 81%.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 25,
+          "quote": "South Korea                         5.95                      5.24                        88"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "(82% for"
+        }
+      ]
+    },
+    {
+      "fact": "Lucros na Coreia: taxa de lucro industrial de 9% (1951-53) para 28% (1957-62) e 35% (1963-70); retorno ao capital de 9-18% nos anos 1950 para 17-40% depois de 1972. Little calcula 31,1% em 1963-73 e 18,3% em 1974-79 (queda atribuída ao programa de indústrias pesadas e químicas).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 31,
+          "quote": "and Sakong (1980) report (based on Hong, 1977) steadily rising real rates of return"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 31,
+          "quote": "to 28% in"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 31,
+          "quote": "during 1974-9. He attributes the decline to the HCI drive."
+        }
+      ]
+    },
+    {
+      "fact": "Crédito coreano: empréstimo bancário representava dois terços do fluxo de caixa das firmas em 1963-74, e a taxa bancária geral era cerca de metade da taxa do mercado paralelo. Firmas com 200 ou mais empregados passaram de 58% para 72% do valor adicionado industrial (1966-71).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "two-thirds of their cash flow"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 33,
+          "quote": "the general bank [lending] rate"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 34,
+          "quote": "rose from 58%"
+        }
+      ]
+    },
+    {
+      "fact": "Taiwan: o imposto máximo sobre renda empresarial caiu para 18% (antes 32,5%) e a isenção para novos investimentos passou de três para cinco anos (Lei de 1960); créditos fiscais como parcela da base subiram de 0,4% (1955) para 5,6% (1960) e 18,0% (1967).",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "reduced to 18% of annual income (from a previous maximum of 32.5%)"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "1955                      0.4"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 35,
+          "quote": "1967                      18.0"
+        }
+      ]
+    },
+    {
+      "fact": "Empresas públicas: participação na formação de capital de 31,2% (Coreia, 1963-64, com 6,7% do PIB) e de 38,1% (Taiwan, 1958-61, com 13,5% do PIB); em Taiwan, maior parcela do PIB do que Índia e Tanzânia.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 38,
+          "quote": "1963-4                   6.7                          31.2"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 38,
+          "quote": "1958-61                 13.5                          38.1"
+        }
+      ]
+    },
+    {
+      "fact": "Quadro de Barro e Lee citado por Grossman: o efeito de convergência líquido responde por 0,028 (Coreia 1965-75) de um crescimento ajustado de 0,081.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 47,
+          "quote": "Net convergence effect                      0.028             0.023             0.026               0.017"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 47,
+          "quote": "Fitted value                                0.081              0.061             0.060             0.040"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O próprio Rodrik admite que a evidência de falha de coordenação é circunstancial e sem confirmação empírica direta, e pede estudos micro e setoriais.",
+    "Grossman (debatedor) aceita a refutação do crescimento exportador, mas duvida que seja possível provar a falha de coordenação e que as políticas seletivas fossem necessárias; sugere que o 'efeito de desequilíbrio' e o aprendizado de convergência bastam, e que a política apenas acelerou um processo que ocorreria de qualquer forma. Rodrik responde que os anos 1950 mostram que isso não ocorria sozinho.",
+    "Norman (debatedor) afirma que as exportações precederam as importações de bens de capital (a razão exportações/PIB triplicou no início dos anos 1960, antes do aumento das importações de bens de capital), o que contradiz a causalidade 'investimento, importações, exportações'. Outra crítica: bastaria uma história simples de poupança e investimento, e os exemplos (construção naval) não condizem com as preferências do Estado por indústrias com forte encadeamento.",
+    "Norman também contesta o isolamento em relação a grupos de pressão (o apoio de Park a empresários seletos se parece mais com captura regulatória) e diz que o sucesso da política industrial permanece 'não provado'. Painel: Sinn lembra que o modelo de Heckscher-Ohlin é compatível com os fatos; Vives diz que o papel dos subsídios no Japão foi pequeno.",
+    "Rodrik reconhece que as exportações podem ter servido como disciplina sobre as firmas subsidiadas e que o boom de investimento não seria possível com forte viés antiexportação; sua tese é, portanto, sobre o motor do crescimento, e não sobre a irrelevância do comércio.",
+    "Rodrik restringe a generalização: o sucesso depende de condições iniciais raras, e a seleção de vencedores era mais fácil enquanto os países copiavam economias avançadas (Japão); depois do catch-up a tarefa se torna mais difícil.",
+    "A fonte é um artigo de 1995 e usa dados até cerca de 1990; o texto extraído é parcialmente ruidoso por OCR e não captura figuras (inferência: valores precisos de gráficos devem ser consultados no original)."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "O professor apresenta o contraste entre a explicação ortodoxa (crescimento liderado por exportações: ISI nos anos 1950, depois fim da ajuda dos EUA e políticas de exportação) e a tese de Rodrik, de que esse crescimento não se deve às exportações.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 5,
+          "quote": "No final da década de 1950, após primeira fase da ISI e fim dos auxílios dos EUA, passaram a adotar políticas de exportação;"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 9,
+          "quote": "Por que Rodrik afirma que não houve crescimento liderado por exportações?"
+        }
+      ]
+    },
+    {
+      "point": "Destaca o 'aumento espetacular' do investimento/PIB (cerca de 10% para 30%) e que a TFP foi modesta; logo o determinante é a acumulação de capital.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 11,
+          "quote": "Este aumenta a partir do final dos anos 1950 de ao redor de 10% para 30% nos anos 1980 nos dois países;"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 13,
+          "quote": "Logo, o determinante do milagre asiático então está na acumulação de capital e não aumento no TFP."
+        }
+      ]
+    },
+    {
+      "point": "Três razões pelas quais a hipótese export-led estaria errada: incentivos relativos pouco significativos, ausência de aumento relevante da lucratividade e razão exportações/PIB mais compatível com investimento massivo.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 14,
+          "quote": "3) O aumento das exportações em relação ao PIB combina muito mais com um crescimento liderado por investimentos massivos do que por exportações diretas."
+        }
+      ]
+    },
+    {
+      "point": "Condições iniciais e falha de coordenação: acesso difícil a tecnologias e insumos e retornos crescentes; o investimento isolado não era lucrativo, mas o coordenado seria. O professor enumera sete pontos do argumento, incluindo que o aumento de exportações é consequência do aumento da demanda por investimento.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 17,
+          "quote": "Isso gerava uma falha de coordenação: investimentos isolados não eram lucrativos, mesmo que investimentos coordenados fossem."
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 19,
+          "quote": "mais apropriado ver esse aumento de exportações como consequência do aumento da demanda por investimento e não o contrário."
+        }
+      ]
+    },
+    {
+      "point": "Os países tinham a mão de obra necessária, mas não capital suficiente; o Estado teve papel essencial em resolver a falha de coordenação, sobretudo nos primeiros estágios da industrialização.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 20,
+          "quote": "O argumento sustenta que Coreia e Taiwan tinham a mão de obra necessária, mas não tinham capital suficiente;"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 21,
+          "quote": "O Estado teve papel essencial em resolver essa falha e induzir o crescimento;"
+        }
+      ]
+    },
+    {
+      "point": "Instrumentos de intervenção: clima de investimento (golpe de 1961 e Park, que prendia e recompensava empresários; reformas de 19 pontos em Taiwan), subsídios (crédito a juros reais negativos na Coreia; incentivos fiscais em Taiwan), coordenação direta e investimento público/empresas estatais como 'fundação' pesada da economia.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 22,
+          "quote": "prendia empresários que se alinhavam com os investimentos que o governo priorizava e recompensava os que faziam;"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 24,
+          "quote": "principal forma de subsídios para investimentos era através da extensão de crédito para grandes grupos a taxas de juros reais negativas;"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 29,
+          "quote": "As empresas públicas funcionaram como a \"fundação\" pesada da economia"
+        }
+      ]
+    },
+    {
+      "point": "Condições para a intervenção funcionar: capital humano (necessário, mas não suficiente), burocracia eficiente, competente e honesta, e igualdade de renda e riqueza, que evitou elites poderosas e políticas populistas e deixou os líderes livres para focar em objetivos econômicos e evitar rent seeking.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 30,
+          "quote": "A vantagem inicial de capital humano foi condição necessária para a intervenção funcionar, ela sozinha n foi suficiente."
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 31,
+          "quote": "Os líderes políticos estavam livres para focarem nos objetivos econômicos"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta pelo professor (sugestão de tema, slide 32): 'Quais seriam os motivos para o export-led growth não ser a verdadeira história por trás do crescimento dos Tigres Asiáticos?' No slide 9 ele também deixa em aberto 'Qual seria a explicação mais correta então?'. Na resposta, convém usar os quatro argumentos do texto e os três do slide 14, e fechar com investimento, falha de coordenação e condições iniciais.",
+      "refs": [
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 32,
+          "quote": "Quais seriam os motivos para o export-led growth não ser a verdadeira história por trás do crescimento dos Tigres Asiáticos?"
+        },
+        {
+          "file_id": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
+          "pdf_page": 9,
+          "quote": "Importância da exportação no crescimento é supervalorizada."
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "Tabela 1 (p. 4 do PDF): crescimento comparado de Coreia, Taiwan, Gana, Senegal, Moçambique, Brasil, México e Argentina; a extração captura os números. Slide 3 da aula 23 reproduz a Tabela 1 como imagem.",
+    "Figura 1 (p. 6 do PDF, crescimento per capita 1954-90; slide 6) e Figura 2 (p. 6, exportações/PIB 1952-90; slide 7) são gráficos que a extração não captura em dados; Figura 3 (p. 7, investimento/PIB 1951-90; slide 10) idem.",
+    "Tabela 2 (p. 7, PTF; slide 12): números capturados pelo texto, mas conferir as notas de rodapé no original.",
+    "Figuras 4 (p. 11, preço relativo das exportações e exportações/PIB na Coreia 1955-76), 5 (p. 13, câmbio real e exportações em Taiwan), 6 e 7 (pp. 14-15, Turquia e Chile): gráficos sem dados legíveis na extração; Figuras 9 a 12 (pp. 20-22) mostram importações e investimento e a composição das importações; Figura 8 e Box 1 (pp. 18-19) são o diagrama da resposta endógena das exportações, só em imagem.",
+    "Figura 13 (p. 24, Gini de renda e de terra em 41 países) e Figura 14 (p. 42, investimento e crescimento 1960-85) são gráficos de dispersão; as Tabelas 3 a 11 (pp. 23-47) estão no texto extraído, mas com ruído de OCR em alguns números. O apêndice (pp. 52-55) tem o modelo formal com fórmulas ilegíveis na extração.",
+    "Slides da aula 23 sem texto: 3 (Tabela 1), 6 (Figura 1), 7 (Figura 2), 10 (Figura 3) e 12 (Tabela 2); a página 1 do PDF tem ruído de cabeçalho."
+  ]
+}

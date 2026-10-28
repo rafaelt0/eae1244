@@ -1,0 +1,1356 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6601131",
+  "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+  "lessons": [
+    20
+  ],
+  "authors": [
+    "Nicholas Crafts",
+    "Gianni Toniolo"
+  ],
+  "title": "Aggregate growth, 1950–2005 (cap. 12 de The Cambridge Economic History of Europe, vol. 2: 1870 to the Present)",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Crafts e Toniolo, a Era de Ouro europeia (1950-73) foi um período de catch-up rápido em relação aos EUA, sustentado por aprofundamento de capital e forte crescimento da PTF (transferência de tecnologia, realocação de recursos, economias de escala), e não apenas por recuperação da guerra. A tese central dos autores é que estruturas de incentivos, isto é, instituições e políticas (contratos sociais à la Eichengreen, abertura comercial condicionada pelo Plano Marshall, concorrência), explicam tanto o sucesso da Era de Ouro e as diferenças entre países quanto a desaceleração posterior, que combinou fatores inevitáveis (fim do catch-up) com rigidezes institucionais evitáveis.",
+  "question": "Por que a Europa teve a Era de Ouro e por que ela terminou; o que explica o sucesso e o fracasso relativos entre países; por que a Europa não completou a convergência com os EUA; e o que há de diferente no crescimento na era das TIC?",
+  "argument": [
+    {
+      "claim": "Os autores usam dois referenciais: crescimento endógeno (incentivos a investir e inovar, com a taxa de progresso técnico dada pelo cruzamento da linha de Solow e da linha de Schumpeter) e catch-up à Abramovitz, no qual a convergência não é automática e depende de 'capacidade social' e 'congruência tecnológica'. A implicação é que instituições e políticas afetam a taxa de crescimento.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 3,
+          "quote": "The equilibrium rate of technological progress is established by the intersection"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "be affected by institutions and policies."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        }
+      ]
+    },
+    {
+      "claim": "Fatos básicos: o PIB per capita da Europa Ocidental em 2005 era cerca de dez vezes o de 1870; a Era de Ouro destaca-se como crescimento extraordinário, em parte recuperação das guerras e da Grande Depressão. De 1820 a 1950 os EUA abriram vantagem (a Europa foi de 96% a 48% do nível americano); na Era de Ouro a Europa chegou a 68% em 1973; depois de 1973 os crescimentos foram virtualmente iguais dos dois lados do Atlântico e o catch-up estagnou.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "96 percent of the American level in 1820 but had fallen to 48 percent by 1950."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "the gap markedly and was at 68 percent of the United States level."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "however, growth rates have been virtually the same on both sides of the"
+        }
+      ]
+    },
+    {
+      "claim": "Há β-convergência incondicional: países de renda inicial baixa cresceram mais. A regressão do crescimento do PIB per capita sobre a renda inicial (em % da líder) indica taxa de convergência pouco acima de 2% ao ano em 1950-73 e de 1,5% ao ano depois. Ajustado pelo espaço de catch-up, Alemanha Ocidental, Espanha e Itália superaram e o Reino Unido ficou abaixo.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 6,
+          "quote": "been a clear tendency towards β-convergence since 1950 such that, on average,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 8,
+          "quote": "estimates imply a rate of convergence of a little over 2 percent per year in the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 8,
+          "quote": "golden age, but 1.5 percent per year thereafter."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 9,
+          "quote": "for scope for catch-up, West Germany, Spain, and Italy seem to have overperformed"
+        }
+      ]
+    },
+    {
+      "claim": "A contabilidade do crescimento decompõe a produtividade do trabalho em aprofundamento de capital (físico e humano) e PTF. Na Era de Ouro ambos contribuíram muito, e na maioria dos países a PTF deu a maior contribuição. Essa PTF não veio de P&D doméstico relevante, mas de transferência de tecnologia, mudança estrutural, economias de escala e uso mais pleno dos fatores após a reconstrução. Os autores ressalvam que PTF não equivale a progresso tecnológico.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "It should be noted that TFP does not equate to technological progress even"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "in the majority of countries TFP growth made"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "technology transfer, structural change,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "economies of scale, and fuller utilization of factors of production as post-war"
+        }
+      ]
+    },
+    {
+      "claim": "Ponto de partida favorável: duas guerras e a Depressão deixaram a Europa abaixo da trajetória pré-1914, e a correção de erros como o protecionismo do entreguerras tinha potencial de gerar crescimento rápido. Bretton Woods e o Plano Marshall criaram um ambiente internacional diferente do da Liga das Nações e de Versalhes. A estabilidade macroeconômica de Bretton Woods é citada como contexto favorável, mas os autores dizem que a teoria é ambígua sobre isso.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 15,
+          "quote": "Western Europe had endured two world wars and the interwar depression,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 15,
+          "quote": "the correction of policy errors such as the disastrous protectionism of the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 15,
+          "quote": "Theory is ambiguous about this claim, however, and economists have struggled"
+        }
+      ]
+    },
+    {
+      "claim": "O Plano Marshall (US$ 13 bilhões em doações, 1948-51) teve efeitos diretos pequenos (investimento talvez 1% do PIB maior), mas efeitos indiretos importantes: a condicionalidade funcionou como programa de ajuste estrutural, reforçando o compromisso com o mercado, a liberalização comercial e contratos sociais que sustentaram alto investimento.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "The role of the Marshall Plan, whereby the United States provided $13 billion"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "was raised by perhaps 1 percent of GDP, but basic growth economics suggests"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "structural adjustment program – much more so than those designed by the World"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "strengthening commitments to the market economy and trade liberalization and"
+        }
+      ]
+    },
+    {
+      "claim": "Integração e comércio: a eliminação de cerca de 55% das barreiras comerciais iniciais (CEE, EFTA, Rodada Kennedy) implicou, segundo Badinger, cerca de 1% ao ano a mais de crescimento no período, via investimento, concorrência, economias de escala e transferência tecnológica. A tecnologia americana era custo-efetiva para a Europa e a Europa ainda obtinha mais de 40% de seu progresso técnico de pesquisa americana nos anos 1980.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "implication was an increase of the European growth rate of around"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "1 percent per year during this period."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "over 40 percent of their technological progress from American research in"
+        }
+      ]
+    },
+    {
+      "claim": "A PTF rápida não foi só transferência de tecnologia: a realocação de recursos (saída de mão de obra de pequenas propriedades familiares agrícolas para setores mais produtivos) foi importante, com grande impacto na Itália e na Espanha e impacto sensível na França e na Alemanha Ocidental. As defasagens de PTF em relação aos EUA eram sobretudo de eficiência, não de tecnologia, e sua redução explica parte do catch-up.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "played an important part, most notably in the context of a contraction of"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "primarily due to shortfalls in"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "structural change to labor productivity growth using the method proposed by"
+        }
+      ]
+    },
+    {
+      "claim": "Hipótese de Eichengreen (capacidade social): contratos sociais corporativistas sustentaram moderação salarial dos trabalhadores em troca de alto investimento das firmas, com instituições que monitoram o cumprimento, negociação salarial centralizada e o Estado de bem-estar como 'garantia' contra deserção do trabalho. Os autores a tratam com cautela: um teste grosseiro (negociação centralizada x crescimento) não a confirma e 'o júri ainda não decidiu'.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "facilitated by successful social contracts that sustained wage moderation by"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "that would be jeopardized if labor defected on the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "does not appear to have been correlated with faster growth, ceteris paribus"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "hypothesis on which the jury is still out."
+        }
+      ]
+    },
+    {
+      "claim": "Diferenças entre países na Era de Ouro: houve forte correlação inversa entre renda inicial e crescimento, mas com desvios. Resíduos da regressão: +0,68 para Alemanha Ocidental, -1,70 para Irlanda e -0,68 para Reino Unido. O RU não poderia crescer como Itália ou Espanha, mas deveria igualar Dinamarca ou Suécia.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "A glance at Table 12.2 shows a strong inverse correlation between the level of"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "The residuals from the regression of Table 12.5 are +0.68 for"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "West Germany and –1.70 and –0.68 for Ireland and the UK, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "O fracasso britânico e irlandês é explicado por política e instituições (não por periferia). A Alemanha Ocidental acumulou mais capital humano e físico, com sindicatos industriais e sistema financeiro 'insider'. O RU tinha sindicalismo múltiplo (problema de hold-up e free-riding) e concorrência fraca. A Irlanda atrasou a liberalização comercial e adotou substituição de importações, corrigidas depois com IDE, imposto baixo e educação, o que levou ao Tigre Celta.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "It seems clear that the issues relate primarily to Irish economic policy rather"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "delay trade liberalization and instead pursue policies of import substitution"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "In 1973, capital per hour worked in West Germany was 35 percent above"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 20,
+          "quote": "was relatively weak in the UK compared with West Germany, partly because"
+        }
+      ]
+    },
+    {
+      "claim": "No Leste, a 'idade de prata' comunista cresceu rápido em termos históricos, mas, controlado o espaço de catch-up, ficou cerca de 1,3 ponto percentual por ano abaixo do Oeste; a PTF fraca é a razão-chave. A causa foi de incentivos (planejamento premiava metas de curto prazo, sem concorrência) e retornos decrescentes do capital, não uma elasticidade de substituição desfavorável.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 9,
+          "quote": "growth was about 1.3 percentage points lower than that of their western"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "The planning system rewarded managers who achieved production"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "Soviet economy was its inability to achieve strong TFP growth."
+        }
+      ]
+    },
+    {
+      "claim": "Desaceleração pós-1973: parte inevitável (esgotamento de componentes transitórios como a reconstrução, retornos decrescentes do investimento e menor espaço de catch-up, além do enfraquecimento do crescimento americano); parte contextual (desindustrialização e globalização). A queda da produtividade do trabalho deveu-se a menor contribuição tanto do capital quanto da PTF, mais da PTF. Os EUA ficaram à frente em renda per capita também porque os europeus trabalham menos.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "The end of the golden age had a number of unavoidable aspects, including the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "diminishing returns to investment as the post-war boom went on,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 13,
+          "quote": "percentage points per year for the capital deepening contribution, but 1.75"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 23,
+          "quote": "Europeans work less than Americans"
+        }
+      ]
+    },
+    {
+      "claim": "Parte evitável da desaceleração, segundo os autores: fragilidade do equilíbrio de Eichengreen nos anos 1970 (militância sindical, maior mobilidade de capital, juros flutuantes, mais proteção ao emprego), maior tributação distorciva para financiar o Estado de bem-estar, regulação forte de produtos e do trabalho e pouca concorrência. A regulação tornou-se mais custosa com as TIC, não mais rigorosa; os EUA tiveram revival da produtividade desde meados dos anos 1990, ao passo que a Europa explorou menos as TIC.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "One very obvious point is that the fragility of the Eichengreen wage moder"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "the growth rate by 0.1 percentage points, so the tax increases between 1965"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "around 0.75 percentage points on average, based on the estimates in Nicoletti"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 31,
+          "quote": "Thus, the story is not that regulation has become more stringent but"
+        }
+      ]
+    },
+    {
+      "claim": "Síntese: o crescimento rápido e sustentado de catch-up combinou aprofundamento de capital e PTF; avaliar desempenho exige descontar o espaço de catch-up; incentivos importam; a condicionalidade pode funcionar; concorrência favorece produtividade; e a história importa, pois instituições bem-sucedidas na Era de Ouro ganharam apoio político que dificultou sua reforma.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "First, it is clear that rapid, sustained catch-up growth in Europe was based on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "Thirdly, and most important, incentive structures matter for growth, so"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 38,
+          "quote": "conditionality can sometimes be successfully deployed to improve long"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 38,
+          "quote": "The downside of these arrangements was that they commanded political"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Catch-up condicionado por capacidade social e congruência tecnológica: o atraso inicial (capital por trabalhador e PTF baixos) abre espaço para crescimento rápido, por redução dos hiatos de capital e de tecnologia, mas só se as estruturas de incentivo permitirem assimilar a tecnologia.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "effective assimilation of new technology, and the latter to the cost effectiveness"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "In episodes of catch-up growth, strong labor productivity growth is based on"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Aprofundamento de capital mais crescimento da PTF (transferência de tecnologia, mudança estrutural, economias de escala, melhor uso dos fatores) como fontes imediatas da produtividade do trabalho na Era de Ouro; na maioria dos países a PTF pesou mais. A PTF soviética foi fraca e a PTF das economias de catch-up ocidentais pesou mais do que nos Tigres Asiáticos.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "in the majority of countries TFP growth made"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 13,
+          "quote": "good deal more to TFP growth and less to capital deepening than was the case"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "TFP growth was decidedly inferior,"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Realocação de recursos: saída de mão de obra excedente da agricultura familiar para setores mais produtivos eleva a PTF agregada (medida de Broadberry), sobretudo na Itália e na Espanha.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "played an important part, most notably in the context of a contraction of"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "structural change to labor productivity growth using the method proposed by"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Transferência de tecnologia dos EUA via comércio e integração (CEE, EFTA, GATT), investimento em capital humano e P&D. A integração liberalizou ~55% das barreiras e teria somado cerca de 1% ao ano ao crescimento; a tecnologia americana era custo-efetiva e cada vez mais codificada.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "implication was an increase of the European growth rate of around"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "over 40 percent of their technological progress from American research in"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Plano Marshall como transmissor institucional: efeito direto pequeno, mas condicionalidade que ancorou liberalização comercial, economia de mercado e contratos sociais de alto investimento (ajuste estrutural bem-sucedido, segundo DeLong e Eichengreen). Bretton Woods aparece como ambiente macro estável, com efeito ambíguo segundo a teoria.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "structural adjustment program – much more so than those designed by the World"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "strengthening commitments to the market economy and trade liberalization and"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 15,
+          "quote": "Theory is ambiguous about this claim, however, and economists have struggled"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Contrato social de Eichengreen: moderação salarial em troca de alto investimento, garantida por corporativismo, negociação centralizada e Estado de bem-estar. Sustentou a Era de Ouro mas se desfez nos anos 1970 (poder sindical, mobilidade de capital, juros flutuantes) e o modelo corporativista se tornou menos adequado a economias que precisavam inovar mais e imitar menos.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "facilitated by successful social contracts that sustained wage moderation by"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "investment equilibrium was revealed and it did not generally survive"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "become more innovative and less imitative in achieving productivity growth, as"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Concorrência e estrutura sindical como diferenciadores: no RU, sindicalismo múltiplo (hold-up e free-riding) e concorrência fraca (lenta abertura comercial, política de concorrência mal desenhada, margens altas) deprimiram a produtividade; reformas thatcheristas e política de concorrência mais dura a melhoraram.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "prevalent in the UK. Multiple unionism makes the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 20,
+          "quote": "policy was a low priority and badly designed. Price–cost margins were much"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "period of deregulation and much increased competitive pressure on manage"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Rigidez institucional após 1973: tributação distorciva e gastos sociais altos (cada ponto de tributação distorciva a mais reduziria o crescimento em 0,1 ponto), regulação de produtos (reduz a PTF relativa aos EUA em cerca de 0,75 ponto) e de emprego (desestimula investimento em TIC). Essas regras ganharam apoio político e se tornaram difíceis de reformar.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "of one percentage point in the ratio of distortionary taxation to GDP reduces"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "around 0.75 percentage points on average, based on the estimates in Nicoletti"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 31,
+          "quote": "because reorganizing working practices and"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 38,
+          "quote": "The downside of these arrangements was that they commanded political"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Esgotamento do catch-up e dos componentes transitórios: fim da reconstrução, retornos decrescentes e hiato menor reduzem a taxa de convergência (de pouco mais de 2% para 1,5% ao ano). Desindustrialização e globalização deslocam a base do crescimento para serviços e produção industrial para a Ásia.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "and reduction in the scope for catch-up as the gap with the leader narrowed"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 8,
+          "quote": "golden age, but 1.5 percent per year thereafter."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "switch of world industrial production"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Na URSS, crescimento extensivo (investimento perto de 30% do PIB) com retornos decrescentes e PTF negativa, e incentivos de gestores e trabalhadores que ficaram caros; interpretação de Harrison: o sistema poderia passar de equilíbrio de alta coerção para outro de baixa coerção, explicando o colapso súbito no fim dos anos 1980.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 20,
+          "quote": "1970s to just under 30 percent and the capital stock grew at about 8.5 percent"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "the capital stock growth rate fell from 7.4 percent per year in the 1960s to 3.4"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Europa Ocidental (agregado de 16 países) vs. EUA",
+      "period": "1820-2005",
+      "outcome": "Relativo à renda dos EUA: 96% em 1820, 48% em 1950, 68% em 1973; estagnou desde então em cerca de dois terços. Crescimento do PIB per capita em 1950-73: 4,06% a.a. (Europa Ocidental) vs. 2,45% a.a. (EUA); 1973-2005: 1,86% vs. 1,91%.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "96 percent of the American level in 1820 but had fallen to 48 percent by 1950."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "the gap markedly and was at 68 percent of the United States level."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "1970s, catch-up has stalled with real GDP per capita at only about two thirds of"
+        }
+      ]
+    },
+    {
+      "name": "Alemanha Ocidental",
+      "period": "1950-73",
+      "outcome": "Desempenho acima do esperado pela renda inicial (resíduo +0,68). PIB per capita crescendo 5,02% a.a. (Tabela 12.2). Mais acumulação de capital físico e humano (capital por hora 35% acima do RU em 1973; 34,5% de trabalhadores pouco qualificados em 1978/9 vs. 72,8% no RU), sindicatos industriais e concorrência maior.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "West Germany and –1.70 and –0.68 for Ireland and the UK, respectively."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "In 1973, capital per hour worked in West Germany was 35 percent above"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "the UK level and in 1978/9 only 34.5 percent of West German workers were"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido",
+      "period": "1950-73 (e reformas após 1979)",
+      "outcome": "Desempenho abaixo do esperado (resíduo -0,68): sindicalismo descentralizado e múltiplo, concorrência fraca, menor acúmulo de capital. Reformas a partir de 1979 (Thatcher) enfrentaram parte dessas fraquezas e, por ser pouco regulado, o RU esteve melhor posicionado na era das TIC.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "The residuals from the regression of Table 12.5 are +0.68 for"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "period of deregulation and much increased competitive pressure on manage"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 32,
+          "quote": "UK has been better positioned than the other big European economies to"
+        }
+      ]
+    },
+    {
+      "name": "Irlanda",
+      "period": "1950-73 e 1987-2004",
+      "outcome": "Fracasso na Era de Ouro (resíduo -1,70) por política: atraso da liberalização comercial e substituição de importações. Depois, IDE, imposto corporativo generoso, mais educação, estabilização e contrato social trocando contenção salarial por corte de impostos levaram ao Tigre Celta; grande parte da produtividade recente vem da produção de TIC para exportação.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "delay trade liberalization and instead pursue policies of import substitution"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "These included a very generous corporate tax regime and a big"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 28,
+          "quote": "hypothesis because it developed a new kind of social contract, in which wage"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 32,
+          "quote": "The key aspect of recent Irish productivity performance is the huge contri"
+        }
+      ]
+    },
+    {
+      "name": "Itália e Espanha",
+      "period": "1950-73",
+      "outcome": "Países de baixa renda inicial com crescimento alto e resíduos positivos na regressão regional; ganhos grandes da realocação do trabalho para fora da agricultura (contribuição estrutural de 1,77% a.a. pela medida de Broadberry).",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 9,
+          "quote": "for scope for catch-up, West Germany, Spain, and Italy seem to have overperformed"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "structural change to labor productivity growth using the method proposed by"
+        }
+      ]
+    },
+    {
+      "name": "URSS e Europa Oriental",
+      "period": "1950-73 (idade de prata) e após",
+      "outcome": "Crescimento per capita de 3,81% a.a. (Leste) vs. 4,06% (Oeste), mas, descontado o catch-up, 1,3 ponto abaixo. PTF fraca e depois negativa na URSS, queda da taxa de crescimento do estoque de capital de 7,4% (anos 1960) para 3,4% (anos 1980) e colapso no fim dos anos 1980.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "3.81 percent per year compared with 4.06 percent per year – but normalizing"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "by 1.3 percentage points."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "the capital stock growth rate fell from 7.4 percent per year in the 1960s to 3.4"
+        }
+      ]
+    },
+    {
+      "name": "Europa vs. EUA na era das TIC",
+      "period": "1995-2005",
+      "outcome": "Revival da produtividade americana superou a média europeia. Finlândia, Grécia, Irlanda, Noruega e Suécia cresceram mais que os EUA; Itália e Espanha tiveram queda forte. Serviços intensivos em TIC contribuíram com 1,3 ponto ao ano para os EUA (1996-2001) contra -0,1 na França, 0,1 na Itália e 0,2 na Alemanha.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "It is well known that the United States has enjoyed a labor productivity growth"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 32,
+          "quote": "percentage points per year to US labor productivity growth from 1996"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 32,
+          "quote": "to 2001 compared with −0.1 in France, 0.1 in Italy, and 0.2 in Germany"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "β-convergência (incondicional)",
+      "definition": "Tendência de países de renda inicial mais baixa crescerem mais rápido; testada por regressão do crescimento do PIB per capita sobre a renda inicial relativa ao líder, com coeficiente negativo e significativo. Estimada em pouco mais de 2% ao ano em 1950-73 e 1,5% depois.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 8,
+          "quote": "estimates imply a rate of convergence of a little over 2 percent per year in the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 6,
+          "quote": "countries with low initial income levels have grown more quickly."
+        }
+      ]
+    },
+    {
+      "term": "Catch-up (Abramovitz)",
+      "definition": "Crescimento rápido de países que partem de nível baixo e reduzem lacunas de intensidade de capital e de tecnologia em relação ao líder; não é automático, depende de capacidade social e congruência tecnológica.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "effective assimilation of new technology, and the latter to the cost effectiveness"
+        }
+      ]
+    },
+    {
+      "term": "Capacidade social e congruência tecnológica",
+      "definition": "Capacidade social: estruturas de incentivos que influenciam a assimilação efetiva de tecnologia nova. Congruência tecnológica: custo-efetividade das tecnologias que podem ser transferidas dos países mais avançados.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "effective assimilation of new technology, and the latter to the cost effectiveness"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 15,
+          "quote": "age can be seen as a period when western European growth was augmented by"
+        }
+      ]
+    },
+    {
+      "term": "Contabilidade do crescimento / PTF (resíduo de Solow)",
+      "definition": "Decomposição do crescimento com função Cobb-Douglas (parcelas 0,35 do capital e 0,65 do trabalho) em contribuições dos fatores e um resíduo, a PTF. A PTF inclui progresso técnico, mas também eficiência no uso dos insumos e economias de escala.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 10,
+          "quote": "are taken to be 0.35 and 0.65 in the benchmarked studies reported below."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "It should be noted that TFP does not equate to technological progress even"
+        }
+      ]
+    },
+    {
+      "term": "Aprofundamento de capital e de capital humano",
+      "definition": "Contribuições do aumento de capital físico por trabalhador e da qualidade do trabalho (educação, em anos de escolaridade) à produtividade do trabalho.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 10,
+          "quote": "education of the labor force by converting"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "i.e., in terms of contributions from capital deepening and TFP growth."
+        }
+      ]
+    },
+    {
+      "term": "Equilíbrio de Eichengreen (alto investimento e moderação salarial)",
+      "definition": "Contrato social corporativista em que trabalhadores moderam salários em troca de alto investimento das firmas, com monitoramento institucional, negociação centralizada e o Estado de bem-estar como garantia. Ambos os lados aceitam esperar o ganho futuro.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "facilitated by successful social contracts that sustained wage moderation by"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 18,
+          "quote": "that would be jeopardized if labor defected on the"
+        }
+      ]
+    },
+    {
+      "term": "Hipótese de Janossy",
+      "definition": "Visão de que o supercrescimento do pós-guerra seria mera volta à trajetória de tendência pré-1914. Os autores a rejeitam: em todos os países o PIB per capita estava acima da linha de tendência pré-1914 ao fim da Era de Ouro.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "This was shown to be incorrect, in that in all western European countries real"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "GDP per capita was above the pre-1914 trend line by the end of the golden age."
+        }
+      ]
+    },
+    {
+      "term": "Condicionalidade",
+      "definition": "Uso de condições na ajuda para promover reformas institucionais e de política; os autores veem o efeito principal do Plano Marshall (e do processo de adesão à UE) nesse canal.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 38,
+          "quote": "conditionality can sometimes be successfully deployed to improve long"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "structural adjustment program – much more so than those designed by the World"
+        }
+      ]
+    },
+    {
+      "term": "Paradoxo da produtividade de Solow",
+      "definition": "Ideia de que o computador aparecia em todo lugar menos nas estatísticas de produtividade; os autores dizem que deixou de valer a partir de meados dos anos 1990.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "Solow Productivity Paradox (you could see the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "computer everywhere except in the productivity statistics) no longer applied."
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "PIB per capita da Europa Ocidental (US$ 1990 GK): 4.582 em 1950, 11.431 em 1973, 20.589 em 2005; EUA: 9.561, 16.689, 30.519. Crescimento 1950-73: 4,06% a.a. vs. 2,45%; 1973-2005: 1,86% vs. 1,91%.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "1950 4582 9561 1950–73 4.06 2.45"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 5,
+          "quote": "2005 20589 30519"
+        }
+      ]
+    },
+    {
+      "fact": "Razão entre o país mais rico e o mais pobre da Europa Ocidental: cerca de 2 em 2005; onze países ficam a 9% da mediana.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 6,
+          "quote": "country has fallen since 1950, so that in 2005 it was about 2,"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento per capita 1950-73 (Tabela 12.2): Grécia 6,21%, Espanha 5,60%, Portugal 5,45%, Alemanha Ocidental 5,02%, Itália 4,95%, Áustria 4,94%, França 4,04%, Reino Unido 2,42%, Irlanda 3,03%.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 7,
+          "quote": "West Germany 4281 13153 5.02"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 7,
+          "quote": "UK 6939 12025 2.42"
+        }
+      ]
+    },
+    {
+      "fact": "Regressão de convergência (Tabela 12.5), Europa Ocidental: coeficiente da renda inicial -0,045 (1950-73) e -0,030 (1973-2005), com R² de 0,667 e 0,605. Com Leste, a dummy oriental é -1,334 (1950-73) e -2,084 (1973-2005).",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 9,
+          "quote": "Initial GDP/capita as % USA −0.045 −0.030"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 9,
+          "quote": "Eastern Dummy −1.334 −2.084"
+        }
+      ]
+    },
+    {
+      "fact": "Contabilidade do crescimento 1960-70 (Tabela 12.7): Grécia 3,63 (capital) + 0,26 + 4,45 (PTF) = 8,34 de produtividade; Itália 6,25 com PTF 3,50; Reino Unido 2,86 com PTF 1,24; EUA 2,00 com PTF 1,54; URSS 2,74 com PTF 0,90.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 12,
+          "quote": "UK 1.45 0.17 1.24 2.86"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 12,
+          "quote": "USSR 1.84 n/a 0.90 2.74"
+        }
+      ]
+    },
+    {
+      "fact": "Entre 1960-70 e 1970-90, a queda média não ponderada foi de 1,00 ponto ao ano na contribuição do capital e de 1,75 na da PTF; a mediana da PTF caiu de 2,5 para 0,9 e a do capital de 2,0 para 1,0.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 13,
+          "quote": "percentage points per year for the capital deepening contribution, but 1.75"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 23,
+          "quote": "median fell from 2.5 to 0.9 percent per year)."
+        }
+      ]
+    },
+    {
+      "fact": "Plano Marshall: US$ 13 bilhões em doações, 1948-51; efeito direto no investimento de cerca de 1% do PIB, que elevaria o crescimento menos de 0,2 ponto ao ano.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "The role of the Marshall Plan, whereby the United States provided $13 billion"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "was raised by perhaps 1 percent of GDP, but basic growth economics suggests"
+        }
+      ]
+    },
+    {
+      "fact": "Integração europeia: rendas 26% mais altas em 2000 (Badinger); cerca de 55% das barreiras comerciais iniciais eliminadas entre fins dos anos 1950 e início dos 1970.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "incomes were 26 percent higher in 2000."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+        }
+      ]
+    },
+    {
+      "fact": "Contribuição da mudança estrutural 1950-73 (medida de Broadberry, % a.a.): Itália 1,77, Espanha 1,77, Dinamarca 1,10, Alemanha Ocidental 0,77, França 0,52, RU 0,31.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "Italy 0.83 1.77"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "West Germany 0.18 0.77"
+        }
+      ]
+    },
+    {
+      "fact": "Capital por hora trabalhada na Alemanha Ocidental 35% acima do RU em 1973; trabalhadores pouco qualificados em 1978/9: 34,5% na Alemanha Ocidental vs. 72,8% no RU.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "In 1973, capital per hour worked in West Germany was 35 percent above"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "low skilled compared with 72.8 percent in the UK"
+        }
+      ]
+    },
+    {
+      "fact": "URSS: razão investimento/PIB quase dobrou até pouco abaixo de 30%; estoque de capital crescia cerca de 8,5% ao ano; P&D por volta de 3% do PIB nos anos 1970; gasto militar de 16% do PIB.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 20,
+          "quote": "1970s to just under 30 percent and the capital stock grew at about 8.5 percent"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "Relatively low TFP growth was not the result of inadequate volumes of R&D,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 29,
+          "quote": "percent per year in the 1980s"
+        }
+      ]
+    },
+    {
+      "fact": "Horas anuais por trabalhador na Alemanha Ocidental: 2372 (1950), 1870 (1973), 1437 (2005); nos EUA, 2016, 1898 e 1791.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 25,
+          "quote": "(West) Germany 2372 1870 1494 1437"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 25,
+          "quote": "United States 2016 1898 1853 1791"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1995, seis países pareciam ter ultrapassado os EUA em produtividade por hora; após normalizar para estrutura do mercado de trabalho, provavelmente apenas a Noruega (produtora de petróleo).",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 25,
+          "quote": "by 1995 six countries had apparently overtaken the United"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "(which had become a major oil producer) actually overtook the United States,"
+        }
+      ]
+    },
+    {
+      "fact": "Efeitos de políticas: +1 ponto de tributação distorciva reduz o crescimento em 0,1 ponto; regulação de produtos reduz a PTF relativa em cerca de 0,75 ponto; regulação do emprego explicaria 0,5 ponto de diferença anual entre França e EUA na produtividade nos anos 1980-90.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "the growth rate by 0.1 percentage points, so the tax increases between 1965"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "around 0.75 percentage points on average, based on the estimates in Nicoletti"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 28,
+          "quote": "for a difference of 0.5 percentage points per year between France and the"
+        }
+      ]
+    },
+    {
+      "fact": "Tabela 12.17: produtividade do trabalho na economia de mercado, UE vs. EUA. UE: 2,6 (1980-95), 1,8 (1995-2000), 1,2 (2000-5); EUA: 1,9, 3,0, 2,9. A contribuição de capital em TIC dos EUA foi 1,4 em 1995-2000 vs. 0,7 na UE.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 31,
+          "quote": "Labor productivity 2.6 1.8 1.2"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 31,
+          "quote": "Labor productivity 1.9 3.0 2.9"
+        }
+      ]
+    },
+    {
+      "fact": "Comparação Leste x Oeste na Era de Ouro: 3,81% a.a. vs. 4,06% a.a. em bruto, mas o Leste fica 1,3 ponto abaixo ao normalizar pela renda inicial.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "3.81 percent per year compared with 4.06 percent per year – but normalizing"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 37,
+          "quote": "by 1.3 percentage points."
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Pressuposto metodológico: a contabilidade do crescimento depende de parcelas fatoriais fixas (0,35 para o capital) e a PTF é um resíduo, que inclui eficiência e economias de escala, não só tecnologia; os autores explicitam essa ressalva.",
+    "Os autores dizem que a hipótese de Eichengreen não está comprovada: o teste simples com negociação centralizada não mostrou correlação com crescimento mais rápido ('o júri ainda não decidiu'). Inferência minha: usar essa hipótese como explicação única seria mais forte que o texto.",
+    "A tese do Plano Marshall vale para efeitos indiretos; o texto afirma que os efeitos diretos foram de pouca importância.",
+    "Os autores reconhecem que a explicação das diferenças de horas trabalhadas entre Europa e EUA (impostos, negociação coletiva, preferências) não tem consenso e que as elasticidades de oferta de trabalho são pequenas demais para explicar tudo.",
+    "Dados de contabilidade do crescimento do Leste europeu pós-1996 são, segundo os autores, mais imperfeitos que o usual; a PTF soviética foi estimada de forma crua, e os autores rebatem a objeção de Weitzman (baixa elasticidade de substituição) com Allen.",
+    "A medida do PIB per capita da Irlanda é distorcida por preços de transferência; o texto recomenda usar PNB.",
+    "Diferenças entre slides e texto: o slide 10 cita 5,99% a.a. (Alemanha) e 1,59% a.a. (RU) para 1950-73, que não aparecem nas tabelas 12.1-12.2 do capítulo (nas quais o PIB per capita da Alemanha Ocidental cresce 5,02% e o do RU 2,42%); os números do slide parecem vir de outra tabela (Tabela 1.1, não incluída no PDF). O slide 31 diz que o capital por hora no RU era 35% menor que o alemão, enquanto o texto diz que o alemão era 35% maior; as duas formas não são equivalentes. Para a prova, prefira os números do texto e cite a fonte.",
+    "O capítulo cobre também 1995-2005 e a transição do Leste; a prova P2 provavelmente se concentra na Era de Ouro, mas este caderno inclui o resumo dessas partes por completude (inferência minha)."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "O professor apresenta 1950-73 como o período de crescimento mais rápido já registrado: PIB próximo a 5% ao ano e PIB per capita de 3,8% ao ano nas economias capitalistas avançadas.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 3,
+          "quote": "o período 1950-1973 destaca-se como o de mais rápido crescimento econômico já registrado;"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 3,
+          "quote": "o PIB per capita chegando a 3,8% a.a.;"
+        }
+      ]
+    },
+    {
+      "point": "Convergência: os EUA abriram vantagem de 1820 a 1950 (Europa de 96% para 48%) e a Europa chegou a 68% em 1950-73. Depois de 1973 a convergência estagnou, mas a desigualdade entre países europeus diminuiu.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 6,
+          "quote": "Entre 1950 e 1973, houve forte convergência: a Europa chegou a 68% do nível dos EUA."
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 7,
+          "quote": "Após 1973 - período de desaceleração"
+        }
+      ]
+    },
+    {
+      "point": "Convergência beta: o slide define a regressão incondicional e a leitura do coeficiente β negativo e significativo; destaca taxa de convergência de pouco mais de 2% ao ano desde 1950, caindo para 1,5% após 1973, e que Alemanha Ocidental, Espanha e Itália superaram o esperado e o Reino Unido ficou abaixo.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 13,
+          "quote": "países com renda inicial mais baixa crescem mais rápido;"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 15,
+          "quote": "com uma taxa de convergência estimada em pouco mais de 2% ao ano nesse período"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 15,
+          "quote": "Após 1973, essa convergência se enfraqueceu, reduzindo-se para 1,5% ao ano;"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 16,
+          "quote": "Alemanha Ocidental, Espanha e Itália tiveram um desempenho acima da média, enquanto o Reino Unido teve um desempenho abaixo da média."
+        }
+      ]
+    },
+    {
+      "point": "Contribuição de capital, capital humano e PTF: crescimento decomposto em acúmulo de capital físico, trabalho e PTF; no catch-up da Era de Ouro, o crescimento da PTF foi o principal motor da produtividade do trabalho (mais que a simples acumulação de capital), com aprofundamento de capital substancial somado a forte PTF a partir de capital por trabalhador e PTF baixos.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 17,
+          "quote": "Produtividade total dos fatores (TFP)"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 20,
+          "quote": "Capital deepening – intensificação de capital (físico e humano);"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 21,
+          "quote": "o crescimento da TFP foi o principal motor do crescimento da produtividade do trabalho"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 22,
+          "quote": "um aprofundamento substancial do capital e de um rápido crescimento da TFP"
+        }
+      ]
+    },
+    {
+      "point": "Fontes da PTF: transferência tecnológica, mudanças estruturais, economias de escala, melhor utilização dos fatores; e alocação de recursos (saída da agricultura, caso italiano). Cerca de 40% do progresso tecnológico europeu ainda vinha de pesquisas dos EUA nos anos 1980.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 21,
+          "quote": "Transferência tecnológica dos países mais avançados;"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 26,
+          "quote": "saída de mão de obra do setor agrícola"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 27,
+          "quote": "cerca de 40% do progresso tecnológico europeu ainda vinha de pesquisas feitas nos EUA"
+        }
+      ]
+    },
+    {
+      "point": "Instituições: Plano Marshall (US$ 13 bi, efeitos diretos modestos, efeitos indiretos por condicionalidades), integração comercial (55% das barreiras eliminadas, cerca de 1% ao ano) e equilíbrio de Eichengreen (moderação salarial por alto investimento).",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 24,
+          "quote": "taxa de investimento aumentou 1% do PIB;"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 24,
+          "quote": "Funcionou como um eficaz programa de ajuste estrutural."
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 25,
+          "quote": "eliminou 55% das barreiras comerciais até início dos anos 1970"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 28,
+          "quote": "Wage moderation - Moderação salarial pelos trabalhadores em troca de altos investimentos por parte das empresas,"
+        }
+      ]
+    },
+    {
+      "point": "Produtividade e trabalho: o número de trabalhadores cresceu menos que o produto; as horas trabalhadas caíram nos anos 1950 e 1960 (-0,3% e -0,8% a.a.). O professor lista duas causas imediatas: investimento em capital físico e humano com novas tecnologias e mudanças organizacionais e institucionais do mercado de trabalho.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 29,
+          "quote": "O número de trabalhadores cresceu menos que o produto"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 29,
+          "quote": "(média de -0,3% a.a.) e 1960 (-0,8% a.a.) na Europa."
+        }
+      ]
+    },
+    {
+      "point": "Fracassos relativos: Irlanda e Reino Unido, com negociação salarial descentralizada; no RU, menos capital humano e físico (72,8% de trabalhadores pouco qualificados vs. 34,5% na Alemanha), sindicatos fragmentados e concorrência fraca; a Irlanda corrigiu erros de política (substituição de importações) a partir dos anos 1980.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 30,
+          "quote": "Ambos tinham negociações salariais descentralizadas e não conseguiram instituir arranjos corporativistas"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 31,
+          "quote": "72,8% dos trabalhadores britânicos eram pouco qualificados, contra 34,5% na Alemanha"
+        }
+      ]
+    },
+    {
+      "point": "Desaceleração pós-1973: crescimento de 1,8% a.a. até 2005; fim de componentes transitórios, desindustrialização, estagnação do catch-up em cerca de 2/3 do nível americano, produtividade menor (europeus trabalham menos), fragilidade do equilíbrio de Eichengreen (sindicatos mais fortes, parcela do trabalho maior) e carga tributária e regulação, que desestimulam investimento em TIC.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 33,
+          "quote": "o PIB cresceu 1,8% a.a. em média até 2005"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 34,
+          "quote": "o catch up estagnou na Europa ocidental como um todo em um nível de cerca de 2/3 do nível americano"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 36,
+          "quote": "aumento do poder e militância dos sindicatos, aumento da parcela do trabalho no valor agregado"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 37,
+          "quote": "proteção ao emprego desestimula o investimento TIC"
+        }
+      ]
+    },
+    {
+      "point": "Resumo do professor: destruição de capital na guerra combinada a alta capacidade social (capital humano e boas instituições) permitiu o catch-up; o Plano Marshall importou pelas condições políticas; mesmo sem o enfraquecimento do wage moderation o crescimento teria desacelerado pelo menor potencial de catch-up; a renda americana segue maior porque os americanos trabalham mais e pela revolução da TI.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 38,
+          "quote": "A combinação entre destruição de capital durante a guerra com uma grande capacidade social para o crescimento"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 39,
+          "quote": "o crescimento europeu teria se desacelerado de qualquer forma em função da redução de potencial de catch-up"
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 40,
+          "quote": "A renda per capita dos EUA seguiram maiores pois os estadunidenses trabalham mais"
+        }
+      ]
+    },
+    {
+      "point": "Questões propostas: (1) descrever as principais tendências do crescimento europeu pós-guerra e as trajetórias dos países entre 1945 e 1973; (2) resultados no mercado de trabalho e na produtividade; (3) discutir o equilíbrio de Eichengreen como fator do crescimento acelerado; (4) por que a Europa não chega ao nível de renda per capita dos EUA.",
+      "refs": [
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 41,
+          "quote": "Discuta o equilíbrio de Eichengreen como um possível fator que contribuiu para o crescimento acelerado do pós-guerra."
+        },
+        {
+          "file_id": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
+          "pdf_page": 41,
+          "quote": "Por que a Europa não consegue chegar ao nível de renda per capita dos EUA?"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "PDF p. 3: Figura 12.1 (crescimento endógeno, linhas de Solow e Schumpeter) é gráfico não capturado pela extração; consultar o original.",
+    "PDF p. 12-13: Tabela 12.7 (contribuições ao crescimento da produtividade, 1960-70, 1970-90, 1990-2003) está extraída, mas conferir os valores no original antes de citá-los.",
+    "PDF p. 17: Tabela 12.10 (contribuição da mudança estrutural) tem fórmula com símbolos perdidos na extração; consultar o original.",
+    "PDF p. 21-28: Tabelas 12.11 a 12.16 (emprego setorial, produtividade por hora, horas trabalhadas, tributação, regulação) estão como texto, mas com colunas possivelmente misturadas.",
+    "Slides 4, 5, 8, 14, 18 e 19 são imagens/tabelas sem texto: Tabela 12.1 (PIB per capita da Europa Ocidental e dos EUA), Tabela 1.1 (crescimento europeu 1890-1992, com 1950-73 destacado), Tabela 1.2 (danos de guerra e reconstrução), Tabela 12.5 (regressões de convergência incondicional) e Tabela 12.7 (contribuições à produtividade, 1960-70 e 1970-90). Os números devem ser lidos no original ou nas tabelas deste capítulo.",
+    "As Tabelas 1.1 e 1.2 dos slides não constam do capítulo 12 (PDF); por isso os números 5,99% (Alemanha) e 1,59% (RU) do slide 10 não são verificáveis neste texto."
+  ]
+}
