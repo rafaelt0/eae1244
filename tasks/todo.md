@@ -51,7 +51,8 @@
 # Tarefas — caderno
 
 ## 7. Revisar os slides das aulas 17–23 (pré-requisito, módulo fontes)
-- [ ] Resolver os slides sem texto (OCR ou nota de revisão) em `6604666`, `6610411`, `6613285`, `6619031` e `6622877`; marcar como `reviewed`.
+- [x] Resolver os slides sem texto (OCR ou nota de revisão) em `6604666`, `6610411`, `6613285`, `6619031` e `6622877`; marcar como `reviewed`.
+- Resultado: 25 slides sem texto eram tabelas e gráficos das leituras; conferidos na renderização e registrados com legenda. A extração não captura os números dessas imagens.
 - Verificação: nenhuma página sinalizada sem resolução; `python3 scripts/fontes.py verify --manifest data/fontes/manifest.json --scope priority` continua passando.
 - Arquivos: manifesto, extrações locais.
 

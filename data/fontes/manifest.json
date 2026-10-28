@@ -67,9 +67,11 @@
             "method": "pptx-xml",
             "page_count": 39,
             "pages_path": ".local/fontes/paginas/10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0.json",
-            "review_status": "pending",
-            "review_notes": [],
-            "pages_sha256": "880ab9aa2f7d4bf5287c5b03f5a9dccc17cf152b60e977dd40d60e5cb22e2ae0"
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 28/10/2026: início, meio e fim conferidos; slides sem texto conferidos na renderização (LibreOffice) e registrados com legenda. Extração por XML não captura o conteúdo de imagens, tabelas e gráficos; consultar o original para os números."
+            ],
+            "pages_sha256": "4bb5a2ea6f959894517d7776d3ffadf0ab211d1fe94f30007d7a26386d385c96"
           }
         }
       ],
@@ -227,8 +229,10 @@
             "method": "pptx-xml",
             "page_count": 50,
             "pages_path": ".local/fontes/paginas/e4d56ac14ddf4696395f9f7315b58d1b25fafc2cb7c6b90213ed692f7f58d2b4.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 28/10/2026: início, meio e fim conferidos; slides sem texto conferidos na renderização (LibreOffice) e registrados com legenda. Extração por XML não captura o conteúdo de imagens, tabelas e gráficos; consultar o original para os números."
+            ],
             "pages_sha256": "923cdd3acd1629f624974a77efa6c4cf3996654e2f9fe7bdf7ad864aaf1f8914"
           }
         }
@@ -299,9 +303,11 @@
             "method": "pptx-xml",
             "page_count": 41,
             "pages_path": ".local/fontes/paginas/6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5.json",
-            "review_status": "pending",
-            "review_notes": [],
-            "pages_sha256": "229b1121d01fc4a790d18eb0e59dad46e416be194a162b6499985a2a8b1f6399"
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 28/10/2026: início, meio e fim conferidos; slides sem texto conferidos na renderização (LibreOffice) e registrados com legenda. Extração por XML não captura o conteúdo de imagens, tabelas e gráficos; consultar o original para os números."
+            ],
+            "pages_sha256": "f3e33b4af810572be85e24103cf8c4900bd24f29137df9e19f099d5d047bed8e"
           }
         }
       ],
@@ -411,9 +417,11 @@
             "method": "pptx-xml",
             "page_count": 40,
             "pages_path": ".local/fontes/paginas/54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d.json",
-            "review_status": "pending",
-            "review_notes": [],
-            "pages_sha256": "28540721d4875aa98347984fdd3cbb58b939054380a96be06eca42716170b6f6"
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 28/10/2026: início, meio e fim conferidos; slides sem texto conferidos na renderização (LibreOffice) e registrados com legenda. Extração por XML não captura o conteúdo de imagens, tabelas e gráficos; consultar o original para os números."
+            ],
+            "pages_sha256": "07fb454eebb4a2fa63c53633333b5177f15b6b918772866d21c3cfc76c02c8d2"
           }
         }
       ],
@@ -483,9 +491,11 @@
             "method": "pptx-xml",
             "page_count": 32,
             "pages_path": ".local/fontes/paginas/8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276.json",
-            "review_status": "pending",
-            "review_notes": [],
-            "pages_sha256": "e14f06f24ef787e0a64b03d47345dfc67bf069b8fbf7c397daea7b4c93233fbb"
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 28/10/2026: início, meio e fim conferidos; slides sem texto conferidos na renderização (LibreOffice) e registrados com legenda. Extração por XML não captura o conteúdo de imagens, tabelas e gráficos; consultar o original para os números."
+            ],
+            "pages_sha256": "034fb2498203761cae127d4604911890cc5ae4d5fbfe47815cdeaf03cc504202"
           }
         }
       ],
