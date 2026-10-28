@@ -1,8 +1,9 @@
 # Tarefas — fontes
 
 ## 1. Validar o primeiro download
-- [ ] Transferir a leitura da aula 17 e comparar SHA-256 no navegador e no projeto.
-- [ ] Conferir o PDF com `pdfinfo` e abrir uma página renderizada.
+- [x] Transferir a leitura da aula 17 e comparar SHA-256 no navegador e no projeto.
+- [x] Conferir o PDF com `pdfinfo` e abrir uma página renderizada.
+- Resultado: Mark Harrison, 26 páginas, 211.784 bytes; hash coincidente e primeira página conferida. A transferência leva menos tempo que o download remoto; os downloads seguintes são acompanhados em segundo plano.
 - Verificação: hash coincidente, PDF legível, nenhuma credencial persistida.
 - Dependências: nenhuma.
 - Arquivos: `.gitignore`, inventário inicial e arquivos locais do piloto.
