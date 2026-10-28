@@ -1,5 +1,7 @@
 """Processamento local e verificável das fontes de EAE1244."""
 
+import argparse
+from datetime import datetime, timezone
 import hashlib
 import json
 import os
@@ -7,6 +9,7 @@ from pathlib import Path
 import re
 import subprocess
 import tempfile
+import sys
 from urllib.parse import urlparse, parse_qs
 
 
@@ -56,9 +59,15 @@ def extract_pdf(path: Path) -> list[dict]:
 
 
 def local_path(root: Path, value: str | Path) -> Path:
-    target = (root / value).resolve()
-    if target == root.resolve() or not target.is_relative_to(root.resolve()):
+    base = root.resolve()
+    candidate = Path(os.path.abspath(base / value))
+    target = candidate.resolve()
+    if target == base or not target.is_relative_to(base) or not candidate.is_relative_to(base):
         raise ValueError("Caminho fora do projeto.")
+    while candidate != base:
+        if candidate.is_symlink():
+            raise ValueError("Link simbólico não permitido no acervo.")
+        candidate = candidate.parent
     return target
 
 
@@ -84,6 +93,8 @@ def process_resource(resource: dict, incoming: Path, root: Path,
         raise ValueError("Identificador de recurso inválido.")
     source = local_path(root, incoming / f"{rid}.bin")
     receipt = json.loads(source.with_suffix(".json").read_text(encoding="utf-8"))
+    if not isinstance(receipt, dict) or not isinstance(receipt.get("original_name"), str) or not isinstance(receipt.get("retrieved_at"), str):
+        raise ValueError("Comprovante de transferência inválido.")
     data = source.read_bytes()
     digest = hashlib.sha256(data).hexdigest()
     if (receipt.get("resource_id") != rid or receipt.get("sha256") != digest
@@ -155,7 +166,9 @@ def validate_resources(document: dict) -> list[dict]:
             raise ValueError("Tipo de recurso inválido.")
         if item.get("requirement") not in {"required", "complementary", "unspecified"}:
             raise ValueError("Indicação de leitura inválida.")
-        url = urlparse(item.get("source_url", ""))
+        if not isinstance(item.get("source_url"), str):
+            raise ValueError("URL de origem inválida.")
+        url = urlparse(item["source_url"])
         if (url.scheme != "https" or url.netloc != "edisciplinas.usp.br"
                 or url.path != "/mod/resource/view.php"
                 or parse_qs(url.query) != {"id": [rid.removeprefix("moodle-resource-")]}):
@@ -204,3 +217,78 @@ def verify_manifest(manifest: dict, root: Path, scope: str) -> list[dict]:
         except (ValueError, OSError, KeyError, TypeError, AttributeError) as error:
             issues.append({"resource_id": resource["resource_id"], "message": str(error)})
     return issues
+
+
+def coverage(resources: list[dict]) -> dict:
+    result = {}
+    for group in ("readings", "support"):
+        selected = [r for r in resources if (r["kind"] == "reading") == (group == "readings")]
+        verified = [r for r in selected if r["status"] == "verified"]
+        ready = [r for r in verified if r["files"] and all(
+            f["extraction"]["status"] == "ready" and f["extraction"]["review_status"] == "reviewed"
+            for f in r["files"])]
+        result[group] = {"total": len(selected), "verified": len(verified), "ready": len(ready),
+                         "pending": len(selected) - len(ready),
+                         "is_complete": bool(selected) and len(ready) == len(selected)}
+    return result
+
+
+def process_inventory(inventory: dict, incoming: Path, output: Path, root: Path) -> dict:
+    resources = validate_resources(inventory)
+    manifest_path = output / "manifest.json"
+    old = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else None
+    previous = {r["resource_id"]: r for r in validate_resources(old)} if old else {}
+    results = []
+    ordered = sorted(resources, key=lambda r: not any(17 <= n <= 28 for n in r["lessons"]))
+    for resource in ordered:
+        prior = previous.get(resource["resource_id"])
+        try:
+            record = process_resource(resource, incoming, root, prior)
+        except (ValueError, OSError, KeyError, TypeError) as error:
+            message = str(error)
+            code = "not_found" if isinstance(error, FileNotFoundError) else "invalid_file"
+            if "hash_mismatch" in message:
+                code = "hash_mismatch"
+            record = {**resource, "status": "error", "files": [],
+                      "previous_files": (prior or {}).get("files", []) + (prior or {}).get("previous_files", []),
+                      "error": {"code": code, "message": message}}
+        results.append(record)
+    manifest = {"schema_version": 1, "course_url": inventory.get("course_url"),
+                "captured_at": inventory.get("captured_at"),
+                "processed_at": datetime.now(timezone.utc).isoformat(),
+                "resources": results, "coverage": coverage(results)}
+    atomic_write(manifest_path, json_bytes(manifest))
+    return manifest
+
+
+def main(argv: list[str] | None = None, root: Path | None = None) -> int:
+    root = (root or Path(__file__).resolve().parents[1]).resolve()
+    parser = argparse.ArgumentParser(description=__doc__)
+    commands = parser.add_subparsers(dest="command", required=True)
+    process = commands.add_parser("process")
+    process.add_argument("--inventory", required=True)
+    process.add_argument("--incoming", required=True)
+    process.add_argument("--output", required=True)
+    verify = commands.add_parser("verify")
+    verify.add_argument("--manifest", required=True)
+    verify.add_argument("--scope", choices=["all", "priority"], required=True)
+    args = parser.parse_args(argv)
+    try:
+        if args.command == "process":
+            inventory = json.loads(local_path(root, args.inventory).read_text(encoding="utf-8"))
+            manifest = process_inventory(inventory, local_path(root, args.incoming),
+                                         local_path(root, args.output), root)
+            print(json.dumps(manifest["coverage"], ensure_ascii=False))
+            return int(any(r["kind"] == "reading" and (r["status"] != "verified" or any(
+                f["extraction"]["status"] != "ready" for f in r["files"])) for r in manifest["resources"]))
+        manifest = json.loads(local_path(root, args.manifest).read_text(encoding="utf-8"))
+        issues = verify_manifest(manifest, root, args.scope)
+        print(json.dumps({"scope": args.scope, "issues": issues, "ok": not issues}, ensure_ascii=False))
+        return int(bool(issues))
+    except (ValueError, OSError, KeyError, TypeError) as error:
+        print(f"Entrada inválida: {error}", file=sys.stderr)
+        return 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

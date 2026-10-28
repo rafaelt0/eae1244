@@ -1,6 +1,8 @@
 import importlib.util
 import hashlib
 import json
+from contextlib import redirect_stdout, redirect_stderr
+from io import StringIO
 from pathlib import Path
 import tempfile
 import unittest
@@ -126,6 +128,13 @@ class ProcessingTests(SourceFixture, unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "fora"):
             fontes.local_path(self.root, "../escape.pdf")
 
+    def test_refuses_symlink_inside_the_project(self):
+        target = self.root / "user-file.txt"
+        target.write_text("keep")
+        (self.root / "alias").symlink_to(target)
+        with self.assertRaises(ValueError):
+            fontes.local_path(self.root, "alias")
+
 
 class VerificationTests(SourceFixture, unittest.TestCase):
     def reviewed_manifest(self):
@@ -165,6 +174,46 @@ class VerificationTests(SourceFixture, unittest.TestCase):
                          {"schema_version": 2, "resources": []}]:
             with self.subTest(manifest=manifest), self.assertRaises(ValueError):
                 fontes.verify_manifest(manifest, self.root, "all")
+
+
+class CLITests(SourceFixture, unittest.TestCase):
+    def run_cli(self, *args):
+        with redirect_stdout(StringIO()), redirect_stderr(StringIO()):
+            return fontes.main(list(args), root=self.root)
+
+    def prepare(self):
+        self.receive(pdf_bytes(["A full synthetic reading with sufficient text for extraction"]))
+        path = self.root / "data/fontes/inventory.json"
+        path.parent.mkdir(parents=True)
+        path.write_text(json.dumps({"schema_version": 1, "resources": [self.resource]}))
+        return path
+
+    def test_process_and_verify_report_review_and_integrity(self):
+        self.prepare()
+        code = self.run_cli("process", "--inventory", "data/fontes/inventory.json",
+                            "--incoming", ".local/fontes/recebidos", "--output", "data/fontes")
+        self.assertEqual(code, 0)
+        path = self.root / "data/fontes/manifest.json"
+        manifest = json.loads(path.read_text())
+        self.assertEqual(manifest["coverage"]["readings"]["verified"], 1)
+        self.assertEqual(manifest["coverage"]["readings"]["ready"], 0)
+        self.assertEqual(self.run_cli("verify", "--manifest", str(path), "--scope", "all"), 1)
+        file = manifest["resources"][0]["files"][0]
+        file["extraction"]["review_status"] = "reviewed"
+        path.write_text(json.dumps(manifest))
+        self.assertEqual(self.run_cli("verify", "--manifest", str(path), "--scope", "all"), 0)
+        (self.root / file["relative_path"]).write_bytes(b"tampered")
+        self.assertEqual(self.run_cli("verify", "--manifest", str(path), "--scope", "all"), 1)
+
+    def test_invalid_inventory_is_rejected_before_writing(self):
+        path = self.prepare()
+        inventory = json.loads(path.read_text())
+        inventory["resources"][0]["source_url"] = 7
+        path.write_text(json.dumps(inventory))
+        code = self.run_cli("process", "--inventory", str(path), "--incoming",
+                            ".local/fontes/recebidos", "--output", "data/fontes")
+        self.assertEqual(code, 2)
+        self.assertFalse((path.parent / "manifest.json").exists())
 
 
 if __name__ == "__main__":
