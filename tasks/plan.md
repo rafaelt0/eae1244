@@ -28,3 +28,23 @@ O piloto usará a leitura da aula 17. A ampliação cobre primeiro as aulas 17�
 Lista canônica: [todo.md](todo.md). Cada incremento de código segue teste que falha, implementação mínima, teste que passa, verificação real e commit. Não há trabalho delegado nem execução paralela sobre arquivos compartilhados.
 
 Este plano cobre somente `fontes`. Os módulos `caderno`, `atlas`, `oficina` e `html` mantêm os limites definidos no mapa aprovado.
+
+---
+
+# Plano de execução — caderno
+
+Especificação: [SPEC-caderno.md](../SPEC-caderno.md), aprovada em 28/10/2026. As tarefas estão em [todo.md](todo.md), seções 7–12.
+
+## Decisões
+
+- O validador vem antes do conteúdo: cada entrada nasce conferida contra as páginas extraídas.
+- Escrita por leitura, em fatias verticais: uma entrada completa e validada antes da seguinte.
+- Ordem: slides das aulas 17–23 revisados → validador → aulas 18–19 → 17 → 20 → 21–22 → 23 → 24–28 → aulas 2–16 curtas.
+- O teste de suficiência (questão do padrão-ouro e duas semelhantes) roda ao fim das aulas 18–19 e de novo ao fim das aulas 17–28.
+
+## Riscos
+
+- Slides com texto vazio escondem conteúdo: resolver com OCR ou nota antes de escrever `professor_emphasis`.
+- Resumo que vai além da fonte: o validador exige página e trecho literal; a amostragem manual cobre a interpretação.
+- Figuras e tabelas que a extração não representa: registrar em `figures_note` e conferir no original.
+- Volume: 14 leituras profundas mais 25 recursos curtos. Entregar o recorte prioritário primeiro; as aulas 2–16 ficam parciais se o prazo apertar.

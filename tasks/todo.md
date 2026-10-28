@@ -45,3 +45,41 @@
 - Verificação: suíte completa, verificador local, Git sem mudanças pendentes e ponte de transferência encerrada.
 - Dependências: 5.
 - Arquivos: `README.md`, `CAPABILITY-MAP.md`, `tasks/todo.md`, relatório de fontes.
+
+---
+
+# Tarefas — caderno
+
+## 7. Revisar os slides das aulas 17–23 (pré-requisito, módulo fontes)
+- [ ] Resolver os slides sem texto (OCR ou nota de revisão) em `6604666`, `6610411`, `6613285`, `6619031` e `6622877`; marcar como `reviewed`.
+- Verificação: nenhuma página sinalizada sem resolução; `python3 scripts/fontes.py verify --manifest data/fontes/manifest.json --scope priority` continua passando.
+- Arquivos: manifesto, extrações locais.
+
+## 8. Validador do caderno
+- [ ] Teste que falha, depois `scripts/caderno.py` com `validate` e `coverage`: esquema, páginas, trechos literais, afirmações sem fonte, escopos e códigos de saída.
+- Verificação: `python3 -m unittest discover -s tests/caderno -p 'test_*.py' -v`; falha controlada com trecho adulterado.
+- Dependências: nenhuma. Arquivos: `scripts/caderno.py`, `tests/caderno/`.
+
+## 9. Aulas 18–19 (piloto)
+- [ ] Entradas `deep` de Eichengreen cap. 2, Frieden (fim de Bretton Woods) e Meissner cap. 12, com `professor_emphasis` dos slides.
+- [ ] Teste de suficiência com a questão do padrão-ouro.
+- Verificação: `validate` passa nessas entradas; esqueleto da resposta montado só com o caderno. Conferência manual da tese e do argumento.
+- Dependências: 7, 8.
+
+## Checkpoint do piloto
+- [ ] Você revisa as três entradas e o formato antes de ampliar.
+
+## 10. Aulas 17, 20, 21–23
+- [ ] Harrison (17); texto sobre a Europa (20); Allen e Eichengreen (21–22); Rodrik (23), cada um com `professor_emphasis` quando houver slides.
+- Verificação: `validate` por entrada; conferência manual por amostragem.
+- Dependências: 9.
+
+## 11. Aulas 24–28
+- [ ] Li (24); Frieden cap. 16 e Meissner cap. 13 (25); Bertola e Ocampo (26 e 27); Crafts (28).
+- Verificação: `validate --scope priority` passa; segundo teste de suficiência com duas questões novas.
+- Dependências: 10.
+
+## 12. Aulas 2–16 (contexto curto)
+- [ ] Entradas `short`, `partial`, para os demais recursos; pendências explícitas na cobertura.
+- Verificação: `coverage` separa prioritárias e demais.
+- Dependências: 11. Pode ficar parcial.
