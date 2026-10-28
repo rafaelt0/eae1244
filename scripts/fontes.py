@@ -92,6 +92,17 @@ def process_resource(resource: dict, incoming: Path, root: Path,
     if not re.fullmatch(r"moodle-resource-[0-9]+", rid):
         raise ValueError("Identificador de recurso inválido.")
     source = local_path(root, incoming / f"{rid}.bin")
+    if not source.exists() and previous and previous.get("status") == "verified" and previous.get("files"):
+        for file in previous["files"]:
+            data = local_path(root, file["relative_path"]).read_bytes()
+            if hashlib.sha256(data).hexdigest() != file["sha256"] or len(data) != file["byte_size"]:
+                raise ValueError("hash_mismatch: original preservado foi alterado.")
+            extraction = file["extraction"]
+            if extraction["pages_path"]:
+                pages = local_path(root, extraction["pages_path"]).read_bytes()
+                if hashlib.sha256(pages).hexdigest() != extraction["pages_sha256"]:
+                    raise ValueError("hash_mismatch: extração preservada foi alterada.")
+        return {**previous, **resource}
     receipt = json.loads(source.with_suffix(".json").read_text(encoding="utf-8"))
     if not isinstance(receipt, dict) or not isinstance(receipt.get("original_name"), str) or not isinstance(receipt.get("retrieved_at"), str):
         raise ValueError("Comprovante de transferência inválido.")

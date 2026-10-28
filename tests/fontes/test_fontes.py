@@ -118,6 +118,15 @@ class ProcessingTests(SourceFixture, unittest.TestCase):
         self.assertNotEqual(second["files"][0]["file_id"], first["files"][0]["file_id"])
         self.assertTrue((self.root / first["files"][0]["relative_path"]).is_file())
 
+    def test_rerun_uses_preserved_original_when_incoming_is_gone(self):
+        self.receive(pdf_bytes(["A preserved original remains usable after staging cleanup"]))
+        first = fontes.process_resource(self.resource, self.incoming, self.root)
+        for path in self.incoming.iterdir():
+            path.unlink()
+        again = fontes.process_resource(self.resource, self.incoming, self.root, first)
+        self.assertEqual(again["files"], first["files"])
+        self.assertEqual(again["status"], "verified")
+
     def test_detects_received_bytes_changed_after_transfer(self):
         self.receive(pdf_bytes(["Original text"]))
         (self.incoming / "moodle-resource-123.bin").write_bytes(b"changed")
