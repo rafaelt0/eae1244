@@ -12,7 +12,7 @@ Uso pessoal, em português, para a P2 de 19/11/2026. A P2 é dissertativa e cobr
 
 > O padrão-ouro foi a causa principal da propagação da Grande Depressão. Avalie essa afirmação comparando a trajetória de países que abandonaram o padrão-ouro cedo e tarde, e discuta se o ouro operou como causa, como transmissor ou como um problema de economia política.
 
-Essa questão pede avaliar uma tese, comparar casos e classificar mecanismos. Por isso o caderno registra, de cada texto, a tese, o mecanismo causal, os casos e a evidência, e não apenas o assunto.
+Essa questão já foi cobrada pelo professor e serve só como modelo de estilo; as questões da P2 serão outras. Ela pede avaliar uma tese, comparar casos e classificar mecanismos. Por isso o caderno registra, de cada texto, a tese, o mecanismo causal, os casos e a evidência, e não apenas o assunto.
 
 ## Premissas
 
@@ -94,7 +94,7 @@ Python como em `scripts/fontes.py`: biblioteca padrão, `pathlib`, mensagens de 
   - as entradas `deep` têm todos os campos preenchidos e as `short` têm pelo menos `thesis` e `refs`;
   - toda leitura das aulas 17–28 tem entrada.
 - **Manual (por amostragem, por leitura):** o aluno ou a revisão confere se a tese e o argumento representam o texto e se nenhuma afirmação vai além do que a fonte diz.
-- **Teste de suficiência:** para as aulas 17–23, tentar responder à questão do padrão-ouro e a outras duas no mesmo estilo usando só o caderno. Lacunas viram correções nas entradas.
+- **Teste de suficiência:** para as aulas 17–23, tentar responder a questões no mesmo estilo (avaliar tese, comparar casos, classificar mecanismo) sobre as aulas 17–28 usando só o caderno. Lacunas viram correções nas entradas.
 - Fixtures sintéticas pequenas; sem PDFs completos da bibliografia no repositório.
 
 ## Limites
@@ -121,11 +121,11 @@ Python como em `scripts/fontes.py`: biblioteca padrão, `pathlib`, mensagens de 
 2. As leituras com slides nas aulas 17–23 têm `professor_emphasis`.
 3. As aulas 2–16 têm entrada `short` marcada `partial`, ou aparecem como pendência na cobertura.
 4. Nenhuma `ref` aponta para página inexistente nem para trecho ausente da página.
-5. Com o caderno, é possível montar o esqueleto de resposta da questão do padrão-ouro, com tese, autores, casos e mecanismos, sem abrir os PDFs.
+5. Com o caderno, é possível montar o esqueleto de resposta de questões no estilo do professor sobre as aulas 17–28, com tese, autores, casos e mecanismos, sem abrir os PDFs.
 6. O relatório de cobertura mostra, separadamente, leituras prioritárias e demais.
 
 ## Pendências e decisões que dependem de você
 
 1. **Revisão dos slides das aulas 17–23 em `fontes`.** É pré-requisito de `professor_emphasis`. Os slides com texto vazio precisam de OCR ou nota de revisão.
-2. **Ajuste do mapa de capacidades.** O mapa aprovado diz que o `caderno` produz "resumos por texto e aula". Esta especificação acrescenta mecanismos e casos por texto, e `professor_emphasis`. Proponho manter o mapa como está e registrar a ampliação aqui. Em compensação, a organização por **debates** (como a questão do padrão-ouro) fica no `atlas`, e o modo treino no `oficina` e no `html`.
+2. **Ajuste do mapa de capacidades.** O mapa aprovado diz que o `caderno` produz "resumos por texto e aula". Esta especificação acrescenta mecanismos e casos por texto, e `professor_emphasis`. Proponho manter o mapa como está e registrar a ampliação aqui. Em compensação, a organização por **debates** (como na questão de exemplo do padrão-ouro) fica no `atlas`, e o modo treino no `oficina` e no `html`.
 3. **Ordem de escrita.** Proponho começar pelas aulas 18–19 (Eichengreen, Frieden, Meissner), por responderem diretamente à questão de exemplo, e só depois seguir a ordem das aulas.

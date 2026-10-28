@@ -63,7 +63,7 @@
 
 ## 9. Aulas 18–19 (piloto)
 - [x] Entradas `deep` de Eichengreen cap. 2, Frieden (fim de Bretton Woods) e Meissner cap. 12, com `professor_emphasis` dos slides.
-- [x] Teste de suficiência com a questão do padrão-ouro. Resultado: as aulas 18–19 cobrem o ouro em Bretton Woods, não na Grande Depressão; a questão de exemplo depende das aulas 11–14.
+- [x] Teste de suficiência com a questão do padrão-ouro. Resultado: as aulas 18–19 cobrem o ouro em Bretton Woods, não na Grande Depressão (aulas 11–14). A questão de exemplo já foi cobrada pelo professor e serve só como modelo de estilo; seguimos a ordem original.
 - Verificação: `validate` passa nessas entradas; esqueleto da resposta montado só com o caderno. Conferência manual da tese e do argumento.
 - Dependências: 7, 8.
 
