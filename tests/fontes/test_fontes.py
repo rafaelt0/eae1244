@@ -68,7 +68,7 @@ class ExtractionTests(unittest.TestCase):
             fontes.extract_pdf(self.path)
 
 
-class ProcessingTests(unittest.TestCase):
+class SourceFixture:
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
@@ -92,6 +92,8 @@ class ProcessingTests(unittest.TestCase):
         }
         path.with_suffix(".json").write_text(json.dumps(receipt))
 
+
+class ProcessingTests(SourceFixture, unittest.TestCase):
     def test_preserves_original_and_extraction_on_rerun(self):
         data = pdf_bytes(["A complete synthetic page of text for testing"])
         self.receive(data)
@@ -123,6 +125,46 @@ class ProcessingTests(unittest.TestCase):
     def test_refuses_paths_that_escape_the_project(self):
         with self.assertRaisesRegex(ValueError, "fora"):
             fontes.local_path(self.root, "../escape.pdf")
+
+
+class VerificationTests(SourceFixture, unittest.TestCase):
+    def reviewed_manifest(self):
+        self.receive(pdf_bytes(["A synthetic document used to verify the local corpus"]))
+        resource = fontes.process_resource(self.resource, self.incoming, self.root)
+        resource["files"][0]["extraction"]["review_status"] = "reviewed"
+        return {"schema_version": 1, "resources": [resource]}
+
+    def test_verified_priority_corpus_is_not_total_corpus(self):
+        manifest = self.reviewed_manifest()
+        manifest["resources"].append({**self.resource, "resource_id": "moodle-resource-456",
+                                      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=456",
+                                      "lessons": [2], "status": "pending", "files": []})
+        self.assertEqual(fontes.verify_manifest(manifest, self.root, "priority"), [])
+        self.assertTrue(fontes.verify_manifest(manifest, self.root, "all"))
+
+    def test_verifier_detects_changed_original(self):
+        manifest = self.reviewed_manifest()
+        file = manifest["resources"][0]["files"][0]
+        (self.root / file["relative_path"]).write_bytes(b"tampered")
+        issues = fontes.verify_manifest(manifest, self.root, "all")
+        self.assertTrue(any("hash_mismatch" in str(issue) for issue in issues))
+
+    def test_verifier_detects_changed_pages(self):
+        manifest = self.reviewed_manifest()
+        extraction = manifest["resources"][0]["files"][0]["extraction"]
+        (self.root / extraction["pages_path"]).write_text("[]")
+        self.assertTrue(fontes.verify_manifest(manifest, self.root, "all"))
+
+    def test_unreviewed_text_is_not_ready_for_the_notebook(self):
+        manifest = self.reviewed_manifest()
+        manifest["resources"][0]["files"][0]["extraction"]["review_status"] = "pending"
+        self.assertTrue(fontes.verify_manifest(manifest, self.root, "all"))
+
+    def test_empty_scope_and_unknown_schema_are_errors(self):
+        for manifest in [{"schema_version": 1, "resources": []},
+                         {"schema_version": 2, "resources": []}]:
+            with self.subTest(manifest=manifest), self.assertRaises(ValueError):
+                fontes.verify_manifest(manifest, self.root, "all")
 
 
 if __name__ == "__main__":

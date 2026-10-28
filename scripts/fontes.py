@@ -7,6 +7,7 @@ from pathlib import Path
 import re
 import subprocess
 import tempfile
+from urllib.parse import urlparse, parse_qs
 
 
 def extract_pdf(path: Path) -> list[dict]:
@@ -133,3 +134,73 @@ def process_resource(resource: dict, incoming: Path, root: Path,
                if f["file_id"] != digest}
     return {**resource, "status": "verified", "files": [file],
             "previous_files": list(history.values()), "error": None}
+
+
+def validate_resources(document: dict) -> list[dict]:
+    if not isinstance(document, dict) or type(document.get("schema_version")) is not int or document["schema_version"] != 1:
+        raise ValueError("Versão de esquema incompatível.")
+    resources = document.get("resources")
+    if not isinstance(resources, list) or not resources:
+        raise ValueError("Inventário sem recursos.")
+    seen = set()
+    for item in resources:
+        rid = item.get("resource_id") if isinstance(item, dict) else None
+        if not isinstance(rid, str) or not re.fullmatch(r"moodle-resource-[0-9]+", rid) or rid in seen:
+            raise ValueError("Recurso inválido ou duplicado.")
+        seen.add(rid)
+        lessons = item.get("lessons")
+        if not isinstance(lessons, list) or any(type(n) is not int or n < 1 for n in lessons):
+            raise ValueError("Números de aula inválidos.")
+        if item.get("kind") not in {"reading", "slides", "syllabus", "exam", "other"}:
+            raise ValueError("Tipo de recurso inválido.")
+        if item.get("requirement") not in {"required", "complementary", "unspecified"}:
+            raise ValueError("Indicação de leitura inválida.")
+        url = urlparse(item.get("source_url", ""))
+        if (url.scheme != "https" or url.netloc != "edisciplinas.usp.br"
+                or url.path != "/mod/resource/view.php"
+                or parse_qs(url.query) != {"id": [rid.removeprefix("moodle-resource-")]}):
+            raise ValueError("URL de origem inválida.")
+    return resources
+
+
+def verify_file(file: dict, root: Path) -> None:
+    original = local_path(root, file["relative_path"])
+    data = original.read_bytes()
+    digest = hashlib.sha256(data).hexdigest()
+    if digest != file["sha256"] or digest != file["file_id"] or len(data) != file["byte_size"]:
+        raise ValueError("hash_mismatch: original local divergente.")
+    extraction = file["extraction"]
+    if extraction["status"] != "ready" or extraction["review_status"] != "reviewed":
+        raise ValueError("Extração ou revisão ainda pendente.")
+    encoded = local_path(root, extraction["pages_path"]).read_bytes()
+    if hashlib.sha256(encoded).hexdigest() != extraction["pages_sha256"]:
+        raise ValueError("hash_mismatch: páginas extraídas divergentes.")
+    pages = json.loads(encoded)
+    if not isinstance(pages, list) or not pages or len(pages) != extraction["page_count"]:
+        raise ValueError("Contagem de páginas divergente.")
+    for number, page in enumerate(pages, 1):
+        if page.get("pdf_page") != number or not isinstance(page.get("text"), str):
+            raise ValueError("Localização ou texto da página inválido.")
+        unresolved = set(page.get("flags", [])) - set(page.get("resolved_flags", []))
+        if unresolved or (page.get("resolved_flags") and not page.get("review_notes")):
+            raise ValueError(f"Página {number} tem pendência de qualidade.")
+
+
+def verify_manifest(manifest: dict, root: Path, scope: str) -> list[dict]:
+    if scope not in {"all", "priority"}:
+        raise ValueError("Recorte de verificação inválido.")
+    resources = [r for r in validate_resources(manifest) if r["kind"] == "reading"
+                 and (scope == "all" or any(17 <= n <= 28 for n in r["lessons"]))]
+    if not resources:
+        raise ValueError("Recorte sem leituras.")
+    issues = []
+    for resource in resources:
+        try:
+            files = resource.get("files")
+            if resource.get("status") != "verified" or not isinstance(files, list) or not files:
+                raise ValueError("Download ainda pendente.")
+            for file in files:
+                verify_file(file, root)
+        except (ValueError, OSError, KeyError, TypeError, AttributeError) as error:
+            issues.append({"resource_id": resource["resource_id"], "message": str(error)})
+    return issues
