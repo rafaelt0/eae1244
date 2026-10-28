@@ -1,4 +1,6 @@
 import importlib.util
+import hashlib
+import json
 from pathlib import Path
 import tempfile
 import unittest
@@ -64,6 +66,63 @@ class ExtractionTests(unittest.TestCase):
         self.path.write_bytes(pdf_bytes(["First page"])[:-12])
         with self.assertRaisesRegex(ValueError, "incompleto"):
             fontes.extract_pdf(self.path)
+
+
+class ProcessingTests(unittest.TestCase):
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.root = Path(self.temp.name)
+        self.incoming = self.root / ".local/fontes/recebidos"
+        self.incoming.mkdir(parents=True)
+        self.resource = {
+            "resource_id": "moodle-resource-123", "label": "Leitura",
+            "lessons": [18, 19], "kind": "reading", "requirement": "unspecified",
+            "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=123",
+            "reading_instructions": [],
+        }
+
+    def receive(self, data, name="same.pdf"):
+        path = self.incoming / "moodle-resource-123.bin"
+        path.write_bytes(data)
+        receipt = {
+            "resource_id": self.resource["resource_id"], "original_name": name,
+            "sha256": hashlib.sha256(data).hexdigest(), "byte_size": len(data),
+            "retrieved_at": "2026-10-28T19:00:00+00:00",
+        }
+        path.with_suffix(".json").write_text(json.dumps(receipt))
+
+    def test_preserves_original_and_extraction_on_rerun(self):
+        data = pdf_bytes(["A complete synthetic page of text for testing"])
+        self.receive(data)
+        first = fontes.process_resource(self.resource, self.incoming, self.root)
+        file = first["files"][0]
+        self.assertEqual((self.root / file["relative_path"]).read_bytes(), data)
+        self.assertEqual(file["sha256"], hashlib.sha256(data).hexdigest())
+        self.assertEqual(file["extraction"]["page_count"], 1)
+        self.assertEqual(file["extraction"]["review_status"], "pending")
+        file["extraction"]["review_status"] = "reviewed"
+        again = fontes.process_resource(self.resource, self.incoming, self.root, first)
+        self.assertEqual(again["files"], first["files"])
+
+    def test_changed_source_preserves_previous_version(self):
+        self.receive(pdf_bytes(["The first version of a synthetic document"]))
+        first = fontes.process_resource(self.resource, self.incoming, self.root)
+        self.receive(pdf_bytes(["The second version of a synthetic document"]))
+        second = fontes.process_resource(self.resource, self.incoming, self.root, first)
+        self.assertEqual(second["previous_files"], first["files"])
+        self.assertNotEqual(second["files"][0]["file_id"], first["files"][0]["file_id"])
+        self.assertTrue((self.root / first["files"][0]["relative_path"]).is_file())
+
+    def test_detects_received_bytes_changed_after_transfer(self):
+        self.receive(pdf_bytes(["Original text"]))
+        (self.incoming / "moodle-resource-123.bin").write_bytes(b"changed")
+        with self.assertRaisesRegex(ValueError, "hash_mismatch"):
+            fontes.process_resource(self.resource, self.incoming, self.root)
+
+    def test_refuses_paths_that_escape_the_project(self):
+        with self.assertRaisesRegex(ValueError, "fora"):
+            fontes.local_path(self.root, "../escape.pdf")
 
 
 if __name__ == "__main__":

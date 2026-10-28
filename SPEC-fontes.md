@@ -78,6 +78,8 @@ Cada recurso contém `resource_id`, `label`, `lessons`, `kind`, `requirement`, `
 
 O manifesto também registra cobertura: recursos de leitura identificados, obtidos, com extração pronta e pendentes. A completude de leituras e a de arquivos de apoio são contadas separadamente.
 
+Campos adicionais compatíveis: `previous_files` preserva metadados e referências das versões anteriores; `files` contém a versão ativa. `extraction.pages_sha256` permite conferir a integridade do JSON de páginas, inclusive após OCR ou revisão. Cada página pode registrar `flags` de qualidade e `resolved_flags` com resolução documentada.
+
 ### Páginas: `.local/fontes/paginas/<file_id>.json`
 
 Para cada página de PDF: `pdf_page` (inteiro positivo), `printed_label` (texto ou `null`), `text`, `method` e `review_notes`. Páginas vazias também têm registro. A referência usada pelos consumidores é a combinação de `resource_id`, `file_id` e `pdf_page`; nomes de arquivos e posições em listas não são identificadores de citação.
