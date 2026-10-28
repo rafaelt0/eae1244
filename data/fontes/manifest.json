@@ -30,8 +30,10 @@
             "method": "pdftotext",
             "page_count": 26,
             "pages_path": ".local/fontes/paginas/e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "09283a95daa959ea72888c31be47efa61100227f363e7e627615c7d0fb6d75c0"
           }
         }
@@ -61,13 +63,13 @@
           "sha256": "10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0",
           "retrieved_at": "2026-10-28T19:21:24.686909+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 39,
             "pages_path": ".local/fontes/paginas/10bc84e40f519d9895e0f78bce3ebec62289e8dd5c763dc040a15ca3cb9335d0.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "9b37321b4d7ffcc44d768d2987246b3fe17c64ec2b048df7f9dd91b98e247c51"
+            "pages_sha256": "880ab9aa2f7d4bf5287c5b03f5a9dccc17cf152b60e977dd40d60e5cb22e2ae0"
           }
         }
       ],
@@ -106,8 +108,10 @@
             "method": "pdftotext",
             "page_count": 19,
             "pages_path": ".local/fontes/paginas/3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "7720c4e51e4c7cbb90553dd810b7deed8da18903819272407f7a419c5b9efc47"
           }
         }
@@ -142,8 +146,10 @@
             "method": "pdftotext",
             "page_count": 26,
             "pages_path": ".local/fontes/paginas/79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "fb9d9a84c763aff3fd8de6287d5ff3be2fd1814a3bbd29631a2ee4208e0edd74"
           }
         }
@@ -183,8 +189,10 @@
             "method": "pdftotext",
             "page_count": 11,
             "pages_path": ".local/fontes/paginas/6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "68d0678a8b9639948460afd37b5e402c67bbc4918a9dbd4a1e43768dd4456499"
           }
         }
@@ -254,8 +262,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 38,
             "pages_path": ".local/fontes/paginas/c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "f1f127b38af233b57dadbd25d9a7a3ac0b380e8fd4d5bb51a3c2155bb6e33773"
           }
         }
@@ -285,13 +295,13 @@
           "sha256": "6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5",
           "retrieved_at": "2026-10-28T19:21:08.041520+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 41,
             "pages_path": ".local/fontes/paginas/6beae1e6bba08e1307c8c1e5565d94bca73e9c1873d0ac7c6781de934816b7e5.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "4e3e09d169e8a965942cfb6272e8a344a955d9d1872eb58996053366b3ec77a1"
+            "pages_sha256": "229b1121d01fc4a790d18eb0e59dad46e416be194a162b6499985a2a8b1f6399"
           }
         }
       ],
@@ -325,8 +335,10 @@
             "method": "pdftotext",
             "page_count": 23,
             "pages_path": ".local/fontes/paginas/e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "2f1eeb6af9fb9e682752ceb1881f1717064e6ffeae9682cc3742b6244a9107fc"
           }
         }
@@ -361,8 +373,10 @@
             "method": "pdftotext",
             "page_count": 41,
             "pages_path": ".local/fontes/paginas/8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "651a52afef137bd9b95c34b13d24808ee3d34d096e4589da32abae5064cb3a75"
           }
         }
@@ -393,13 +407,13 @@
           "sha256": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
           "retrieved_at": "2026-10-28T19:21:09.855101+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 40,
             "pages_path": ".local/fontes/paginas/54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "61e163a1986c665be8b33e37237c90fe2e46b26894814dac999a47a5352c8e40"
+            "pages_sha256": "28540721d4875aa98347984fdd3cbb58b939054380a96be06eca42716170b6f6"
           }
         }
       ],
@@ -432,8 +446,10 @@
             "method": "pdftotext",
             "page_count": 55,
             "pages_path": ".local/fontes/paginas/9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "f175c059676261ca3d7448051929a62e51a8ecefe12fa9af39a1164b9f616c5d"
           }
         }
@@ -463,13 +479,13 @@
           "sha256": "8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276",
           "retrieved_at": "2026-10-28T19:21:11.067886+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 32,
             "pages_path": ".local/fontes/paginas/8be34d27e9ed7a4b18b81a67571711ca5fcf32ba79e0da6173c1535ffd2fe276.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "eb3634e79f08d6a20cfbcb2162507f4bf8b0291b9e4d534565cb154494b9864d"
+            "pages_sha256": "e14f06f24ef787e0a64b03d47345dfc67bf069b8fbf7c397daea7b4c93233fbb"
           }
         }
       ],
@@ -502,8 +518,10 @@
             "method": "pdftotext",
             "page_count": 24,
             "pages_path": ".local/fontes/paginas/307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "5cfc4abc80de32f43b3b5c028e3946673638b410f9136f2f5078eb80f2503e93"
           }
         }
@@ -542,8 +560,10 @@
             "method": "pdftotext",
             "page_count": 34,
             "pages_path": ".local/fontes/paginas/7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "7b166cb6e9ae8b707ccf24ef7c625dbf443eead4bfea05b1ecf15f9307ecf1d4"
           }
         }
@@ -582,8 +602,10 @@
             "method": "pdftotext",
             "page_count": 30,
             "pages_path": ".local/fontes/paginas/4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "c659c8a05cb5a8813ae83fdb9d34beeeb0cd1eee330c0b821776e0cb76498d93"
           }
         }
@@ -617,8 +639,10 @@
             "method": "tesseract-5.5.4",
             "page_count": 15,
             "pages_path": ".local/fontes/paginas/ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "a24f7d500ca73c9decde91ad62bae692a57ee435cacdfddfab766b5309ee9379"
           }
         }
@@ -652,8 +676,10 @@
             "method": "tesseract-5.5.4",
             "page_count": 12,
             "pages_path": ".local/fontes/paginas/1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "494901aa293b78d41c1a8dc6aea7fd489ee37519cf370aa840394df14cf86cf8"
           }
         }
@@ -687,8 +713,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 23,
             "pages_path": ".local/fontes/paginas/51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Início, meio e fim conferidos em 28/10/2026; texto legível, sem páginas sinalizadas. Revisão por amostragem; ruído residual de OCR possível em cabeçalhos, figuras e rodapés."
+            ],
             "pages_sha256": "1ff5d4e1fbb43750b1cbf5294d5272dda4f29baa5edcdb9e14f11e0326b09484"
           }
         }
@@ -829,13 +857,13 @@
           "sha256": "e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a",
           "retrieved_at": "2026-10-28T19:21:16.054680+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 46,
             "pages_path": ".local/fontes/paginas/e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "c3c674262f64c41580f603ea773151baa8a48ed46de4e115a9431167b7684a40"
+            "pages_sha256": "72229ff655d5535293f71cc910de7684457bdeb9e0ab3931cc46543c2345415b"
           }
         }
       ],
@@ -937,13 +965,13 @@
           "sha256": "56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130",
           "retrieved_at": "2026-10-28T19:21:19.828485+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 53,
             "pages_path": ".local/fontes/paginas/56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "d7cc2880342275eb112002e15e375d7593e85e7ebb24b714fe448d314a800763"
+            "pages_sha256": "b0a99729585fa1e7b32da74e63f7b1ab95389b0b29d9da37552b1be3a3c2603a"
           }
         }
       ],
@@ -1081,13 +1109,13 @@
           "sha256": "8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59",
           "retrieved_at": "2026-10-28T19:21:21.909922+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 86,
             "pages_path": ".local/fontes/paginas/8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "223e544c2d06d4657f4230fa3d3fe7e69b18b0d04af4aa5fdf00c20b67a7594b"
+            "pages_sha256": "82b007019e064e01d703f1a7276d05f97858858cb7927b2ba8af32e143fc512d"
           }
         }
       ],
@@ -1163,7 +1191,7 @@
             "pages_path": ".local/fontes/paginas/27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "6e02f2c35ed4c455190174072bdda8380652740a53bacc44626945f290eaa0c9"
+            "pages_sha256": "96337e5ca916b7203dac41c0b09badc40700dbcf685a0cd8f32637e40efd7c93"
           }
         }
       ],
@@ -1337,13 +1365,13 @@
           "sha256": "4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686",
           "retrieved_at": "2026-10-28T19:21:28.455600+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 63,
             "pages_path": ".local/fontes/paginas/4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "117e1989544c04792a564e92229dc2fbd132efe6f4b3fc98850f60ff11d1dfe3"
+            "pages_sha256": "8aaf662f68a880ef7f836bd0dd52ca24465b27bc9bff48d8b958fe99bf4cbc55"
           }
         }
       ],
@@ -1379,7 +1407,7 @@
             "pages_path": ".local/fontes/paginas/7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "1bb0835357ef12e28c3058044fc6000cb68aefe845f45612df52ccb4e0d05ad2"
+            "pages_sha256": "eebc9f64cbe7b3b77268590cf78c9a54ecf162c1ec5177fa6c80181e33380d8a"
           }
         }
       ],
@@ -1450,13 +1478,13 @@
           "sha256": "c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c",
           "retrieved_at": "2026-10-28T19:29:18.600874+00:00",
           "extraction": {
-            "status": "needs_ocr",
+            "status": "ready",
             "method": "pptx-xml",
             "page_count": 44,
             "pages_path": ".local/fontes/paginas/c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c.json",
             "review_status": "pending",
             "review_notes": [],
-            "pages_sha256": "aecc3a980764f9fac117248e355bdc090966c935f815c2189a839059927a156e"
+            "pages_sha256": "232a529f9b80b0e0800aff9fbc81530e29deaf0e8e6777151c0a16a85ee04e2d"
           }
         }
       ],

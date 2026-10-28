@@ -33,7 +33,7 @@
 - Arquivos: `data/fontes/inventory.json`, `data/fontes/manifest.json`, acervo local.
 
 ## 5. Revisar a extração
-- [ ] Conferir início, meio e fim de cada arquivo e todas as páginas sinalizadas.
+- [x] Aulas 17–28 (14 leituras): início, meio e fim conferidos; `verify --scope priority` passa. Demais recursos: revisão pendente.
 - [ ] Resolver OCR, formatos sem suporte e páginas vazias; registrar notas de revisão.
 - Verificação: originais e extrações conferidos; `verify --scope priority` e `verify --scope all`.
 - Dependências: 4.
