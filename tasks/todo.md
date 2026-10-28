@@ -77,6 +77,7 @@
 
 ## 11. Aulas 24–28
 - [x] Li (24); Frieden cap. 16 e Meissner cap. 13 (25); Bertola e Ocampo (26 e 27); Crafts (28).
+- Resultado: `validate --scope priority` passa, 14 de 14 leituras `complete`. Teste de suficiência: duas questões novas montáveis só com o caderno (crise da dívida latino-americana: choque externo ou falha interna, Bértola/Ocampo, Meissner e Frieden; URSS e Leste Asiático: Allen, Rodrik e Li).
 - Verificação: `validate --scope priority` passa; segundo teste de suficiência com duas questões novas.
 - Dependências: 10.
 
