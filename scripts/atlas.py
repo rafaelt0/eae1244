@@ -78,6 +78,8 @@ def validate_debate(entry, resources, entries, sources):
         errors.append('entry_type: debate exige duas obras; single_reading exige uma.')
     if any(r not in resources or r not in entries for r in works):
         return errors + ['works: obra desconhecida ou sem caderno completo.']
+    if any(not is_priority(resources[r]) for r in works):
+        errors.append('works: o recorte aprovado cobre apenas as aulas 17–28.')
     lessons = sorted({n for r in works for n in resources[r]['lessons']})
     if entry.get('lessons') != lessons:
         errors.append('lessons: deve corresponder às aulas das obras.')

@@ -199,6 +199,16 @@ class AtlasTests(unittest.TestCase):
         entry['positions'][0]['stance'] = 'maybe'
         self.check_bad(entry)
 
+    def test_readings_outside_approved_priority_scope_fail(self):
+        entry = debate()
+        entry['works'].append(rid(3))
+        entry['lessons'] = [5, 18]
+        entry['positions'].append({'resource_id': rid(3), 'stance': 'other',
+                                   'summary': 'Earlier context', 'refs': [ref(3)]})
+        entry['mechanism_matrix']['rows'][0]['classifications'].append({
+            'resource_id': rid(3), 'kind': 'other', 'explanation': 'Context', 'refs': [ref(3)]})
+        self.check_bad(entry, '17–28')
+
     def test_empty_directory_is_incomplete(self):
         (self.root / 'data/atlas/test-debate.json').unlink()
         self.assertEqual(self.run_cli()[0], 1)
