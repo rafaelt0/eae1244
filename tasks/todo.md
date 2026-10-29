@@ -176,9 +176,11 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Dependências: 21. Arquivos: quatro JSON em `data/oficina/`, tarefas.
 
 ## 23. Planejamento e industrialização
-- [ ] Escrever os quatro exercícios de comparação de mecanismos, condições e resultados.
+- [x] Escrever os quatro exercícios de comparação de mecanismos, condições e resultados.
 - Verificação: validar; conferir contrapontos e as bases de uma relação do atlas e de um argumento indexado do caderno.
 - Dependências: 22. Arquivos: quatro JSON em `data/oficina/`, tarefas.
+
+- Checkpoint: dez exercícios válidos. Conferidas as relações `incentivos-ou-escolhas` e `politica-e-rendas`, o mecanismo indexado de restrição orçamentária branda em Allen e o limite da evidência de Rodrik.
 
 ## 24. Dívida e crises financeiras
 - [ ] Escrever os quatro exercícios distinguindo episódios, hipóteses e consequências da abertura.

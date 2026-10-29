@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "exercise_id": "planejamento-sovietico-independent",
+  "debate_id": "planejamento-sovietico",
+  "mode": "independent",
+  "title": "Desaceleração econômica e ruptura política",
+  "prompt": "A desaceleração soviética dos anos 1970 explica, por si só, a queda dos regimes no fim dos anos 1980 e início dos 1990? Articule Allen, Eichengreen e Frieden, distinguindo a perda de dinamismo econômico dos mecanismos políticos do colapso.",
+  "lessons": [
+    21,
+    22,
+    25
+  ],
+  "works": [
+    "moodle-resource-6614378",
+    "moodle-resource-6614379",
+    "moodle-resource-6614394"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Qualificar a suficiência: a desaceleração ajuda a explicar pressões por mudança, mas a cronologia do colapso exige outros mecanismos.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "reforma-e-colapso"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Explicar em Allen as restrições e decisões associadas à perda de crescimento.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Usar Eichengreen para mostrar sobrevida por crédito, retirada do respaldo soviético e perda da coerção.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614379"
+          }
+        ]
+      },
+      {
+        "text": "Articular a síntese de Frieden sobre reforma e colapso com essa sequência, sem atribuir aos três autores um mesmo modelo.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614394"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "reforma-e-colapso"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que uma explicação do ritmo de crescimento precisa ser conectada, e não simplesmente igualada, a uma explicação da ruptura institucional.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "reforma-e-colapso"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A perda de dinamismo econômico ampliou as pressões sobre o socialismo, mas não determina sozinha a data e a forma da ruptura política. Allen investiga a desaceleração por restrições produtivas e decisões de investimento. Eichengreen acrescenta o problema da sobrevida: crédito e apoios externos adiaram o enfrentamento de contradições, enquanto a retirada do respaldo soviético e o enfraquecimento da coerção alteraram a sustentação dos regimes. Frieden situa reformas e colapso na crise mais ampla dos arranjos do pós-guerra. Articular as leituras permite explicar como a dificuldade econômica chegou à mudança institucional, preservando a diferença entre causas da desaceleração, mecanismos de prolongamento e condições da ruptura.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "positions",
+        "item": "moodle-resource-6614378"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "positions",
+        "item": "moodle-resource-6614379"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "positions",
+        "item": "moodle-resource-6614394"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "relations",
+        "item": "reforma-e-colapso"
+      }
+    ],
+    "commentary": "A cronologia organiza o parágrafo: problema econômico, sobrevida e mudança da sustentação política cumprem funções explicativas distintas."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Saltar diretamente dos anos 1970 para 1989 sem explicar a sobrevida.",
+      "revision": "Introduzir os apoios externos e as mudanças da coerção discutidos por Eichengreen.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "planejamento-sovietico",
+          "section": "positions",
+          "item": "moodle-resource-6614379"
+        }
+      ]
+    },
+    {
+      "mistake": "Tratar a síntese de Frieden como um teste do modelo de investimento de Allen.",
+      "revision": "Distinguir escala narrativa, objeto e mecanismo de cada leitura.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "planejamento-sovietico",
+          "section": "positions",
+          "item": "moodle-resource-6614378"
+        },
+        {
+          "module": "atlas",
+          "entry_id": "planejamento-sovietico",
+          "section": "positions",
+          "item": "moodle-resource-6614394"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Respondi se a desaceleração era suficiente para explicar o colapso?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese liga economia e política com etapas explícitas?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Diferenciei os objetos dos três autores?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei sobrevida e ruptura, além da estagnação?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei ao menos um mecanismo político concreto?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "A conclusão preserva a distância temporal entre os eventos?"
+    }
+  ]
+}

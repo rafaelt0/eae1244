@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "exercise_id": "estado-e-industrializacao-independent",
+  "debate_id": "estado-e-industrializacao",
+  "mode": "independent",
+  "title": "Subsídios e orçamentos brandos são sempre um erro?",
+  "prompt": "Subsídios ao investimento e restrições orçamentárias brandas sempre impedem o desenvolvimento. Avalie a tese comparando o argumento de Allen para a industrialização soviética e o de Rodrik para Coreia e Taiwan. Explicite por que os instrumentos e condições dos casos não são idênticos.",
+  "lessons": [
+    21,
+    22,
+    23
+  ],
+  "works": [
+    "moodle-resource-6614378",
+    "moodle-resource-6614380"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar o sempre, sem equiparar os instrumentos: a função dos incentivos depende de fatores disponíveis, complementaridades e controle político.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "relations",
+            "item": "investimento-coordenado"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder que incentivos mal orientados podem produzir má alocação e busca de renda, exigindo condições e adaptação.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614380",
+            "section": "argument",
+            "item": 11
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Explicar a restrição branda em Allen como mobilização de trabalho que ficaria ocioso na fase inicial.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614378",
+            "section": "mechanisms",
+            "item": 2
+          }
+        ]
+      },
+      {
+        "text": "Explicar subsídios em Rodrik como resposta a complementaridades, condicionada pela capacidade estatal e igualdade, com evidência circunstancial.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614380",
+            "section": "limits",
+            "item": 0
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir de forma condicional: o que precisa ser demonstrado é a função do instrumento e sua adequação às restrições, não uma regra universal a favor de subsídios.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "relations",
+            "item": "investimento-coordenado"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "Allen e Rodrik permitem questionar uma condenação universal de incentivos ao investimento, mas por mecanismos distintos. Em Allen, a restrição orçamentária branda ajudou a absorver trabalho excedente durante a industrialização soviética. Em Rodrik, subsídios e coordenação elevaram o retorno privado de investimentos complementares em economias com capital humano relativamente alto. O primeiro argumento depende da disponibilidade de fatores; o segundo, das complementaridades e das condições políticas que contêm a busca de renda. Isso não torna os instrumentos equivalentes nem garante sua eficácia em outra fase. O próprio declínio analisado por Allen e os limites da evidência de coordenação em Rodrik exigem concluir sobre condições, em vez de transformar dois casos em defesa irrestrita dos subsídios.",
+    "basis": [
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614378",
+        "section": "mechanisms",
+        "item": 2
+      },
+      {
+        "module": "atlas",
+        "entry_id": "estado-e-industrializacao",
+        "section": "positions",
+        "item": "moodle-resource-6614378"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "estado-e-industrializacao",
+        "section": "positions",
+        "item": "moodle-resource-6614380"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614380",
+        "section": "argument",
+        "item": 11
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614380",
+        "section": "limits",
+        "item": 0
+      }
+    ],
+    "commentary": "O parágrafo compara mecanismos, diferencia os instrumentos e termina com limites de generalização apoiados nas próprias leituras."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Tratar restrição branda e subsídio como o mesmo arranjo institucional.",
+      "revision": "Identificar a regra e a função de cada instrumento em cada economia.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614378",
+          "section": "mechanisms",
+          "item": 2
+        },
+        {
+          "module": "atlas",
+          "entry_id": "estado-e-industrializacao",
+          "section": "positions",
+          "item": "moodle-resource-6614380"
+        }
+      ]
+    },
+    {
+      "mistake": "Converter a tese de coordenação de Rodrik em demonstração empírica conclusiva.",
+      "revision": "Registrar o caráter circunstancial da evidência e o limite de generalização.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614380",
+          "section": "limits",
+          "item": 0
+        },
+        {
+          "module": "atlas",
+          "entry_id": "estado-e-industrializacao",
+          "section": "positions",
+          "item": "moodle-resource-6614380"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei o termo sempre usando os dois mecanismos?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese é condicional, sem defender qualquer subsídio?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Separei restrição branda soviética e coordenação asiática?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei trabalho excedente e complementaridades de investimento?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei uma condição concreta de cada caso?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Registrei limites de fase histórica e de evidência?"
+    }
+  ]
+}
