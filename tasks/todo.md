@@ -127,11 +127,11 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - [x] Conferir uma relação `converge`, uma `diverge` e uma `context`, com evidência de ambas as obras.
 - [x] Diferenças de país, período e método registradas onde limitam as comparações.
 
-- Resultado: cinco temas válidos, nove leituras cobertas. Amostra manual: `limite-da-expansao-extensiva` (convergência), `incentivos-ou-escolhas` (divergência) e `periodos-e-medidas` (contexto), confrontadas com as afirmações e referências do caderno. Leituras de Allen distinguem cumprimento e qualidade do plano; as de Eichengreen distinguem sobrevida econômica e ruptura política.
+- Resultado: cinco temas válidos, dez leituras cobertas. Amostra manual: `limite-da-expansao-extensiva` (convergência), `incentivos-ou-escolhas` (divergência) e `periodos-e-medidas` (contexto), confrontadas com as afirmações e referências do caderno. Leituras de Allen distinguem cumprimento e qualidade do plano; as de Eichengreen distinguem sobrevida econômica e ruptura política.
 
 ## 17. Dívida e crises depois de 1971
-- [ ] Escrever `crise-da-divida-e-reformas`, preservando choque externo, vulnerabilidades internas e diferenças entre reformas latino-americanas e transição pós-socialista.
-- [ ] Escrever `crises-financeiras-pos-1971`, distinguindo mecanismos das crises e limites dos benefícios da liberalização, com Meissner, Frieden e Crafts.
+- [x] Escrever `crise-da-divida-e-reformas`, preservando choque externo, vulnerabilidades internas e diferenças entre reformas latino-americanas e transição pós-socialista.
+- [x] Escrever `crises-financeiras-pos-1971`, distinguindo mecanismos das crises e limites dos benefícios da liberalização, com Meissner, Frieden e Crafts.
 - Verificação: validação sem novos erros; um roteiro por tema e conferência de que sínteses regionais não viraram afirmações universais.
 - Dependências: 16. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
 

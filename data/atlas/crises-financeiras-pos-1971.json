@@ -1,0 +1,953 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "crises-financeiras-pos-1971",
+  "title": "Integração financeira: ganhos condicionais e crises recorrentes",
+  "lessons": [
+    25,
+    28
+  ],
+  "question": "Por que a integração financeira depois de 1971 voltou a produzir crises e quais benefícios de crescimento se podem demonstrar?",
+  "thesis_statement": "A abertura financeira promove convergência de renda e as crises são apenas resultado de indisciplina fiscal.",
+  "works": [
+    "moodle-resource-6614400",
+    "moodle-resource-6614394",
+    "moodle-resource-6614397"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6614400",
+      "stance": "rejects",
+      "summary": "Meissner distingue crises de fundamentos fiscais, ataques autorrealizáveis, risco moral, descasamentos e contágio. A evidência de benefício robusto dos fluxos para o crescimento é fraca. Sua conclusão é condicional: instituições e regulação são necessárias, e mesmo assim prevenção e previsão têm limites.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "determined that such crises were the inevitable"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Krugman showed that well before reserves run dry, capital markets will"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "retical case for free international capital flows is akin to that of free trade."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "there is surprisingly little reliable evidence that the capital flows of"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "diversification puzzle remains a mystery and presents a major anomaly for"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "The self-fulfilling model says that a currency can crash out of a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "but if there were no attack, no crisis will occur."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 14,
+          "quote": "treasury, faced with a choice of raising interest rates to economically"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Second, and once again, the financial crisis was unanticipated. Capital"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "Economists identified four potential channels. First, a depreciation"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 20,
+          "quote": "Financial crises are like earthquakes. Although earthquakes"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 21,
+          "quote": "A significant literature in economics has devoted itself to predicting"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Stronger supervision and regulation of the financial system is another"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "seems to be more stable, yielding greater social returns."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 30,
+          "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614394",
+      "stance": "qualifies",
+      "summary": "Frieden narra a integração como fonte de financiamento e também de disciplina imposta por investidores. As crises dos anos 1990 envolvem paridades, juros, dívidas em moeda estrangeira e reversões de capitais. Sua síntese histórica não mede um ganho causal de crescimento decorrente da liberalização.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "de menos de US$1 trilhão para mais de US$4 trilhões em 12 anos."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "Os déficits da era Reagan-Bush tiveram raízes políticas claras. As"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 21,
+          "quote": "monetária ativa veio acompanhado de uma maior utilização da política"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 23,
+          "quote": "Isso fez com que o valor do dólar aumentasse 50% em apenas cinco anos. O"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 24,
+          "quote": "industrial ainda gastava mais de 40% do PIB; mas os déficits orçamentários"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "capitalismo global do início do século."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "bancos e empresas tomavam grandes empréstimos em dólar, mas sua"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "a se concentrar em imóveis, comércio e em finanças propriamente ditas."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "escolha difícil aos governos europeus: continuarem membros do bloco do"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614397",
+      "stance": "qualifies",
+      "summary": "Crafts distingue abertura comercial e financeira: ganhos da mobilidade de capitais são mais discutíveis e crises podem corroê-los. A convergência continua condicionada por instituições e geografia. Sua avaliação dos anos 1990 é histórica e preliminar, sem prometer convergência automática.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "On balance, the evidence does suggest that openness to trade is good for"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "mobility are much more debatable. Broadly speaking, in the absence of a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "because it had not liberalized the capital account of the balance of payments."
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "of up to one percentage point is predicted (Edison"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "ganhos-condicionais",
+      "between": [
+        "moodle-resource-6614400",
+        "moodle-resource-6614397"
+      ],
+      "type": "converge",
+      "text": "Ambos rejeitam transformar maior mobilidade de capital em prova de crescimento garantido. Meissner ressalta evidência fraca e instituições; Crafts distingue finanças de comércio e contabiliza os custos das crises. A cautela compartilhada não equivale à defesa de isolamento financeiro universal.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "retical case for free international capital flows is akin to that of free trade."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "there is surprisingly little reliable evidence that the capital flows of"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "diversification puzzle remains a mystery and presents a major anomaly for"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "seems to be more stable, yielding greater social returns."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 30,
+          "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "On balance, the evidence does suggest that openness to trade is good for"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "of up to one percentage point is predicted (Edison"
+        }
+      ]
+    },
+    {
+      "id": "reversao-e-balancos",
+      "between": [
+        "moodle-resource-6614400",
+        "moodle-resource-6614394"
+      ],
+      "type": "converge",
+      "text": "As narrativas da crise asiática convergem na reversão de fluxos e no agravamento por dívidas em moeda estrangeira. Meissner explicita risco moral, prazos e contágio; Frieden situa esses mecanismos na história da integração e da disciplina de mercado.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Second, and once again, the financial crisis was unanticipated. Capital"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "Economists identified four potential channels. First, a depreciation"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 22,
+          "quote": "Indeed, short-term lending was viewed"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "capitalismo global do início do século."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "bancos e empresas tomavam grandes empréstimos em dólar, mas sua"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "a se concentrar em imóveis, comércio e em finanças propriamente ditas."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "escolha difícil aos governos europeus: continuarem membros do bloco do"
+        }
+      ]
+    },
+    {
+      "id": "escala-da-explicacao",
+      "between": [
+        "moodle-resource-6614394",
+        "moodle-resource-6614397"
+      ],
+      "type": "context",
+      "text": "Frieden descreve a reintegração e a reação de investidores; Crafts avalia crescimento, convergência e instituições. Uma sequência de integração e crise não identifica, sozinha, seu efeito líquido de longo prazo sobre a renda.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "de um grande pool de capitais estrangeiros, e os gastos deficitários não"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "tornaram devedores líquidos do resto do mundo"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 29,
+          "quote": "globo em minutos, as avaliações dos investidores sobre a credibilidade de"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "In other words, the pure neoclassical (Solow) model"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "based on universal technology is inapplicable, and, as such, its forecast of"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Abertura e financiamento",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "transmitter",
+            "explanation": "Fluxos e passivos crescem após a erosão dos controles.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 4,
+                "quote": "Throughout the 1970s, countries began to progressively loosen or"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 4,
+                "quote": "Despite the return of capital flows, rich countries, not"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 8,
+                "quote": "Fixed exchange rates were another key recommendation."
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 8,
+                "quote": "current account deficits, fast inflows of foreign capital, and an accumulation"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 8,
+                "quote": "Try repaying a dollar of debt when dollars are now suddenly"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "transmitter",
+            "explanation": "Capital internacional financia déficits e integra emergentes.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 22,
+                "quote": "de um grande pool de capitais estrangeiros, e os gastos deficitários não"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 22,
+                "quote": "tornaram devedores líquidos do resto do mundo"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 29,
+                "quote": "globo em minutos, as avaliações dos investidores sobre a credibilidade de"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "transmitter",
+            "explanation": "Os benefícios financeiros dependem de instituições e ausência de crises.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "On balance, the evidence does suggest that openness to trade is good for"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "of up to one percentage point is predicted (Edison"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Credibilidade, moeda e prazo",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "cause",
+            "explanation": "Paridade pode sofrer ataque autorrealizável; dívidas curtas em dólares ampliam vulnerabilidade.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 13,
+                "quote": "The self-fulfilling model says that a currency can crash out of a"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 13,
+                "quote": "Notice that the typical signals in the Krugman model for"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 16,
+                "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 22,
+                "quote": "Indeed, short-term lending was viewed"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "transmitter",
+            "explanation": "Desvalorização encarece dívidas em moeda estrangeira e amplia a crise bancária.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 31,
+                "quote": "bancos e empresas tomavam grandes empréstimos em dólar, mas sua"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 32,
+                "quote": "a se concentrar em imóveis, comércio e em finanças propriamente ditas."
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 30,
+                "quote": "escolha difícil aos governos europeus: continuarem membros do bloco do"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "other",
+            "explanation": "O custo agregado das crises é central, sem reconstrução de cada balanço nacional.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "On balance, the evidence does suggest that openness to trade is good for"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "of up to one percentage point is predicted (Edison"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Instituições e incentivos",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "political_economy",
+            "explanation": "Apostas privadas não incorporam todos os custos sociais; regras podem ser contornadas.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 20,
+                "quote": "Financial crises cannot be predicted for another economic reason having"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 20,
+                "quote": "We may also infer that banks"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "political_economy",
+            "explanation": "Governos enfrentam o julgamento e a disciplina dos investidores.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 28,
+                "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 30,
+                "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 33,
+                "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 33,
+                "quote": "capitalismo global do início do século."
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "cause",
+            "explanation": "Qualidade institucional condiciona crescimento e convergência.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "century there were big rewards for countries with good institutions and policy;"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "absence of well-deﬁned property rights, enforceable contracts and government"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "bad institutions are frequently persistent and, once in place, can be virtually"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "MCE europeu, 1992",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614400",
+          "text": "Ataques sem déficits crônicos ilustram equilíbrios múltiplos e o custo de defender a paridade.",
+          "refs": [
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 13,
+              "quote": "The self-fulfilling model says that a currency can crash out of a"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 13,
+              "quote": "but if there were no attack, no crisis will occur."
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 14,
+              "quote": "treasury, faced with a choice of raising interest rates to economically"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614394",
+          "text": "Juros alemães e paridades expõem Reino Unido e Itália a ataques e abandono do vínculo.",
+          "refs": [
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 29,
+              "quote": "a temer que os pesados gastos estatais da parte oriental pudessem levar o"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 30,
+              "quote": "A crise europeia não durou muito, e as economias da região se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leste Asiático, 1997–98",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614400",
+          "text": "Pânico, risco moral, moedas e prazos, governança e contágio compõem uma crise não prevista pelos indicadores habituais.",
+          "refs": [
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 16,
+              "quote": "Second, and once again, the financial crisis was unanticipated. Capital"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 16,
+              "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 17,
+              "quote": "Economists identified four potential channels. First, a depreciation"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 17,
+              "quote": "While well intentioned, the IMF goals of stabilizing the currency and the"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 18,
+              "quote": "Output losses in the East Asian economies ranged"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 18,
+              "quote": "implemented his own heterodox response. The centerpiece of his go-it-alone"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614394",
+          "text": "Reversão de fluxos, endividamento em moeda estrangeira e queda das moedas propagam a crise.",
+          "refs": [
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 28,
+              "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 30,
+              "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 33,
+              "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 33,
+              "quote": "capitalismo global do início do século."
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 31,
+              "quote": "bancos e empresas tomavam grandes empréstimos em dólar, mas sua"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 32,
+              "quote": "a se concentrar em imóveis, comércio e em finanças propriamente ditas."
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 30,
+              "quote": "escolha difícil aos governos europeus: continuarem membros do bloco do"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Não aplicar a crise fiscal de primeira geração a todo episódio. Meissner distingue o mecanismo europeu de 1992 do latino-americano de 1982 e da crise asiática.",
+      "works": [
+        "moodle-resource-6614400"
+      ],
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 3,
+          "quote": "determined that such crises were the inevitable"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 4,
+          "quote": "Krugman showed that well before reserves run dry, capital markets will"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "returns on their money by lending to banks in low-income countries where"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "The self-fulfilling model says that a currency can crash out of a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 13,
+          "quote": "but if there were no attack, no crisis will occur."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 14,
+          "quote": "treasury, faced with a choice of raising interest rates to economically"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Second, and once again, the financial crisis was unanticipated. Capital"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 16,
+          "quote": "Fixed exchange rates led local borrowers to believe they were insured."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 17,
+          "quote": "Economists identified four potential channels. First, a depreciation"
+        }
+      ]
+    },
+    {
+      "text": "Comércio, investimento direto e crédito de curto prazo não são medidas intercambiáveis de globalização. Crafts separa abertura comercial de financeira; Meissner ressalta maior estabilidade do IDE na conclusão.",
+      "works": [
+        "moodle-resource-6614397",
+        "moodle-resource-6614400"
+      ],
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "On balance, the evidence does suggest that openness to trade is good for"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "et al., 2002), but in the 1980s and 1990s globalization seems to have led to a"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 11,
+          "quote": "of up to one percentage point is predicted (Edison"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "seems to be more stable, yielding greater social returns."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 30,
+          "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+        }
+      ]
+    },
+    {
+      "text": "Diferenças de perdas de produto nos exemplos dependem do país e do horizonte. O atlas usa os episódios para explicar mecanismos, sem harmonizar números das duas sínteses.",
+      "works": [
+        "moodle-resource-6614394",
+        "moodle-resource-6614400"
+      ],
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "Semanas após o choque inicial, as moedas de Coreia, Filipinas e"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "economias de Indonésia, Tailândia e Malásia encolheram 15%, 10% e 8%,"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 15,
+          "quote": "The sheen began to wear thin starting in late 1997 and into 1998, when a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Output losses in the East Asian economies ranged"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 18,
+          "quote": "Suharto were forced from office"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar os dois automatismos: integração financeira não garante convergência e crises não se reduzem à indisciplina fiscal.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614397"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder o benefício potencial: financiamento e partilha de risco podem ampliar investimento e suavizar choques, mas é preciso confrontar a previsão com os resultados.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614394"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Distinguir mecanismos com dois casos: MCE de 1992 para credibilidade e equilíbrios múltiplos; Ásia para moeda, prazo, pânico e contágio.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614394",
+          "relation:reversao-e-balancos"
+        ]
+      },
+      {
+        "text": "Separar abertura financeira de comercial e distinguir instrumentos de capital antes de inferir crescimento.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614397",
+          "relation:ganhos-condicionais"
+        ]
+      },
+      {
+        "text": "Acrescentar regulação e instituições como condições, com limites à prevenção e à capacidade internacional de socorro.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614397"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "O resultado líquido é condicional e empiricamente discutido. Comparar benefícios, vulnerabilidades e custos de gestão de crises dá uma avaliação mais sólida que um juízo único sobre globalização.",
+        "basis": [
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614394",
+          "position:moodle-resource-6614397"
+        ]
+      }
+    ]
+  }
+}

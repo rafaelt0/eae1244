@@ -1,0 +1,1414 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "crise-da-divida-e-reformas",
+  "title": "Dívida: choque externo, vulnerabilidade e escolhas de reforma",
+  "lessons": [
+    21,
+    22,
+    25,
+    27
+  ],
+  "question": "A crise latino-americana demonstrou a inviabilidade da ISI, e o que se pode concluir da virada ao mercado?",
+  "thesis_statement": "A crise da dívida provou o fracasso interno da ISI e tornou a liberalização uma solução suficiente.",
+  "works": [
+    "moodle-resource-6614395",
+    "moodle-resource-6614400",
+    "moodle-resource-6614394",
+    "moodle-resource-6614379"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6614395",
+      "stance": "rejects",
+      "summary": "Bértola e Ocampo dão primazia ao choque de juros e commodities sobre uma região exposta ao financiamento externo. Reconhecem vulnerabilidades internas e interação entre choque e políticas, mas rejeitam que ineficiências produtivas bastassem para produzir o colapso. As reformas tiveram influência externa e decisões domésticas diversas; sua abertura comercial duradoura não demonstra solução integral do desenvolvimento.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "the lack of macroeconomic discipline"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "resorting to greater and greater amounts of external borrowing. This, however,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "climbed to 25 percent during the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "State-led industrialization also ran up against other constraints: those"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "It is unlikely, however, that if the debt crisis had not occurred, any of the Latin"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "what sounded the death knell for that"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "now took over the role that bonds floated on international capital markets had"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "The turning point was the decision, made in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "debt service, since"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is generally overlooked"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "International interest rates had never before been so high for so long"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "macroeconomic dynamics, rather than defects in the production"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is a general phenomenon rather than a feature of state-led"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "The non-linear interactions"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "In the new paradigm,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "The “Washington consensus” soon became virtually a synonym for market"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "for the first time in Latin America’s"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "the countries’ economies to the rest of the world has perhaps been its most widely"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Nevertheless, very few of the liberalization measures adopted under the"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614400",
+      "stance": "qualifies",
+      "summary": "Meissner combina empréstimos excessivos, juros de Volcker e queda da demanda mundial. Seu capítulo mostra vulnerabilidades financeiras e limites da liberalização, não um teste que atribua a crise à ISI como estrutura produtiva. Resolver dívida e estabilizar finanças é diferente de provar crescimento decorrente da abertura.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "retical case for free international capital flows is akin to that of free trade."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "there is surprisingly little reliable evidence that the capital flows of"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "diversification puzzle remains a mystery and presents a major anomaly for"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "returns on their money by lending to banks in low-income countries where"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 29,
+          "quote": "seems to be more stable, yielding greater social returns."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 30,
+          "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614394",
+      "stance": "qualifies",
+      "summary": "Frieden conecta petróleo, crédito, juros e recessão ao esgotamento dos arranjos do pós-guerra. O fim do financiamento empurra países endividados a abandonar a ISI e se integrar. Sua síntese enfatiza a força transformadora da crise, sem demonstrar que a simples liberalização elimina crises futuras.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "deviam US$750 bilhões no exterior, 75% a financiadores privados"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "totalizavam US$200 bilhões entre 1974 e 1980, em parte para pagar pelo"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 10,
+          "quote": "exportadores provocaram um aumento dos conflitos comerciais na OCDE."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "No verão de 1982 o carrossel parou. O México anunciou que estava sem"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "a crise da dívida da década de 1980 se autoalimentava"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "O FMI e o devedor acordariam"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "Para a América Latina, 1980 foi a década perdida: a"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "O segundo resultado da crise foi o abandono do processo de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "comércio, desregulamentaram as atividades bancárias, privatizaram"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "capitalismo global do início do século."
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614379",
+      "stance": "other",
+      "summary": "Eichengreen examina a transição do planejamento no Leste europeu, não a causalidade da crise da ISI. Serve como comparação dos resultados e limites da reforma: recessão, privatização e retomada dependem de instituições e de coalizões, com custos e sequências variados.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "The cumulative fall in GDP after 1990 varied"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 12,
+          "quote": "that the decline in electricity consumption was milder than the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 13,
+          "quote": "But some contraction was unavoidable."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 14,
+          "quote": "Nor was there a Marshall Plan for the East, only dribs and drabs"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "no alternative to monetization. As a result of this increase in the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 16,
+          "quote": "But handing over large state enterprises to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "There were just too many political constraints."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "output declined sharply. Production fell"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "suffered sharper contractions in the early years of the transition but"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "cumulative restructuring: how much state enterprise was transferred"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 19,
+          "quote": "Gradualism might enable the public to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 19,
+          "quote": "Mass privatization, it was argued, would"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "the hands of its managers and workers."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "Insiders stripped the newly privatized enterprise of its"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "citizen was given a booklet of vouchers and a pen with which he or"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "In the case of a corner store, the owner, manager,"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "But they paid a price in the form of allowing the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "pace of reform was the political system. One would expect informed"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 22,
+          "quote": "Such encompassing coalitions facilitated"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 22,
+          "quote": "The further east one traveled, it seemed, the fewer of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "China’s state sector was smaller."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "were a cry of freedom."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "choque-e-exposicao",
+      "between": [
+        "moodle-resource-6614395",
+        "moodle-resource-6614400"
+      ],
+      "type": "converge",
+      "text": "Ambos articulam crédito abundante anterior e choque posterior de juros e demanda. Bértola e Ocampo enfatizam a natureza externa e a interação com políticas; Meissner inclui o excesso de endividamento. Essa convergência não autoriza escolher entre causa exclusivamente externa e exclusivamente interna.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "the risk for creditors represented by variations in those"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "rates was reduced by shifting it onto borrowers."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "fact, Latin America accounted for over half of all private debt flows to the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "The turning point was the decision, made in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "debt service, since"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is generally overlooked"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "International interest rates had never before been so high for so long"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "macroeconomic dynamics, rather than defects in the production"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is a general phenomenon rather than a feature of state-led"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "The non-linear interactions"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "returns on their money by lending to banks in low-income countries where"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "With benefit of hindsight, it is easy to see that over-borrowing and"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "Borrowing was the fuel, and the interest rate shock was the spark that started"
+        }
+      ]
+    },
+    {
+      "id": "credito-e-ruptura",
+      "between": [
+        "moodle-resource-6614400",
+        "moodle-resource-6614394"
+      ],
+      "type": "converge",
+      "text": "Meissner e Frieden ligam juros altos, perda de capacidade de pagamento e retração do crédito ao episódio de 1982. Frieden detalha a virada de política e Meissner a gestão da dívida; a ruptura financeira é um elo comum.",
+      "refs": [
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "returns on their money by lending to banks in low-income countries where"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 9,
+          "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 10,
+          "quote": "years between 1982 and the mid-1990s were a"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "No verão de 1982 o carrossel parou. O México anunciou que estava sem"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "a crise da dívida da década de 1980 se autoalimentava"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "O FMI e o devedor acordariam"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "O segundo resultado da crise foi o abandono do processo de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "também pode ter resultado da reação do povo, dos empresários e da"
+        }
+      ]
+    },
+    {
+      "id": "agencia-das-reformas",
+      "between": [
+        "moodle-resource-6614395",
+        "moodle-resource-6614394"
+      ],
+      "type": "context",
+      "text": "Frieden enfatiza a pressão da crise para abandonar a ISI; Bértola e Ocampo ressaltam decisões domésticas e diversidade das reformas. Pressão externa e escolha interna podem coexistir. A diferença é de enfoque e escala, sem evidência aqui de uma negação recíproca.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "In the new paradigm,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "The “Washington consensus” soon became virtually a synonym for market"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "for the first time in Latin America’s"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 10,
+          "quote": "“anchor” prices."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "only three countries took a truly radical"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "of short-term policies adopted in order to deal with the crisis"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Trade liberalization"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "Para a América Latina, 1980 foi a década perdida: a"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "O segundo resultado da crise foi o abandono do processo de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "comércio, desregulamentaram as atividades bancárias, privatizaram"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "dos mercados domésticos e internacionais; quanto maior a transformação,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "aproximadamente, os países em desenvolvimento deixaram para trás 50"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "As economias socialistas (com a exceção de China e"
+        }
+      ]
+    },
+    {
+      "id": "instituicoes-e-sequencia",
+      "between": [
+        "moodle-resource-6614395",
+        "moodle-resource-6614379"
+      ],
+      "type": "context",
+      "text": "A diversidade latino-americana das reformas e a transição pós-socialista mostram por que não se deve avaliar a virada ao mercado como pacote homogêneo. Eichengreen enfrenta construção de propriedade e mercados antes inexistentes; a América Latina partia de outra estrutura. Trata-se de comparação de trajetórias, sem equiparar os choques iniciais.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 10,
+          "quote": "“anchor” prices."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "only three countries took a truly radical"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "of short-term policies adopted in order to deal with the crisis"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Trade liberalization"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "The cumulative fall in GDP after 1990 varied"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 12,
+          "quote": "that the decline in electricity consumption was milder than the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 13,
+          "quote": "But some contraction was unavoidable."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 14,
+          "quote": "Nor was there a Marshall Plan for the East, only dribs and drabs"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "no alternative to monetization. As a result of this increase in the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 16,
+          "quote": "But handing over large state enterprises to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "There were just too many political constraints."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "the hands of its managers and workers."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "Insiders stripped the newly privatized enterprise of its"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "citizen was given a booklet of vouchers and a pen with which he or"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "In the case of a corner store, the owner, manager,"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "But they paid a price in the form of allowing the"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Choque e exposição financeira",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614395",
+            "kind": "cause",
+            "explanation": "Volcker, commodities e recessão atingem dívida a taxas flutuantes.",
+            "refs": [
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "The turning point was the decision, made in"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "much of Latin America’s external debt had been contracted at floating interest"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "real commodity prices were"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "percent (and at times as much as 40 percent) below their average for the 1970s,"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 3,
+                "quote": "the risk for creditors represented by variations in those"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 3,
+                "quote": "rates was reduced by shifting it onto borrowers."
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "fact, Latin America accounted for over half of all private debt flows to the"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "cause",
+            "explanation": "Superendividamento e exposição aos juros tornam o choque destrutivo.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 10,
+                "quote": "With benefit of hindsight, it is easy to see that over-borrowing and"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 9,
+                "quote": "Borrowing was the fuel, and the interest rate shock was the spark that started"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "cause",
+            "explanation": "Juros, petróleo e recessão combinam-se na crise do Terceiro Mundo.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 14,
+                "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 15,
+                "quote": "a crise da dívida da década de 1980 se autoalimentava"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "other",
+            "explanation": "Crédito e tecnologia externos prolongam o planejamento e criam exposição, em outro episódio.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 4,
+                "quote": "of annual hard-currency export receipts"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 5,
+                "quote": "So long as it lasted, foreign lending was a boon."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 6,
+                "quote": "A telling case was the Zastava motor"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 7,
+                "quote": "imported Soviet oil at submarket prices, since trade within the"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Transmissão para a economia doméstica",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614395",
+            "kind": "transmitter",
+            "explanation": "Retirada de recursos, fragilidade financeira e transferência doméstica agravam o ajuste.",
+            "refs": [
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 3,
+                "quote": "Within an oligopolistic setting, in which large banks sought to place loans in a"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 5,
+                "quote": "turned the region’s positive net resource transfers, which had been equivalent to 2"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "liberalization of domestic financial"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "Capital flight occurred throughout the"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 4,
+                "quote": "played a crucial role in"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 8,
+                "quote": "enterprises) and where the government consequently benefited directly from the"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 7,
+                "quote": "inflationary spirals were an effect rather than a cause of"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "transmitter",
+            "explanation": "Parada súbita exige ajuste externo e depreciação.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 9,
+                "quote": "eral funds rate from 11.5% in mid-1979 to 17.5% by April 1980. The largest"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 8,
+                "quote": "capital flows suddenly reversed or stopped flowing into a country."
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "transmitter",
+            "explanation": "Dívida indexada transmite juros; pânico restringe crédito.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 13,
+                "quote": "investidores não comprariam títulos alemães a 7%, enquanto os títulos do"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 13,
+                "quote": "Sistema Monetário Europeu (SME), que atrelava as moedas ao marco"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 14,
+                "quote": "Estados Unidos custava aos devedores do Terceiro Mundo US$4 bilhões ou"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 14,
+                "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 15,
+                "quote": "a crise da dívida da década de 1980 se autoalimentava"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "transmitter",
+            "explanation": "Dívida, perda de apoio externo e queda do produto limitam a sobrevida dos regimes.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 4,
+                "quote": "of annual hard-currency export receipts"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 2,
+                "quote": "For all these reasons, the gap widened between East and West."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 8,
+                "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 8,
+                "quote": "This turned the terms of trade against Eastern Europe."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 9,
+                "quote": "Without Soviet backing, the regimes saw resorting to martial"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Economia política e resultado das reformas",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614395",
+            "kind": "political_economy",
+            "explanation": "Credores influenciam o ajuste, mas governos domésticos escolhem ritmos e combinações.",
+            "refs": [
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 7,
+                "quote": "because of the asymmetrical nature of the negotiations, the Latin American"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 6,
+                "quote": "unprecedented “structural” conditionalities"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 8,
+                "quote": "In the new paradigm,"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 9,
+                "quote": "The “Washington consensus” soon became virtually a synonym for market"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 9,
+                "quote": "for the first time in Latin America’s"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 9,
+                "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 10,
+                "quote": "“anchor” prices."
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 11,
+                "quote": "only three countries took a truly radical"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 11,
+                "quote": "of short-term policies adopted in order to deal with the crisis"
+              },
+              {
+                "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+                "pdf_page": 12,
+                "quote": "Trade liberalization"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614400",
+            "kind": "political_economy",
+            "explanation": "FMI monitora acordos e instituições condicionam benefícios da abertura.",
+            "refs": [
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 24,
+                "quote": "simply not big enough, nor is it designed to play this role."
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 25,
+                "quote": "Since 2003, bonds issued in New York contain CACs. Bonds under British"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 28,
+                "quote": "While many of the countries classified as HIPCs remain economically"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 29,
+                "quote": "Properly managed, financial liberalization can bring benefits and relieve"
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 29,
+                "quote": "seems to be more stable, yielding greater social returns."
+              },
+              {
+                "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+                "pdf_page": 30,
+                "quote": "We may certainly conclude that financial crises are hard to avoid. But"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "political_economy",
+            "explanation": "Sem crédito, subsídios e rolagem tornam-se difíceis, impulsionando liberalização.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 16,
+                "quote": "O segundo resultado da crise foi o abandono do processo de"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 16,
+                "quote": "também pode ter resultado da reação do povo, dos empresários e da"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 15,
+                "quote": "O FMI e o devedor acordariam"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "political_economy",
+            "explanation": "Sequência, captura e coalizões afetam privatização e retomada.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 19,
+                "quote": "Mass privatization, it was argued, would"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 21,
+                "quote": "pace of reform was the political system. One would expect informed"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 22,
+                "quote": "Such encompassing coalitions facilitated"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 24,
+                "quote": "It meant limiting the growth of private enterprise, which was the"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "América Latina e México, 1982",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614395",
+          "text": "O episódio mexicano inicia a crise regional, cuja severidade combina choque persistente e fragilidades internas.",
+          "refs": [
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 3,
+              "quote": "to gain access to private"
+            },
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 7,
+              "quote": "Mexican default of August 1982"
+            },
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 7,
+              "quote": "limit Peru’s debt service to 10 percent of its export"
+            },
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 4,
+              "quote": "macroeconomic dynamics, rather than defects in the production"
+            },
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 4,
+              "quote": "is a general phenomenon rather than a feature of state-led"
+            },
+            {
+              "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+              "pdf_page": 5,
+              "quote": "The non-linear interactions"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614400",
+          "text": "Juros e queda da demanda inviabilizam pagamentos e iniciam calotes e renegociação.",
+          "refs": [
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 9,
+              "quote": "returns on their money by lending to banks in low-income countries where"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 9,
+              "quote": "In August 1982, Mexico defaulted on its foreign obligations. In the"
+            },
+            {
+              "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+              "pdf_page": 10,
+              "quote": "years between 1982 and the mid-1990s were a"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614394",
+          "text": "A falta de caixa mexicana e a retração privada tornam o pânico autorreforçado.",
+          "refs": [
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 14,
+              "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 14,
+              "quote": "No verão de 1982 o carrossel parou. O México anunciou que estava sem"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 15,
+              "quote": "a crise da dívida da década de 1980 se autoalimentava"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 15,
+              "quote": "O FMI e o devedor acordariam"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Estrutura produtiva, vulnerabilidade macrofinanceira e gatilho são conceitos diferentes. Bértola e Ocampo não negam a fragilidade interna; negam que ela prove por si só a falência produtiva da industrialização.",
+      "works": [
+        "moodle-resource-6614395"
+      ],
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "It is unlikely, however, that if the debt crisis had not occurred, any of the Latin"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "what sounded the death knell for that"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "now took over the role that bonds floated on international capital markets had"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "macroeconomic dynamics, rather than defects in the production"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is a general phenomenon rather than a feature of state-led"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "The non-linear interactions"
+        }
+      ]
+    },
+    {
+      "text": "A sequência da transição pós-socialista não é uma experiência replicável da ISI: o Leste precisava criar mercados, bancos e proteção de propriedade ausentes. A comparação serve para limitar conclusões universais sobre liberalização.",
+      "works": [
+        "moodle-resource-6614379",
+        "moodle-resource-6614395"
+      ],
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "The cumulative fall in GDP after 1990 varied"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 12,
+          "quote": "that the decline in electricity consumption was milder than the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 13,
+          "quote": "But some contraction was unavoidable."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 14,
+          "quote": "Nor was there a Marshall Plan for the East, only dribs and drabs"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "no alternative to monetization. As a result of this increase in the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 16,
+          "quote": "But handing over large state enterprises to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "There were just too many political constraints."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 10,
+          "quote": "“anchor” prices."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "only three countries took a truly radical"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "of short-term policies adopted in order to deal with the crisis"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Trade liberalization"
+        }
+      ]
+    },
+    {
+      "text": "O trecho latino-americano documenta sobretudo a crise e a implantação das reformas; a duração da abertura comercial não é uma estimativa de seu efeito causal sobre crescimento e distribuição.",
+      "works": [
+        "moodle-resource-6614395",
+        "moodle-resource-6614400"
+      ],
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "In the new paradigm,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "The “Washington consensus” soon became virtually a synonym for market"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "for the first time in Latin America’s"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "the countries’ economies to the rest of the world has perhaps been its most widely"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Nevertheless, very few of the liberalization measures adopted under the"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "retical case for free international capital flows is akin to that of free trade."
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 6,
+          "quote": "there is surprisingly little reliable evidence that the capital flows of"
+        },
+        {
+          "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+          "pdf_page": 7,
+          "quote": "diversification puzzle remains a mystery and presents a major anomaly for"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a tese forte: o colapso exige combinar choque, exposição e políticas; a substituição de regime não prova que a abertura seja suficiente.",
+        "basis": [
+          "position:moodle-resource-6614395",
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614394"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder vulnerabilidades: necessidade de financiamento, déficits e fragilidade financeira condicionaram o impacto.",
+        "basis": [
+          "position:moodle-resource-6614395",
+          "position:moodle-resource-6614400"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Reconstruir o mecanismo externo: juros flutuantes e commodities em queda atingem devedores, o crédito para e o ajuste retira recursos da economia.",
+        "basis": [
+          "relation:choque-e-exposicao",
+          "relation:credito-e-ruptura"
+        ]
+      },
+      {
+        "text": "Distinguir pressão para reformar de escolha do pacote: crise e credores importam, mas governos e coalizões definem trajetórias.",
+        "basis": [
+          "relation:agencia-das-reformas"
+        ]
+      },
+      {
+        "text": "Avaliar resultados em dimensões separadas: persistência da abertura, solução da dívida e crescimento. O caso pós-socialista lembra o papel de instituições e sequência.",
+        "basis": [
+          "position:moodle-resource-6614395",
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614379",
+          "relation:instituicoes-e-sequencia"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Uma explicação de interação é mais defensável que a prova de fracasso intrínseco. As reformas mudaram a inserção externa, mas seus efeitos precisam ser avaliados por país, dimensão e capacidade institucional.",
+        "basis": [
+          "position:moodle-resource-6614395",
+          "position:moodle-resource-6614400",
+          "position:moodle-resource-6614379"
+        ]
+      }
+    ]
+  }
+}
