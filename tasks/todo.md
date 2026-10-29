@@ -136,8 +136,8 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Dependências: 16. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
 
 ## 18. Capital humano e convergência
-- [ ] Escrever `capital-humano-e-convergencia`, com Li et al., Crafts/Toniolo, Crafts e Rodrik.
-- [ ] Distinguir correlação, mecanismo causal e condições institucionais; preservar as ressalvas das projeções chinesas.
+- [x] Escrever `capital-humano-e-convergencia`, com Li et al., Crafts/Toniolo, Crafts e Rodrik.
+- [x] Distinguir correlação, mecanismo causal e condições institucionais; preservar as ressalvas das projeções chinesas.
 - Verificação: `validate` e `coverage` com código 0, oito temas e 14 leituras prioritárias cobertas; roteiro de resposta suficiente para avaliar a tese.
 - Dependências: 17. Arquivos: `data/atlas/capital-humano-e-convergencia.json`, `tasks/todo.md` (escopo pequeno).
 
