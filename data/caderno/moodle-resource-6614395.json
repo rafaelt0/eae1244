@@ -1,0 +1,943 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614395",
+  "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+  "lessons": [
+    27
+  ],
+  "authors": [
+    "Luis Bértola",
+    "José Antonio Ocampo"
+  ],
+  "title": "The Economic Development of Latin America since Independence, cap. 5: Turning Back to the Market",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Bertola e Ocampo, a crise da dívida dos anos 1980 pôs fim ao modelo de industrialização liderada pelo Estado sobretudo por causa de um choque externo (juros altos e queda dos preços de commodities) que atingiu uma região já endividada pelo ciclo de financiamento externo, e não por falhas internas do modelo em si; a interação desse choque com políticas internas frágeis gerou a \"década perdida\". As reformas de mercado que se seguiram foram em boa parte decididas internamente, por governos democráticos, com grande diversidade entre países, e o resultado mais duradouro foi a abertura comercial.",
+  "question": "O que causou a crise da dívida latino-americana dos anos 1980, como ela levou às reformas de mercado e como essas reformas se deram na prática?",
+  "argument": [
+    {
+      "claim": "A crise da dívida encerrou mais de um século de ganho de posição da região na economia mundial e marcou ruptura com a política econômica vigente desde os anos 1930; a industrialização já desacelerava desde meados dos anos 1970 e a crise aprofundou essa tendência.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "The Latin American debt crisis of the 1980s put an end to a period of more than a"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "been slowing down since the mid-1970s, but the debt crisis deepened that trend."
+        }
+      ]
+    },
+    {
+      "claim": "O modelo de industrialização estatal acumulou tensões: críticas ortodoxas (falta de disciplina macro, ineficiência de tarifas e restrições) e da esquerda (dependência externa e estruturas sociais desiguais); conflitos sociais, sobretudo no Cone Sul, geraram resposta autoritária, e a adoção do mercado foi inicialmente defensiva, ao contrário da ofensiva de Thatcher e Reagan.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "The authoritarian response was not long in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "economy was initially a defensive strategy in reaction to what was seen as an"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "response was a reflection of the confidence of private enterprise that it could do"
+        }
+      ]
+    },
+    {
+      "claim": "Os autores relativizam as fraquezas internas: a falta de disciplina macroeconômica foi menos generalizada do que se diz (problema de Brasil e Cone Sul até meados dos anos 1970). Havia, porém, tendência crescente a déficit externo e a necessidade de investimento (taxa de 25% do PIB na fase final), cobertos por endividamento externo, e um Estado sobrecarregado fiscalmente.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "the lack of macroeconomic discipline"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "resorting to greater and greater amounts of external borrowing. This, however,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "climbed to 25 percent during the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "State-led industrialization also ran up against other constraints: those"
+        }
+      ]
+    },
+    {
+      "claim": "Para os autores, sem a crise da dívida é improvável que as economias tivessem colapsado pelas ineficiências do modelo ou por essas tensões macro; poderiam ter caminhado para um modelo mais próximo do do Leste Asiático. O que selou o paradigma foi o ciclo de expansão e colapso do financiamento externo privado, que repete o ciclo dos anos 1920-30, agora com empréstimos bancários sindicalizados no lugar de bonds.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "It is unlikely, however, that if the debt crisis had not occurred, any of the Latin"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "what sounded the death knell for that"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "now took over the role that bonds floated on international capital markets had"
+        }
+      ]
+    },
+    {
+      "claim": "O boom de crédito dos anos 1970 combinou mercado de eurodólares, reciclagem de petrodólares, empréstimos sindicalizados a taxas flutuantes (LIBOR + 1 a 2 pontos), juros reais baixos ou negativos e preços altos de commodities; a América Latina recebeu mais da metade dos fluxos de dívida privada para países em desenvolvimento em 1973-81. A indexação à LIBOR transferia o risco de juros aos devedores.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "the risk for creditors represented by variations in those"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "rates was reduced by shifting it onto borrowers."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "fact, Latin America accounted for over half of all private debt flows to the"
+        }
+      ]
+    },
+    {
+      "claim": "O gatilho foi um choque externo: a alta abrupta dos juros nos EUA no fim de 1979 (choque Volcker), que encareceu a dívida de juros flutuantes, somada à queda duradoura dos preços reais das commodities e à recessão industrializada de 1982. Os autores dizem que esse fator externo é em geral negligenciado nas análises.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "The turning point was the decision, made in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "debt service, since"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is generally overlooked"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "International interest rates had never before been so high for so long"
+        }
+      ]
+    },
+    {
+      "claim": "A severidade da crise dependeu da dinâmica macro (tamanho dos déficits externo e fiscal, fragilidade financeira, controle de capitais) e não de defeitos da estrutura produtiva: atingiu economias reguladas (Brasil) e liberalizadas (Cone Sul); como ciclos semelhantes ocorreram nos anos 1920-30 e 1990, trata-se de fenômeno geral da volatilidade do financiamento externo. Citando Díaz-Alejandro, a interação não linear de choque externo persistente e políticas internas arriscadas causou uma crise que nenhum dos dois fatores geraria sozinho.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "macroeconomic dynamics, rather than defects in the production"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "is a general phenomenon rather than a feature of state-led"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "The non-linear interactions"
+        }
+      ]
+    },
+    {
+      "claim": "Comparada à Grande Depressão, a diferença decisiva foi o choque longo e massivo na conta de capital, mal tratado internacionalmente: as transferências líquidas de recursos passaram de cerca de +2-3% do PIB para cerca de -6%; a recuperação do PIB per capita levou até 1994 (quinze anos), contra 1937 nos anos 1930. O tratamento da dívida (cartel de credores, pressão do FMI e dos governos, condicionalidades, Planos Baker e Brady) protegeu os bancos dos EUA, mas foi inadequado à crise latino-americana, vista como crise de solvência só tardiamente.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "debt crisis and the Great Depression was the massive, long-lasting shock to the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "percent of GDP (see Figure 5.2)."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "recovery from the debt crisis of the 1980s did not come until 1994, i.e., fifteen"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "The measures that were"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "Brady Plan, which included a modest reduction"
+        }
+      ]
+    },
+    {
+      "claim": "Custos da década perdida: queda de pouco mais de 8% do PIB per capita, pobreza de 40,5% para 48,3%, piora distributiva, queda de salários reais formais e informalidade, inflação alta (hiperinflação em cinco países), crises financeiras de 40 a 50% do PIB no Cone Sul e queda do investimento. O ajuste exigiu transferências internas ao governo (problema de transferência doméstica) e poupança forçada via inflação.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "That loss represented a drop of somewhat more than 8"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "(from 40.5 percent to 48.3 percent of the population)."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "hyperinflation that overtook five countries in the mid-1980s and early 1990s"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "domestic transfer problem"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "made it necessary to reduce the real income of wage-earners"
+        }
+      ]
+    },
+    {
+      "claim": "As reformas de mercado vieram com teoria primeiro (ofensiva ideológica, Chicago Boys, Banco Mundial, FMI, consenso de Washington de Williamson), diferentemente da industrialização estatal, em que a teoria da CEPAL veio depois da prática. Ainda assim, a variedade entre países mostra que não foram simples imposição externa: foram decididas por governos democráticos, e pela primeira vez o liberalismo econômico se aliou ao político.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "In the new paradigm,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "The “Washington consensus” soon became virtually a synonym for market"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "for the first time in Latin America’s"
+        }
+      ]
+    },
+    {
+      "claim": "Na prática houve reformas agressivas (Argentina, Bolívia, Chile, Peru) e cautelosas (Brasil, Costa Rica, Colômbia, México); duas fases (anos 1970, gradual; anos 1990, rápida e homogênea), com comércio e finanças as mais amplas e privatização e mercado de trabalho menos uniformes. Houve contradições com a doutrina: âncora cambial com sobrevalorização, tributação crescente, gasto social em alta, regionalismo aberto (MERCOSUL) e permanência de estatais; muitas reformas radicais foram efeito colateral de políticas de curto prazo da crise.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 10,
+          "quote": "“anchor” prices."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "only three countries took a truly radical"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "of short-term policies adopted in order to deal with the crisis"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Trade liberalization"
+        }
+      ]
+    },
+    {
+      "claim": "Resultado de longo prazo: a abertura comercial foi o traço mais difundido e duradouro; mesmo governos de esquerda dos anos 2000 pouco reverteram as liberalizações do consenso de Washington, e a diversidade de políticas aumentou.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "the countries’ economies to the rest of the world has perhaps been its most widely"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Nevertheless, very few of the liberalization measures adopted under the"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Choque externo de juros: a alta das taxas dos EUA no fim de 1979 (choque Volcker) elevou o serviço de uma dívida contratada a taxas flutuantes (LIBOR). Os autores o tratam como gatilho da crise.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "The turning point was the decision, made in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "much of Latin America’s external debt had been contracted at floating interest"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Deterioração duradoura dos termos de troca: preços reais de commodities em queda (37% abaixo da média dos anos 1970 no ponto mais baixo, 1992-2001), mais recessão nos países industrializados em 1982.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "real commodity prices were"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "percent (and at times as much as 40 percent) below their average for the 1970s,"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Ciclo de financiamento externo privado (empréstimos bancários sindicalizados a juros flutuantes, em mercado oligopolizado e frouxamente regulado) que transmitiu o choque via serviço da dívida, fim abrupto do crédito e transferências líquidas negativas (de +2-3% para cerca de -6% do PIB). Inferência: é o canal que liga o choque externo à recessão interna.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "Within an oligopolistic setting, in which large banks sought to place loans in a"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "turned the region’s positive net resource transfers, which had been equivalent to 2"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Fragilidade financeira interna e fuga de capitais: liberalização financeira prévia (Cone Sul) e falta de controles de capital (Argentina, México, Venezuela) amplificaram o impacto; maiores déficits e fragilidade explicam o impacto relativo entre países.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "liberalization of domestic financial"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "Capital flight occurred throughout the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "played a crucial role in"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Problema de transferência doméstica e ajuste: para transferir recursos ao Estado para pagar a dívida externa, houve desvalorização real, inflação, queda de salários reais e de investimento. Inflação como efeito e não causa da crise.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "enterprises) and where the government consequently benefited directly from the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "inflationary spirals were an effect rather than a cause of"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Conflito social e resposta autoritária no Cone Sul: ampliação de direitos em períodos de crescimento, crises de balanço de pagamentos, descontentamento de setores populares e de elites, regimes militares que usaram a flexibilidade de preços e salários para justificar repressão. A virada ao mercado foi inicialmente defensiva.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "The authoritarian response was not long in"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "Military instincts are interventionist."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Assimetria de poder na renegociação: cartel de credores apoiado pelos governos industrializados, pressão do FMI/Banco Mundial com condicionalidades estruturais, ausência de cartel de devedores; os países \"nacionalizaram\" parte da dívida privada. Os autores veem a América Latina como vítima da forma de tratar uma crise que também era bancária dos EUA.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "because of the asymmetrical nature of the negotiations, the Latin American"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "unprecedented “structural” conditionalities"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "A crise como alavanca para reformas: segundo os autores, muitas reformas radicais dos anos 1980 foram efeito colateral de políticas de curto prazo, e a crise permitiu evadir a oposição política. Também houve resistência (privatizações barradas na Costa Rica e no Uruguai) e influência externa (Banco Mundial, FMI, consenso de Washington).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "provided leverage that allowed policymakers to evade political opposition to"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "open (and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "explicit institutional support for these new policies was"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Visão neoestruturalista como alternativa: política macro anticíclica, regionalismo aberto, políticas produtivas e tecnológicas ativas e equidade social, que em parte foram incorporadas pelas instituições promotoras das reformas.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "(a) more"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "social equity should be placed at the center of development"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "América Latina (região), crise da dívida e década perdida",
+      "period": "1980-1990 (recuperação do PIB per capita só em 1994)",
+      "outcome": "Recessão de três anos seguidos, queda de mais de 8% do PIB per capita, pobreza de 40,5% para 48,3%, investimento 6 pontos do PIB abaixo do pico de 1975-80.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "The region’s GDP shrank for three years"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "That loss represented a drop of somewhat more than 8"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "six percentage points from its 1975-80 peak"
+        }
+      ]
+    },
+    {
+      "name": "Grande Depressão dos anos 1930 (comparação)",
+      "period": "1929-1937",
+      "outcome": "Efeito inicial mais severo no PIB per capita, mas recuperação forte (acima do nível pré-crise desde 1937), com superávits comerciais por período curto; defaults externos foram solução para a maioria.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "initial effect of the Great Depression on per capita GDP in the Latin American"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "external debt defaults"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "1937 on, per capita GDP was invariably above pre-crisis levels."
+        }
+      ]
+    },
+    {
+      "name": "México e Peru, primeiros a acessar crédito privado",
+      "period": "anos 1960-80; México default em agosto de 1982",
+      "outcome": "México e Peru foram dos primeiros a ter superendividamento; o default mexicano de agosto de 1982 é visto como início da crise. Peru (Alan García, 1985) limitou o serviço da dívida a 10% das exportações.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "to gain access to private"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "Mexican default of August 1982"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "limit Peru’s debt service to 10 percent of its export"
+        }
+      ]
+    },
+    {
+      "name": "Cone Sul (Chile, Argentina, Uruguay)",
+      "period": "anos 1970-início dos 1980",
+      "outcome": "Primeiros a liberalizar; crises financeiras entre as mais caras das últimas décadas (40-50% do PIB); regimes militares; Chile com Chicago Boys. Argentina, México e Venezuela com fuga de capitais maciça.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "countries of the Southern Cone,"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "fiscal and quasi-fiscal costs equivalent to as much as 40 percent or 50 percent of GDP"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "Chicago Boys"
+        }
+      ]
+    },
+    {
+      "name": "Reformadores agressivos vs. cautelosos",
+      "period": "anos 1980-1990",
+      "outcome": "Agressivos (Argentina, Bolívia, Chile, Peru) reformaram rápido; cautelosos (Brasil, Costa Rica, Colômbia, México) em vários anos. Só Argentina, Bolívia e Peru privatizaram radicalmente; Chile manteve cobre, petróleo e banco estatais.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "the “aggressive” reformers (Argentina, Bolivia, Chile, and"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "approach to privatization: Argentina, Bolivia, and Peru."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "state-owned copper and oil enterprises"
+        }
+      ]
+    },
+    {
+      "name": "Planos antiinflacionários heterodoxos",
+      "period": "final dos anos 1980",
+      "outcome": "Argentina, Brasil e México os testaram; só o do México deu certo no longo prazo.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "only Mexico’s turned out to be successful in the long run)"
+        }
+      ]
+    },
+    {
+      "name": "Esquerda dos anos 2000 (Brasil, Uruguai vs. Bolívia, Equador, Venezuela)",
+      "period": "primeira década do século XXI",
+      "outcome": "Brasil e Uruguai: macro ortodoxa com política social e trabalhista ativa; Bolívia, Equador e Venezuela: abordagem mais estatista em hidrocarbonetos; poucas reversões da abertura comercial.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "Some combine a fairly"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "(Bolivia, Ecuador, and Venezuela"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "have not rolled back their countries’ trade liberalization"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Década perdida",
+      "definition": "Termo da CEPAL para a recessão dos anos 1980 na América Latina.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "which was aptly dubbed by ECLAC as the “lost decade.”"
+        }
+      ]
+    },
+    {
+      "term": "Choque Volcker",
+      "definition": "Alta acentuada dos juros pelo Fed no fim de 1979 para conter a inflação nos EUA, que elevou o serviço da dívida latino-americana de juros flutuantes.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "Federal Reserve Board of the United States to raise interest rates"
+        }
+      ]
+    },
+    {
+      "term": "Transferências líquidas de recursos",
+      "definition": "Saldo da conta de capital menos serviço da dívida (juros e dividendos remetidos).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "Net resource transfers are defined as the balance on the capital account minus debt"
+        }
+      ]
+    },
+    {
+      "term": "Crise de liquidez vs. solvência",
+      "definition": "Na primeira fase tratou-se a crise como de liquidez, transitória; depois (Baker e Brady) como de solvência.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "assumption that the crisis would be short-lived (i.e., that it was a liquidity crisis"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "now clearly seen as a solvency crisis"
+        }
+      ]
+    },
+    {
+      "term": "Planos Baker e Brady",
+      "definition": "Baker (setembro de 1985, revisto dois anos depois): ajuste estrutural, melhores condições e crédito novo modesto. Brady (março de 1989): redução modesta de saldos da dívida.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "In September 1985, the crisis entered into a second phase with the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "The final phase began in March 1989"
+        }
+      ]
+    },
+    {
+      "term": "Problema de transferência doméstica",
+      "definition": "Dificuldade de transferir recursos fiscais ao Estado para servir a dívida, agravada pela desvalorização.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "“domestic transfer problem”"
+        }
+      ]
+    },
+    {
+      "term": "Consenso de Washington",
+      "definition": "Decálogo de Williamson (1990) que resumia a agenda de reformas definida pelas instituições financeiras internacionais; tornou-se sinônimo de reformas de mercado.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "The “Washington consensus” soon became virtually a synonym for market"
+        }
+      ]
+    },
+    {
+      "term": "\"Get the prices right\"",
+      "definition": "Ideia de câmbio de equilíbrio, juros de mercado, sem discriminação da agricultura e tarifas de serviços públicos que cubram custos.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "it was essential to “get"
+        }
+      ]
+    },
+    {
+      "term": "Reformas de mercado vs. neoliberalismo",
+      "definition": "Os autores preferem o termo genérico \"reformas de mercado\", pois muitas implicaram intervenção estatal incompatível com a ortodoxia; \"neoliberal\" descreve com precisão só os experimentos do Cone Sul.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "“market"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 9,
+          "quote": "reforms” will be used here."
+        }
+      ]
+    },
+    {
+      "term": "Regionalismo aberto",
+      "definition": "Termo da CEPAL: abertura comercial combinada com integração regional (MERCOSUL, Comunidade Andina, Mercado Comum Centro-Americano).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "“open regionalism,” to use the term coined by ECLAC"
+        }
+      ]
+    },
+    {
+      "term": "Neoestruturalismo",
+      "definition": "Pensamento heterodoxo que ressurgiu fora e dentro da CEPAL, com quatro ideias (macro anticíclica, regionalismo aberto, políticas produtiva e tecnológica, equidade).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "known as “neo-structuralism”"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Crescimento anual de 3,3% em 1990-2010, contra 5,5% nos trinta e cinco anos anteriores à crise da dívida; população cresceu 1,7% ao ano em 1980-2010, um ponto abaixo de 1950-80.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "The 3.3 percent annual growth rate registered for"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 1,
+          "quote": "population expanded at an average annual rate of 1.7 percent between 1980 and"
+        }
+      ]
+    },
+    {
+      "fact": "Taxa de investimento oscilava entre 19% e 22% do PIB até meados dos anos 1970 e subiu a 25% em 1975-80; caiu seis pontos e só voltou ao nível pré-meados dos anos 1970 após um quarto de século (boom 2004-8).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 2,
+          "quote": "fluctuated between 19 percent and 22 percent of GDP up to"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 8,
+          "quote": "six percentage points from its 1975-80 peak"
+        }
+      ]
+    },
+    {
+      "fact": "A América Latina respondeu por mais da metade dos fluxos de dívida privada para países em desenvolvimento em 1973-81; spreads de 1 a 2 pontos sobre a LIBOR.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "Latin America accounted for over half of all private debt flows to the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 3,
+          "quote": "(between one and two percentage points, with the spread usually being"
+        }
+      ]
+    },
+    {
+      "fact": "Juro real efetivo da dívida regional entre -1% e 2% em 1975-80; média ex-post de até 4% e pico de 6% em 1981-2; nos anos 1990, acima de 10%.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "fluctuated between -1 percent and 2 percent between 1975 and 1980"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "reaching a peak of 6 percent in 1981-2."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "real interest rate generally stayed above 10 percent"
+        }
+      ]
+    },
+    {
+      "fact": "Preços reais de commodities em 1992-2001 chegaram a 37% (às vezes 40%) abaixo da média dos anos 1970.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "37 percent (and at times as much as 40 percent) below their average for the 1970s,"
+        }
+      ]
+    },
+    {
+      "fact": "Coeficientes de dívida externa estavam abaixo de 30% do PIB e pouco mais de duas vezes as exportações antes do choque; dobraram em pouco mais de meia década.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "below 30 percent of GDP on"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 4,
+          "quote": "external debt coefficients had doubled"
+        }
+      ]
+    },
+    {
+      "fact": "A dívida latino-americana equivalia a 180% do capital dos nove maiores bancos dos EUA.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "capital of the nine largest US banks"
+        }
+      ]
+    },
+    {
+      "fact": "Transferências líquidas passaram de +2% ou 3% do PIB para cerca de -6% do PIB.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 5,
+          "quote": "percent of GDP (see Figure 5.2)."
+        }
+      ]
+    },
+    {
+      "fact": "Recuperação do PIB per capita: 1937 na Grande Depressão; 1994, quinze anos depois, na crise da dívida.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 6,
+          "quote": "recovery from the debt crisis of the 1980s did not come until 1994, i.e., fifteen"
+        }
+      ]
+    },
+    {
+      "fact": "A participação da América Latina no PIB mundial caiu 1,5 ponto percentual; o PIB per capita encolheu oito pontos em relação aos países industrializados e 23 em relação à média mundial.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "fell by 1.5 percentage points, while its per"
+        }
+      ]
+    },
+    {
+      "fact": "Pobreza de 40,5% para 48,3% da população entre 1980 e 1990.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "(from 40.5 percent to 48.3 percent of the population)."
+        }
+      ]
+    },
+    {
+      "fact": "Hiperinflação em cinco países (Argentina, Bolívia, Brasil, Nicarágua, Peru); inflação mediana quase 40% e média acima de 1.000% em 1990.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "(Argentina, Bolivia, Brazil, Nicaragua, and Peru)."
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "percent and over 1,000 percent, respectively, in 1990, before beginning to subside in"
+        }
+      ]
+    },
+    {
+      "fact": "Cortes de gasto público de pouco mais de cinco pontos do PIB nos anos 1980, mais de um quarto do gasto do governo central.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 10,
+          "quote": "national governments cut public spending by an average of slightly over five"
+        }
+      ]
+    },
+    {
+      "fact": "Cronologia: Baker I em setembro de 1985, Baker II dois anos depois, Brady em março de 1989; NAFTA em 1993; OMC (Marrakesh) em 1993; MERCOSUL em 1991; falha da ALCA depois da Cúpula de Miami (1994).",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 7,
+          "quote": "In September 1985, the crisis entered into a second phase with the"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "The first such trade agreement was the North American Free Trade Agreement"
+        },
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 12,
+          "quote": "creation of MERCOSUR in 1991"
+        }
+      ]
+    },
+    {
+      "fact": "A participação de estatais no PIB não agrícola quase não caiu nos anos 1990, apesar das privatizações.",
+      "refs": [
+        {
+          "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+          "pdf_page": 11,
+          "quote": "owned enterprises in non-agricultural GDP hardly declined at all in the 1990s;"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Inferência minha: classifico o choque Volcker e a queda das commodities como causas e o ciclo de crédito, a fragilidade financeira e o problema de transferência doméstica como transmissores; o texto não usa essa terminologia, e os autores tratam a interação entre choque e políticas internas como a causa de fato (Díaz-Alejandro).",
+    "Objeção ao argumento: os próprios autores reconhecem que déficits externos e fiscais crescentes e a dependência de empréstimos tornavam o modelo vulnerável (\"sword of Damocles\"), então a defesa de que a crise foi principalmente externa é matizada; eles dizem que sem a crise o colapso é improvável, o que é contrafactual.",
+    "Os autores sustentam que as reformas não foram mera imposição externa, mas também reconhecem condicionalidades do FMI e do Banco Mundial e a crise como alavanca; o peso relativo de cada fator fica em aberto.",
+    "O texto não traz, nesta parte, a avaliação final do desempenho pós-reforma (anunciada no fim da introdução para o restante do capítulo); a entrada cobre apenas as páginas 1-12 do arquivo.",
+    "Ano da obra não consta no texto extraído; as referências mais recentes citadas são de 2011.",
+    "OCR com ruído em figuras, tabelas e algumas linhas (por exemplo, palavras quebradas e símbolos soltos); só foram citados trechos legíveis."
+  ],
+  "figures_note": [
+    "Página 3: Figura 5.1 (crescimento do PIB e saldo comercial, % do PIB, por subperíodos) e Tabela 5.1 (formação bruta de capital fixo, % do PIB, médias simples e ponderadas por período e porte de país). A extração traz a tabela com ruído de OCR; consulte o original para os valores exatos.",
+    "Página 4: Figura 5.2 (transferências líquidas de recursos, % do PIB; via IED e fluxos financeiros). Gráfico não capturado; ver o original.",
+    "Página 6: Figura 5.3 (A: juros reais; B: preços reais de commodities não petrolíferas, 1980=100) e Figura 5.4 (dívida externa como % do PIB e das exportações). Gráficos não capturados; ver o original.",
+    "Página 7: Figura 5.5 (comparação das crises dos anos 1930 e 1980: poder de compra das exportações e saldo comercial como % das exportações). Gráfico não capturado.",
+    "Página 8: Figura 5.6 (inflação na América Latina, mediana e média, 18 países). Gráfico não capturado.",
+    "Página 10: Figura 5.7 (finanças do governo central: receita, despesa e saldo fiscal). Gráfico não capturado; o texto resume o corte de gasto de cerca de cinco pontos do PIB."
+  ]
+}

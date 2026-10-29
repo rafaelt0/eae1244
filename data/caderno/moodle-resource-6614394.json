@@ -1,0 +1,1297 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614394",
+  "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+  "lessons": [
+    25
+  ],
+  "authors": [
+    "Jeffry Frieden"
+  ],
+  "title": "Crise e mudança",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "A partir de 1973, a combinação de fim de Bretton Woods, choques do petróleo, estagflação e, depois, do choque de juros de Volcker esgotou o arranjo do pós-guerra nos três mundos: o capitalismo avançado trocou o conflito inflacionário pela ortodoxia financeira, os países em desenvolvimento abandonaram a ISI após a crise da dívida de 1982 e as economias socialistas largaram a planificação. A crise empurrou todas as economias para os mercados domésticos e internacionais, quanto mais tarde quanto maior a transformação, e o fim do século reproduziu o capitalismo global do início dele, com crises financeiras recorrentes.",
+  "question": "Como a crise iniciada em 1973 transformou as economias do capitalismo avançado, do mundo em desenvolvimento (ISI) e do bloco socialista, e que arranjo global emergiu até o fim do século XX?",
+  "argument": [
+    {
+      "claim": "Bloco 1, capitalismo avançado: a partir de 1973 as tensões do pós-guerra chegam ao ápice. O crescimento cai à metade do ritmo do pós-guerra, o desemprego dobra ou triplica, a inflação chega a três ou quatro vezes a média anterior e o barril de petróleo vai de US$3 a US$30. Com o fim de Bretton Woods, as restrições cambiais somem e os governos ficam livres para estimular as economias. A base monetária cresce cerca de 40% (EUA, 1970-73) e 70% (Grã-Bretanha, 1972-73), a produção industrial sobe e os preços de commodities importadas dos países em desenvolvimento dobram entre 1971 e 1973. A inflação já estava em curso antes do petróleo.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 1,
+          "quote": "O crescimento dos países capitalistas avançados desacelerou e por"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 1,
+          "quote": "desemprego dobrou ou triplicou. Na Europa ocidental e na América do"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 1,
+          "quote": "subiu de US$3 para US$30"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 2,
+          "quote": "O colapso de Bretton Woods eliminou as restrições à"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 2,
+          "quote": "Entre 1971 e 1973, os preços"
+        }
+      ]
+    },
+    {
+      "claim": "A Opep, aproveitando-se da falta de substitutos, da concentração das reservas em poucas \"oleogarquias\" e da capacidade de reter o produto, dobra o preço em outubro de 1973 (para mais de US$5) e dobra de novo dois meses depois (quase US$12). Os consumidores industriais, dependentes do petróleo para 50% a 75% da energia, ficam indefesos. O petróleo tem efeito contraditório sobre os preços (encarece insumos, mas reduz a demanda por outros bens). O resultado dependeu da política monetária: com câmbio fixo, os governos teriam contido preços (e aprofundado a recessão); com moedas flutuantes, acomodaram o choque expandindo a base monetária, e o choque virou inflação (cerca de 10% ao ano na OCDE no resto da década). O autor atribui ao petróleo só parte da inflação (algumas avaliações citam 1/4).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "de US$5 pelo barril. Dois meses depois, a organização dobrou os preços"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "Havia poucos substitutos"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "O petróleo supria de 50% a 75% da energia do mundo industrial,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "flutuantes, entretanto, os governos estavam livres para"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "ainda estivesse em vigor, a necessidade de manter a taxa de câmbio fixa"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "Opep, mas algumas avaliações atribuem aos choques do petróleo somente"
+        }
+      ]
+    },
+    {
+      "claim": "Mesmo com estímulo, vem a pior recessão desde os anos 1930 (produção industrial -10% em 1974-75, quebras bancárias como Franklin National e Herstatt). Choque equivalente a um imposto de cerca de 2% do PIB, ampliado pela incerteza. O pânico gera mobilização sindical (greves britânicas, escala móvel italiana, codeterminação alemã, Plano Meidner sueco) e instabilidade eleitoral. Os governos evitam a austeridade por medo dos conflitos de classe e respondem com gasto público, empregos estatais e déficits financiados a juros reais negativos (juros abaixo da inflação). Resultado: estagflação, um segundo choque do petróleo em 1979-80 e colapso político do consenso centrista (queda de Callaghan, Thatcher, derrota de Carter).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "pior recessão desde a década de 1930. Em 1974 e 1975, a produção"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "Os sindicatos italianos impuseram a adoção de uma"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "alemão concedeu aos trabalhadores influência direta nas decisões"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 6,
+          "quote": "Na Suécia, em 1975, os sociais-democratas apresentaram o Plano"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 6,
+          "quote": "Apesar da inflação galopante, os governos evitavam as medidas austeras"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "juros abaixo da inflação"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 8,
+          "quote": "do pós-guerra lutava agonizante."
+        }
+      ]
+    },
+    {
+      "claim": "Bloco 2, ISI e países em desenvolvimento: os choques do petróleo encarecem as importações, a estagnação ocidental reduz a demanda por exportações e o ritmo de industrialização por ISI é mantido com crédito externo. Petrodólares reciclados pelos bancos financiam importadores de petróleo e investimento industrial (Brasil, Coreia, México). A dívida dos países em desenvolvimento chega a US$750 bilhões, 75% com credores privados.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "deviam US$750 bilhões no exterior, 75% a financiadores privados"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "totalizavam US$200 bilhões entre 1974 e 1980, em parte para pagar pelo"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 10,
+          "quote": "exportadores provocaram um aumento dos conflitos comerciais na OCDE."
+        }
+      ]
+    },
+    {
+      "claim": "O contrachoque de Volcker (agosto de 1979) eleva os juros de curto prazo de cerca de 10% a mais de 20%, mantidos até o fim de 1982. Isso derruba a inflação para menos de 4% por duas décadas, mas custa duas recessões, desemprego perto de 11% e queda dos salários reais; desloca o equilíbrio de forças para os investidores. Os juros altos se espalham pela OCDE, e governos de esquerda (França, 1983) se alinham pelo SME e pela austeridade.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "cerca de 10% para 15% e, finalmente, para mais de 20%. Manteve os juros"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "quase 11%. Contudo, o choque de Volcker trouxe a inflação para menos de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "A partir de 1979, a política favoreceu fortemente a comunidade"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "dois anos de conflito, o governo socialista francês optou pelo SME e pela"
+        }
+      ]
+    },
+    {
+      "claim": "Para o Terceiro Mundo, a política dos EUA combina três choques: juros (dívida indexada aos juros americanos; +1% custa US$4-5 bilhões/ano), petróleo de 1979-80 e recessão da OCDE. Em 1982 o México declara falta de caixa e o crédito privado seca; a crise da dívida se autoalimenta, como pânico bancário. O padrão de renegociação passa pelo FMI e por programas de ajuste.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "No verão de 1982 o carrossel parou. O México anunciou que estava sem"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "a crise da dívida da década de 1980 se autoalimentava"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "O FMI e o devedor acordariam"
+        }
+      ]
+    },
+    {
+      "claim": "Consequências da crise: década perdida na América Latina (renda por pessoa -10%, salários reais -30% ou mais, inflação acima de 1.000%), onda de democratização e abandono da ISI pelos mais endividados, que liberalizam o comércio, desregulam bancos, privatizam e integram-se aos mercados mundiais.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "Para a América Latina, 1980 foi a década perdida: a"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "O segundo resultado da crise foi o abandono do processo de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "comércio, desregulamentaram as atividades bancárias, privatizaram"
+        }
+      ]
+    },
+    {
+      "claim": "Bloco 3, socialismo: a crise do fim dos anos 1970 e início dos 1980 provoca o colapso da planificação. China e Vietnã começam em 1979 por reforma agrícola (retorno à propriedade familiar), que expande o mercado a uma população 80% rural e gera empreendimentos não agrícolas e exportações. Na URSS, a estagnação e o sucesso chinês forçam Gorbatchev (1985) a reformar; segue a saída pacífica dos comunistas do Leste europeu, 1989 e o colapso soviético em 1991.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 17,
+          "quote": "Cerca de 80% da economia desses países era rural."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "Polônia, depois a Hungria e o resto do Comecon, deixaram o poder"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+        }
+      ]
+    },
+    {
+      "claim": "Síntese comparativa: a crise empurrou todas as economias para mercados domésticos e internacionais, e a mudança foi mais tardia quanto maior a transformação (OCDE 1979-85; países em desenvolvimento a partir de cerca de 1985; socialistas, exceto China e Vietnã, depois de 1990).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "dos mercados domésticos e internacionais; quanto maior a transformação,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "aproximadamente, os países em desenvolvimento deixaram para trás 50"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "As economias socialistas (com a exceção de China e"
+        }
+      ]
+    },
+    {
+      "claim": "Globalismo na OCDE: vencida a inflação, vêm os déficits (EUA: dívida federal de 33% a 66% do PIB, 1981-93; déficits de 3-4% do PIB nos grandes países e até 11% em Grécia e Itália), com raízes políticas (cortes de impostos populares, gasto militar) e viabilizados pela substituição da política monetária pela fiscal e pelo enorme pool de capital internacional. O dólar forte (+50% em cinco anos) arruína a indústria americana; nos anos 1990 os déficits são reduzidos.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "de menos de US$1 trilhão para mais de US$4 trilhões em 12 anos."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "Os déficits da era Reagan-Bush tiveram raízes políticas claras. As"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 21,
+          "quote": "monetária ativa veio acompanhado de uma maior utilização da política"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 23,
+          "quote": "Isso fez com que o valor do dólar aumentasse 50% em apenas cinco anos. O"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 24,
+          "quote": "industrial ainda gastava mais de 40% do PIB; mas os déficits orçamentários"
+        }
+      ]
+    },
+    {
+      "claim": "Regionalismo e liberalização: UE (Ato Único de 1986, Maastricht, euro em 1999), Nafta (1994) e Mercosul (1994) como plataformas de competição mundial, seguidos pela Rodada do Uruguai e pela OMC (1994). A integração financeira cria um sistema global que inclui os \"mercados emergentes\".",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 25,
+          "quote": "1999, o novo Banco Central europeu introduziu uma moeda comum – o"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 26,
+          "quote": "marcou a vitória definitiva daqueles"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mercados emergentes, com o mesmo apelo que teria um novo produto"
+        }
+      ]
+    },
+    {
+      "claim": "Crises financeiras dos anos 1990: quem está ligado aos mercados mundiais fica exposto ao julgamento dos investidores. Crise do SME (1992, após juros alemães altos), México (1994, peso fixo no dólar e dívidas em dólar) e Leste Asiático (1997, entrada de capital de US$50 bilhões por ano revertida em saída de US$230 bilhões), com contágio a Rússia e Brasil e pacotes de emergência de dezenas a centenas de bilhões. Conclusão: o fim do século reproduz o início, com globalização reintegrada.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mundiais eram mais suscetíveis às forças financeiras internacionais. Afinal,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "prever que a Grã-Bretanha e a Itália não mais manteriam suas moedas fixas"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "de mais de US$230 bilhões entre 1997 e 1999. Os preços das ações"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "capitalismo global do início do século."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Liberação da política doméstica com o fim de Bretton Woods: sem a restrição do câmbio fixo, governos expandiram a base monetária (EUA +40% em 1970-73; Grã-Bretanha cerca de +70% em 1972-73) e geraram inflação e boom de commodities antes do choque do petróleo.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 2,
+          "quote": "O colapso de Bretton Woods eliminou as restrições à"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 2,
+          "quote": "Entre 1971 e 1973, os preços"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Choque da Opep (1973 e 1979-80): quadruplicação do preço em 1973-74 e nova triplicação em 1979-80, possível por falta de substitutos, concentração das reservas no Golfo e capacidade de reter oferta; funcionou como um imposto de cerca de 2% do PIB sobre os industrializados.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "Havia poucos substitutos"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "de petróleo de cerca de 2% do PIB dos países industrializados.3 Mas o"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "A Opep decretou um aumento que praticamente triplicou o preço"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Câmbio flutuante como transmissor do choque do petróleo para preços: com Bretton Woods os governos teriam sido forçados a conter preços; com moedas flutuantes acomodaram o aumento via expansão monetária, transformando o choque em inflação.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "flutuantes, entretanto, os governos estavam livres para"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "ainda estivesse em vigor, a necessidade de manter a taxa de câmbio fixa"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Conflito distributivo e medo de austeridade: sindicatos defendem salários e ganham influência (escala móvel, codeterminação, Plano Meidner); governos evitam combater a inflação por receio de recessão e conflito e preferem gastar e se endividar a juros reais negativos. O consenso centrista do pós-guerra se desfaz.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "Os sindicatos italianos impuseram a adoção de uma"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 6,
+          "quote": "Apesar da inflação galopante, os governos evitavam as medidas austeras"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "juros abaixo da inflação"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Reciclagem dos petrodólares: excedentes da Opep (cerca de US$150 bilhões em 1974-80) depositados em bancos internacionais voltam como empréstimo aos países em desenvolvimento, que financiam o petróleo e a industrialização; financiamento externo sustenta a ISI.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "gastar e grande parte desse montante – cerca de US$150 bilhões entre 1974"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "totalizavam US$200 bilhões entre 1974 e 1980, em parte para pagar pelo"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Choque de Volcker como escolha política que favorece investidores: juros reais de curto prazo vão de perto de zero (ou negativos) a 10%, a inflação cai e os retornos do capital sobem, à custa de salários e emprego. Reação de governos de direita (Thatcher, Reagan) e adesão forçada de governos de esquerda.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "O choque econômico de Volcker forçou a alta das taxas de juros reais"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "equilíbrio de forças na direção dos investidores. A inflação e as taxas de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "Altas taxas de juros e política de inflação baixa em geral estavam"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Transmissão dos juros dos EUA ao resto do mundo: capital flui para onde o retorno é maior, então outros países seguem os juros americanos ou aceitam desvalorização e inflação; no SME, o vínculo ao marco alemão transmite a austeridade. Para devedores do Terceiro Mundo, a dívida indexada aos juros americanos converte a alta em custo direto.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "investidores não comprariam títulos alemães a 7%, enquanto os títulos do"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "Sistema Monetário Europeu (SME), que atrelava as moedas ao marco"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "Estados Unidos custava aos devedores do Terceiro Mundo US$4 bilhões ou"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Crise da dívida de 1982: soma de juros altos, petróleo de 1979-80 e recessão da OCDE (menor demanda por exportações), com aumento da necessidade de crédito justamente quando ele escasseava; dinâmica autorreforçada de pânico (emprestadores recuam, devedores deixam de pagar, emprestadores recuam mais).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "aumento nas taxas de juros, alta dos preços do petróleo e recessão na OCDE"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "a crise da dívida da década de 1980 se autoalimentava"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Abandono da ISI e liberalização forçada: sem crédito, os governos não podem rolar déficits nem manter subsídios industriais, e precisam gerar divisas para o serviço da dívida. Padrão credor-FMI condiciona ajuste. A crise também desacredita governos autoritários (democratização).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "O segundo resultado da crise foi o abandono do processo de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "também pode ter resultado da reação do povo, dos empresários e da"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "O FMI e o devedor acordariam"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Estagnação socialista e contraste com a China: reformas de mercado a partir da agricultura (China e Vietnã, 1979) geram crescimento rápido; a URSS estagna e, pressionada pela comparação (e pela rivalidade militar), tenta reformar com Gorbatchev e acaba por colapsar.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 17,
+          "quote": "Cerca de 80% da economia desses países era rural."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Déficits da era Reagan-Bush: raízes na política eleitoral (cortes de impostos populares entre eleitores ricos, gasto militar defendido por regiões dependentes de defesa) e na estratégia de alguns conservadores de limitar programas pelo déficit.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "Os déficits da era Reagan-Bush tiveram raízes políticas claras. As"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "acreditavam que os cortes de impostos se pagariam na forma de uma taxa"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Mercados financeiros globais como transmissor e facilitador: o pool internacional de capital permite financiar déficits sem elevar juros internos (EUA tornam-se devedor líquido em 1988), mas também impõe disciplina e propaga crises cambiais (SME 1992, México 1994, Ásia 1997) com contágio.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "de um grande pool de capitais estrangeiros, e os gastos deficitários não"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "tornaram devedores líquidos do resto do mundo"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 29,
+          "quote": "globo em minutos, as avaliações dos investidores sobre a credibilidade de"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Integração regional como estratégia de competição global e como etapa para a liberalização mais ampla (UE, Nafta, Mercosul, depois Rodada do Uruguai e OMC).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 24,
+          "quote": "Esse consenso transpunha ideologias e era liderado pelo"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 26,
+          "quote": "Com a integração regional funcionando como uma sala de espera para"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 27,
+          "quote": "A OMC, diferentemente do Gatt, é um"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Crises cambiais dos anos 1990: câmbio fixo (ao marco, ao dólar) sustentado por políticas que o mercado julga inconsistentes; apostas de especuladores em via única, saída de capitais e desvalorização. No México e na Ásia, dívidas em moeda estrangeira de bancos e empresas amplificam a crise bancária; na Ásia, parte do capital foi para imóveis e finanças e as exportações perderam rentabilidade (leitura do autor).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "bancos e empresas tomavam grandes empréstimos em dólar, mas sua"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "a se concentrar em imóveis, comércio e em finanças propriamente ditas."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "escolha difícil aos governos europeus: continuarem membros do bloco do"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Capitalismo avançado (OCDE: EUA, Grã-Bretanha, França, Alemanha, Itália, Suécia)",
+      "period": "1973-1983",
+      "outcome": "Estagflação, recessão 1974-75, expansão do Estado (gasto de 33% para 42% do PIB em média em um país industrial, 1971-83), déficits e polarização; depois conversão à ortodoxia financeira entre 1979 e 1985.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "representavam em média 33% da economia, passou a gastar 42%, e os"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "avançados deixaram a conflituosa e tumultuada década de 1970 rumo à"
+        }
+      ]
+    },
+    {
+      "name": "Países da Opep",
+      "period": "1960-1980",
+      "outcome": "Criação da Opep em 1960; preço quadruplicado em 1973-74 e quase triplicado em 1979-80; excedentes reciclados como petrodólares.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 2,
+          "quote": "Organização dos Países"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "de US$5 pelo barril. Dois meses depois, a organização dobrou os preços"
+        }
+      ]
+    },
+    {
+      "name": "EUA sob Volcker, Thatcher e Reagan",
+      "period": "1979-1993",
+      "outcome": "Juros acima de 20% por quase três anos; inflação abaixo de 4% por 20 anos; salários reais em 1993 15% abaixo de 1978; déficits e dívida federal de 33% para 66% do PIB.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "quase 11%. Contudo, o choque de Volcker trouxe a inflação para menos de"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "1993, estavam 15% abaixo dos níveis de 1978"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "de menos de US$1 trilhão para mais de US$4 trilhões em 12 anos."
+        }
+      ]
+    },
+    {
+      "name": "França e Itália (esquerda no governo diante do SME)",
+      "period": "1981-1985",
+      "outcome": "Governo socialista francês opta pelo SME e pela austeridade em 1983; a Itália o segue em 1985.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "dois anos de conflito, o governo socialista francês optou pelo SME e pela"
+        }
+      ]
+    },
+    {
+      "name": "América Latina, Brasil e México (ISI e crise da dívida)",
+      "period": "1973-1990",
+      "outcome": "Endividamento (US$300 bilhões em 1981), parada de empréstimos em 1982, década perdida, democratização e abandono da ISI.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "Latina tomou US$50 bilhões somente em 1981, quando a região devia"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "No verão de 1982 o carrossel parou. O México anunciou que estava sem"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "Para a América Latina, 1980 foi a década perdida: a"
+        }
+      ]
+    },
+    {
+      "name": "NICs e Coreia do Sul (exportadores de manufaturados)",
+      "period": "1967-1981",
+      "outcome": "Os doze grandes tomadores aumentaram as exportações de manufaturados de US$15 bilhões para US$190 bilhões, gerando conflitos comerciais na OCDE.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 10,
+          "quote": "exportadores provocaram um aumento dos conflitos comerciais na OCDE."
+        }
+      ]
+    },
+    {
+      "name": "China e Vietnã",
+      "period": "1979-1988",
+      "outcome": "Reforma agrícola e empreendimentos de mercado; renda camponesa dobrada em menos de cinco anos; exportações chinesas de menos de US$10 bilhões para quase US$50 bilhões (1978-88); produto por pessoa dobra em dez anos.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 17,
+          "quote": "e a renda real da família camponesa média havia dobrado"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "passaram de menos de US$10 bilhões para quase US$50 bilhões e sua"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "internacional, o produto por pessoa dobrava."
+        }
+      ]
+    },
+    {
+      "name": "União Soviética e Leste europeu",
+      "period": "1982-1991",
+      "outcome": "Estagnação (produto por pessoa +7% em dez anos), perestroika e glasnost, saída pacífica dos comunistas (exceto Romênia), queda do Muro em 1989 e colapso da URSS em 1991.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+        }
+      ]
+    },
+    {
+      "name": "União Europeia, Nafta e Mercosul",
+      "period": "1986-1999",
+      "outcome": "Mercado único (1986-92), Maastricht (1991), euro (1999); Nafta em 1994; Mercosul em 1994; OMC em 1994.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 24,
+          "quote": "Os membros da UE aprovaram então o Ato Único Europeu em 1986 e,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 26,
+          "quote": "Cinco anos mais tarde, o México se uniu a eles e, em 1994, o Tratado"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 26,
+          "quote": "Entre 1985 e 1990, Brasil e Argentina negociaram"
+        }
+      ]
+    },
+    {
+      "name": "Crise do SME (Grã-Bretanha, Itália, Suécia e outros)",
+      "period": "1992",
+      "outcome": "Juros alemães altos pós-reunificação; ataques especulativos; Grã-Bretanha e Itália desvalorizam; recuperação rápida após desvincular-se da política alemã.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 29,
+          "quote": "a temer que os pesados gastos estatais da parte oriental pudessem levar o"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "A crise europeia não durou muito, e as economias da região se"
+        }
+      ]
+    },
+    {
+      "name": "México (efeito tequila)",
+      "period": "1994-1995",
+      "outcome": "Peso fixo ao dólar, desvalorização em dezembro de 1994 (de cerca de 30 para 15 centavos de dólar), crise bancária, queda de 6% da produção e inflação acima de 50%; socorro com dezenas de bilhões.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "O peso despencou no espaço de um mês, de 30"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "produção e alta da inflação, que chegou a mais 50%."
+        }
+      ]
+    },
+    {
+      "name": "Leste Asiático (Tailândia, Indonésia, Malásia, Coreia)",
+      "period": "1997-1999",
+      "outcome": "Reversão de entrada de US$50 bilhões/ano em saída de mais de US$230 bilhões; moedas caem 40% a 80%; economias da Indonésia, Tailândia e Malásia encolhem 15%, 10% e 8%.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "Semanas após o choque inicial, as moedas de Coreia, Filipinas e"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "economias de Indonésia, Tailândia e Malásia encolheram 15%, 10% e 8%,"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Estagflação",
+      "definition": "Combinação de estagnação e inflação: desemprego e preços altos ao mesmo tempo (nota de rodapé do texto).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 6,
+          "quote": "estagflaçãoa, uma palavra feia para uma realidade desagradável."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "Termo utilizado pela macroeconomia moderna que une as palavras estagnação e inflação para se"
+        }
+      ]
+    },
+    {
+      "term": "Taxas de juros reais negativas",
+      "definition": "Juros nominais abaixo da inflação, que tornaram o endividamento público quase gratuito nos anos 1970 e prejudicaram os investidores.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "juros abaixo da inflação"
+        }
+      ]
+    },
+    {
+      "term": "Petrodólares",
+      "definition": "Excedentes em dólares da Opep depositados em bancos internacionais e emprestados a países em desenvolvimento.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "gastar e grande parte desse montante – cerca de US$150 bilhões entre 1974"
+        }
+      ]
+    },
+    {
+      "term": "Países recém-industrializados (NICs)",
+      "definition": "Países em desenvolvimento mais avançados que continuaram investindo em indústria com empréstimos externos.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "Os NICs tomaram dezenas de bilhões ao ano de"
+        }
+      ]
+    },
+    {
+      "term": "Choque de Volcker",
+      "definition": "Elevação dos juros pelo Federal Reserve a partir de 1979 para derrubar a inflação, com alto custo em emprego e salários.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "cerca de 10% para 15% e, finalmente, para mais de 20%. Manteve os juros"
+        }
+      ]
+    },
+    {
+      "term": "Sistema Monetário Europeu (SME)",
+      "definition": "Arranjo em que moedas europeias foram atreladas ao marco alemão, transmitindo a política monetária alemã.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 11,
+          "quote": "criaram o Sistema Monetário Europeu (SME) para administrar suas moedas"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "Sistema Monetário Europeu (SME), que atrelava as moedas ao marco"
+        }
+      ]
+    },
+    {
+      "term": "Década perdida",
+      "definition": "Os anos 1980 na América Latina, com queda de renda por pessoa e salários reais e inflação altíssima.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "Para a América Latina, 1980 foi a década perdida: a"
+        }
+      ]
+    },
+    {
+      "term": "Planificação x mercado nos países socialistas",
+      "definition": "Abandono do planejamento central em favor do mercado, começando por China e Vietnã (1979) e chegando ao Leste europeu e à URSS depois de 1985-90.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "As economias socialistas (com a exceção de China e"
+        }
+      ]
+    },
+    {
+      "term": "Globalismo / globalização",
+      "definition": "Aceitação geral dos mercados globais de bens e capitais, com comércio e finanças integrados.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mercados emergentes, com o mesmo apelo que teria um novo produto"
+        }
+      ]
+    },
+    {
+      "term": "Mercados emergentes",
+      "definition": "Antigos países pobres, em desenvolvimento ou de planificação central, agora tratados como produto de carteira de investidores internacionais.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 28,
+          "quote": "mercados emergentes, com o mesmo apelo que teria um novo produto"
+        }
+      ]
+    },
+    {
+      "term": "Déficit orçamentário e política fiscal x monetária",
+      "definition": "Os instrumentos podem se substituir; quando a política monetária deixa de ser ativa, cresce o uso da política fiscal.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 21,
+          "quote": "as políticas fiscal e monetária podem substituir uma à"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 21,
+          "quote": "monetária ativa veio acompanhado de uma maior utilização da política"
+        }
+      ]
+    },
+    {
+      "term": "Efeito tequila",
+      "definition": "Contágio da crise mexicana de 1994-95, sentido em toda a América Latina, que entrou em recessão.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "América Latina, que mergulhou numa recessão."
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Preço do barril: de US$3 a US$30 no período; mais de US$5 e quase US$12 em 1973; US$33 (mercado aberto acima de US$40) em 1979-80.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 1,
+          "quote": "subiu de US$3 para US$30"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 3,
+          "quote": "de US$5 pelo barril. Dois meses depois, a organização dobrou os preços"
+        }
+      ]
+    },
+    {
+      "fact": "Inflação ao consumidor em 1974: cerca de 12% (EUA), 14% (França), 16% (Grã-Bretanha), 23% (Japão).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 4,
+          "quote": "aproximadamente 12% nos Estados Unidos; 14% na"
+        }
+      ]
+    },
+    {
+      "fact": "Produção industrial caiu cerca de 10% em 1974-75; o choque equivaleu a um imposto de cerca de 2% do PIB.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 5,
+          "quote": "pior recessão desde a década de 1930. Em 1974 e 1975, a produção"
+        }
+      ]
+    },
+    {
+      "fact": "Gasto público em um país industrial de 33% para 42% do PIB (1971-83); Suécia de 45% para 66%.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "representavam em média 33% da economia, passou a gastar 42%, e os"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "aumentos foram ainda maiores em alguns países – de 45% para 66% do PIB"
+        }
+      ]
+    },
+    {
+      "fact": "Em 1974 preços ao consumidor subiram 12% nos EUA e o Tesouro pagava menos de 8% (títulos de seis meses).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 7,
+          "quote": "enquanto os preços para os consumidores cresceram 12%, o Tesouro"
+        }
+      ]
+    },
+    {
+      "fact": "Importações de petróleo: primeiro choque somou cerca de US$30 bilhões e o segundo quase US$50 bilhões à conta dos países em desenvolvimento não Opep.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "somou cerca de US$30 bilhões à conta de importação dos países em"
+        }
+      ]
+    },
+    {
+      "fact": "Dívida: América Latina com US$300 bilhões em 1981 e países em desenvolvimento com US$750 bilhões, 75% com credores privados.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 9,
+          "quote": "deviam US$750 bilhões no exterior, 75% a financiadores privados"
+        }
+      ]
+    },
+    {
+      "fact": "Exportações de manufaturados dos doze maiores tomadores: US$15 bilhões para US$190 bilhões (1967-81).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 10,
+          "quote": "exportadores provocaram um aumento dos conflitos comerciais na OCDE."
+        }
+      ]
+    },
+    {
+      "fact": "Ouro acima de US$300 a onça no verão de 1979 e acima de US$800 no inverno, 20 vezes o preço de Bretton Woods; dólar caiu cerca de 30% frente ao iene e ao marco.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 11,
+          "quote": "US$300 a onça, no verão de 1979, e para mais de US$800 no inverno – 20"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 11,
+          "quote": "30% em relação ao iene e ao marco alemão"
+        }
+      ]
+    },
+    {
+      "fact": "Volcker: juros de curto prazo de cerca de 10% para mais de 20%; desemprego perto de 11%; inflação abaixo de 4% por 20 anos.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "cerca de 10% para 15% e, finalmente, para mais de 20%. Manteve os juros"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 12,
+          "quote": "quase 11%. Contudo, o choque de Volcker trouxe a inflação para menos de"
+        }
+      ]
+    },
+    {
+      "fact": "Salários reais americanos: queda de mais de 10% entre 1978 e 1982 e 15% abaixo do nível de 1978 em 1993.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "caíram mais de 10% entre 1978 e 1982"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 13,
+          "quote": "1993, estavam 15% abaixo dos níveis de 1978"
+        }
+      ]
+    },
+    {
+      "fact": "Cada 1% a mais nos juros americanos custava US$4-5 bilhões por ano aos devedores do Terceiro Mundo; juros reais da dívida dos LDCs foram a 6% em 1981 e 8% em 1982.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 14,
+          "quote": "Estados Unidos custava aos devedores do Terceiro Mundo US$4 bilhões ou"
+        }
+      ]
+    },
+    {
+      "fact": "Fluxo líquido para a América Latina: +US$20 bilhões em 1981 e -US$20 bilhões em 1983; metade das receitas de exportação usada no serviço da dívida; 34 países renegociando até 1983.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "Em 1981, na América Latina, entraram US$20 bilhões a"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 15,
+          "quote": "América Latina estava gastando aproximadamente metade dos seus ganhos"
+        }
+      ]
+    },
+    {
+      "fact": "Década perdida: renda por pessoa -10%, salários reais ao menos -30%, inflação acima de 1.000% em muitos países; em 1980 havia dois governos civis eleitos na América do Sul e em 1990 nenhum ditador.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "renda por pessoa caiu cerca de 10%; os salários reais, pelo menos 30%; e os"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 16,
+          "quote": "civis eleitos na América do Sul; até 1990, não havia restado nenhum"
+        }
+      ]
+    },
+    {
+      "fact": "China: exportações de menos de US$10 bilhões para quase US$50 bilhões e dívida externa de menos de US$1 bilhão para US$42 bilhões (1978-88); produto por pessoa +30% em 1958-78 e dobrado nos dez anos seguintes.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "passaram de menos de US$10 bilhões para quase US$50 bilhões e sua"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "o produto por pessoa havia crescido mais de 30%. Nos dez anos"
+        }
+      ]
+    },
+    {
+      "fact": "URSS: produto por pessoa +75% em 1958-78 e apenas +7% nos dez anos seguintes.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "O produto por pessoa soviético cresceu 75% entre 1958 e 1978,"
+        }
+      ]
+    },
+    {
+      "fact": "EUA: dívida federal de 33% do PIB em 1981 para 66% em 1993; déficits médios perto de US$200 bilhões ao ano (mais de 3% do PIB).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 20,
+          "quote": "a dívida federal como percentual do PIB, de 33% em 1981 para 66% em"
+        }
+      ]
+    },
+    {
+      "fact": "Capital offshore: US$160 bilhões em 1973 (empréstimos de US$35 bilhões/ano), US$1,5 trilhão no início dos anos 1980 e mais de US$5 trilhões no início dos anos 1990.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "(offshore) era de US$160 bilhões, sendo que uns US$35 bilhões eram"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 22,
+          "quote": "internacionais estavam cerca de dez vezes maiores, com US$1,5 trilhão, e"
+        }
+      ]
+    },
+    {
+      "fact": "Indústria americana: exportações de 26% para 18% da produção e importações de 20% para 32% do consumo entre 1980 e 1985; dólar +50% em cinco anos.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 23,
+          "quote": "exportava 26% do que produzia, enquanto 20% dos bens manufaturados"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 23,
+          "quote": "32% do consumo – um déficit de 14% do PIB. Em cinco anos, a"
+        }
+      ]
+    },
+    {
+      "fact": "Crise da poupança e crédito nos EUA exigiu pelo menos US$200 bilhões do contribuinte.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 29,
+          "quote": "exigindo um aporte de pelo menos US$200 bilhões em dinheiro do"
+        }
+      ]
+    },
+    {
+      "fact": "Crise do SME em 1992: o Banco Central sueco levou os juros a 500% sem sustentar o vínculo.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "– em um determinado ponto, o Banco Central sueco levou as taxas de juros"
+        }
+      ]
+    },
+    {
+      "fact": "México: peso de cerca de 30 para 15 centavos de dólar; dívida de US$1 milhão passou de 3,3 para 6,6 milhões de pesos; mais de US$30 bilhões de investimento estrangeiro em 1993.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 31,
+          "quote": "O peso despencou no espaço de um mês, de 30"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 30,
+          "quote": "economia crescia acelerada e captou investimentos estrangeiros de mais de"
+        }
+      ]
+    },
+    {
+      "fact": "Ásia 1997: dívida externa da Tailândia de US$30 para US$90 bilhões e da Indonésia de US$25 para US$50 bilhões; moedas caíram cerca de 40% a 80%.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "Tailândia triplicou, de cerca de US$30 bilhões para US$90 bilhões nos três"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 32,
+          "quote": "Malásia tinham caído cerca de 40%, a da Tailândia, aproximadamente 50%,"
+        }
+      ]
+    },
+    {
+      "fact": "Pacotes de socorro: mais de US$50 bilhões ao México (1995), quase US$120 bilhões a Indonésia, Coreia e Tailândia (1997-98) e US$170 bilhões a Rússia e Brasil (1998-99).",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "US$50 bilhões para o México, em 1995; quase US$120 bilhões para as três"
+        }
+      ]
+    },
+    {
+      "fact": "Comércio duas vezes mais importante para as economias nacionais no fim do século do que na virada do século anterior.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 33,
+          "quote": "comércio havia se tornado duas vezes mais importante para as economias"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Texto de síntese histórica (capítulo de livro), sem apresentação formal de modelo ou testes; as relações causais são narrativas do autor. O ano da obra não consta no texto extraído.",
+    "Inferência minha (não afirmada pelo autor): a classificação dos mecanismos como cause, transmitter ou political_economy é feita para a prova; o autor não usa essas categorias.",
+    "O autor admite que o petróleo explica só parte da inflação (algumas avaliações dão 1/4) e que a inflação já acelerava com a expansão monetária de 1970-73; evitar atribuir a estagflação só à Opep.",
+    "O autor oferece democratização como efeito da crise da dívida de forma cautelosa (\"pode ter resultado\", \"até certo ponto\"); não é tese firme.",
+    "A sequência OCDE (1979-85), países em desenvolvimento (cerca de 1985) e socialistas (depois de 1990) é uma generalização; China e Vietnã são exceções e começam em 1979, e a crise do SME e a reforma chinesa não encaixam sem ressalvas.",
+    "Objeção ao autor (inferência minha): as crises dos anos 1990 sugerem que a globalização financeira gera instabilidade própria, e o capítulo descreve mas não explica por que alguns países sofreram crises bancárias e outros não (México e Ásia x Europa).",
+    "O texto trata da América Latina como bloco; diferenças entre países (Brasil, México) aparecem só em exemplos. Para a Ásia, o autor contrasta 'ortodoxia financeira' da região com a crise, o que relativiza a ideia de que a boa política basta.",
+    "Sem OCR ruidoso relevante: as 34 páginas foram extraídas de forma legível; apenas as notas numeradas (sobrescritos) aparecem coladas ao texto, e algumas aspas curvas aparecem nas citações."
+  ],
+  "figures_note": [
+    "O capítulo não tem tabelas ou gráficos na extração; todos os dados estão no texto corrido.",
+    "Página 21: citações em bloco de Paul Volcker e de David Stockman (recuo de parágrafo), úteis para consulta no original; página 32: citação em bloco de Joseph Stiglitz sobre a mecânica da especulação contra o baht.",
+    "Páginas 33-34: notas de rodapé (estagflação, taxa marginal, Mercosul/Venezuela) aparecem no fim; as notas numeradas de fonte (1-20) não vêm listadas no texto extraído."
+  ]
+}

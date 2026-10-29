@@ -1,0 +1,1353 @@
+{
+  "captured_at": "2026-10-28T19:19:55.115Z",
+  "course_url": "https://edisciplinas.usp.br/course/view.php?id=142088",
+  "resources": [
+    {
+      "kind": "syllabus",
+      "label": "Programa da disciplina",
+      "lessons": [],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6483108",
+      "section_id": "section-0",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483108"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 1 - Broadberry e O'Rourke",
+      "lessons": [
+        2,
+        3
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6483118",
+      "section_id": "section-2",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483118"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 2 - Meissner cap 3",
+      "lessons": [
+        2,
+        3
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483200",
+          "text": "Texto 2 - Meissner cap 3"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6483200",
+      "section_id": "section-2",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483200"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        2,
+        3
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6523468",
+      "section_id": "section-2",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6523468"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 1",
+      "lessons": [
+        4,
+        5
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6508650",
+      "section_id": "section-3",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6508650"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 2",
+      "lessons": [
+        4,
+        5
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6508657",
+      "section_id": "section-3",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6508657"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        4,
+        5
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6540000",
+      "section_id": "section-3",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540000"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 1 - obrigatorio",
+      "lessons": [
+        6,
+        7
+      ],
+      "reading_instructions": [],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6540579",
+      "section_id": "section-4",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540579"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 2- obrigatorio",
+      "lessons": [
+        6,
+        7
+      ],
+      "reading_instructions": [],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6540581",
+      "section_id": "section-4",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540581"
+    },
+    {
+      "kind": "reading",
+      "label": "textos complementares",
+      "lessons": [
+        6,
+        7
+      ],
+      "reading_instructions": [],
+      "requirement": "complementary",
+      "resource_id": "moodle-resource-6540586",
+      "section_id": "section-4",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540586"
+    },
+    {
+      "kind": "slides",
+      "label": "slides aulas 6 a 8",
+      "lessons": [
+        6,
+        7
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6559925",
+      "section_id": "section-4",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6559925"
+    },
+    {
+      "kind": "reading",
+      "label": "texto obrigatório - ler até p. 107",
+      "lessons": [
+        8
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540644",
+          "text": "texto obrigatório - ler até p. 107"
+        }
+      ],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6540644",
+      "section_id": "section-5",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540644"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 1 - obrigatório",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6560677",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560677"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 2 obrigatório",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6560679",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560679"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 3 - desemprego - obrigatório",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "required",
+      "resource_id": "moodle-resource-6560680",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560680"
+    },
+    {
+      "kind": "reading",
+      "label": "texto complementar - Ben Bernanke",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "complementary",
+      "resource_id": "moodle-resource-6560683",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560683"
+    },
+    {
+      "kind": "reading",
+      "label": "texto complementar 2 - Eichengreen",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "complementary",
+      "resource_id": "moodle-resource-6560684",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560684"
+    },
+    {
+      "kind": "slides",
+      "label": "slides GD",
+      "lessons": [
+        9,
+        10
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6582096",
+      "section_id": "section-6",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6582096"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 1",
+      "lessons": [
+        11,
+        12
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6577573",
+      "section_id": "section-7",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577573"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 2 -- frieden cap 9 e 10",
+      "lessons": [
+        11,
+        12
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577579",
+          "text": "texto 2 -- frieden cap 9 e 10"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6577579",
+      "section_id": "section-7",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577579"
+    },
+    {
+      "kind": "slides",
+      "label": "slides Recuperação GD",
+      "lessons": [
+        11,
+        12
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6585396",
+      "section_id": "section-7",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6585396"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 1 -Berend cap 3",
+      "lessons": [
+        13,
+        14
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577583",
+          "text": "Texto 1 -Berend cap 3"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6577583",
+      "section_id": "section-8",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577583"
+    },
+    {
+      "kind": "reading",
+      "label": "Texto 2 - tortella trechos selecionados",
+      "lessons": [
+        13,
+        14
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577584",
+          "text": "Texto 2 - tortella trechos selecionados"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6577584",
+      "section_id": "section-8",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577584"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        13,
+        14
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6593296",
+      "section_id": "section-8",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6593296"
+    },
+    {
+      "kind": "exam",
+      "label": "Prova parcial - instruções (correta - USEM ESSE DOC)",
+      "lessons": [
+        15,
+        16
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6597714",
+      "section_id": "section-9",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6597714"
+    },
+    {
+      "kind": "reading",
+      "label": "texto 2 G.M.",
+      "lessons": [
+        17
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6577587",
+      "section_id": "section-10",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577587"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        17
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6604666",
+      "section_id": "section-10",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6604666"
+    },
+    {
+      "kind": "reading",
+      "label": "Eichengreen cap 2 - monetary role of gold",
+      "lessons": [
+        18,
+        19
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601122",
+          "text": "Eichengreen cap 2 - monetary role of gold"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6601122",
+      "section_id": "section-11",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601122"
+    },
+    {
+      "kind": "reading",
+      "label": "Frieden - fim BW",
+      "lessons": [
+        18,
+        19
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6601124",
+      "section_id": "section-11",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601124"
+    },
+    {
+      "kind": "reading",
+      "label": "Meissner cap 12",
+      "lessons": [
+        18,
+        19
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601125",
+          "text": "Meissner cap 12"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6601125",
+      "section_id": "section-11",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601125"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        18,
+        19
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6610411",
+      "section_id": "section-11",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6610411"
+    },
+    {
+      "kind": "reading",
+      "label": "texto europa",
+      "lessons": [
+        20
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6601131",
+      "section_id": "section-12",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601131"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        20
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6613285",
+      "section_id": "section-12",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6613285"
+    },
+    {
+      "kind": "reading",
+      "label": "Allen - rise and decline URSS",
+      "lessons": [
+        21,
+        22
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614378",
+      "section_id": "section-13",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614378"
+    },
+    {
+      "kind": "reading",
+      "label": "Eichengreen",
+      "lessons": [
+        21,
+        22
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614379",
+      "section_id": "section-13",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614379"
+    },
+    {
+      "kind": "slides",
+      "label": "slides",
+      "lessons": [
+        21,
+        22
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6619031",
+      "section_id": "section-13",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6619031"
+    },
+    {
+      "kind": "reading",
+      "label": "Rodrik (1995)",
+      "lessons": [
+        23
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614380",
+      "section_id": "section-14",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614380"
+    },
+    {
+      "kind": "slides",
+      "label": "Slides",
+      "lessons": [
+        23
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6622877",
+      "section_id": "section-14",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6622877"
+    },
+    {
+      "kind": "reading",
+      "label": "Li (2017)",
+      "lessons": [
+        24
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614388",
+      "section_id": "section-15",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614388"
+    },
+    {
+      "kind": "reading",
+      "label": "Frieden cap 16",
+      "lessons": [
+        25
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614394",
+          "text": "Frieden cap 16"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614394",
+      "section_id": "section-16",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614394"
+    },
+    {
+      "kind": "reading",
+      "label": "Meissner cap 13",
+      "lessons": [
+        25
+      ],
+      "reading_instructions": [
+        {
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614400",
+          "text": "Meissner cap 13"
+        }
+      ],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614400",
+      "section_id": "section-16",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614400"
+    },
+    {
+      "kind": "reading",
+      "label": "Bertola e Ocampo",
+      "lessons": [
+        26
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614390",
+      "section_id": "section-17",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614390"
+    },
+    {
+      "kind": "reading",
+      "label": "Bertola e Ocampo - anos 80",
+      "lessons": [
+        27
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614395",
+      "section_id": "section-18",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614395"
+    },
+    {
+      "kind": "reading",
+      "label": "Crafts - Anos 1990",
+      "lessons": [
+        28
+      ],
+      "reading_instructions": [],
+      "requirement": "unspecified",
+      "resource_id": "moodle-resource-6614397",
+      "section_id": "section-19",
+      "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614397"
+    }
+  ],
+  "schema_version": 1,
+  "sections": [
+    {
+      "lessons": [],
+      "resources": [
+        {
+          "kind": "syllabus",
+          "label": "Programa da disciplina",
+          "lessons": [],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6483108",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483108"
+        }
+      ],
+      "section_id": "section-0",
+      "title": "Geral"
+    },
+    {
+      "lessons": [
+        1
+      ],
+      "resources": [],
+      "section_id": "section-1",
+      "title": "Aula 1 - Apresentação (04/08)"
+    },
+    {
+      "lessons": [
+        2,
+        3
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Texto 1 - Broadberry e O'Rourke",
+          "lessons": [
+            2,
+            3
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6483118",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483118"
+        },
+        {
+          "kind": "reading",
+          "label": "Texto 2 - Meissner cap 3",
+          "lessons": [
+            2,
+            3
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483200",
+              "text": "Texto 2 - Meissner cap 3"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6483200",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6483200"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            2,
+            3
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6523468",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6523468"
+        }
+      ],
+      "section_id": "section-2",
+      "title": "Aulas 2 e 3 - Primeira Globalização (06 e 11/08)"
+    },
+    {
+      "lessons": [
+        4,
+        5
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto 1",
+          "lessons": [
+            4,
+            5
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6508650",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6508650"
+        },
+        {
+          "kind": "reading",
+          "label": "texto 2",
+          "lessons": [
+            4,
+            5
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6508657",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6508657"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            4,
+            5
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6540000",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540000"
+        }
+      ],
+      "section_id": "section-3",
+      "title": "Aula 4 e 5 - O padrão-ouro (13 e 18/08)"
+    },
+    {
+      "lessons": [
+        6,
+        7
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Texto 1 - obrigatorio",
+          "lessons": [
+            6,
+            7
+          ],
+          "reading_instructions": [],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6540579",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540579"
+        },
+        {
+          "kind": "reading",
+          "label": "texto 2- obrigatorio",
+          "lessons": [
+            6,
+            7
+          ],
+          "reading_instructions": [],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6540581",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540581"
+        },
+        {
+          "kind": "reading",
+          "label": "textos complementares",
+          "lessons": [
+            6,
+            7
+          ],
+          "reading_instructions": [],
+          "requirement": "complementary",
+          "resource_id": "moodle-resource-6540586",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540586"
+        },
+        {
+          "kind": "slides",
+          "label": "slides aulas 6 a 8",
+          "lessons": [
+            6,
+            7
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6559925",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6559925"
+        }
+      ],
+      "section_id": "section-4",
+      "title": "Aulas 6 e 7 - Primeira Guerra Mundial (20 e 25/08)"
+    },
+    {
+      "lessons": [
+        8
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto obrigatório - ler até p. 107",
+          "lessons": [
+            8
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540644",
+              "text": "texto obrigatório - ler até p. 107"
+            }
+          ],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6540644",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6540644"
+        }
+      ],
+      "section_id": "section-5",
+      "title": "Aula 8 - Hiperinflação, estabilização e retorno ao ouro (27/08)"
+    },
+    {
+      "lessons": [
+        9,
+        10
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto 1 - obrigatório",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6560677",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560677"
+        },
+        {
+          "kind": "reading",
+          "label": "Texto 2 obrigatório",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6560679",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560679"
+        },
+        {
+          "kind": "reading",
+          "label": "texto 3 - desemprego - obrigatório",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "required",
+          "resource_id": "moodle-resource-6560680",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560680"
+        },
+        {
+          "kind": "reading",
+          "label": "texto complementar - Ben Bernanke",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "complementary",
+          "resource_id": "moodle-resource-6560683",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560683"
+        },
+        {
+          "kind": "reading",
+          "label": "texto complementar 2 - Eichengreen",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "complementary",
+          "resource_id": "moodle-resource-6560684",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6560684"
+        },
+        {
+          "kind": "slides",
+          "label": "slides GD",
+          "lessons": [
+            9,
+            10
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6582096",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6582096"
+        }
+      ],
+      "section_id": "section-6",
+      "title": "Aulas 9 e 10 - A Grande Depressão (01 e 03/09)"
+    },
+    {
+      "lessons": [
+        11,
+        12
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto 1",
+          "lessons": [
+            11,
+            12
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6577573",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577573"
+        },
+        {
+          "kind": "reading",
+          "label": "texto 2 -- frieden cap 9 e 10",
+          "lessons": [
+            11,
+            12
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577579",
+              "text": "texto 2 -- frieden cap 9 e 10"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6577579",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577579"
+        },
+        {
+          "kind": "slides",
+          "label": "slides Recuperação GD",
+          "lessons": [
+            11,
+            12
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6585396",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6585396"
+        }
+      ],
+      "section_id": "section-7",
+      "title": "Aulas 11 e 12 - A recuperação da Grande Depressão (15 e 17/09)"
+    },
+    {
+      "lessons": [
+        13,
+        14
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Texto 1 -Berend cap 3",
+          "lessons": [
+            13,
+            14
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577583",
+              "text": "Texto 1 -Berend cap 3"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6577583",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577583"
+        },
+        {
+          "kind": "reading",
+          "label": "Texto 2 - tortella trechos selecionados",
+          "lessons": [
+            13,
+            14
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577584",
+              "text": "Texto 2 - tortella trechos selecionados"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6577584",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577584"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            13,
+            14
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6593296",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6593296"
+        }
+      ],
+      "section_id": "section-8",
+      "title": "Aulas 13 e 14 - Economia do Fascismo, Comunismo e Totalistarismo (22 e 24/09)"
+    },
+    {
+      "lessons": [
+        15,
+        16
+      ],
+      "resources": [
+        {
+          "kind": "exam",
+          "label": "Prova parcial - instruções (correta - USEM ESSE DOC)",
+          "lessons": [
+            15,
+            16
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6597714",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6597714"
+        }
+      ],
+      "section_id": "section-9",
+      "title": "Aulas 15 e 16 - PROVA PARCIAL (29/09 e 01/10)"
+    },
+    {
+      "lessons": [
+        17
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto 2 G.M.",
+          "lessons": [
+            17
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6577587",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6577587"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            17
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6604666",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6604666"
+        }
+      ],
+      "section_id": "section-10",
+      "title": "Aula 17 - II Guerra Mundial (06/10)"
+    },
+    {
+      "lessons": [
+        18,
+        19
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Eichengreen cap 2 - monetary role of gold",
+          "lessons": [
+            18,
+            19
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601122",
+              "text": "Eichengreen cap 2 - monetary role of gold"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6601122",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601122"
+        },
+        {
+          "kind": "reading",
+          "label": "Frieden - fim BW",
+          "lessons": [
+            18,
+            19
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6601124",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601124"
+        },
+        {
+          "kind": "reading",
+          "label": "Meissner cap 12",
+          "lessons": [
+            18,
+            19
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601125",
+              "text": "Meissner cap 12"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6601125",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601125"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            18,
+            19
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6610411",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6610411"
+        }
+      ],
+      "section_id": "section-11",
+      "title": "Aulas 18 e 19 - Sistema de Bretton Woods (08 e 13/10)"
+    },
+    {
+      "lessons": [
+        20
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "texto europa",
+          "lessons": [
+            20
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6601131",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6601131"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            20
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6613285",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6613285"
+        }
+      ],
+      "section_id": "section-12",
+      "title": "Aula 20 - Europa (15/10)"
+    },
+    {
+      "lessons": [
+        21,
+        22
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Allen - rise and decline URSS",
+          "lessons": [
+            21,
+            22
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614378",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614378"
+        },
+        {
+          "kind": "reading",
+          "label": "Eichengreen",
+          "lessons": [
+            21,
+            22
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614379",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614379"
+        },
+        {
+          "kind": "slides",
+          "label": "slides",
+          "lessons": [
+            21,
+            22
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6619031",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6619031"
+        }
+      ],
+      "section_id": "section-13",
+      "title": "Aulas 21 e 22 - Crescimento e colapso da URSS (20 e 22/10)"
+    },
+    {
+      "lessons": [
+        23
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Rodrik (1995)",
+          "lessons": [
+            23
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614380",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614380"
+        },
+        {
+          "kind": "slides",
+          "label": "Slides",
+          "lessons": [
+            23
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6622877",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6622877"
+        }
+      ],
+      "section_id": "section-14",
+      "title": "Aula 23 - Tigres Asiáticos 27/10"
+    },
+    {
+      "lessons": [
+        24
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Li (2017)",
+          "lessons": [
+            24
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614388",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614388"
+        }
+      ],
+      "section_id": "section-15",
+      "title": "Aula 24 - China 3/11"
+    },
+    {
+      "lessons": [
+        25
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Frieden cap 16",
+          "lessons": [
+            25
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614394",
+              "text": "Frieden cap 16"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614394",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614394"
+        },
+        {
+          "kind": "reading",
+          "label": "Meissner cap 13",
+          "lessons": [
+            25
+          ],
+          "reading_instructions": [
+            {
+              "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614400",
+              "text": "Meissner cap 13"
+            }
+          ],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614400",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614400"
+        }
+      ],
+      "section_id": "section-16",
+      "title": "Aula 25 - Crise dos anos 70 (05/11)"
+    },
+    {
+      "lessons": [
+        26
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Bertola e Ocampo",
+          "lessons": [
+            26
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614390",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614390"
+        }
+      ],
+      "section_id": "section-17",
+      "title": "Aula 26 - America Latina (10/11)"
+    },
+    {
+      "lessons": [
+        27
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Bertola e Ocampo - anos 80",
+          "lessons": [
+            27
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614395",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614395"
+        }
+      ],
+      "section_id": "section-18",
+      "title": "Aula 27 - Anos 1980 (12/11)"
+    },
+    {
+      "lessons": [
+        28
+      ],
+      "resources": [
+        {
+          "kind": "reading",
+          "label": "Crafts - Anos 1990",
+          "lessons": [
+            28
+          ],
+          "reading_instructions": [],
+          "requirement": "unspecified",
+          "resource_id": "moodle-resource-6614397",
+          "source_url": "https://edisciplinas.usp.br/mod/resource/view.php?id=6614397"
+        }
+      ],
+      "section_id": "section-19",
+      "title": "Aula 28 - Anos 1990 e a economia global (17/11)"
+    }
+  ]
+}

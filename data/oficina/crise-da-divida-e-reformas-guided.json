@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "exercise_id": "crise-da-divida-e-reformas-guided",
+  "debate_id": "crise-da-divida-e-reformas",
+  "mode": "guided",
+  "title": "Crise da dívida: choque externo ou fracasso interno?",
+  "prompt": "A crise da dívida latino-americana de 1982 foi apenas consequência das falhas internas da ISI. Avalie a afirmação com Bértola e Ocampo, Meissner e Frieden, distinguindo gatilho, exposição financeira e mecanismos de propagação.",
+  "lessons": [
+    25,
+    27
+  ],
+  "works": [
+    "moodle-resource-6614394",
+    "moodle-resource-6614395",
+    "moodle-resource-6614400"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "Como se formou a exposição ao crédito externo?",
+    "O que mudou com os juros americanos e a demanda mundial?",
+    "Por que choque e vulnerabilidade interna podem interagir?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a exclusividade interna: explicar a interação entre financiamento anterior, choque persistente e políticas domésticas.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "relations",
+            "item": "choque-e-exposicao"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "relations",
+            "item": "credito-e-ruptura"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Reconhecer endividamento e fragilidade macrofinanceira, sem tratá-los como sinônimos de estrutura produtiva inviável.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "positions",
+            "item": "moodle-resource-6614395"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Explicar juros flutuantes, choque de juros e queda de demanda e preços externos como gatilhos sobre devedores expostos.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "relations",
+            "item": "choque-e-exposicao"
+          }
+        ]
+      },
+      {
+        "text": "Usar 1982 para explicar a retração do crédito e o ajuste autorreforçado na narrativa de Frieden.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "relations",
+            "item": "credito-e-ruptura"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614394",
+            "section": "argument",
+            "item": 5
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que a crise não constitui teste isolado do fracasso produtivo da ISI; o peso relativo dos fatores precisa ser argumentado.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "positions",
+            "item": "moodle-resource-6614395"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crise-da-divida-e-reformas",
+            "section": "positions",
+            "item": "moodle-resource-6614394"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A exposição latino-americana foi construída antes do choque: crédito abundante e dívida contratada em condições que transferiam risco de juros aos devedores tornaram a região vulnerável. Bértola e Ocampo enfatizam a mudança externa de juros e commodities, reconhecendo sua interação com políticas internas. Meissner também relaciona excesso de empréstimos e choque financeiro, enquanto Frieden mostra como a perda de capacidade de pagamento e a retração do crédito se reforçaram em 1982. A comparação permite distinguir três níveis: a exposição acumulada, o gatilho que altera o serviço da dívida e a propagação por falta de financiamento. Reconhecer fragilidade interna não basta, portanto, para demonstrar uma falência intrínseca da estrutura produtiva da ISI.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "crise-da-divida-e-reformas",
+        "section": "relations",
+        "item": "choque-e-exposicao"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crise-da-divida-e-reformas",
+        "section": "relations",
+        "item": "credito-e-ruptura"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crise-da-divida-e-reformas",
+        "section": "positions",
+        "item": "moodle-resource-6614395"
+      }
+    ],
+    "commentary": "O parágrafo organiza a causalidade em etapas e usa as diferenças de ênfase para qualificar a explicação exclusiva proposta no enunciado."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Usar dívida externa como prova automática de ineficiência produtiva.",
+      "revision": "Separar necessidade de financiamento, vulnerabilidade macrofinanceira e estrutura produtiva.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crise-da-divida-e-reformas",
+          "section": "positions",
+          "item": "moodle-resource-6614395"
+        }
+      ]
+    },
+    {
+      "mistake": "Opor choque externo e falha interna como alternativas excludentes.",
+      "revision": "Explicar como juros e crédito atingem uma exposição construída anteriormente.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crise-da-divida-e-reformas",
+          "section": "relations",
+          "item": "choque-e-exposicao"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Respondi ao termo apenas da afirmação?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese identifica a interação entre fatores?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Distingui as ênfases dos três textos?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Separei gatilho, exposição e propagação?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei a interrupção de crédito em 1982 como mecanismo concreto?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Evitei concluir sobre toda a ISI a partir de uma crise financeira?"
+    }
+  ]
+}

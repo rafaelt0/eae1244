@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "exercise_id": "crises-financeiras-pos-1971-independent",
+  "debate_id": "crises-financeiras-pos-1971",
+  "mode": "independent",
+  "title": "Mais capital externo garante convergência?",
+  "prompt": "O aumento dos fluxos internacionais de capital garante crescimento e convergência de renda. Avalie a afirmação com Meissner e Crafts, distinguindo benefícios potenciais, evidência observada e condições institucionais. Explique por que abertura comercial e financeira não são medidas intercambiáveis.",
+  "lessons": [
+    25,
+    28
+  ],
+  "works": [
+    "moodle-resource-6614397",
+    "moodle-resource-6614400"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a garantia: os benefícios previstos precisam ser confrontados com evidência e custos, distinguindo tipos de integração.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "relations",
+            "item": "ganhos-condicionais"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Apresentar financiamento e compartilhamento de risco como benefícios potenciais, sem tomá-los como resultados automáticos.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614400",
+            "section": "argument",
+            "item": 3
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Usar Meissner para discutir evidência fraca de efeito robusto sobre crescimento e maior estabilidade relativa do IDE.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614400",
+            "section": "argument",
+            "item": 11
+          }
+        ]
+      },
+      {
+        "text": "Usar Crafts para separar ganhos comerciais de efeitos financeiros e considerar instituições e custos das crises.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614397"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "relations",
+            "item": "ganhos-condicionais"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir com uma avaliação condicionada dos fluxos: composição, regulação, vulnerabilidade e efeito líquido sobre a renda importam.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614397"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "Uma previsão teórica de benefício não comprova um ganho de crescimento. Meissner identifica vantagens possíveis dos fluxos de capital, como financiamento e partilha de risco, mas ressalta a fragilidade da evidência de uma relação robusta com a renda. Crafts reforça a necessidade de distinguir abertura comercial e financeira: crises podem corroer ganhos associados à mobilidade de capital, e instituições condicionam os resultados. A composição dos fluxos também importa, já que crédito e investimento direto não apresentam a mesma estabilidade. Assim, observar mais capital cruzando fronteiras não demonstra convergência. A avaliação precisa ligar o mecanismo de benefício às condições que o permitem e aos custos que podem anulá-lo.",
+    "basis": [
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614400",
+        "section": "argument",
+        "item": 3
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614400",
+        "section": "argument",
+        "item": 11
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crises-financeiras-pos-1971",
+        "section": "relations",
+        "item": "ganhos-condicionais"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crises-financeiras-pos-1971",
+        "section": "positions",
+        "item": "moodle-resource-6614397"
+      }
+    ],
+    "commentary": "O parágrafo separa previsão e evidência, compara duas leituras e especifica as condições necessárias para uma conclusão menos abrangente."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Usar evidência de ganhos do comércio como prova de ganhos da abertura financeira.",
+      "revision": "Distinguir os mecanismos e os resultados empíricos dos dois tipos de abertura.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crises-financeiras-pos-1971",
+          "section": "positions",
+          "item": "moodle-resource-6614397"
+        },
+        {
+          "module": "atlas",
+          "entry_id": "crises-financeiras-pos-1971",
+          "section": "relations",
+          "item": "ganhos-condicionais"
+        }
+      ]
+    },
+    {
+      "mistake": "Converter cautela sobre benefícios em defesa comprovada de isolamento universal.",
+      "revision": "Apresentar a conclusão condicional e os limites da prevenção discutidos por Meissner.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crises-financeiras-pos-1971",
+          "section": "positions",
+          "item": "moodle-resource-6614400"
+        },
+        {
+          "module": "atlas",
+          "entry_id": "crises-financeiras-pos-1971",
+          "section": "relations",
+          "item": "ganhos-condicionais"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Respondi à ideia de garantia de convergência?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese distingue potencial e efeito demonstrado?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Preservei a cautela de Meissner e Crafts?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei como crises podem alterar o benefício líquido?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei composição dos fluxos ou um canal concreto de benefício?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Separei comércio, finanças e condições institucionais na conclusão?"
+    }
+  ]
+}

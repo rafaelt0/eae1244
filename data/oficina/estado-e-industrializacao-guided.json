@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "exercise_id": "estado-e-industrializacao-guided",
+  "debate_id": "estado-e-industrializacao",
+  "mode": "guided",
+  "title": "Ásia e América Latina: o Estado separa os resultados?",
+  "prompt": "A diferença entre o Leste Asiático e a América Latina foi que o primeiro abandonou a intervenção estatal e a segunda insistiu nela. Avalie a afirmação com Rodrik e Bértola e Ocampo, comparando mecanismos de investimento, proteção e aprendizado.",
+  "lessons": [
+    23,
+    26
+  ],
+  "works": [
+    "moodle-resource-6614380",
+    "moodle-resource-6614390"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "Qual motor de crescimento Rodrik identifica na Coreia e em Taiwan?",
+    "Como igualdade e autonomia estatal afetam a intervenção?",
+    "Quais ganhos e limites Bértola e Ocampo registram na industrialização latino-americana?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a oposição simples: ambas as experiências tiveram intervenção, mas instrumentos, condições e resultados diferiram.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614390"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Reconhecer limites latino-americanos de proteção permanente, exportações e inovação, em vez de ignorar os problemas da industrialização.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614390"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Mostrar a coordenação de investimento asiática e suas condições, em vez de atribuir o crescimento apenas à retirada do Estado.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          }
+        ]
+      },
+      {
+        "text": "Comparar o controle da busca de renda e os interesses que cristalizam proteção; incluir ganhos latino-americanos e a diversidade regional.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "relations",
+            "item": "politica-e-rendas"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614390",
+            "section": "cases",
+            "item": 0
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que o contraste pede explicar qualidade e condições da intervenção, sem confundir ganhos de crescimento com convergência completa.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "estado-e-industrializacao",
+            "section": "positions",
+            "item": "moodle-resource-6614390"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A comparação não sustenta a retirada do Estado como explicação suficiente do sucesso asiático. Rodrik atribui papel central à coordenação e ao subsídio do investimento, favorecidos por capital humano e igualdade. Bértola e Ocampo, por sua vez, mostram que a industrialização latino-americana produziu crescimento e aprendizado, embora a proteção permanente e a fraqueza tecnológica limitassem seu avanço. O ponto comparável está nas condições da intervenção: como elevar investimento sem transformar incentivos em direitos incondicionais de grupos protegidos. O Brasil ainda revela heterogeneidade dentro da região, com diversificação industrial importante e limites persistentes. Assim, o contraste exige examinar instrumentos e coalizões, e não separar os casos pela simples presença ou ausência estatal.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "estado-e-industrializacao",
+        "section": "positions",
+        "item": "moodle-resource-6614380"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "estado-e-industrializacao",
+        "section": "positions",
+        "item": "moodle-resource-6614390"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "estado-e-industrializacao",
+        "section": "relations",
+        "item": "politica-e-rendas"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614390",
+        "section": "cases",
+        "item": 0
+      }
+    ],
+    "commentary": "O texto corrige a premissa, apresenta o mecanismo de cada leitura e formula um eixo comparativo sem apagar a diversidade dos casos."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Atribuir o crescimento asiático à ausência de intervenção em Rodrik.",
+      "revision": "Reconstruir a sequência coordenação, investimento, importação de máquinas e exportações.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "estado-e-industrializacao",
+          "section": "positions",
+          "item": "moodle-resource-6614380"
+        },
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614380",
+          "section": "argument",
+          "item": 7
+        }
+      ]
+    },
+    {
+      "mistake": "Tratar a América Latina como experiência sem crescimento ou aprendizado.",
+      "revision": "Separar ganhos históricos de seus limites de inovação e convergência.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "estado-e-industrializacao",
+          "section": "positions",
+          "item": "moodle-resource-6614390"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Contestei ou sustentei explicitamente a premissa sobre retirada estatal?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese oferece um eixo comparativo além de Estado versus mercado?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Atribuí corretamente investimento e exportações a Rodrik?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei como incentivos podem coordenar ou cristalizar rendas?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei casos asiáticos e um limite ou resultado latino-americano?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Reconheci ganhos e heterogeneidade sem transformar a comparação em receita universal?"
+    }
+  ]
+}

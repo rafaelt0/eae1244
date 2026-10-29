@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "exercise_id": "fim-bretton-woods-guided",
+  "debate_id": "fim-bretton-woods",
+  "mode": "guided",
+  "title": "Ouro: causa suficiente ou parte da explicação?",
+  "prompt": "O fim de Bretton Woods foi uma consequência inevitável da conversibilidade do dólar em ouro. Avalie a afirmação com Eichengreen, Frieden e Meissner, distinguindo fragilidade do desenho, transmissão da crise e custos políticos do ajuste.",
+  "lessons": [
+    18,
+    19
+  ],
+  "works": [
+    "moodle-resource-6601122",
+    "moodle-resource-6601124",
+    "moodle-resource-6601125"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "O que exatamente a palavra inevitável afirma?",
+    "Como Triffin liga a criação de liquidez à confiança no dólar?",
+    "O que Meissner qualifica na primazia do ouro?",
+    "Por que o governo americano recusou o ajuste segundo Frieden?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Qualificar inevitável: o desenho criou vulnerabilidade, mas o desfecho precisa da explicação financeira e política.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "desenho-e-decisao"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "peso-do-ouro"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Explicar a tensão entre reservas internacionais em dólares e promessa de conversão a preço fixo.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601122"
+          }
+        ]
+      },
+      {
+        "text": "Mostrar por que Eichengreen atribui papel central ao ouro.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "peso-do-ouro"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Confrontar o diagnóstico com Meissner: falta de disposição para ajustar é mais ampla que Triffin.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "peso-do-ouro"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "ajuste-e-politica"
+          }
+        ]
+      },
+      {
+        "text": "Usar a decisão de Nixon para ligar prioridade doméstica e recusa dos custos de defender a paridade.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601124"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601124",
+            "section": "cases",
+            "item": 0
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir distinguindo causa estrutural, transmissão e decisão. Aceitar a vulnerabilidade não obriga a demonstrar inevitabilidade histórica.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601122"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601124"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601125"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A promessa de converter dólares em ouro criava uma tensão quando a liquidez mundial dependia de passivos americanos crescentes. É nesse desenho que Eichengreen localiza a fragilidade central. Entretanto, Meissner considera Triffin plausível sem lhe conceder primazia necessária, pois também faltou disposição para ajustar as economias. Frieden esclarece o desfecho: preservar a paridade exigiria custos domésticos que o governo Nixon recusou. Assim, a decisão de agosto de 1971 pode ser explicada articulando a restrição estrutural e os interesses políticos. A insuficiência de ouro ajuda a entender a crise, mas não dispensa explicar a escolha entre defender e abandonar a paridade.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "fim-bretton-woods",
+        "section": "positions",
+        "item": "moodle-resource-6601122"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "fim-bretton-woods",
+        "section": "relations",
+        "item": "peso-do-ouro"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "fim-bretton-woods",
+        "section": "relations",
+        "item": "ajuste-e-politica"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601124",
+        "section": "cases",
+        "item": 0
+      }
+    ],
+    "commentary": "O parágrafo apresenta o mecanismo, compara o peso causal atribuído pelos autores e usa a decisão americana para justificar a qualificação da tese."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Tratar os três autores como defensores da mesma causa principal.",
+      "revision": "Distinguir a centralidade do ouro em Eichengreen da qualificação de Meissner e da decisão política em Frieden.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "fim-bretton-woods",
+          "section": "relations",
+          "item": "peso-do-ouro"
+        },
+        {
+          "module": "atlas",
+          "entry_id": "fim-bretton-woods",
+          "section": "relations",
+          "item": "desenho-e-decisao"
+        }
+      ]
+    },
+    {
+      "mistake": "Confundir suspensão da conversibilidade com desaparecimento imediato de todos os arranjos internacionais.",
+      "revision": "Separar a ruptura ouro-dólar dos elementos que Eichengreen identifica como persistentes depois de 1971–73.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "fim-bretton-woods",
+          "section": "positions",
+          "item": "moodle-resource-6601122"
+        },
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601122",
+          "section": "argument",
+          "item": 3
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei a inevitabilidade, em vez de apenas narrar o fim do sistema?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese concede a fragilidade e explica o que ainda falta demonstrar?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Atribuí corretamente a cada autor seu peso causal?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Separei desenho, transmissão e decisão política?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei a decisão de Nixon para sustentar um argumento?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Minha conclusão preserva a diferença entre vulnerabilidade e causa suficiente?"
+    }
+  ]
+}

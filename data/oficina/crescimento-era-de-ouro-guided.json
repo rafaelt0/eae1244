@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "exercise_id": "crescimento-era-de-ouro-guided",
+  "debate_id": "crescimento-era-de-ouro",
+  "mode": "guided",
+  "title": "O atraso inicial basta para explicar a Era de Ouro?",
+  "prompt": "A reconstrução e o atraso em relação aos EUA bastam para explicar o crescimento europeu de 1950–73. Avalie a tese com Crafts e Toniolo, comparando Reino Unido e Alemanha Ocidental e distinguindo oportunidade de catch-up e capacidade de aproveitá-la.",
+  "lessons": [
+    20
+  ],
+  "works": [
+    "moodle-resource-6601131"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "Que oportunidades a reconstrução e o hiato inicial abriam?",
+    "Quais são as fontes imediatas do crescimento da produtividade?",
+    "Por que o caso britânico pede uma explicação além da renda inicial?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Qualificar a suficiência: o hiato oferece oportunidade, mas seu aproveitamento depende de incentivos e capacidade social.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "positions",
+            "item": "moodle-resource-6601131"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 0
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder o impulso da reconstrução e a contribuição conjunta de capital e PTF.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 3
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 12
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Comparar sindicatos, concorrência e acumulação nos casos britânico e alemão, sem exigir taxas iguais de países com hiatos iniciais distintos.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 10
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "cases",
+            "item": 1
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "cases",
+            "item": 2
+          }
+        ]
+      },
+      {
+        "text": "Não apresentar a hipótese particular dos contratos sociais como empiricamente encerrada.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 8
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "A Era de Ouro exige ligar potencial de aproximação, fontes de produtividade e condições institucionais.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "positions",
+            "item": "moodle-resource-6601131"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "O atraso em relação aos Estados Unidos ampliava a oportunidade de aproximação, mas não determinava seu aproveitamento. Crafts e Toniolo explicam a produtividade europeia pela acumulação e pela PTF, que inclui transferência tecnológica e melhor alocação de recursos. A comparação entre Reino Unido e Alemanha Ocidental acrescenta a dimensão institucional: concorrência, organização sindical e investimento diferiam. Não se trata de exigir a mesma taxa de crescimento de economias com pontos de partida distintos, e sim de explicar o desempenho em relação ao espaço de catch-up. Por isso, reconstrução e atraso são condições favoráveis que precisam ser articuladas aos incentivos, sem transformar uma hipótese institucional específica em explicação já comprovada de todos os países.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "crescimento-era-de-ouro",
+        "section": "positions",
+        "item": "moodle-resource-6601131"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601131",
+        "section": "argument",
+        "item": 3
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601131",
+        "section": "argument",
+        "item": 8
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601131",
+        "section": "argument",
+        "item": 10
+      }
+    ],
+    "commentary": "O texto concede parte da tese, identifica o mecanismo adicional e usa uma comparação ajustada às condições iniciais."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Igualar PTF a pesquisa tecnológica doméstica.",
+      "revision": "Lembrar que o resíduo incorpora transferência, realocação e outros ganhos de eficiência.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601131",
+          "section": "argument",
+          "item": 3
+        }
+      ]
+    },
+    {
+      "mistake": "Comparar taxas brutas ignorando o espaço inicial de catch-up.",
+      "revision": "Explicitar o ponto de partida e o desempenho relativo à oportunidade de aproximação.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601131",
+          "section": "argument",
+          "item": 9
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei se reconstrução e atraso eram suficientes?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese distingue oportunidade e realização do crescimento?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Representei a cautela dos autores sobre contratos sociais?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Relacionei capital, PTF e instituições?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "O caso britânico e o alemão sustentam minha explicação?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Considerei condições iniciais em vez de apenas ordenar taxas?"
+    }
+  ]
+}

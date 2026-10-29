@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614388",
+  "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+  "lessons": [
+    24
+  ],
+  "authors": [
+    "Hongbin Li",
+    "Prashant Loyalka",
+    "Scott Rozelle",
+    "Binzhen Wu"
+  ],
+  "title": "Human Capital and China’s Future Growth",
+  "year": 2017,
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Os autores argumentam que o crescimento chinês desde 1978 veio de demografia favorável, realocação de trabalho e ganhos de capital humano, e que essas fontes estão se esgotando. Com uma regressão entre países de anos de escolaridade e renda per capita, projetam cerca de 3% ao ano nos próximos 20 anos, mesmo num cenário otimista de expansão educacional, e consideram quase impossível sustentar 7%; recomendam mais investimento em capital humano rural e descentralização do ensino superior.",
+  "question": "De onde veio o crescimento da China desde 1978, que papel teve o capital humano, e quanto a China ainda pode crescer nos próximos 20 anos dadas as limitações atuais de sua força de trabalho?",
+  "argument": [
+    {
+      "claim": "O PIB per capita chinês cresceu quase 9% ao ano desde 1978; como produto = trabalhadores x produtividade, o crescimento se decompõe em tamanho da força de trabalho (menor razão de dependência) e produtividade (capital humano e realocação setorial).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 1,
+          "quote": "annually since the start of its economic reforms in 1978, the fastest rate of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 1,
+          "quote": "Output is equal to the number of workers multiplied by productivity per worker."
+        }
+      ]
+    },
+    {
+      "claim": "Cada determinante está mudando: a população em idade ativa atingiu o pico (2014 na definição 15–64 anos) e passou a cair, a realocação rural-urbana desacelerou e a transferência de estatais para o setor privado tem pouco espaço restante.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 1,
+          "quote": "2014 and has now started to decline. Labor reallocation from rural to urban areas"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "China’s workers are already in the private sector, and many of the remaining"
+        }
+      ]
+    },
+    {
+      "claim": "O desempenho passado teve apoio em educação: a escolaridade média dos adultos de 25–64 anos subiu de 4,3 anos (1980) para 9,6 (2015), por maior demanda (retornos crescentes) e maior oferta pública de vagas.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "25–64) rising from 4.3 years in 1980 to 9.6 years in 2015."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "driven in no small part due to rising returns to education (Li, Li, Wu, and Xiong 2012),"
+        }
+      ]
+    },
+    {
+      "claim": "O sistema hukou divide o mercado de trabalho em dois segmentos (rural e urbano); serviços como escola pública dependem do hukou, e por isso rural e urbano devem ser analisados separadamente.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "Because of the hukou policy and"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 5,
+          "quote": "people in China, had an urban hukou. Based on the 2010 population census, of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "school enrollment, medical insurance, and social security were—and"
+        }
+      ]
+    },
+    {
+      "claim": "O capital humano rural está muito atrás: só 11,3% dos trabalhadores rurais de 25–64 anos têm ao menos ensino médio, contra 44,1% dos urbanos. Os autores atribuem isso a custos diretos e de oportunidade, competição por vagas por cotas e exames, problemas de saúde, nutrição e estímulo na primeira infância, e baixa qualidade das escolas rurais e de migrantes.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "from rural areas had attained at least high school education."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "The low rate of high school attendance can be attributed to high and rising costs,"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "Nearly 60 percent of China’s elementary school children"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "39 percent of the infants and toddlers (ages 0 to 3) that are born and raised"
+        }
+      ]
+    },
+    {
+      "claim": "Segundo os autores, a negligência com a educação rural decorre de incentivos (promoção de autoridades por crescimento do PIB, mandatos curtos, externalidade de estudantes que emigram) e da descentralização fiscal, que deixa cada um de cerca de 3.000 condados responsável por seus serviços, independentemente de sua capacidade fiscal.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "First, the Communist Party has used GDP growth as a measure of local"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "decentralized China’s fiscal"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "is in charge of delivering education and health to its own population. This"
+        }
+      ]
+    },
+    {
+      "claim": "A força de trabalho urbana é relativamente bem educada e a expansão universitária desde 1999 é vista como grande conquista, apesar da queda do prêmio universitário dos jovens (21% em 2000 para 15% em 2009); o retorno para experientes subiu (34% para 41%). Porém, há evidência de qualidade baixa: estudantes chineses de engenharia e computação têm ganho cognitivo zero ou negativo em dois anos de faculdade.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "college expansion is a great policy achievement of China."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "from about 21 percent in 2000 to 15 percent in 2009 (Li, Liang, and Wu 2016)."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "experience zero or negative growth in"
+        }
+      ]
+    },
+    {
+      "claim": "Regressão de MQO entre países (log do PIB per capita contra anos de escolaridade de adultos 25+, ponderada pelo PIB, sem a China) mostra correlação positiva estável: coeficiente de 0,259 em 2014, ou seja, +0,1 ano de escolaridade associado a +2,6% de renda; R² de 0,74 em 2014. É correlação reduzida, não retorno causal.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "R-squared of these regressions are also high, especially for later years: for example,"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "coefficient of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "not a measure of the causal returns to education, because other factors are not"
+        }
+      ]
+    },
+    {
+      "claim": "A posição da China em relação à reta mostra a evolução: em 1980 estava muito abaixo (renda cerca de 10% da prevista), em 2014 em cerca de 81%; o movimento rumo à reta explica cerca de 65% do ganho de renda e o movimento ao longo da reta (mais escolaridade) cerca de 40%; o deslocamento da reta responde por -5%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "China’s position relative to the rest of the world in the five years shows the"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "China’s income is about 81 percent of the level of the average global relationship."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "About 65 percent of the gain in per capita income can be accounted for by China’s"
+        }
+      ]
+    },
+    {
+      "claim": "Projeção ilustrativa: o ganho rumo à reta é menor no futuro (fechar a lacuna de 18% até 2035 acrescenta 0,8 p.p. ao ano); no cenário agressivo de expansão educacional (escolaridade de 10,7 anos em 2035), o movimento ao longo da reta acrescenta 2,2% ao ano. A soma dá 3,0% ao ano, levando a renda per capita a US$ 25.497 em 2035 (nível da Grécia hoje).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "2035, then this will add 0.8 percent to the average annual growth rate of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "boost"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "Adding the toward-the-line and along-the-line growth numbers, we project"
+        }
+      ]
+    },
+    {
+      "claim": "Crescer 7% ao ano levaria a renda chinesa a US$ 54.682 em 2035, quase igual à dos EUA em 2014, o que exigiria uma relação entre capital humano e renda bem acima da experiência global típica, dado que a escolaridade chinesa em 2035 ficaria muito abaixo da americana.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "At 7 percent annual growth, China’s per capita income would reach the level of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 20,
+          "quote": "China would need to have a relationship between human capital and per capita"
+        }
+      ]
+    },
+    {
+      "claim": "Recomendações: descentralizar o ensino superior (reduzir cotas e dar autonomia às faculdades para melhorar qualidade) e centralizar o financiamento da educação rural pré-universitária de 12 anos, incluindo ensino médio gratuito para todas as crianças rurais, a custo estimado de US$ 7,2 bilhões por ano, menos de 2% do gasto educacional chinês.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 20,
+          "quote": "First, we propose that China’s government should decentralize college"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 21,
+          "quote": "twelve-year rural education. Centralization can address the budgetary problem of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 21,
+          "quote": "cohorts) would be $7.2 billion a year. This"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Capital humano como fonte de crescimento: mais anos de escolaridade se associam, na regressão entre países, a maior renda (0,1 ano a mais, +2,6%), mas o coeficiente embute a mistura de capital físico, tecnologia e instituições que acompanha o capital humano; não é efeito causal isolado (limite reconhecido pelos autores).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "a rise in the years of schooling by 0.1 years is associated with a"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "line means that higher per capita income is positively associated with higher levels"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Movimento rumo à reta (eficiência): a distância da China abaixo da reta global reflete uso incompleto do capital humano sob economia planejada e redundância de trabalho agrícola; as reformas reduziram essa distância, e essa fonte rende menos daqui em diante.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "inefficiency in the 1980s likely is due both to the fact that China’s economy was"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "from toward-the-line growth will be smaller in the future than in the past."
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Dividendo demográfico e realocação setorial: a queda da fecundidade elevou a parcela em idade ativa (62% para 75%) e a saída da agricultura (71% para 30% do emprego) elevou a produtividade; ambos perderam força.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "This demographic dividend has raised per capita"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "fell from 71 to 30 percent."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "China’s demographic dividend, from a larger-than-usual share of its"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Hukou: transmite a desigualdade rural-urbana para a educação, pois o acesso a escola pública, saúde e seguro social depende do registro; filhos de migrantes não têm vaga garantida em boas escolas urbanas, o que perpetua mercados de trabalho e sistemas educacionais duais.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "school enrollment, medical insurance, and social security were—and"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "also helps to perpetuate dual labor markets and dual education systems."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Canais de baixo capital humano rural: custo do ensino médio (mínimo de US$ 160 por ano, 27% da renda rural per capita), custo de oportunidade com salários não qualificados em alta, exames com cotas, saúde e nutrição precárias, atraso cognitivo na primeira infância e escolas de baixa qualidade.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "China charges a minimum"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "10 percent of rural students from poor rural areas pass the college entrance exam"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "only about one-third of"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Incentivos políticos locais: promoção por crescimento do PIB e mandatos curtos (menos de cinco anos) favorecem indústria e infraestrutura sobre educação e saúde; a externalidade (o aluno bem formado deixa o condado) reduz o ganho local.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "This system provides strong short-term incentives to local leaders to invest in"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "local leaders see little gain to their"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Descentralização fiscal dos anos 1980: a receita depende de impostos industriais, então localidades com fábricas e urbanizadas financiam melhores serviços, enquanto a maioria não; os autores ligam o atraso dos serviços rurais às mesmas reformas que explicaram parte do crescimento inicial.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "Second, another reform launched in the 1980s decentralized China’s fiscal"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 9,
+          "quote": "same set of fiscal"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Controle central do ensino superior: quotas e financiamento quase total pelo Estado fazem administradores e professores responderem a autoridades, não ao mercado, e enfraquecem os incentivos à qualidade (inferência dos autores, sem teste empírico no artigo).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 20,
+          "quote": "Rather than setting an enrollment quota for each college, the government"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 20,
+          "quote": "Once enrollment quotas are filled and a college is funded,"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Efeito de oferta e demanda no retorno à universidade: a expansão de oferta pós-1999 reduziu temporariamente o retorno dos jovens, mas a demanda por trabalho qualificado (IDE, comércio) elevou o retorno dos experientes; no longo prazo o capital humano pode induzir capital físico e mudança técnica enviesada para qualificação.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "ultimately will increase the"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "foreign direct investment and expansion of trade starting from the early 1990s. The"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "China (decomposição do crescimento)",
+      "period": "1980–2014",
+      "outcome": "Escolaridade de adultos 25+ de 4,0 para 8,8 anos; renda de 10% para 81% do previsto pela reta; ~40% do ganho ligado à escolaridade e ~65% ao movimento rumo à reta; crescimento anual de 9,7% de 1980 a 2014.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "years of schooling for adults aged 25 or above in China rose from 4.0 in 1980 to 8.8"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "two-thirds of China’s annual growth in national income growth of 9.7 percent a year"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "About 40 percent of the gain in per capita income is what would typically be associated"
+        }
+      ]
+    },
+    {
+      "name": "China rural",
+      "period": "2007–2015",
+      "outcome": "Só 11,3% dos adultos rurais de 25–64 anos com ensino médio; menos de 40% das crianças de áreas pobres frequentavam o ensino médio em 2007–2012; cerca de 60% das crianças do fundamental com problema de saúde ou nutrição.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "less than 40 percent of children from poor rural areas were attending high school"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "Nearly 60 percent of China’s elementary school children"
+        }
+      ]
+    },
+    {
+      "name": "China urbana (expansão universitária)",
+      "period": "1998–2015",
+      "outcome": "Admissões universitárias de 1 milhão (1998) multiplicadas por quatro até 2005 após aumento de 43% da cota em 1999; escolaridade urbana média de 10,7 anos em 2015, com 21% de universitários; prêmio universitário dos jovens caiu de 21% para 15% (2000–2009).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 9,
+          "quote": "1999 alone, China’s central government increased the college"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 9,
+          "quote": "average years of schooling of the urban labor force was 10.7 years."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "from about 21 percent in 2000 to 15 percent in 2009 (Li, Liang, and Wu 2016)."
+        }
+      ]
+    },
+    {
+      "name": "China projetada (cenário agressivo)",
+      "period": "2015–2035",
+      "outcome": "Escolaridade de 10,7 anos, 26% com diploma universitário e 42% com ao menos ensino médio em 2035; crescimento per capita de 3,0% ao ano e renda de US$ 25.497 em 2035; alternativa com a força de trabalho 25–64: 4,0% e US$ 30.932.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "26 percent of China’s adults will have a college degree and 42 percent will have at least"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "3.0 percent in"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "If we use the years of schooling for the labor force (age 25–64) as the measure"
+        }
+      ]
+    },
+    {
+      "name": "Comparação internacional de escolaridade (Figura 3)",
+      "period": "2015 (ou último ano disponível)",
+      "outcome": "China: 12,5% da força de trabalho com ensino superior e 28,8% com ensino médio; México 16% e 36%; África do Sul 15% e 42%; Filipinas 27% e 58%; Malásia 16% e 51%; EUA 45% e 90%; Coreia 45% e 86%; Japão 50% e 100%; Alemanha 28% e 87%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "rapid expansion since 1999, only 12.5 percent of China’s labor force attended"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "Mexico (16 percent), South Africa (15 percent),"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "Korea, 45 and 86"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos (referência para 7% ao ano)",
+      "period": "2014 e 2035",
+      "outcome": "A renda per capita dos EUA em 2014 (US$ 54.629) é quase igual à que a China teria em 2035 a 7% ao ano (US$ 54.682); nos EUA, 44% da força de trabalho tinha ao menos ensino superior e 89% ao menos ensino médio.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "$54,682 (in purchasing power exchange rate terms) by 2035, which is almost exactly"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "44 percent of the US labor force had at least a college education"
+        }
+      ]
+    },
+    {
+      "name": "Rússia, EUA e China (qualidade universitária)",
+      "period": "dois primeiros anos de curso, estudo de Loyalka et al. (2016)",
+      "outcome": "Estudantes chineses entram com notas mais altas, mas têm ganho cognitivo zero ou negativo; os de Rússia e EUA ganham habilidades.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "they, on average, experience zero or negative growth in"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "students in Russia"
+        }
+      ]
+    },
+    {
+      "name": "Coreia, Taiwan e Tailândia (demanda por ensino superior)",
+      "period": "não especificado",
+      "outcome": "Aumento substancial da matrícula universitária sem sistema rígido de cotas, sugerindo que fatores de demanda também explicam a expansão.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "college enrollment also appeared in other fast-growing economies such as Korea,"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hukou",
+      "definition": "Registro domiciliar herdado dos pais, criado nos anos 1950, com dimensão de local e de setor (rural ou urbano); condiciona acesso a escola, saúde e previdência.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "An individual’s hukou has two dimensions: location (of residency) and sector of the"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "hukou system in Chinese. China’s leaders created the hukou system in"
+        }
+      ]
+    },
+    {
+      "term": "Movimento rumo à reta (toward-the-line)",
+      "definition": "Crescimento obtido ao reduzir a distância (resíduo) entre a renda observada e a prevista pela reta global para dado nível de escolaridade; reflete eficiência, uso de capital físico, tecnologia e instituições.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "line means that given its years of schooling, the country is performing below the"
+        }
+      ]
+    },
+    {
+      "term": "Movimento ao longo da reta (along-the-line)",
+      "definition": "Crescimento associado ao aumento de escolaridade ao longo da inclinação da reta, junto com a mistura de capital físico, tecnologia e instituições que costuma acompanhar o capital humano.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "line means that higher per capita income is positively associated with higher levels"
+        }
+      ]
+    },
+    {
+      "term": "Regressão de forma reduzida (não causal)",
+      "definition": "Correlação simples entre escolaridade e renda, sem controles, sem defasagens e fora de uma decomposição do crescimento por função de produção.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "These simple correlations are not part of a growth"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 15,
+          "quote": "Instead, the regressions in this paper’s analysis are reduced-form correlations"
+        }
+      ]
+    },
+    {
+      "term": "Dividendo demográfico",
+      "definition": "Ganho de renda per capita pela maior parcela da população em idade ativa após a queda da fecundidade; para os autores, chegou ao fim.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "This demographic dividend has raised per capita"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "China’s demographic dividend, from a larger-than-usual share of its"
+        }
+      ]
+    },
+    {
+      "term": "Mercados de trabalho duais",
+      "definition": "Segmentação em mercado rural e urbano criada pelo hukou, com benefícios e escolas melhores para os urbanos.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "The hukou-created urban–rural divide has created an economy characterized"
+        }
+      ]
+    },
+    {
+      "term": "Crianças deixadas para trás (left-behind)",
+      "definition": "Crianças rurais cujos pais migraram; cerca de 22% dos 0–17 anos (61 milhões) e possivelmente prejudicadas em habilidades não cognitivas.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "left behind in rural areas by their migrating parents (Shi"
+        }
+      ]
+    },
+    {
+      "term": "Escolas de migrantes",
+      "definition": "Escolas privadas de baixa qualidade nas cidades para filhos de migrantes (cerca de 29 milhões de crianças), com professores menos qualificados; seus alunos têm desempenho pior que os deixados para trás.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "approximately 29 million rural children attend low-quality migrant schools in cities."
+        }
+      ]
+    },
+    {
+      "term": "Prêmio/retorno à universidade",
+      "definition": "Ganho salarial dos formados em relação a quem tem ensino médio; caiu para jovens e subiu para trabalhadores experientes.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "premium to college education, when comparing college"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "A população em idade ativa chinesa (15–64) subiu de 625 milhões no início dos anos 1980 para 1 bilhão em 2014; a fecundidade caiu de cerca de seis filhos por mulher nos anos 1960–70 para 1,4 em 2010; a parcela em idade ativa foi de 62% para 75%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "China experienced a high fertility rate of about six births per woman in the 1960s"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "to one billion in 2014"
+        }
+      ]
+    },
+    {
+      "fact": "Parcela de adultos com ao menos ensino médio: 6,1% (1980) para 28,8% (2015); com faculdade: 1,1% para 12,5%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "The share of the labor force"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "increased from only 1.1 percent in 1980 to 12.5 percent in 2015."
+        }
+      ]
+    },
+    {
+      "fact": "Emprego por setor, 1978–2014: agricultura de 71% para 30%, indústria de 18% para 30%, serviços de 12% para 40%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "tural sector fell from 71 to 30 percent."
+        }
+      ]
+    },
+    {
+      "fact": "Emprego no setor privado passou de zero em 1978 para mais de 83% em 2014; as grandes demissões das estatais ocorreram em meados dos anos 1990.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "was literally zero in 1978."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "in the private sector had risen to over 83 percent."
+        }
+      ]
+    },
+    {
+      "fact": "Em 2014, 36% da população (497 milhões) tinha hukou urbano e 64% (871 milhões) hukou rural; 31% dos trabalhadores com hukou rural haviam migrado para cidades.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "By 2014, 36 percent of the Chinese population, or 497 million"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 5,
+          "quote": "Nearly one-third (31 percent) of workers with a rural hukou had migrated to"
+        }
+      ]
+    },
+    {
+      "fact": "Em 2014, só 16% dos migrantes rurais tinham seguro social, 18% seguro-saúde e 10% seguro-desemprego.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 5,
+          "quote": "In 2014, only 16 percent of rural migrant"
+        }
+      ]
+    },
+    {
+      "fact": "O ensino médio na China cobra no mínimo US$ 160 por ano (27% da renda rural per capita); só cerca de 40% dos alunos rurais passam no exame de ingresso ao ensino médio acadêmico e 10% dos de áreas pobres no exame universitário.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "China’s government sets quotas for the"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 6,
+          "quote": "about 40 percent of all rural students pass the high school entrance exam"
+        }
+      ]
+    },
+    {
+      "fact": "Cerca de 39% dos bebês rurais (0–3 anos) têm atraso cognitivo ou psicomotor; os autores estimam que mais de 400 milhões de adultos (mais de um terço) terão baixa capacidade cognitiva.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "39 percent of the infants and toddlers"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "more than one-third of China’s adult"
+        }
+      ]
+    },
+    {
+      "fact": "Nota de rodapé: outros países podem ter problema parecido; anemia pré-escolar de 55% no Brasil, 25% no México e na Tailândia, 33% na Turquia, contra 20% na China.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "According to the World Food Program (WFP) data, other countries may have a similar problem (if not"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 7,
+          "quote": "At this age, according to the WFP data, only 20 percent of China’s preschool-aged children"
+        }
+      ]
+    },
+    {
+      "fact": "Intervenções baratas (almoço nutritivo, óculos, vermífugo) melhoraram notas; capacitar pais e cuidadores poderia custar quase nada se os cerca de meio milhão de agentes de planejamento familiar fossem redirecionados.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "nutritious lunches for rural children (Luo et al. 2012), eyeglasses for the"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "for almost no additional fiscal outlay if the"
+        }
+      ]
+    },
+    {
+      "fact": "Admissões universitárias: 0,4 milhão (1978) a 1 milhão (1998), crescimento de 5,1% ao ano; em 1999 a cota subiu 43%; de 1999 a 2009 o crescimento foi de 18% ao ano; taxa bruta de matrícula de 18–22 anos de 10% (1998) para 24% (2009).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 9,
+          "quote": "0.4 million in 1978 to 1 million in 1998, which implies a modest annual growth rate of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 9,
+          "quote": "admission quota by 43 percent."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "age cohorts increased from 10 percent in 1998 to 24 percent in 2009."
+        }
+      ]
+    },
+    {
+      "fact": "Em 2013, 6,4 milhões se formaram; em junho cerca de 30% não tinham emprego e em dezembro 10% ainda não.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "For example, in 2013, 6.4 million college students graduated from"
+        }
+      ]
+    },
+    {
+      "fact": "O retorno universitário de quem tem 5–20 anos de experiência subiu de cerca de 34% (2000) para 41% (2009); o retorno ao longo de 10 anos da coorte de 2000 chega a 42%.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 10,
+          "quote": "has risen from around 34 percent in 2000 to 41 percent in 2009."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 11,
+          "quote": "cohort is as high as 42 percent)"
+        }
+      ]
+    },
+    {
+      "fact": "Tabela 1 (coeficiente de escolaridade, R²): 0,123 e 0,225 (1980, n=112); 0,219 e 0,610 (1990, n=124); 0,245 e 0,634 (2000, n=144); 0,243 e 0,685 (2010, n=155); 0,259 e 0,740 (2014, n=153); constantes de 7,39 a 8,09.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "Years of Schooling             0.123***       0.219***       0.245***       0.243***       0.259***"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "Observations                    112            124             144            155            153"
+        }
+      ]
+    },
+    {
+      "fact": "A China passou de renda per capita de US$ 599 (1980) para US$ 13.206 (2014 na tabela do texto; o texto escreve 2004 na frase, aparente erro tipográfico, inferência minha); a parte rumo à reta equivale a 6,3% ao ano.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "From 1980 to 2004, China’s per capita income"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "This implies that China’s per capita income rose closer to the line by 6.3 percent"
+        }
+      ]
+    },
+    {
+      "fact": "Anos de escolaridade (25+) no mundo: 4,8 (1980) a 10,8 (2014), +2,4% ao ano; Índia 1,9 a 5,4 (até 2010), +3,5% ao ano; Brasil 2,5 a 7,7, +3,4% ao ano; China +2,3% ao ano, associado a 3,8% ao ano de renda (cerca de 40% do crescimento).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "This rate is similar to the world average (4.8 years in 1980 to 10.8 years in 2014, increasing by 2.4"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "increasing by 3.5 percent per year, or Brazil’s levels of 2.5 years to 7.7"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "this rise of human capital would typically be associated with a rise of"
+        }
+      ]
+    },
+    {
+      "fact": "Migração rural-urbana: crescimento anual de mais de 11% nos 15 anos antes de 2000 e de cerca de 3% depois; menos de 10% dos jovens rurais de 20–35 anos ainda vivem e trabalham em fazendas.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "The annual growth rate of rural-to-urban migration has declined from over"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "11 percent in the 15 years before 2000 to only 3 percent since then.9"
+        }
+      ]
+    },
+    {
+      "fact": "Para a escolaridade de quase 9,0 anos em 2015, a renda prevista seria US$ 16.664 contra US$ 14.117 observados (razão de 1,18), isto é, 18% acima; no cenário agressivo, matrícula universitária cresce 5% ao ano e a rural no ensino médio 11% ao ano (100% em 2020).",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 18,
+          "quote": "would be $16,664 (converted to US dollars at the purchasing"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "college expands at 5 p"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "school for rural students increases at 11 percent a year (which would mean"
+        }
+      ]
+    },
+    {
+      "fact": "Custo do ensino médio gratuito rural: cerca de US$ 300 por aluno, 24 milhões de alunos, US$ 7,2 bilhões por ano, abaixo de 2% do gasto educacional de 2015 (US$ 388 bilhões) e comparado com US$ 141 bilhões de infraestrutura em 2014.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 21,
+          "quote": "tuition cost of an average rural high school student is about $300 in US"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 21,
+          "quote": "amount is less than 2 percent of the total outlay for education in China in 2015"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 21,
+          "quote": "($388 billion). For comparison, China invested $141 billion on infrastructure in"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Os próprios autores dizem que a regressão é correlação de forma reduzida, não retorno causal à educação: países com mais capital humano também têm mais capital físico, tecnologia e instituições (p. 13).",
+    "A projeção de 3% é ilustrativa e depende de pressupostos: relação global estável (reta de 2014), supondo a continuidade da melhoria de capital físico, tecnologia e instituições que acompanha o capital humano; a regressão usa anos de escolaridade de adultos 25+ e a variante com a força de trabalho 25–64 dá 4,0%.",
+    "O cálculo exclui a China da regressão e pondera por PIB, o que dá mais peso a economias grandes; não há controle por qualidade da educação, apesar de os autores apontarem a baixa qualidade como problema.",
+    "Inferência minha: o modelo trata a convergência rumo à reta como esgotável, mas não testa se a China poderia superar a reta; os autores apenas dizem que 7% exigiria uma relação capital humano-renda 'consideravelmente' acima da global.",
+    "Os mecanismos de economia política (incentivos por PIB, descentralização fiscal, controle central do ensino superior) são hipóteses sustentadas por literatura citada, não testadas no artigo.",
+    "Objeção discutida pelos autores: a percepção de excesso de universitários (queda do prêmio, desemprego de recém-formados); respondem que é efeito de curto prazo e que o retorno de longo prazo é alto, mas reconhecem possível queda de qualidade.",
+    "Os autores reconhecem que a desnutrição infantil pode ser tão grave ou pior em outros países (nota 2).",
+    "Algumas fontes citadas são 'forthcoming' ou inéditas (por exemplo, Li, Liang e Wu 2016), o que limita a verificação.",
+    "Inconsistência do texto: o pico da população em idade ativa aparece como 2014 (15–64, p. 1) e 2011 (16–59, p. 18); a frase 'De 1980 a 2004' (p. 17) parece erro de digitação para 2014."
+  ],
+  "figures_note": [
+    "Figura 1 (p. 3): participação do emprego privado, 1978–2014; a extração só traz rótulos de eixo desordenados, sem a curva. O texto dá os extremos (zero em 1978 e mais de 83% em 2014).",
+    "Figura 2 (p. 9): admissões universitárias na China (milhões); gráfico sem dados extraídos. O texto dá os valores principais (0,4 milhão em 1978, 1 milhão em 1998, quadruplicação até 2005).",
+    "Figura 3 (p. 12): barras com a proporção da força de trabalho com ensino superior e médio em países selecionados; só rótulos de eixo ruidosos foram extraídos. Os valores numéricos de vários países estão no texto da p. 11.",
+    "Figura 4 (pp. 14–15): dispersão de renda per capita contra anos de escolaridade (1980–2014), com China e EUA marcados; a extração traz só rótulos de eixos e posições aproximadas, sem os pontos dos países nem a reta ajustada. Para a posição da China, usar o texto da p. 16–17.",
+    "Tabela 1 (p. 16): extraída de forma legível, mas os erros-padrão e as colunas devem ser conferidos no original ao citar valores precisos."
+  ]
+}

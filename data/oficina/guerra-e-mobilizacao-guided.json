@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "exercise_id": "guerra-e-mobilizacao-guided",
+  "debate_id": "guerra-e-mobilizacao",
+  "mode": "guided",
+  "title": "Mais renda mobilizada significa melhor desempenho?",
+  "prompt": "Uma parcela maior da renda destinada à guerra demonstra maior eficiência militar. Avalie a afirmação com Harrison, comparando URSS e Alemanha e distinguindo intensidade, equilíbrio e sustentação da mobilização.",
+  "lessons": [
+    17
+  ],
+  "works": [
+    "moodle-resource-6577587"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "O que mede a participação da guerra na renda?",
+    "Que diferença aparece quando se observa também a distribuição do trabalho?",
+    "Por que mobilização excessiva pode ameaçar a continuidade do esforço?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a equivalência: intensidade mede o esforço relativo; eficiência e sustentabilidade exigem outras perguntas.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "guerra-e-mobilizacao",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder que parcelas elevadas indicam forte comprometimento dos recursos do país.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 10
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 11
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Comparar a intensidade soviética com o desequilíbrio alemão entre soldados, indústria bélica e civis.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 11
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 14
+          }
+        ]
+      },
+      {
+        "text": "Explicar por que aliviar o esforço soviético excessivo ajudou a sustentá-lo.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 12
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que a comparação deve usar medidas compatíveis e não transformar maior sacrifício relativo em prova de eficiência.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "guerra-e-mobilizacao",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "Uma parcela elevada da renda dedicada à guerra informa a intensidade do esforço, mas não prova que os recursos tenham sido usados com eficiência. Harrison mostra que a Alemanha mobilizou muita renda enquanto manteve desequilíbrio entre efetivos militares e trabalho industrial de guerra. A URSS, por sua vez, suportou um esforço relativo excepcional sob invasão, mas precisou aliviar a mobilização excessiva para sustentá-la. A comparação não consiste em escolher automaticamente a maior porcentagem. É preciso observar a distribuição dos recursos e sua viabilidade ao longo do conflito. A superioridade soviética identificada pelo autor nessa dimensão deve permanecer uma conclusão sobre intensidade e equilíbrio.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "guerra-e-mobilizacao",
+        "section": "positions",
+        "item": "moodle-resource-6577587"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6577587",
+        "section": "argument",
+        "item": 11
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6577587",
+        "section": "argument",
+        "item": 12
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6577587",
+        "section": "argument",
+        "item": 14
+      }
+    ],
+    "commentary": "O parágrafo define a medida, compara os casos e explica a ressalva que impede inferir eficiência a partir de uma porcentagem."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Usar intensidade e eficiência como sinônimos.",
+      "revision": "Definir a medida de esforço antes de concluir sobre desempenho.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "guerra-e-mobilizacao",
+          "section": "positions",
+          "item": "moodle-resource-6577587"
+        }
+      ]
+    },
+    {
+      "mistake": "Tratar mobilização máxima como sempre desejável.",
+      "revision": "Relacionar a retirada de recursos civis ao limite de sustentação do esforço.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6577587",
+          "section": "argument",
+          "item": 12
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Comparei os dois países na dimensão pedida?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese distingue intensidade de eficiência?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Respeitei o alcance da conclusão de Harrison?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei o papel do equilíbrio entre frente, indústria e civis?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei uma diferença concreta entre URSS e Alemanha?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Minha conclusão evita tomar a maior parcela como desempenho superior em tudo?"
+    }
+  ]
+}

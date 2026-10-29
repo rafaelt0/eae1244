@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "exercise_id": "capital-humano-e-convergencia-guided",
+  "debate_id": "capital-humano-e-convergencia",
+  "mode": "guided",
+  "title": "Uma correlação educacional basta para orientar a conclusão?",
+  "prompt": "A associação entre escolaridade e renda prova que elevar matrículas basta para sustentar o crescimento chinês. Avalie a afirmação com Li e coautores e Rodrik, distinguindo correlação, complementaridades produtivas e condições institucionais.",
+  "lessons": [
+    23,
+    24
+  ],
+  "works": [
+    "moodle-resource-6614380",
+    "moodle-resource-6614388"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "O que o coeficiente da regressão de Li e coautores incorpora?",
+    "Por que a educação pode ser importante sem ser suficiente?",
+    "Como Rodrik liga capital humano e investimento coordenado?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a prova de suficiência: a associação reduzida não isola o efeito causal da educação, e capacidades precisam de complementos produtivos.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "relations",
+            "item": "educacao-e-complementos"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder que educação é central no cenário chinês de perda de força da demografia e realocação.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Explicar por que a correlação entre países incorpora tecnologia, instituições e capital, em vez de medir uma intervenção isolada.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614388",
+            "section": "argument",
+            "item": 7
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614388",
+            "section": "mechanisms",
+            "item": 0
+          }
+        ]
+      },
+      {
+        "text": "Usar Rodrik para mostrar qualificação como condição de retornos potenciais à coordenação, junto a igualdade e política de investimento.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "relations",
+            "item": "educacao-e-complementos"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir sobre educação e uso das capacidades: defender sua importância sem converter a regressão em garantia de crescimento.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614380"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A correlação entre escolaridade e renda reforça a relevância do capital humano, mas não identifica o resultado de uma política isolada de matrículas. Li e coautores reconhecem que a relação entre países incorpora também capital físico, tecnologia e instituições. Rodrik ajuda a formular o mecanismo complementar: trabalhadores relativamente qualificados podem tornar rentável um conjunto de investimentos coordenados, sem que esse investimento surja automaticamente. As leituras aproximam formação e uso produtivo das capacidades, mas não oferecem uma mesma estimativa causal. No caso chinês, isso significa discutir educação, desigualdade de acesso e incentivos institucionais, preservando o caráter condicionado dos cenários. A conclusão defensável é de importância e complementaridade, não de suficiência demonstrada.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "positions",
+        "item": "moodle-resource-6614388"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614388",
+        "section": "argument",
+        "item": 7
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614388",
+        "section": "mechanisms",
+        "item": 0
+      },
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "positions",
+        "item": "moodle-resource-6614380"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "relations",
+        "item": "educacao-e-complementos"
+      }
+    ],
+    "commentary": "O exemplo concede relevância à educação, delimita o alcance da evidência e introduz uma comparação de mecanismo que sustenta a conclusão."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Ler o coeficiente da regressão como retorno causal de uma política educacional.",
+      "revision": "Explicar o caráter reduzido e os fatores incorporados à associação.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614388",
+          "section": "argument",
+          "item": 7
+        },
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614388",
+          "section": "mechanisms",
+          "item": 0
+        }
+      ]
+    },
+    {
+      "mistake": "Tratar capital humano como condição suficiente em Rodrik.",
+      "revision": "Relacionar qualificação, complementaridades, coordenação e condições políticas.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "capital-humano-e-convergencia",
+          "section": "positions",
+          "item": "moodle-resource-6614380"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei a passagem indevida de associação para prova?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese concede importância sem afirmar suficiência?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Distingui regressão de Li e explicação histórica de Rodrik?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei como capital humano interage com investimento e instituições?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei um fator concreto de acesso ou uso das capacidades?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Preservei o caráter condicionado da conclusão?"
+    }
+  ]
+}

@@ -1,0 +1,1325 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6614379",
+  "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+  "lessons": [
+    21,
+    22
+  ],
+  "authors": [
+    "Barry Eichengreen"
+  ],
+  "title": "The Collapse of Central Planning (cap. 10 de livro sobre a economia europeia desde 1945)",
+  "year": "não consta no texto extraído",
+  "depth": "deep",
+  "status": "complete",
+  "thesis": "Para Eichengreen, o planejamento central do Leste europeu sobreviveu até os anos 1980 pela expansão extensiva, pelo crédito e pela tecnologia ocidentais e por reformas parciais, mas não resolveu suas contradições (incentivos, informação, complexidade); quando o impulso de Moscou cedeu e a intimidação acabou, a falta de incentivos positivos derrubou o sistema. Na transição, o autor sustenta que reformas mais radicais custam recessão maior, porém levam a recuperação mais cedo; a privatização depende de instituições, a política democrática e competitiva ajuda, e a perspectiva de adesão à UE foi a principal âncora externa das reformas.",
+  "question": "Por que o planejamento central entrou em colapso no fim dos anos 1980 (e por que só então), como foi a transição ao mercado no Leste Europeu e qual foi o papel da reunificação alemã e da UE?",
+  "argument": [
+    {
+      "claim": "As falhas do planejamento eram conhecidas: impossibilidade de planejar toda a complexidade de uma economia moderna e falta de incentivos positivos ao esforço; o crescimento extensivo já mostrava retornos decrescentes (desaceleração do produto material líquido entre os anos 1950 e 1960 e queda do retorno do investimento nos 1970).",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "These included the impossibility of formulating a plan"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        }
+      ]
+    },
+    {
+      "claim": "Essas limitações pesaram mais quando o Ocidente passou da manufatura aos serviços, à especialização flexível e às tecnologias de informação; as economias planejadas faziam bem bens simples (aço), mas não produtos complexos, e os regimes restringiam a difusão da informação (URSS com no máximo 300 mil computadores no fim dos anos 1980, contra mais de 20 milhões que se esperariam). O hiato Leste-Oeste aumentou.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "control was all that the planners knew how to do."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "had at most three hundred thousand computers, whereas Western"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "For all these reasons, the gap widened between East and West."
+        }
+      ]
+    },
+    {
+      "claim": "O enigma colocado: se os problemas apareceram nos anos 1950-60, por que a crise só veio cerca de vinte anos depois? A resposta do capítulo é que o sistema sobreviveu 'fazendo mais do mesmo' (mais indústria básica, mais capital), consumindo seu capital acumulado e o meio ambiente.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "of central planning had already surfaced in the 1950s and become"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "In practice, the socialist system survived by doing more of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "But the system showed a disturbing tendency to consume its"
+        }
+      ]
+    },
+    {
+      "claim": "A sobrevida dependeu de três apoios: (a) crédito ocidental dos anos 1970 (reciclagem de petrodólares, créditos à exportação dos EUA), que financiou consumo e importação de tecnologia, mas deixou dívida de cerca de US$ 50 bilhões; (b) tecnologia importada, com resultados decepcionantes; (c) petróleo soviético a preços abaixo do mercado, depois reajustados.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "of annual hard-currency export receipts"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 5,
+          "quote": "So long as it lasted, foreign lending was a boon."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 6,
+          "quote": "A telling case was the Zastava motor"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 7,
+          "quote": "imported Soviet oil at submarket prices, since trade within the"
+        }
+      ]
+    },
+    {
+      "claim": "Reformas parciais do 'socialismo de mercado' (preços agrícolas flexíveis, autonomia limitada das empresas, falências) atenuaram ineficiências, mas, segundo Kornai, o conceito era falho: não definia propriedade, dava poucos incentivos a responder a preços e não impedia gerentes de buscar subsídios.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 7,
+          "quote": "Prices, notably in the farm sector, were allowed to respond to the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "It provided only limited incentives for responding"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "It did not prevent managers from devoting their"
+        }
+      ]
+    },
+    {
+      "claim": "O impulso desestabilizador veio de Moscou: os soviéticos passaram a duvidar do valor do cordão sanitário e a temer seu custo (defesa, Afeganistão), exigindo preços mundiais pela energia e descontos nas manufaturas do Leste, o que piorou os termos de troca da região; Gorbachev minou a legitimidade restante do regime.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "Increasingly, they demanded that other"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "This turned the terms of trade against Eastern Europe."
+        }
+      ]
+    },
+    {
+      "claim": "Sem apoio soviético, a repressão perdeu eficácia; com a liberalização política, a intimidação deixou de motivar o trabalho e a ausência de incentivos positivos tornou-se fatal: 'privatização espontânea', propriedade de todos que de fato não era de ninguém. O crescimento ficou abaixo de 1% a.a. na segunda metade dos anos 1980 e a tentativa de acalmar o descontentamento com aumentos salariais gerou inflação explosiva; a desintegração econômica minou a legitimidade política e levou a eleições e à queda dos regimes.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "Without Soviet backing, the regimes saw resorting to martial"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "As long as the secret police were a force to be"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "But throughout the region, annual average growth rates"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        }
+      ]
+    },
+    {
+      "claim": "A transição trouxe recessão profunda (queda cumulativa do PIB de 12% na Tchéquia a 38% nos Estados Bálticos). O autor argumenta que parte da queda era inevitável (realocar capacidade de bens de capital para bens de consumo e de indústria para serviços) e que o produto medido superestima a perda de bem-estar; ao mesmo tempo, o Leste carecia das instituições, gestores e banqueiros que a Europa Ocidental tinha em 1945 e não teve um Plano Marshall.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "The cumulative fall in GDP after 1990 varied"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 12,
+          "quote": "that the decline in electricity consumption was milder than the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 13,
+          "quote": "But some contraction was unavoidable."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 14,
+          "quote": "Nor was there a Marshall Plan for the East, only dribs and drabs"
+        }
+      ]
+    },
+    {
+      "claim": "Os dilemas macro e de privatização estavam interligados: déficits fiscais e ausência de mercados financeiros levaram à monetização e à inflação; preços controlados geraram escassez; privatizar sem mercados financeiros e proteção a acionistas deixava os gerentes livres para agir em interesse próprio. Sem uma 'massa crítica' de reformas o sistema não ganhava coerência, embora nenhum país tenha aplicado de fato o tratamento de choque.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "no alternative to monetization. As a result of this increase in the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 16,
+          "quote": "But handing over large state enterprises to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "There were just too many political constraints."
+        }
+      ]
+    },
+    {
+      "claim": "Ritmo das reformas: reformadores radicais (Polônia, Tchéquia) sofreram contrações iniciais maiores mas se recuperaram mais cedo; os graduais (Hungria, Eslováquia) tiveram queda inicial menor, porém prolongada; Bulgária e Romênia, que quase não reformaram, tiveram quedas longas. No longo prazo, o que importou foi a reestruturação cumulativa. Os defensores do gradualismo apontavam custo político menor; os críticos, captura por interesses especiais e despojamento de ativos.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "output declined sharply. Production fell"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "suffered sharper contractions in the early years of the transition but"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "cumulative restructuring: how much state enterprise was transferred"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 19,
+          "quote": "Gradualism might enable the public to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 19,
+          "quote": "Mass privatization, it was argued, would"
+        }
+      ]
+    },
+    {
+      "claim": "Privatização em massa antes de tribunais e investidores institucionais deixou os ativos nas mãos de 'insiders' (Rússia) ou de fundos fracos (vouchers na Tchéquia); privatizar primeiro as pequenas empresas favoreceu instituições melhores, ao custo de deixar gerentes politicamente ligados das grandes estatais sangrando recursos. Portanto não houve solução fácil.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "the hands of its managers and workers."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "Insiders stripped the newly privatized enterprise of its"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "citizen was given a booklet of vouchers and a pen with which he or"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "In the case of a corner store, the owner, manager,"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "But they paid a price in the form of allowing the"
+        }
+      ]
+    },
+    {
+      "claim": "Mais que o ritmo, importou o sistema político: transições mais democráticas, com alternância de governo e coalizões abrangentes (que permitem pagamentos laterais aos perdedores), reformaram mais. A distância do Oeste e os anos sob comunismo dificultaram a construção de instituições; instituições não podem ser importadas 'em bloco', mas adiar a reforma também atrasaria as instituições. A comparação com a China (Estado menor, agricultura grande, velha guarda legítima) não se aplica ao Leste Europeu.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "pace of reform was the political system. One would expect informed"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 22,
+          "quote": "Such encompassing coalitions facilitated"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 22,
+          "quote": "The further east one traveled, it seemed, the fewer of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "China’s state sector was smaller."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "were a cry of freedom."
+        }
+      ]
+    },
+    {
+      "claim": "Reunificação alemã como caso extremo de 'big bang': instituições e moeda da RFA transferidas de uma vez (união monetária em julho de 1990; fim da RDA em 3/10/1990). O PIB da antiga RDA caiu 30% em 1990-91 e a produção industrial 50%; o autor atribui o fraco desempenho posterior sobretudo ao custo do trabalho (salários empurrados por sindicatos e patronato ocidentais, com transferências financiando seguro-desemprego), à incerteza sobre direitos de propriedade (restituição) e à má condução da Treuhand, e não à taxa de conversão 1:1.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 25,
+          "quote": "Federal Republic of Germany (FRG) in one fell swoop."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 26,
+          "quote": "rency conversion occurred on 2 July."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 26,
+          "quote": "Real GDP in the former GDR fell by 30 percent"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 28,
+          "quote": "man unions and employers were allowed to set East German wages."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 32,
+          "quote": "Not surprisingly, nearly 40 percent of members surveyed by the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 33,
+          "quote": "Treuhand aggravated the problem through its reluctance to break"
+        }
+      ]
+    },
+    {
+      "claim": "A integração com a UE completou a normalização: acordos de livre comércio (Acordos Europeus), comércio e IDE crescentes, e os critérios de Copenhague, que criaram um 'torneio de transição' com metas claras e avaliação independente, reforçando as reformas. O autor elogia a UE, mas vê como oportunidade perdida o fato de a UE não ter reformado a si mesma (mercado de trabalho, PAC, fundos), preferindo limitar a migração e estender gradualmente os subsídios agrícolas. Oito países entraram em 2004.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 35,
+          "quote": "They knew that the EU had"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 37,
+          "quote": "trade area that excluded sensitive sectors."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 38,
+          "quote": "investment (FDI), two-thirds of which originated in the EU."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 39,
+          "quote": "sition tournament” in which CEEC governments competed with"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 40,
+          "quote": "tunity missed. The EU addressed the threat of low-wage competition"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 41,
+          "quote": "The EU deserves enormous credit for how it brought the"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Contradições estruturais do planejamento: impossibilidade de coordenar uma economia complexa, falta de incentivos positivos, retornos decrescentes do crescimento extensivo e dificuldade de passar ao crescimento intensivo (o autor admite, em nota, que o Ocidente também teve retorno decrescente do investimento).",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "These included the impossibility of formulating a plan"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "Between 1971–1975 and 1976–1980, the incremental capital–"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Defasagem tecnológica e informacional frente ao Ocidente (pós-industrial, TI), agravada pelo controle autoritário da informação; o hiato Leste-Oeste ampliou-se.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "control was all that the planners knew how to do."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "had at most three hundred thousand computers, whereas Western"
+        }
+      ]
+    },
+    {
+      "kind": "cause",
+      "description": "Esgotamento financeiro: dívida externa de cerca de US$ 50 bilhões ao fim dos anos 1970 (cerca de 250% das exportações em moeda forte), seguida de crise de dívida, de inflação e de crescimento, que deixou os regimes sem como comprar paz social.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "of annual hard-currency export receipts"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "For all these reasons, the gap widened between East and West."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Moscou como transmissor: ao exigir preços mundiais pela energia, cortar descontos e perder o interesse no bloco, a URSS piorou os termos de troca do Leste e retirou o respaldo; sem ele, os regimes viam a repressão (lei marcial) como mais arriscada do que protetora.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "This turned the terms of trade against Eastern Europe."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "Without Soviet backing, the regimes saw resorting to martial"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Crédito e reciclagem de petrodólares dos bancos ocidentais, com apoio de FMI e Banco Mundial, e a importação de tecnologia: canais que ligaram o Leste ao ciclo financeiro global e adiaram o colapso.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "U.S. and Western European banks on the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 5,
+          "quote": "So long as it lasted, foreign lending was a boon."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 6,
+          "quote": "Machinery imports from the West"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Fim da intimidação: com a liberalização política, o aparato de coerção deixou de motivar o esforço e o país ficou sem incentivos positivos; trabalhadores levavam equipamento ('privatização espontânea'), a produção caiu e a inflação explodiu; a falência econômica deslegitimou o regime.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "As long as the secret police were a force to be"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Economia política da transição: ritmo e sequência das reformas dependem de restrições políticas (backlash, interesses de gerentes e burocratas); sistemas democráticos competitivos e coalizões abrangentes sustentaram mais reforma; privatização antes de instituições favorece 'insiders' e captura da política.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 19,
+          "quote": "Mass privatization, it was argued, would"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "pace of reform was the political system. One would expect informed"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 22,
+          "quote": "Such encompassing coalitions facilitated"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "It meant limiting the growth of private enterprise, which was the"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Reunificação: sindicatos e patronato da Alemanha Ocidental fixaram os salários do Leste, o governo evitou intervir (temia migração e hostilidade dos sindicatos), e transferências sustentaram o desemprego; isso ancorou custos do trabalho acima da produtividade.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 28,
+          "quote": "The Treuhand, in its wisdom, decided not to participate in these"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 28,
+          "quote": "Although the federal government could have intervened, it was"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 31,
+          "quote": "rose right along with them."
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Papel da UE como âncora institucional: acesso a mercado (Acordos Europeus), IDE, condicionalidade clara (critérios de Copenhague) e avaliação independente; o autor também ressalva que a UE se absteve de reformas próprias e limitou a migração.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 37,
+          "quote": "trade area that excluded sensitive sectors."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 39,
+          "quote": "By eliminating ambiguity"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 39,
+          "quote": "sition tournament” in which CEEC governments competed with"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 40,
+          "quote": "mainly by insisting on a transitional period of seven years during"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Polônia",
+      "period": "1970s-2000s",
+      "outcome": "Gierek programou dobrar o investimento no início dos anos 1970, em indústria pesada; inflação de mais de 200% em 1989; Solidarity derrota o governo nas eleições; terapia rápida: produção cai 12% em 1990 e 7% em 1991, estabiliza em 1992 e depois cresce 2-3 vezes mais que a Alemanha Oriental.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "The Gierek government in Poland"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "output declined sharply. Production fell"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 34,
+          "quote": "more successful transition economies such as Poland now grew at"
+        }
+      ]
+    },
+    {
+      "name": "Hungria",
+      "period": "1980s-1990s",
+      "outcome": "Reformas pró-mercado nos anos 1980 (fim do monopólio do crédito do banco central); eleições livres em março de 1990; liberalização gradual, queda inicial de produto de um terço da polonesa, estabilização em 1994; queda cumulativa de 18%.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 7,
+          "quote": "Prices, notably in the farm sector, were allowed to respond to the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "elections to be held in March 1990."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "in Slovakia and Hungary in 1994."
+        }
+      ]
+    },
+    {
+      "name": "Tchéquia e Eslováquia",
+      "period": "1990s",
+      "outcome": "Tchéquia: reforma rápida, privatização por vouchers com problemas de governança, estabilização em 1993, queda de 12%. Eslováquia: dependia da produção de armamentos, ajuste mais lento, estabilização em 1994, queda de 24%.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "example, moved relatively quickly,"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "citizen was given a booklet of vouchers and a pen with which he or"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "in Slovakia and Hungary in 1994."
+        }
+      ]
+    },
+    {
+      "name": "Bulgária e Romênia",
+      "period": "1989-1990s",
+      "outcome": "Reformaram quase nada na primeira metade dos anos 1990 (velho establishment no poder); Romênia teve queda de 8% do produto em 1989 com a austeridade de Ceauşescu para pagar a dívida; Bulgária: queda cumulativa de 33% e fundo do poço só em 1997.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "An extreme case was Romania, where output fell by 8 percent in"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "Bulgaria and Romania, where members"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "output fell by a cumulative 33"
+        }
+      ]
+    },
+    {
+      "name": "Alemanha Oriental (reunificação)",
+      "period": "1989-2000s",
+      "outcome": "Big bang institucional; PIB -30% e produção industrial -50% em 1990-91; crescimento de 9% a.a. em 1992-94, depois desaceleração (1,4% em 1996-2003 contra 2,3% no Ocidente); desemprego estabilizou em 18%; renda líquida em cerca de 80% da ocidental.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 26,
+          "quote": "Real GDP in the former GDR fell by 30 percent"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 27,
+          "quote": "annual rate of 9 percent, encouraging comparisons with the post–"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 27,
+          "quote": "just 1.4 percent between 1996 and 2003, below the 2.3 percent of"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 34,
+          "quote": "Incomes net of taxes leveled"
+        }
+      ]
+    },
+    {
+      "name": "China (contraste)",
+      "period": "período de transição",
+      "outcome": "Evitou recessão séria com reforma gradual, mas por razões estruturais: Estado menor (um quinto da força de trabalho), economia agrícola fácil de mercantilizar e velha guarda ainda legítima.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "China’s state sector was smaller."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "In China the old guard retained its"
+        }
+      ]
+    },
+    {
+      "name": "Europa Ocidental pós-1945 (contraste)",
+      "period": "pós-Segunda Guerra",
+      "outcome": "Realocou recursos sem grande recessão por contar com setor privado, gestores, bancos, tribunais e Plano Marshall; o Leste não teve esses ativos.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 13,
+          "quote": "In Central and Eastern Europe, where this experience and"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 14,
+          "quote": "Nor was there a Marshall Plan for the East, only dribs and drabs"
+        }
+      ]
+    },
+    {
+      "name": "Irlanda e periferia sul da UE (precedente)",
+      "period": "adesão à UE",
+      "outcome": "Convergiram fortemente após a adesão; o Leste esperava repetir isso com a UE, embora com custo do trabalho de um décimo do ocidental, contra metade nos entrantes do Sul.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 35,
+          "quote": "operated as an engine of convergence in Ireland and the Iberian"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 36,
+          "quote": "wages in the prospective accession economies were barely one-tenth"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Crescimento extensivo",
+      "definition": "Crescimento obtido com mais capital e insumos, sem ganho de eficiência; sofreu retornos decrescentes a partir dos anos 1950-60.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        }
+      ]
+    },
+    {
+      "term": "Relação incremental capital-produto",
+      "definition": "Capital adicional necessário para um ponto percentual extra de crescimento; medida do retorno do investimento. Subiu em todo o Leste entre 1971-75 e 1976-80 e de novo nos anos 1980.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "Between 1971–1975 and 1976–1980, the incremental capital–"
+        }
+      ]
+    },
+    {
+      "term": "CMEA (Comecon)",
+      "definition": "Bloco de comércio do Leste; valorizava mercadorias, inclusive petróleo, ao preço médio mundial de períodos anteriores, ajustado a cada cinco anos, depois a cada ano pela média de três.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 7,
+          "quote": "imported Soviet oil at submarket prices, since trade within the"
+        }
+      ]
+    },
+    {
+      "term": "Socialismo de mercado",
+      "definition": "Enxerto de elementos de mercado na economia de comando; segundo Kornai, não definia propriedade nem dava incentivos fortes a responder a preços.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "It provided only limited incentives for responding"
+        }
+      ]
+    },
+    {
+      "term": "Privatização espontânea",
+      "definition": "Rótulo tecnocrático para o saque desordenado de equipamentos pelos trabalhadores quando a intimidação desapareceu.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        }
+      ]
+    },
+    {
+      "term": "Restrição orçamentária rígida (hard budget constraint)",
+      "definition": "Regra pela qual a empresa não pode contar com subsídios; reformas de falência buscaram endurecê-la. Radicais a veem como incentivo à reestruturação.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "Bankruptcy procedures were reformed in an effort to harden"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 21,
+          "quote": "It was easier to impose hard budget"
+        }
+      ]
+    },
+    {
+      "term": "Terapia de choque / 'massa crítica'",
+      "definition": "Liberalização, estabilização e privatização simultâneas; Balcerowicz diz que sem massa crítica de reformas o sistema não ganha coerência. O autor nota que nenhum país a aplicou de fato.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        }
+      ]
+    },
+    {
+      "term": "Reestruturação cumulativa",
+      "definition": "Quanto de empresas estatais passou ao setor privado, quão eficazes foram as reformas do mercado de trabalho e do déficit; determina o crescimento de longo prazo.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "cumulative restructuring: how much state enterprise was transferred"
+        }
+      ]
+    },
+    {
+      "term": "Privatização em massa por vouchers",
+      "definition": "Distribuição de cupons aos cidadãos para licitar ações; sem tribunais e governança, concentrou propriedade em insiders ou em fundos fracos.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "citizen was given a booklet of vouchers and a pen with which he or"
+        }
+      ]
+    },
+    {
+      "term": "Treuhandanstalt",
+      "definition": "Agência da RDA criada para manter, reorganizar e privatizar empresas estatais; detinha cerca de 8 mil empresas e mais de 40% do território.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 25,
+          "quote": "Treuhandanstalt"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 33,
+          "quote": "The Treuhand thus owned roughly eight thousand"
+        }
+      ]
+    },
+    {
+      "term": "Acordos Europeus e critérios de Copenhague",
+      "definition": "Acordos de livre comércio assimétricos (1991) e requisitos políticos e econômicos de 1993 para adesão, com avaliação da Comissão e adoção do acquis.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 36,
+          "quote": "agreements with these three countries were signed in December"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 39,
+          "quote": "The criteria laid down in 1993 by the European Council in"
+        }
+      ]
+    },
+    {
+      "term": "Torneio de transição",
+      "definition": "Competição entre governos candidatos por melhor avaliação da Comissão Europeia, gerando incentivo a reformar.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 39,
+          "quote": "sition tournament” in which CEEC governments competed with"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "fact": "Produção industrial dobrou entre 1970 e 1988 em Tchecoslováquia, Hungria, Polônia e Iugoslávia; multiplicou-se por 3 na Bulgária e por 5 na Romênia.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "output doubled again between 1970 and 1988 in Czechoslovakia,"
+        }
+      ]
+    },
+    {
+      "fact": "Dívida do Leste (sem a URSS): US$ 47 bilhões em 1979, contra exportações ao Ocidente de US$ 20 bilhões; cerca de 250% das receitas anuais de exportação em moeda forte.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "Loans outstanding (not including the Soviet Union) came to forty-seven billion dollars"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "of annual hard-currency export receipts"
+        }
+      ]
+    },
+    {
+      "fact": "Importações de máquinas do Ocidente passaram de menos de 30% para quase 40% das importações do CMEA entre meados de 1960 e a segunda metade de 1970.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 6,
+          "quote": "Machinery imports from the West"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento médio abaixo de 1% a.a. na segunda metade dos anos 1980; inflação de 20% na Hungria e mais de 200% na Polônia em 1989.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "But throughout the region, annual average growth rates"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "more than 200 percent in Poland in 1989."
+        }
+      ]
+    },
+    {
+      "fact": "Queda cumulativa do PIB após 1990: República Tcheca 12%, Hungria 18%, Eslováquia 24%, Bálticos 38% (Tabela 10.1).",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "from a “low” of 12 percent in the Czech Republic to 18 percent in"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "Hungary, 24 percent in Slovakia, and 38 percent in the Baltic States."
+        }
+      ]
+    },
+    {
+      "fact": "Inflação antes dos programas de estabilização: Hungria 26%, Tchéquia 46%, Bulgária 245%, Romênia 314%, Polônia 1.096%.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "to 46 percent in the Czech Republic, 245 percent in Bulgaria, 314"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "percent in Romania, and 1,096 percent in Poland."
+        }
+      ]
+    },
+    {
+      "fact": "Ritmo de reforma: queda do produto da Polônia foi 12% (1990) e 7% (1991); a queda inicial da Hungria foi um terço e a da Eslováquia um quarto da polonesa.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "output declined sharply. Production fell"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "by a further 7 percent in 1991."
+        }
+      ]
+    },
+    {
+      "fact": "Bulgária: queda cumulativa de 33% com fundo do poço em 1997; Letônia atingiu o fundo em 1996 com queda ainda maior.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 18,
+          "quote": "output fell by a cumulative 33"
+        }
+      ]
+    },
+    {
+      "fact": "Rússia (1995): dois terços das ações da empresa privatizada média estavam com gerentes e trabalhadores.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 20,
+          "quote": "the hands of its managers and workers."
+        }
+      ]
+    },
+    {
+      "fact": "China: um quinto da força de trabalho no Estado, contra mais de 90% no Leste Europeu.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 24,
+          "quote": "upwards of 90 percent"
+        }
+      ]
+    },
+    {
+      "fact": "RDA: PIB -30% e produção industrial -50% em 1990-91; desemprego chegou a um terço da força de trabalho; no mesmo intervalo (pico a vale) a Polônia perdeu 14% e a Hungria 18%.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 26,
+          "quote": "Real GDP in the former GDR fell by 30 percent"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 26,
+          "quote": "Unemployment rose to one-third of the"
+        }
+      ]
+    },
+    {
+      "fact": "Crescimento da RDA: 9% a.a. em 1992-94; depois 5% (1995), 4% (1996), 2% (1997); média 1,4% em 1996-2003 contra 2,3% no Ocidente.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 27,
+          "quote": "annual rate of 9 percent, encouraging comparisons with the post–"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 27,
+          "quote": "just 1.4 percent between 1996 and 2003, below the 2.3 percent of"
+        }
+      ]
+    },
+    {
+      "fact": "Salários na RDA: aumentos de 17% no primeiro semestre de 1990 e de 25% a 60% no segundo; em 1994, salários brutos perto de 80% dos ocidentais e produto por trabalhador de 46%; taxa média de conversão de 1,6 para 1.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 29,
+          "quote": "to 60 percent. The unions insisted that wages in the East should rise"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 29,
+          "quote": "levels, but output per worker, including the self-employed, was still"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 29,
+          "quote": "1991 and 1992 and 19 percent between 1992 and 1993"
+        }
+      ]
+    },
+    {
+      "fact": "Seguro-desemprego repunha 68% do salário (com filhos) e 63% (sem filhos) até 1994; a migração líquida Leste-Oeste caiu de 169 mil (1991) para 88 mil (1992) e 10 mil (1997); transferências de 5% da renda nacional elevariam o padrão de vida do Leste em mais da metade.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 31,
+          "quote": "insurance system was immediately extended to the East."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 31,
+          "quote": "ing between the two parts of Berlin) fell from 169,000 in 1991 to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 31,
+          "quote": "88,000 in 1992 and then to a low of 10,000 in 1997."
+        }
+      ]
+    },
+    {
+      "fact": "Direitos de propriedade na RDA: mais de 40.000 pedidos sobre 17.000 empresas; até meados de 1992 só 4.700 resolvidos; quase 40% das empresas pesquisadas citaram incerteza jurídica como obstáculo.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 32,
+          "quote": "by mid-1992 only 4,700"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 32,
+          "quote": "Not surprisingly, nearly 40 percent of members surveyed by the"
+        }
+      ]
+    },
+    {
+      "fact": "Investimento na RDA chegou a 50% do PIB em meados dos anos 1990, dois terços ou mais públicos.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 33,
+          "quote": "rates had risen to an astounding 50 percent of the eastern states’"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 33,
+          "quote": "accounted for two-thirds and more of the total."
+        }
+      ]
+    },
+    {
+      "fact": "Comércio com a UE: exportações da UE-15 ao CEEC-10 quadruplicaram e importações triplicaram nos anos 1990; mais da metade do comércio exterior do CEEC-10 era com a UE (Tabela 10.4). IDE médio de pouco mais de 4% do PIB em 1995-99 e 6% em 2000-03, dois terços de origem na UE.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 37,
+          "quote": "Bulgaria and Romania) quadrupled in the course of the 1990s."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 37,
+          "quote": "the end of the 1990s, trade with the EU represented more than half"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 38,
+          "quote": "investment (FDI), two-thirds of which originated in the EU."
+        }
+      ]
+    },
+    {
+      "fact": "Custos salariais dos candidatos: cerca de um décimo dos da Europa Ocidental, contra cerca de metade no caso de Grécia, Portugal e Espanha na ampliação anterior.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 36,
+          "quote": "wages in the prospective accession economies were barely one-tenth"
+        }
+      ]
+    },
+    {
+      "fact": "Subsídios agrícolas nos novos membros foram introduzidos a 25% do nível da UE em 2004, 30% em 2005 e 35% em 2006; transição de sete anos para a livre migração.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 40,
+          "quote": "mainly by insisting on a transitional period of seven years during"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Interpretação do autor, não consenso: afirma que parte importante da queda do PIB foi estatística ou sem perda de bem-estar; o texto mesmo reconhece dificuldades de medição (empresas que deixaram de reportar, setor privado não captado).",
+    "A relação 'reforma radical = mais recessão, recuperação mais cedo' é uma correlação entre poucos casos; o autor cita Åslund, que diz que a Polônia deve seus resultados a reformas complementares e não à estratégia de privatização.",
+    "O autor admite que o Ocidente também sofreu queda do retorno ao investimento (nota 2), o que enfraquece o argumento de que a causa do declínio do Leste foi só o planejamento.",
+    "O texto propõe o enigma do momento do colapso e responde com crédito, tecnologia e petróleo; a conexão entre essas válvulas de escape e a data exata do colapso é interpretação do autor e, em parte, inferência minha a partir da sua narrativa.",
+    "A explicação da fraqueza da RDA pelos salários é uma tese do autor; ele mesmo diz que o contrafactual de taxa de conversão diferente tem pouco peso, e cita Sinn e von Hagen et al. sobre investimentos mal alocados.",
+    "Objeções internas: gradualistas (Portes, Dewatripont-Roland) apontam menor risco político; a crítica ao 'big bang' é a perda de apoio político e o alto desemprego; o autor responde que desacelerar não garante que as instituições surjam.",
+    "O texto extraído não traz o ano da obra nem o título do livro; os dados de tabelas e a figura do capítulo não estão em forma citável (ver figures_note).",
+    "O capítulo foca o Leste Europeu e a RDA, não a URSS como economia; a comparação com os slides (Allen) é inferência minha de leitura."
+  ],
+  "professor_emphasis": [
+    {
+      "point": "Os slides das aulas 21-22 tratam principalmente do texto de Allen sobre a URSS; ligação com Eichengreen (inferência minha): o professor propõe três explicações para a queda a partir dos anos 1970 (fracasso tecnológico, retornos decrescentes e erros de investimento), enquanto Eichengreen enfatiza incentivos, informação, crédito e política.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 26,
+          "quote": "Três abordagens explicam a queda a partir dos anos 1970: fracasso tecnológico; retornos decrescentes; erros de investimento."
+        }
+      ]
+    },
+    {
+      "point": "Fases do crescimento soviético: cerca de 6% a.a. em 1928-60, desaceleração em 1960-70 e colapso do crescimento em 1970-85 (compare com a data da crise em Eichengreen).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 14,
+          "quote": "1928–60 – crescimento de quase 6% a.a"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 15,
+          "quote": "1970-85 - crescimento desaba"
+        }
+      ]
+    },
+    {
+      "point": "Antes de 1970 a economia soviética teria sido uma das mais bem sucedidas do mundo pelo PIB (contrapõe-se a quem diz que o socialismo nunca poderia funcionar por incentivos e agência).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 3,
+          "quote": "olhando apenas o PIB, a economia soviética seria uma das mais bem sucedidas do mundo."
+        }
+      ]
+    },
+    {
+      "point": "Hiato Leste-Oeste: PIB per capita do Leste sempre bem menor que o da Europa Ocidental e o gap aumentou, especialmente depois de 1973, por causa do colapso do fim da era comunista e da demora do catch up após a transição.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 5,
+          "quote": "Níveis de PIB per capta sempre foram bem menores que na Europa ocidental e o gap aumentou"
+        }
+      ]
+    },
+    {
+      "point": "Guerra Fria/corrida armamentista: se tem efeito, seria responsável por mais da metade da desaceleração (liga-se ao argumento de Eichengreen sobre a pressão de defesa sobre Moscou).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 28,
+          "quote": "Se a guerra fria tem efeito, ela então é responsável por mais da metade da desaceleração do crescimento soviético"
+        }
+      ]
+    },
+    {
+      "point": "Retornos decrescentes: economia soviética tratada como função de proporções fixas (Leontief), com baixa elasticidade de substituição; esgotado o excedente de mão de obra, acumular capital não gera crescimento; vagas não preenchidas de 1% (1960) a 12,2% (1985).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 32,
+          "quote": "Economia soviética seguia uma função de produção de proporções fixas (função Leontief),"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 36,
+          "quote": "o número de vagas não preenchidas cresceu de 1% em 1960 para 12,2% em 1985"
+        }
+      ]
+    },
+    {
+      "point": "Erros de investimento: modernização das fábricas antigas e deslocamento para a Sibéria elevaram o capital sem elevar a produção; TFP caiu em carvão, petróleo e metais ferrosos em 1975-85.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 37,
+          "quote": "entre 1975 e 1985, a produtividade total dos fatores (TFP) caiu drasticamente em indústrias-chave como carvão, petróleo e metais ferrosos"
+        }
+      ]
+    },
+    {
+      "point": "Síntese do professor: para Allen, decisões desastrosas de investimento em energia e matéria-prima foram as principais causas do ocaso; o catch-up esgotado, os incentivos do plano de maximização do produto e a queda da natalidade também pesam.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 39,
+          "quote": "Allen argumenta que decisões desastrosas de investimentos em energia e matéria prima foram as principais causas do ocaso."
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: quais foram as causas econômicas da queda da URSS? (use Eichengreen para incentivos, crédito e transição, e Allen para investimento).",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Quais foram as causas econômicas da queda da URSS?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: por que a produtividade caiu no pós-guerra e na década de 70?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Por que a produtividade na economia soviética caiu no pós-guerra e reduziu-se na década de 70?"
+        }
+      ]
+    },
+    {
+      "point": "Questões propostas: em que sentido o modelo soviético foi bem sucedido e o que é soft budget.",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Em que sentido o modelo soviético de desenvolvimento econômico foi bem sucedido?"
+        },
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "O que é soft budget, por que ele é tão importante em elevar o produto?"
+        }
+      ]
+    },
+    {
+      "point": "Questão proposta: em que o crescimento da URSS difere do da Europa Ocidental da aula anterior?",
+      "refs": [
+        {
+          "file_id": "54cbd9d54950ff0b979ac1c69c057dcb7101196b09edb766f998afc60e42553d",
+          "pdf_page": 40,
+          "quote": "Em quais sentidos o crescimento da URSS se diferencia do visto na aula passada para a Europa Ocidental?"
+        }
+      ]
+    }
+  ],
+  "figures_note": [
+    "Tabela 10.1 (pdf p. 11): desempenho do produto nas economias em transição, 1989-2004 (ano de início, PIB per capita PPP em 1989, queda máxima, crescimento do vale até 2004). A extração traz as linhas, mas em colunas desalinhadas; consulte o original para os números por país.",
+    "Figura 10.1 (pdf p. 23): gráfico de dispersão de coalizões políticas (índice de governo de coalizão) contra indicadores de transição do BERD (1998); só os rótulos dos países foram extraídos.",
+    "Tabela 10.2 (pdf p. 27): salários, produtividade, custo unitário do trabalho e desemprego da Alemanha Oriental em % do Ocidental, 1991-2000 (colunas desalinhadas na extração).",
+    "Tabela 10.3 (pdf p. 30): produtividade por setor na Alemanha Oriental, 1992-2000 (1991 = 100).",
+    "Tabela 10.4 (pdf p. 38): comércio entre CEEC-10 e UE-15, 1992-1999, em percentuais.",
+    "Slides (SLIDE SEM TEXTO, aulas 21-22, sobre Allen e não sobre Eichengreen): slide 4 (Tabelas 12.1 e 12.3, PIB per capita), slide 7 (Tabela 1.1, PIB por pessoa 1820-1989), slide 8 (Figura 1, crescimento 1928-89 OCDE e não OCDE), slide 12 (Figuras 1.2 e 1.3), slide 20 (Tabela 2, estoque de capital real e simulado) e slide 30 (Figura 2, modelo de Weitzman)."
+  ]
+}

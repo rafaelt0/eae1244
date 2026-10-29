@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "exercise_id": "planejamento-sovietico-guided",
+  "debate_id": "planejamento-sovietico",
+  "mode": "guided",
+  "title": "Por que a mesma economia cresceu e desacelerou?",
+  "prompt": "O declínio soviético mostra que o planejamento foi um fracasso desde o início. Avalie essa afirmação comparando Allen e Eichengreen. Separe o crescimento inicial, a desaceleração e os mecanismos usados para explicar a mudança de fase.",
+  "lessons": [
+    21,
+    22
+  ],
+  "works": [
+    "moodle-resource-6614378",
+    "moodle-resource-6614379"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "Que evidência de desempenho inicial Allen procura explicar?",
+    "Como o trabalho excedente muda o efeito da acumulação?",
+    "Em que os autores divergem sobre incentivos e escolhas de investimento?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a inferência retrospectiva: o declínio não apaga resultados iniciais, mas exige investigar por que o modelo deixou de gerar o mesmo dinamismo.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "limite-da-expansao-extensiva"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Apresentar a crítica estrutural de Eichengreen: incentivos e informação tornam-se insuficientes para coordenar uma economia complexa.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614379"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Reconstruir Allen: investimento e absorção de trabalho excedente sustentam crescimento; depois mudam as restrições e a liderança responde mal.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "positions",
+            "item": "moodle-resource-6614378"
+          }
+        ]
+      },
+      {
+        "text": "Comparar a explicação por erros de alocação com a ênfase estrutural em incentivos, sem fingir consenso.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "incentivos-ou-escolhas"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir com periodização e uma comparação dos pesos causais, distinguindo esgotamento econômico de prova de fracasso uniforme.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "incentivos-ou-escolhas"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "planejamento-sovietico",
+            "section": "relations",
+            "item": "limite-da-expansao-extensiva"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "A desaceleração posterior não permite concluir que o planejamento nunca produziu crescimento. Allen explica a fase inicial pela acumulação e pela absorção de trabalho rural excedente. Quando esse excedente se esgotou, a qualidade das escolhas de investimento passou a importar de outra maneira, e sua interpretação destaca respostas inadequadas da liderança. Eichengreen atribui maior peso às limitações de incentivos e informação, agravadas pela complexidade da economia. Os autores podem reconhecer limites à expansão extensiva e ainda divergir sobre sua explicação. Uma resposta consistente, portanto, precisa separar o resultado observado em cada fase do mecanismo que o explica, em vez de usar o desfecho como julgamento de toda a trajetória.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "positions",
+        "item": "moodle-resource-6614378"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "positions",
+        "item": "moodle-resource-6614379"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "relations",
+        "item": "incentivos-ou-escolhas"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "planejamento-sovietico",
+        "section": "relations",
+        "item": "limite-da-expansao-extensiva"
+      }
+    ],
+    "commentary": "O exemplo contesta a inferência da pergunta, reconstrói duas explicações e identifica precisamente sua convergência parcial e divergência."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Usar o colapso como prova de ausência de realizações anteriores.",
+      "revision": "Dividir a trajetória em fases e discutir a explicação de cada resultado.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "planejamento-sovietico",
+          "section": "positions",
+          "item": "moodle-resource-6614378"
+        }
+      ]
+    },
+    {
+      "mistake": "Dizer que Allen e Eichengreen concordam integralmente sobre os incentivos.",
+      "revision": "Distinguir má escolha de planos, falha de incentivos e limite informacional.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "planejamento-sovietico",
+          "section": "relations",
+          "item": "incentivos-ou-escolhas"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei a inferência de fracasso desde o início?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese diferencia fases do desempenho?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Preservei a divergência Allen–Eichengreen?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei a mudança das restrições e dos mecanismos?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei a passagem do trabalho excedente ao seu esgotamento?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Minha conclusão evita tratar desaceleração e colapso como um único evento?"
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "capital-humano-e-convergencia",
+  "title": "Convergência: educação, instituições e oportunidades tecnológicas",
+  "lessons": [
+    20,
+    23,
+    24,
+    28
+  ],
+  "question": "A expansão da escolaridade basta para sustentar a convergência, ou seus efeitos dependem de instituições e outras condições?",
+  "thesis_statement": "Elevar a escolaridade é suficiente para assegurar convergência sustentada de renda.",
+  "works": [
+    "moodle-resource-6614388",
+    "moodle-resource-6601131",
+    "moodle-resource-6614397",
+    "moodle-resource-6614380"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6614388",
+      "stance": "qualifies",
+      "summary": "Li e coautores tornam a educação central para a próxima fase chinesa, quando demografia e realocação perdem força. Porém, sua regressão entre países é uma relação reduzida que incorpora capital físico, tecnologia e instituições, não o efeito causal isolado da escola. A projeção publicada em 2017 é um cenário condicionado, e a desigualdade rural-urbana torna decisivos o hukou, o financiamento e os incentivos locais.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 1,
+          "quote": "2014 and has now started to decline. Labor reallocation from rural to urban areas"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "China’s workers are already in the private sector, and many of the remaining"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "Because of the hukou policy and"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 5,
+          "quote": "people in China, had an urban hukou. Based on the 2010 population census, of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 4,
+          "quote": "school enrollment, medical insurance, and social security were—and"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "First, the Communist Party has used GDP growth as a measure of local"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "decentralized China’s fiscal"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "is in charge of delivering education and health to its own population. This"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "R-squared of these regressions are also high, especially for later years: for example,"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "coefficient of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "not a measure of the causal returns to education, because other factors are not"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "2035, then this will add 0.8 percent to the average annual growth rate of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "boost"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "Adding the toward-the-line and along-the-line growth numbers, we project"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6601131",
+      "stance": "rejects",
+      "summary": "Crafts e Toniolo condicionam o catch-up à capacidade social e à adequação da tecnologia; capital humano integra esse processo, junto a capital físico, PTF, comércio e incentivos. O crescimento europeu e sua desaceleração não decorrem de uma única dotação educacional.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 3,
+          "quote": "The equilibrium rate of technological progress is established by the intersection"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "be affected by institutions and policies."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "It should be noted that TFP does not equate to technological progress even"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "in the majority of countries TFP growth made"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "technology transfer, structural change,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 11,
+          "quote": "economies of scale, and fuller utilization of factors of production as post-war"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 16,
+          "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "implication was an increase of the European growth rate of around"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "1 percent per year during this period."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 17,
+          "quote": "over 40 percent of their technological progress from American research in"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "The end of the golden age had a number of unavoidable aspects, including the"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 21,
+          "quote": "diminishing returns to investment as the post-war boom went on,"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 13,
+          "quote": "percentage points per year for the capital deepening contribution, but 1.75"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 23,
+          "quote": "Europeans work less than Americans"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614397",
+      "stance": "rejects",
+      "summary": "Crafts vê diferenças de PTF, instituições persistentes e acesso desigual a mercados como obstáculos à convergência automática. A distância continua relevante na globalização. Também distingue convergência de renda de melhoras em padrões de vida, cuja avaliação inclui saúde e longevidade.",
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "In other words, the pure neoclassical (Solow) model"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "based on universal technology is inapplicable, and, as such, its forecast of"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "the long run and shows that gaps between Africa, China and India and the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "proportionate gains for poor countries have tended to exceed those of rich"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "South Africa, and Zimbabwe) could be equivalent to around 80 percent of GDP"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "In fact, the evidence suggests that distance was very much still alive in"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "that distance from markets and suppliers “explained”"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 13,
+          "quote": "ing the role that geography plays in location decisions but not abolishing it."
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614380",
+      "stance": "qualifies",
+      "summary": "Rodrik considera capital humano elevado em relação à renda uma condição favorável, combinada com igualdade e coordenação de investimentos. A dotação inicial torna alto o retorno potencial, mas a política precisa viabilizar complementaridades. Sua explicação do Leste Asiático não equivale a uma lei de crescimento a partir de anos de estudo.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 23,
+          "quote": "placed them among the ranks of countries at several times their income"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 24,
+          "quote": "Korea and Taiwan are the two countries closest to the origin"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 25,
+          "quote": "Table 6 shows that almost 90% of the two countries' growdi experience since"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 27,
+          "quote": "modern sector unless others are doing so as well"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "not only removed some policy-induced distortions, but also served"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "raising the private return to capital in the modern sectors to"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "the level of the social return."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "availability of relatively skilled labour, enabling the formation of a competent bureaucracy"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "neidier government had to contend with powerful industrial or"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "This is probably the single most important reason why extensive government"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "educacao-e-complementos",
+      "between": [
+        "moodle-resource-6614388",
+        "moodle-resource-6614380"
+      ],
+      "type": "converge",
+      "text": "Ambos ligam capital humano ao desenvolvimento em combinação com outros elementos: Li reconhece que a relação escolaridade-renda embute tecnologia, capital e instituições; Rodrik explica como mão de obra qualificada e capital físico escasso tornam a coordenação rentável. A convergência é sobre complementaridades, sem identificar uma estimativa causal comum.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "a rise in the years of schooling by 0.1 years is associated with a"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 16,
+          "quote": "line means that higher per capita income is positively associated with higher levels"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 27,
+          "quote": "modern sector unless others are doing so as well"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 39,
+          "quote": "While the initial human capital advantage may have been a necessary condition"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "export incentives were not sufficient in themselves"
+        }
+      ]
+    },
+    {
+      "id": "capacidade-social",
+      "between": [
+        "moodle-resource-6601131",
+        "moodle-resource-6614397"
+      ],
+      "type": "converge",
+      "text": "O capítulo europeu e a perspectiva mundial recusam catch-up automático. Capacidade de absorver tecnologia, incentivos e instituições moldam o resultado; arranjos adequados a uma fase podem dificultar a adaptação à TIC em outra.",
+      "refs": [
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 3,
+          "quote": "The equilibrium rate of technological progress is established by the intersection"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "be affected by institutions and policies."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "One very obvious point is that the fragility of the Eichengreen wage moder"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "the growth rate by 0.1 percentage points, so the tax increases between 1965"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 26,
+          "quote": "around 0.75 percentage points on average, based on the estimates in Nicoletti"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 31,
+          "quote": "Thus, the story is not that regulation has become more stringent but"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Since 1995, however, the United States has experienced a productivity growth"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 14,
+          "quote": "Catch-up in early postwar Europe was by no means automatic. It was based"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 17,
+          "quote": "Prior to the mid-1990s Europe had a strong record of faster productivity"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        }
+      ]
+    },
+    {
+      "id": "instituicoes-da-educacao",
+      "between": [
+        "moodle-resource-6614388",
+        "moodle-resource-6601131"
+      ],
+      "type": "context",
+      "text": "Li mostra como incentivos locais e financiamento rural afetam a formação de capacidades; Crafts e Toniolo discutem instituições que permitem converter capacidades em crescimento. São etapas complementares da explicação, observadas em economias e períodos distintos.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "First, the Communist Party has used GDP growth as a measure of local"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "decentralized China’s fiscal"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 8,
+          "quote": "is in charge of delivering education and health to its own population. This"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 3,
+          "quote": "The equilibrium rate of technological progress is established by the intersection"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "be affected by institutions and policies."
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 4,
+          "quote": "means automatic but depends on"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "It seems clear that the issues relate primarily to Irish economic policy rather"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "delay trade liberalization and instead pursue policies of import substitution"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 19,
+          "quote": "In 1973, capital per hour worked in West Germany was 35 percent above"
+        },
+        {
+          "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+          "pdf_page": 20,
+          "quote": "was relatively weak in the UK compared with West Germany, partly because"
+        }
+      ]
+    },
+    {
+      "id": "china-e-convergencia",
+      "between": [
+        "moodle-resource-6614388",
+        "moodle-resource-6614397"
+      ],
+      "type": "context",
+      "text": "Crafts documenta o catch-up chinês nos anos 1990 sem prometer convergência universal; Li e coautores projetam uma fase posterior com menor contribuição de demografia e realocação. Uma trajetória histórica de crescimento rápido e um cenário de desaceleração posterior não se contradizem por si só.",
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 1,
+          "quote": "2014 and has now started to decline. Labor reallocation from rural to urban areas"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 2,
+          "quote": "China’s workers are already in the private sector, and many of the remaining"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "2035, then this will add 0.8 percent to the average annual growth rate of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "boost"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "Adding the toward-the-line and along-the-line growth numbers, we project"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 4,
+          "quote": "in 1990 to 7.0 percent in 2000 and of world manufactured exports from 1.9"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 23,
+          "quote": "Estimates for China present big problems. Those reported in table 2.5 almost certainly"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 12,
+          "quote": "because it had not liberalized the capital account of the balance of payments."
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 19,
+          "quote": "The prospect that this"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 20,
+          "quote": "By contrast, the Central European and Baltic countries"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 21,
+          "quote": "the vision that Lucas offers of a world in which convergence takes"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Capital humano e complementaridades",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614388",
+            "kind": "cause",
+            "explanation": "Educação se associa à renda, com outros fatores incorporados ao coeficiente; não é efeito causal isolado.",
+            "refs": [
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 13,
+                "quote": "a rise in the years of schooling by 0.1 years is associated with a"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 16,
+                "quote": "line means that higher per capita income is positively associated with higher levels"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601131",
+            "kind": "transmitter",
+            "explanation": "Capital humano e assimilação tecnológica participam do catch-up.",
+            "refs": [
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 11,
+                "quote": "It should be noted that TFP does not equate to technological progress even"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 11,
+                "quote": "in the majority of countries TFP growth made"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 11,
+                "quote": "technology transfer, structural change,"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 11,
+                "quote": "economies of scale, and fuller utilization of factors of production as post-war"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 16,
+                "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 17,
+                "quote": "implication was an increase of the European growth rate of around"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 17,
+                "quote": "1 percent per year during this period."
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 17,
+                "quote": "over 40 percent of their technological progress from American research in"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "other",
+            "explanation": "Capital físico e humano não esgotam as diferenças internacionais de renda.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 8,
+                "quote": "In other words, the pure neoclassical (Solow) model"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 8,
+                "quote": "based on universal technology is inapplicable, and, as such, its forecast of"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "other",
+            "explanation": "Qualificação é condição habilitadora para retornos elevados à coordenação.",
+            "refs": [
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 39,
+                "quote": "While the initial human capital advantage may have been a necessary condition"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 14,
+                "quote": "export incentives were not sufficient in themselves"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Instituições e incentivos",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614388",
+            "kind": "political_economy",
+            "explanation": "Hukou, promoção de dirigentes e finanças locais limitam educação rural.",
+            "refs": [
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 4,
+                "quote": "school enrollment, medical insurance, and social security were—and"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 6,
+                "quote": "also helps to perpetuate dual labor markets and dual education systems."
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 8,
+                "quote": "This system provides strong short-term incentives to local leaders to invest in"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 8,
+                "quote": "local leaders see little gain to their"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 8,
+                "quote": "Second, another reform launched in the 1980s decentralized China’s fiscal"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 9,
+                "quote": "same set of fiscal"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601131",
+            "kind": "political_economy",
+            "explanation": "Incentivos ao investimento, concorrência e contratos sociais afetam o crescimento.",
+            "refs": [
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 18,
+                "quote": "facilitated by successful social contracts that sustained wage moderation by"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 18,
+                "quote": "that would be jeopardized if labor defected on the"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 18,
+                "quote": "does not appear to have been correlated with faster growth, ceteris paribus"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 18,
+                "quote": "hypothesis on which the jury is still out."
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 19,
+                "quote": "It seems clear that the issues relate primarily to Irish economic policy rather"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 19,
+                "quote": "delay trade liberalization and instead pursue policies of import substitution"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 19,
+                "quote": "In 1973, capital per hour worked in West Germany was 35 percent above"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 20,
+                "quote": "was relatively weak in the UK compared with West Germany, partly because"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "cause",
+            "explanation": "Instituições e políticas condicionam a persistência da divergência.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 11,
+                "quote": "century there were big rewards for countries with good institutions and policy;"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "absence of well-deﬁned property rights, enforceable contracts and government"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "bad institutions are frequently persistent and, once in place, can be virtually"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "political_economy",
+            "explanation": "Igualdade inicial favorece autonomia e controle da busca de renda.",
+            "refs": [
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 40,
+                "quote": "Such powerful groups had been decimated by die Japanese"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 40,
+                "quote": "The political leadership in Taiwan and Korea could concentrate on expanding die pie instead."
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 33,
+                "quote": "entrepreneurs who undertook investments in line with his priorities would be richly rewarded"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Mudança de fase do catch-up",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614388",
+            "kind": "cause",
+            "explanation": "Demografia, realocação e aproximação da relação mundial perdem força.",
+            "refs": [
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 17,
+                "quote": "inefficiency in the 1980s likely is due both to the fact that China’s economy was"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 18,
+                "quote": "from toward-the-line growth will be smaller in the future than in the past."
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 2,
+                "quote": "This demographic dividend has raised per capita"
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 3,
+                "quote": "fell from 71 to 30 percent."
+              },
+              {
+                "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+                "pdf_page": 18,
+                "quote": "China’s demographic dividend, from a larger-than-usual share of its"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601131",
+            "kind": "cause",
+            "explanation": "Reconstrução e hiato tecnológico menor reduzem o impulso transitório.",
+            "refs": [
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 21,
+                "quote": "and reduction in the scope for catch-up as the gap with the leader narrowed"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 8,
+                "quote": "golden age, but 1.5 percent per year thereafter."
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 21,
+                "quote": "switch of world industrial production"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "other",
+            "explanation": "Nova tecnologia altera a adequação da capacidade social europeia.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 14,
+                "quote": "“social contracts”"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 16,
+                "quote": "that facilitated wage moderation in return for high investment in a corporatist"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 22,
+                "quote": "may subsequently have become"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 17,
+                "quote": "legislation. The rationale is that employment protection legislation, which raises"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 17,
+                "quote": "were as laissez-faire as the United States rather less than half of the gap in the"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "absent",
+            "explanation": "A entrada explica o arranque asiático e limita sua generalização; não projeta a desaceleração demográfica futura.",
+            "refs": []
+          }
+        ]
+      },
+      {
+        "mechanism": "Geografia e acesso a mercados",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614388",
+            "kind": "absent",
+            "explanation": "A entrada não estima geografia como explicação internacional da convergência.",
+            "refs": []
+          },
+          {
+            "resource_id": "moodle-resource-6601131",
+            "kind": "other",
+            "explanation": "Comércio e transferência tecnológica permitem acesso ao conhecimento, sem reduzir o catch-up a uma lei geográfica.",
+            "refs": [
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 16,
+                "quote": "about 55 percent of the initial trade barriers were eliminated through the"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 17,
+                "quote": "implication was an increase of the European growth rate of around"
+              },
+              {
+                "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+                "pdf_page": 17,
+                "quote": "over 40 percent of their technological progress from American research in"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614397",
+            "kind": "cause",
+            "explanation": "Distância e acesso desigual a mercados seguem relevantes, junto às instituições.",
+            "refs": [
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 12,
+                "quote": "distance from markets and suppliers “explained”"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "growth regressions suggests that the direct inﬂuence of geography on growth is"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "weak relative to that of institutions and policy (Gallup, Sachs, and Mellinger,"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 19,
+                "quote": "The prospect that this"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 20,
+                "quote": "By contrast, the Central European and Baltic countries"
+              },
+              {
+                "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+                "pdf_page": 21,
+                "quote": "the vision that Lucas offers of a world in which convergence takes"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "absent",
+            "explanation": "A explicação de coordenação consumida não estima a geografia como determinante do hiato de renda.",
+            "refs": []
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "China: trajetória passada e cenário posterior",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614388",
+          "text": "As fontes anteriores de crescimento perdem força; a projeção depende de escolarização, hipótese de aproximação da relação global e faixa etária utilizada.",
+          "refs": [
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 1,
+              "quote": "2014 and has now started to decline. Labor reallocation from rural to urban areas"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 2,
+              "quote": "China’s workers are already in the private sector, and many of the remaining"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "2035, then this will add 0.8 percent to the average annual growth rate of"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "boost"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "Adding the toward-the-line and along-the-line growth numbers, we project"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "26 percent of China’s adults will have a college degree and 42 percent will have at least"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "3.0 percent in"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 19,
+              "quote": "If we use the years of schooling for the labor force (age 25–64) as the measure"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614397",
+          "text": "A China ganha participação industrial e aproxima-se dos EUA nos anos 1990, dentro de um quadro mundial sem convergência automática.",
+          "refs": [
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 4,
+              "quote": "in 1990 to 7.0 percent in 2000 and of world manufactured exports from 1.9"
+            },
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 23,
+              "quote": "Estimates for China present big problems. Those reported in table 2.5 almost certainly"
+            },
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 12,
+              "quote": "because it had not liberalized the capital account of the balance of payments."
+            },
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 19,
+              "quote": "The prospect that this"
+            },
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 20,
+              "quote": "By contrast, the Central European and Baltic countries"
+            },
+            {
+              "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+              "pdf_page": 21,
+              "quote": "the vision that Lucas offers of a world in which convergence takes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coreia como referência educacional em períodos distintos",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614388",
+          "text": "A comparação internacional identifica escolaridade coreana elevada frente à chinesa na população ativa.",
+          "refs": [
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 11,
+              "quote": "rapid expansion since 1999, only 12.5 percent of China’s labor force attended"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 11,
+              "quote": "Mexico (16 percent), South Africa (15 percent),"
+            },
+            {
+              "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+              "pdf_page": 11,
+              "quote": "Korea, 45 and 86"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614380",
+          "text": "Capital humano inicial elevado para a renda e igualdade ajudam a explicar o alto retorno potencial à coordenação.",
+          "refs": [
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 23,
+              "quote": "placed them among the ranks of countries at several times their income"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 24,
+              "quote": "Korea and Taiwan are the two countries closest to the origin"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 25,
+              "quote": "Table 6 shows that almost 90% of the two countries' growdi experience since"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 26,
+              "quote": "coordinated investments was extremely high"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 27,
+              "quote": "modern sector unless others are doing so as well"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 28,
+              "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Li usa correlação internacional e cenários, Rodrik uma explicação histórica de complementaridades e intervenção. A mesma palavra capital humano não transforma os dois exercícios em estimativas do mesmo efeito causal.",
+      "works": [
+        "moodle-resource-6614388",
+        "moodle-resource-6614380"
+      ],
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "R-squared of these regressions are also high, especially for later years: for example,"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "coefficient of"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 13,
+          "quote": "not a measure of the causal returns to education, because other factors are not"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 27,
+          "quote": "modern sector unless others are doing so as well"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the real debate should be over which government"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the relevance of their experience with"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "government intervention to other developing economies may well be limited"
+        }
+      ]
+    },
+    {
+      "text": "As populações e datas importam: anos de escolaridade de adultos 25+ não são a mesma medida de escolaridade dos trabalhadores 25–64. Não misturar os números chineses de diferentes recortes nem atualizar os cenários de 2017 como se fossem observações de 2026.",
+      "works": [
+        "moodle-resource-6614388"
+      ],
+      "refs": [
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "25–64) rising from 4.3 years in 1980 to 9.6 years in 2015."
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 3,
+          "quote": "driven in no small part due to rising returns to education (Li, Li, Wu, and Xiong 2012),"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "years of schooling for adults aged 25 or above in China rose from 4.0 in 1980 to 8.8"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "two-thirds of China’s annual growth in national income growth of 9.7 percent a year"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 17,
+          "quote": "About 40 percent of the gain in per capita income is what would typically be associated"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "26 percent of China’s adults will have a college degree and 42 percent will have at least"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "3.0 percent in"
+        },
+        {
+          "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+          "pdf_page": 19,
+          "quote": "If we use the years of schooling for the labor force (age 25–64) as the measure"
+        }
+      ]
+    },
+    {
+      "text": "Crafts distingue renda per capita de bem-estar. Ganhos de longevidade podem reduzir lacunas de padrões de vida mesmo sem convergência de renda, e a AIDS ameaça esses ganhos no período estudado.",
+      "works": [
+        "moodle-resource-6614397"
+      ],
+      "refs": [
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 8,
+          "quote": "the US level in 1870, this had fallen to 9.4 percent by 1950 and to 5.2 percent"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "gence experience, in that both China and India (together comprising about 37"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 9,
+          "quote": "This decrease came entirely from growth in East and South"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "the long run and shows that gaps between Africa, China and India and the"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "proportionate gains for poor countries have tended to exceed those of rich"
+        },
+        {
+          "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+          "pdf_page": 10,
+          "quote": "South Africa, and Zimbabwe) could be equivalent to around 80 percent of GDP"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Qualificar a suficiência: educação é capacidade importante, mas seus retornos e sua própria formação dependem de condições institucionais, produtivas e sociais.",
+        "basis": [
+          "position:moodle-resource-6614388",
+          "position:moodle-resource-6601131",
+          "position:moodle-resource-6614397",
+          "position:moodle-resource-6614380"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Usar Li para explicar por que educação ganha relevância quando demografia e realocação rural-urbana deixam de oferecer o mesmo impulso.",
+        "basis": [
+          "position:moodle-resource-6614388"
+        ]
+      },
+      {
+        "text": "Usar Rodrik para mostrar uma complementaridade: trabalhadores qualificados e pouco capital podem tornar o investimento coordenado altamente rentável.",
+        "basis": [
+          "position:moodle-resource-6614380",
+          "relation:educacao-e-complementos"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Não interpretar o coeficiente escolaridade-renda como retorno causal de uma política educacional isolada, nem a projeção como destino inevitável.",
+        "basis": [
+          "position:moodle-resource-6614388"
+        ]
+      },
+      {
+        "text": "Acrescentar capacidade social, incentivos, tecnologia, instituições e acesso a mercados com os dois textos de Crafts.",
+        "basis": [
+          "position:moodle-resource-6601131",
+          "position:moodle-resource-6614397",
+          "relation:capacidade-social"
+        ]
+      },
+      {
+        "text": "Distinguir convergência de renda e melhora dos padrões de vida; definir a variável que a resposta pretende explicar.",
+        "basis": [
+          "position:moodle-resource-6614397"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que escolaridade é parte de uma estratégia condicionada de convergência. A resposta deve ligar formação, uso produtivo das capacidades e instituições, preservando as diferenças de método e período entre autores.",
+        "basis": [
+          "position:moodle-resource-6614388",
+          "position:moodle-resource-6601131",
+          "position:moodle-resource-6614397",
+          "position:moodle-resource-6614380"
+        ]
+      }
+    ]
+  }
+}

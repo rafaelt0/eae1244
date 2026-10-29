@@ -1,0 +1,7 @@
+.local/
+__pycache__/
+*.py[cod]
+.env
+.env.local
+
+dist/

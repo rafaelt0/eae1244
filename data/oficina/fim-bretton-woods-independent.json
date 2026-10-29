@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "exercise_id": "fim-bretton-woods-independent",
+  "debate_id": "fim-bretton-woods",
+  "mode": "independent",
+  "title": "Por que a cooperação não preservou o sistema?",
+  "prompt": "Por que a cooperação monetária e as medidas de defesa do dólar não preservaram Bretton Woods? Compare Eichengreen, Frieden e Meissner e use o Gold Pool ou outro episódio das leituras para sustentar sua conclusão.",
+  "lessons": [
+    18,
+    19
+  ],
+  "works": [
+    "moodle-resource-6601122",
+    "moodle-resource-6601124",
+    "moodle-resource-6601125"
+  ],
+  "skills": [
+    "compare_authors",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Defender que medidas de cooperação podiam adiar pressões sem resolver o desenho nem distribuir custos de ajuste de modo aceitável.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601122"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "ajuste-e-politica"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Examinar o Gold Pool: defesa conjunta do preço oficial coexistia com conversões e divergência sobre quem suportaria os déficits.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601122",
+            "section": "cases",
+            "item": 6
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601125",
+            "section": "cases",
+            "item": 5
+          }
+        ]
+      },
+      {
+        "text": "Relacionar esses limites ao conflito entre criação de liquidez e conversibilidade.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601122"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Evitar deduzir que a cooperação foi irrelevante: ela sustentou o regime por algum tempo, embora não eliminasse a fragilidade.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601122",
+            "section": "cases",
+            "item": 6
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601122",
+            "section": "argument",
+            "item": 11
+          }
+        ]
+      },
+      {
+        "text": "Introduzir Meissner e Frieden para mostrar por que não bastava criar mais um instrumento técnico sem vontade de ajustar.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "ajuste-e-politica"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601125"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que sustentabilidade exigia compatibilizar desenho, cooperação e escolhas domésticas, sem reduzir o fracasso a ausência de iniciativa internacional.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "relations",
+            "item": "desenho-e-decisao"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "fim-bretton-woods",
+            "section": "positions",
+            "item": "moodle-resource-6601125"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "O Gold Pool ilustra a diferença entre aliviar uma pressão e remover sua origem. Em Eichengreen, o esforço conjunto de defender o preço oficial do ouro era neutralizado por conversões fora do acordo, enquanto permanecia a tensão entre dólares e ouro. Meissner acrescenta que os participantes não aceitavam garantir indefinidamente os déficits alheios. A cooperação enfrentava, portanto, um problema de distribuição de custos. Frieden ajuda a completar a explicação: a defesa do dólar exigia sacrifícios que os governantes americanos não estavam dispostos a impor internamente. O episódio mostra cooperação existente e limitada, permitindo discutir por que instrumentos comuns não garantiam compromissos políticos duradouros.",
+    "basis": [
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601122",
+        "section": "cases",
+        "item": 6
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601125",
+        "section": "cases",
+        "item": 5
+      },
+      {
+        "module": "atlas",
+        "entry_id": "fim-bretton-woods",
+        "section": "relations",
+        "item": "ajuste-e-politica"
+      }
+    ],
+    "commentary": "O caso organiza a comparação: apresenta a medida, explica seu limite e conecta o episódio a um argumento mais amplo sobre custos de ajuste."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Afirmar que Bretton Woods caiu porque ninguém tentou cooperar.",
+      "revision": "Usar o Gold Pool como evidência de iniciativas concretas e explicar por que seus limites persistiram.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601122",
+          "section": "cases",
+          "item": 6
+        },
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601125",
+          "section": "cases",
+          "item": 5
+        }
+      ]
+    },
+    {
+      "mistake": "Enumerar Gold Pool, controles e SDRs sem explicar o que cada medida não resolveu.",
+      "revision": "Selecionar um episódio e relacioná-lo à restrição estrutural e à resistência ao ajuste.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6601122",
+          "section": "argument",
+          "item": 11
+        },
+        {
+          "module": "atlas",
+          "entry_id": "fim-bretton-woods",
+          "section": "relations",
+          "item": "ajuste-e-politica"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Expliquei o limite de uma medida concreta de cooperação?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha resposta propõe uma explicação para a insuficiência dessas medidas?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Distingui os argumentos dos três autores?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Liguei o funcionamento do instrumento ao problema que ele deixou em aberto?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "O episódio escolhido sustenta a comparação?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Reconheci que adiar uma crise é diferente de eliminar sua origem?"
+    }
+  ]
+}

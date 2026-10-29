@@ -1,0 +1,990 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "planejamento-sovietico",
+  "title": "Planejamento: crescimento inicial, desaceleração e colapso",
+  "lessons": [
+    21,
+    22,
+    25
+  ],
+  "question": "Por que o planejamento central cresceu rapidamente e depois perdeu dinamismo e sustentação política?",
+  "thesis_statement": "Os mesmos defeitos de incentivo explicam tanto o desempenho inicial quanto o declínio soviético.",
+  "works": [
+    "moodle-resource-6614378",
+    "moodle-resource-6614379",
+    "moodle-resource-6614394"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6614378",
+      "stance": "rejects",
+      "summary": "Allen rejeita um fracasso uniforme do socialismo. Investimento pesado e restrição orçamentária branda mobilizaram trabalho rural excedente. Depois de esgotado esse excedente, o problema principal foi a escolha de investimentos pouco produtivos, agravada pelo desvio militar de P&D. A execução dos planos não basta: para ele, os próprios planos passaram a fazer pouco sentido.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 2,
+          "quote": "The growth record divides in two sometime around"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "It was the most successful non-OECD country in this period."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "was arguably the second most successful economy in the world."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Two factors were of cardinal importance in promoting"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The strategy of investing in heavy industry"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "The external reason was the Cold War,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "On the contrary, the plans were implemented; the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "the economy stopped growing because of the"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614379",
+      "stance": "qualifies",
+      "summary": "Eichengreen enfatiza incentivos e informação, cuja inadequação cresce com a complexidade produtiva. Crédito e tecnologia externos prolongaram a expansão extensiva. O colapso exige explicar a retirada do apoio soviético e a perda da coerção, que expôs a ausência de incentivos positivos. Sua narrativa inclui o Leste europeu e a transição, além da experiência soviética.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "These included the impossibility of formulating a plan"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "control was all that the planners knew how to do."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "had at most three hundred thousand computers, whereas Western"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "For all these reasons, the gap widened between East and West."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 4,
+          "quote": "of annual hard-currency export receipts"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 5,
+          "quote": "So long as it lasted, foreign lending was a boon."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 6,
+          "quote": "A telling case was the Zastava motor"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 7,
+          "quote": "imported Soviet oil at submarket prices, since trade within the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "Without Soviet backing, the regimes saw resorting to martial"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "As long as the secret police were a force to be"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "But throughout the region, annual average growth rates"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614394",
+      "stance": "qualifies",
+      "summary": "Frieden insere o socialismo na crise dos arranjos do pós-guerra: a estagnação e o contraste com reformas chinesas pressionaram a URSS a mudar. Essa síntese ajuda a situar a sequência de reformas e colapso, mas não oferece o teste de mecanismos do investimento feito por Allen.",
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 17,
+          "quote": "Cerca de 80% da economia desses países era rural."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "Polônia, depois a Hungria e o resto do Comecon, deixaram o poder"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "dos mercados domésticos e internacionais; quanto maior a transformação,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "aproximadamente, os países em desenvolvimento deixaram para trás 50"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "As economias socialistas (com a exceção de China e"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "incentivos-ou-escolhas",
+      "between": [
+        "moodle-resource-6614378",
+        "moodle-resource-6614379"
+      ],
+      "type": "diverge",
+      "text": "Allen questiona a explicação de falha tecnológica por incentivos antigos e dá primazia a decisões de investimento e à corrida armamentista. Eichengreen trata os limites de incentivos e informação como estruturais e mais graves numa economia complexa. Divergem na interpretação causal da desaceleração; os recortes e métodos também diferem.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 8,
+          "quote": "First, there is a timing problem."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 9,
+          "quote": "much experimentation went on."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 10,
+          "quote": "then it accounts for over half of the Soviet growth slowdown."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 17,
+          "quote": "the capital stock went up by 55 per cent"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "The shift in emphasis to reconstruction of old sites was disastrous."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 18,
+          "quote": "Three industries had TFP falls of more than 10 per cent between 1975 and"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "The external reason was the Cold War,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "On the contrary, the plans were implemented; the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "the economy stopped growing because of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "These included the impossibility of formulating a plan"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "control was all that the planners knew how to do."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "had at most three hundred thousand computers, whereas Western"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "For all these reasons, the gap widened between East and West."
+        }
+      ]
+    },
+    {
+      "id": "limite-da-expansao-extensiva",
+      "between": [
+        "moodle-resource-6614378",
+        "moodle-resource-6614379"
+      ],
+      "type": "converge",
+      "text": "Ambos identificam limites à continuidade de crescer acumulando insumos. Allen localiza a inflexão no fim do trabalho excedente e na má resposta do investimento; Eichengreen destaca retornos decrescentes e repetição da expansão extensiva. A convergência sobre a mudança de fase não elimina a divergência sobre sua causa principal.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "Capital accumulation will be the protagonist in the narrative proposed here."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "1928 the USSR was a capital-scarce, labour-surplus"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "By the 1970s this phase of growth was"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "These included the impossibility of formulating a plan"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 1,
+          "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "of central planning had already surfaced in the 1950s and become"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "In practice, the socialist system survived by doing more of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "But the system showed a disturbing tendency to consume its"
+        }
+      ]
+    },
+    {
+      "id": "reforma-e-colapso",
+      "between": [
+        "moodle-resource-6614379",
+        "moodle-resource-6614394"
+      ],
+      "type": "converge",
+      "text": "As duas narrativas vinculam mudança econômica e sustentação política dos regimes. Eichengreen detalha a retirada do apoio de Moscou e o fim da intimidação; Frieden situa perestroika, abertura política e colapso na virada geral para mercados. A convergência é de sequência histórica, com graus distintos de detalhe causal.",
+      "refs": [
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "Increasingly, they demanded that other"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 8,
+          "quote": "This turned the terms of trade against Eastern Europe."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "Without Soviet backing, the regimes saw resorting to martial"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "As long as the secret police were a force to be"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "But throughout the region, annual average growth rates"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 17,
+          "quote": "Cerca de 80% da economia desses países era rural."
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 18,
+          "quote": "Polônia, depois a Hungria e o resto do Comecon, deixaram o poder"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Acumulação extensiva",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "cause",
+            "explanation": "Mobiliza capital e trabalho rural subempregado na fase inicial.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 4,
+                "quote": "The rapid growth before 1970 was due to exceptional growth of the capital stock, a"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 12,
+                "quote": "surplus labour was exhausted."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 5,
+                "quote": "The rapid accumulation"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "the marginal product of labour sinks below the wage"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "further gain of 23 per cent."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 5,
+                "quote": "Kornai ~1992! criticized these practices in the 1980s, when there was"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "cause",
+            "explanation": "Mais capital e indústria básica prolongam um regime com retornos declinantes.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 1,
+                "quote": "These included the impossibility of formulating a plan"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 1,
+                "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 2,
+                "quote": "of central planning had already surfaced in the 1950s and become"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 3,
+                "quote": "In practice, the socialist system survived by doing more of the"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 3,
+                "quote": "But the system showed a disturbing tendency to consume its"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "absent",
+            "explanation": "A síntese do caderno não modela a acumulação soviética inicial.",
+            "refs": []
+          }
+        ]
+      },
+      {
+        "mechanism": "Incentivos, informação e qualidade do investimento",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "cause",
+            "explanation": "Erros de alocação e objetivos inadequados pesam mais que falhas de execução dos planos.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 15,
+                "quote": "First, investment shifted from the construction of new manufacturing"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 18,
+                "quote": "The planners were not able to monitor changes in capacity, nor did they have objective"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 21,
+                "quote": "retooling old factories and by throwing additional fortunes into Siberian"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 20,
+                "quote": "The external reason was the Cold War,"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 21,
+                "quote": "On the contrary, the plans were implemented; the"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 21,
+                "quote": "the economy stopped growing because of the"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "cause",
+            "explanation": "Informação e incentivos deficientes dificultam a passagem ao crescimento intensivo.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 1,
+                "quote": "These included the impossibility of formulating a plan"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 1,
+                "quote": "decelerated between the 1950s and 1960s, as the extensive-growth"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 4,
+                "quote": "Between 1971–1975 and 1976–1980, the incremental capital–"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 2,
+                "quote": "control was all that the planners knew how to do."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 2,
+                "quote": "had at most three hundred thousand computers, whereas Western"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "other",
+            "explanation": "Estagnação e contraste chinês pressionam a reforma, sem decomposição formal das causas.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 17,
+                "quote": "Cerca de 80% da economia desses países era rural."
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 18,
+                "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 19,
+                "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Sustentação política e relações externas",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "cause",
+            "explanation": "A rivalidade militar desvia P&D civil e agrava a desaceleração.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 9,
+                "quote": "12 per cent of its GDP on defence in 1966–70 against 16 per"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 9,
+                "quote": "diverting R&D resources from civilian to military innovation."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 10,
+                "quote": "The Cold War may have been one factor contributing to the fall in Soviet"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614379",
+            "kind": "political_economy",
+            "explanation": "Crédito adia o ajuste; retirada do apoio soviético e fim da coerção precipitam a crise.",
+            "refs": [
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 8,
+                "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 8,
+                "quote": "This turned the terms of trade against Eastern Europe."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 9,
+                "quote": "Without Soviet backing, the regimes saw resorting to martial"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 4,
+                "quote": "U.S. and Western European banks on the"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 5,
+                "quote": "So long as it lasted, foreign lending was a boon."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 6,
+                "quote": "Machinery imports from the West"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 9,
+                "quote": "As long as the secret police were a force to be"
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 9,
+                "quote": "No one had an incentive to protect it."
+              },
+              {
+                "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+                "pdf_page": 10,
+                "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614394",
+            "kind": "political_economy",
+            "explanation": "A reforma da URSS se liga à abertura política e ao fim dos regimes.",
+            "refs": [
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 17,
+                "quote": "Cerca de 80% da economia desses países era rural."
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 18,
+                "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 18,
+                "quote": "Polônia, depois a Hungria e o resto do Comecon, deixaram o poder"
+              },
+              {
+                "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+                "pdf_page": 19,
+                "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "URSS: mudança de fase",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614378",
+          "text": "Sucesso relativo até cerca de 1970 e desaceleração posterior exigem explicações separadas; escolhas de investimento são centrais.",
+          "refs": [
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 4,
+              "quote": "Capital accumulation will be the protagonist in the narrative proposed here."
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 4,
+              "quote": "1928 the USSR was a capital-scarce, labour-surplus"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 4,
+              "quote": "By the 1970s this phase of growth was"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 4,
+              "quote": "There are three stories to choose from."
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 4,
+              "quote": "The usual story among"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 5,
+              "quote": "The end of surplus labour posed new challenges. The Communist"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614379",
+          "text": "Mudanças soviéticas alteram os termos de troca e o apoio político ao restante do bloco.",
+          "refs": [
+            {
+              "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+              "pdf_page": 8,
+              "quote": "subsequently in the Soviet Union, the destabilizing impulse came"
+            },
+            {
+              "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+              "pdf_page": 8,
+              "quote": "Increasingly, they demanded that other"
+            },
+            {
+              "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+              "pdf_page": 8,
+              "quote": "This turned the terms of trade against Eastern Europe."
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614394",
+          "text": "Estagnação, reformas de Gorbatchev e abertura política precedem o colapso.",
+          "refs": [
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 18,
+              "quote": "enquanto a economia chinesa dobrou de tamanho, a soviética cresceu"
+            },
+            {
+              "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+              "pdf_page": 19,
+              "quote": "1991, enquanto Gorbatchev lutava para administrar o que agora"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Allen usa simulações e contrafactuais para a URSS, distinguindo períodos. Eichengreen cobre o bloco europeu, sua sobrevida e a transição. Uma explicação da desaceleração dos anos 1970 não é automaticamente uma explicação suficiente da queda dos regimes em 1989–91.",
+      "works": [
+        "moodle-resource-6614378",
+        "moodle-resource-6614379"
+      ],
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Two factors were of cardinal importance in promoting"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The strategy of investing in heavy industry"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 2,
+          "quote": "of central planning had already surfaced in the 1950s and become"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "In practice, the socialist system survived by doing more of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 3,
+          "quote": "But the system showed a disturbing tendency to consume its"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "Without Soviet backing, the regimes saw resorting to martial"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "As long as the secret police were a force to be"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "No one had an incentive to protect it."
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 9,
+          "quote": "But throughout the region, annual average growth rates"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 10,
+          "quote": "In Poland there existed a rival for power in the form of the Solidarity"
+        }
+      ]
+    },
+    {
+      "text": "Frieden oferece uma síntese comparativa dos três mundos. Ela contextualiza a virada para mercados, enquanto os outros dois textos debatem mecanismos mais específicos.",
+      "works": [
+        "moodle-resource-6614394",
+        "moodle-resource-6614378",
+        "moodle-resource-6614379"
+      ],
+      "refs": [
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "dos mercados domésticos e internacionais; quanto maior a transformação,"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "aproximadamente, os países em desenvolvimento deixaram para trás 50"
+        },
+        {
+          "file_id": "7c04590b9af7a5ce4d20be158ec6a9c5575d1fe0f453b4095baa1904422db05c",
+          "pdf_page": 19,
+          "quote": "As economias socialistas (com a exceção de China e"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "The external reason was the Cold War,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "On the contrary, the plans were implemented; the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "the economy stopped growing because of the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "ranging from 26 percent in Hungary"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 15,
+          "quote": "no alternative to monetization. As a result of this increase in the"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 16,
+          "quote": "But handing over large state enterprises to"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "In practice, no country actually applied the “shock"
+        },
+        {
+          "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+          "pdf_page": 17,
+          "quote": "There were just too many political constraints."
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar uma explicação invariável: crescimento inicial, desaceleração e colapso político são eventos ligados, mas exigem mecanismos e cronologias próprios.",
+        "basis": [
+          "position:moodle-resource-6614378",
+          "position:moodle-resource-6614379",
+          "position:moodle-resource-6614394"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder a Eichengreen que incentivos e informação limitavam o planejamento de uma economia mais complexa.",
+        "basis": [
+          "position:moodle-resource-6614379"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Usar Allen para mostrar por que instituições aparentemente problemáticas, como soft budgets, podiam mobilizar trabalho excedente numa fase e perder adequação em outra.",
+        "basis": [
+          "position:moodle-resource-6614378"
+        ]
+      },
+      {
+        "text": "Expor a divergência: Allen pede explicar a data da inflexão e a qualidade das escolhas; Eichengreen destaca contradições estruturais e sua sobrevida financiada.",
+        "basis": [
+          "relation:incentivos-ou-escolhas"
+        ]
+      },
+      {
+        "text": "Acrescentar a dimensão política do colapso: Moscou, coerção, reformas e legitimidade, sem confundir esse desfecho com a primeira desaceleração.",
+        "basis": [
+          "relation:reforma-e-colapso"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir com uma periodização: mobilização extensiva bem-sucedida em condições específicas; limites e respostas inadequadas depois; ruptura política no final. As leituras divergem sobre os pesos causais, e a síntese deve preservar isso.",
+        "basis": [
+          "position:moodle-resource-6614378",
+          "position:moodle-resource-6614379",
+          "position:moodle-resource-6614394"
+        ]
+      }
+    ]
+  }
+}
