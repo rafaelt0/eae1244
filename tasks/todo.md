@@ -157,8 +157,8 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 Especificação aprovada em 29/10/2026; execução incremental solicitada pelo usuário.
 
 ## 20. Validador e cobertura da oficina
-- [ ] Implementar resolução de bases, esquema e cobertura por tema, modo, habilidade e obra usada.
-- [ ] Testar índices negativos/fora de faixa, relações ausentes, dependências inválidas, duplicatas, interpretação, roteiro e critérios incompletos e falsa cobertura.
+- [x] Implementar resolução de bases, esquema e cobertura por tema, modo, habilidade e obra usada.
+- [x] Testar índices negativos/fora de faixa, relações ausentes, dependências inválidas, duplicatas, interpretação, roteiro e critérios incompletos e falsa cobertura.
 - Verificação: `python3 -m unittest discover -s tests/oficina -p 'test_*.py' -v`; nenhuma dependência externa.
 - Dependências: 19. Arquivos: `scripts/oficina.py`, `tests/oficina/test_oficina.py`.
 
