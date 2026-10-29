@@ -16,6 +16,7 @@ SKILLS = {'assess_thesis', 'compare_authors', 'compare_cases', 'classify_mechani
 CRITERIA = {'task', 'thesis', 'source_fidelity', 'reasoning', 'evidence', 'qualification'}
 CADERNO_SECTIONS = {'argument', 'mechanisms', 'cases', 'concepts', 'evidence', 'limits'}
 MODES = {'guided', 'independent'}
+EXPECTED_THEME_COUNT = 8
 
 
 def resolve_basis(base, atlas, caderno):
@@ -141,6 +142,8 @@ def inspect_workshop(manifest, caderno_dir, atlas_dir, workshop_dir, root):
         entry = json.loads(local_path(root, path).read_text(encoding='utf-8'))
         atlas[entry['debate_id']] = entry
     issues, exercises, seen_ids, seen_pairs = [], [], set(), set()
+    if len(atlas) != EXPECTED_THEME_COUNT:
+        issues.append({'entry': 'dependencies', 'message': 'A oficina exige os oito temas aprovados do atlas.'})
     if not dependencies['ok']:
         issues.append({'entry': 'dependencies', 'message': 'Atlas ou caderno inválido/incompleto.', 'report': dependencies})
     for path in sorted(workshop_dir.glob('*.json')):
@@ -165,7 +168,8 @@ def inspect_workshop(manifest, caderno_dir, atlas_dir, workshop_dir, root):
     counts = Counter((e['debate_id'], e['mode']) for e in valid)
     covered = {rid for e in valid for rid in e['used_works']}
     skills = {skill for e in valid for skill in e['skills']}
-    coverage = {'valid_exercises': len(valid), 'total_exercises': len(exercises),
+    coverage = {'expected_themes': EXPECTED_THEME_COUNT, 'available_themes': len(atlas),
+                'valid_exercises': len(valid), 'total_exercises': len(exercises),
                 'modes_by_theme': {t: {m: counts[t, m] for m in sorted(MODES)} for t in sorted(atlas)},
                 'missing_pairs': [{'debate_id': t, 'mode': m} for t in sorted(atlas) for m in sorted(MODES) if counts[t, m] != 1],
                 'used_priority': sorted(covered), 'missing_priority': sorted(set(resources) - covered),

@@ -49,16 +49,18 @@ class WorkshopTests(unittest.TestCase):
         self.root = fixture.root
         self.write = fixture.write
         (self.root / 'data/oficina').mkdir()
-        other = fixtures.debate()
-        other['debate_id'] = 'other-debate'
-        self.write('data/atlas/other-debate.json', other)
-        for theme in ('test-debate', 'other-debate'):
+        themes = ['test-debate', 'other-debate'] + [f'theme-{n}' for n in range(3, 9)]
+        for theme in themes:
+            other = fixtures.debate()
+            other['debate_id'] = theme
+            self.write(f'data/atlas/{theme}.json', other)
             for mode in ('guided', 'independent'):
                 self.save(exercise(theme, mode))
         for n in (1, 2):
             path = self.root / f'data/caderno/{fixtures.rid(n)}.json'
             entry = json.loads(path.read_text())
             entry['argument'] = [{'claim': 'Evidence', 'refs': [fixtures.ref(n)]}]
+            entry['limits'] = ['A documented limit.']
             self.write(str(path.relative_to(self.root)), entry)
 
     def save(self, entry, path=None):
@@ -82,7 +84,7 @@ class WorkshopTests(unittest.TestCase):
         for cmd in ('validate', 'coverage'):
             code, out, err = self.run_cli(cmd)
             self.assertEqual(code, 0, out + err)
-            self.assertEqual(json.loads(out)['coverage']['valid_exercises'], 4)
+            self.assertEqual(json.loads(out)['coverage']['valid_exercises'], 16)
 
     def test_missing_mode_and_empty_directory_are_incomplete(self):
         (self.root / 'data/oficina/test-debate-independent.json').unlink()
@@ -168,6 +170,20 @@ class WorkshopTests(unittest.TestCase):
             entry = exercise()
             entry[key] = value
             self.bad(entry)
+
+    def test_missing_atlas_theme_cannot_shrink_required_workshop(self):
+        (self.root / 'data/atlas/theme-8.json').unlink()
+        for mode in ('guided', 'independent'):
+            (self.root / f'data/oficina/theme-8-{mode}.json').unlink()
+        self.assertEqual(self.run_cli()[0], 1)
+
+    def test_relation_and_caderno_limit_are_valid_bases(self):
+        entry = exercise()
+        entry['answer_outline']['thesis'][0]['basis'] = [target(section='relations', item='adjustment')]
+        entry['common_mistakes'][0]['basis'] = [{'module': 'caderno', 'entry_id': fixtures.rid(1),
+                                               'section': 'limits', 'item': 0}]
+        self.save(entry)
+        self.assertEqual(self.run_cli()[0], 0)
 
     def test_invalid_dependencies_fail(self):
         path = self.root / 'data/atlas/test-debate.json'
