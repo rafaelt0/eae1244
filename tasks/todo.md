@@ -202,14 +202,14 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Resultado: 16 exercícios válidos, oito temas, 14 leituras utilizadas e quatro habilidades cobertas; 76 testes passaram. Conferência e caminhos de resposta em `docs/oficina-revisao.md`.
 
 ## Pendência de conteúdo observada na oficina
-- [ ] Conferir a referência de Eichengreen na diferença de contexto sobre Smithsonian no atlas de Bretton Woods: aponta para o caso do Gold Pool (índice 6), enquanto o episódio do colapso está no caso seguinte (índice 7). A oficina não usa essa diferença de datas. Resolver em incremento próprio antes de integrar o HTML.
+- [x] Conferir a referência de Eichengreen na diferença de contexto sobre Smithsonian no atlas de Bretton Woods: aponta para o caso do Gold Pool (índice 6), enquanto o episódio do colapso está no caso seguinte (índice 7). A oficina não usa essa diferença de datas. Resolver em incremento próprio antes de integrar o HTML.
 
 ---
 
 # Tarefas — HTML
 
 ## 27. Conferir a referência pendente do atlas
-- [ ] Substituir a referência ao caso Gold Pool pela do episódio de colapso no contexto sobre Smithsonian, após conferência.
+- [x] Substituir a referência ao caso Gold Pool pela do episódio de colapso no contexto sobre Smithsonian, após conferência.
 - Verificação: evidência do caderno e `atlas validate`; commit exclusivo de conteúdo.
 
 ## 28. Gerar e verificar o pacote
