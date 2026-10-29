@@ -134,3 +134,18 @@ Referências corretas não provam que o parágrafo responde ao enunciado: confer
 ## Resultado da oficina
 
 16 exercícios válidos, oito temas e 14 leituras efetivamente utilizadas. As quatro habilidades estão cobertas. Passaram 76 testes e as verificações reais. Suficiência e limites registrados em [docs/oficina-revisao.md](../docs/oficina-revisao.md). Os dados e o código dos módulos anteriores foram preservados.
+
+---
+
+# Plano de execução — HTML
+
+Especificação aprovada em 29/10/2026; execução solicitada pelo usuário. Construção incremental do pacote local sem dependências novas.
+
+1. Corrigir a referência pendente do atlas, conferir a evidência e validar em commit próprio.
+2. Criar gerador e verificador com fixtures: serialização segura, hashes, caminhos e preservação da entrega anterior. Montar a saída em diretório temporário.
+3. Entregar o primeiro fluxo de leitura, com dados reais embutidos, índice por aula e evidências. Testar no navegador colaborativo.
+4. Acrescentar atlas e busca global, com vínculos por conteúdo e estados vazios.
+5. Acrescentar prática, salvamento com fallback e download da resposta; verificar troca de tela, recarregamento e revelação voluntária.
+6. Conferir teclado e quatro larguras, originais, ZIP e funcionamento local. Documentar evidências, limitações e 17 resumos ainda pendentes.
+
+Python padrão para geração e testes; HTML/CSS/JS nativos para apresentação. Sem rede no uso. O estado de estudo não depende de um servidor, e o arquivo de dados não executa conteúdo das leituras. Mudanças no conteúdo consumido são verificadas em incrementos próprios.
