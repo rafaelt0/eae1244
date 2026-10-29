@@ -193,8 +193,13 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Dependências: 24. Arquivos: dois JSON em `data/oficina/`, tarefas.
 
 ## 26. Revisar e documentar a oficina
-- [ ] Rever os 16 caminhos de resposta e registrar amostra semântica e limites.
-- [ ] Executar as suítes de fontes, caderno, atlas e oficina e as validações reais; revisar o diff e detectar um erro deliberado com os testes.
-- [ ] Atualizar documentação e registrar a entrega em commits, preservando os módulos anteriores.
+- [x] Rever os 16 caminhos de resposta e registrar amostra semântica e limites.
+- [x] Executar as suítes de fontes, caderno, atlas e oficina e as validações reais; revisar o diff e detectar um erro deliberado com os testes.
+- [x] Atualizar documentação e registrar a entrega em commits, preservando os módulos anteriores.
 - Verificação: testes, validadores e Git sem mudanças pendentes. A revisão do usuário não será presumida.
 - Dependências: 25. Arquivos: `docs/oficina-revisao.md`, `README.md`, `CAPABILITY-MAP.md`, `SPEC-oficina.md`, tarefas.
+
+- Resultado: 16 exercícios válidos, oito temas, 14 leituras utilizadas e quatro habilidades cobertas; 76 testes passaram. Conferência e caminhos de resposta em `docs/oficina-revisao.md`.
+
+## Pendência de conteúdo observada na oficina
+- [ ] Conferir a referência de Eichengreen na diferença de contexto sobre Smithsonian no atlas de Bretton Woods: aponta para o caso do Gold Pool (índice 6), enquanto o episódio do colapso está no caso seguinte (índice 7). A oficina não usa essa diferença de datas. Resolver em incremento próprio antes de integrar o HTML.

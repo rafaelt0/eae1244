@@ -130,3 +130,7 @@ Especificação: [SPEC-oficina.md](../SPEC-oficina.md), aprovada em 29/10/2026 c
 ## Riscos
 
 Referências corretas não provam que o parágrafo responde ao enunciado: conferir conteúdo manualmente. Mudanças de índices no caderno podem alterar o sentido de uma base: revisar o conteúdo, além da existência. Obras listadas sem uso não contam para cobertura. Os resultados são apoio à autoavaliação, sem notas automáticas ou alegação de gabarito único.
+
+## Resultado da oficina
+
+16 exercícios válidos, oito temas e 14 leituras efetivamente utilizadas. As quatro habilidades estão cobertas. Passaram 76 testes e as verificações reais. Suficiência e limites registrados em [docs/oficina-revisao.md](../docs/oficina-revisao.md). Os dados e o código dos módulos anteriores foram preservados.

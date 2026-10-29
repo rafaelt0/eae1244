@@ -2,7 +2,7 @@
 
 Módulo: `oficina`, conforme o [mapa de capacidades](CAPABILITY-MAP.md). Depende de `caderno` e `atlas`.
 
-Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução incremental. Implementação em andamento.
+Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução incremental. Implementação concluída e validada: 16 exercícios, oito temas e 14 leituras cobertas. Revisão do usuário pendente.
 
 ## Objetivo
 

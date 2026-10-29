@@ -8,7 +8,9 @@ Material em português para estudar História Econômica Geral do Século XX e c
 
 O caderno contém 14 resumos completos do recorte prioritário. O atlas contém oito temas com posições, relações fundamentadas, mecanismos, casos, diferenças de contexto e roteiros de resposta. A [revisão do atlas](docs/atlas-revisao.md) registra os testes e a suficiência dos oito roteiros.
 
-O HTML final ainda não foi implementado. Permanecem pendentes a oficina de respostas, os resumos curtos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
+A oficina contém 16 exercícios, com roteiros, parágrafos comentados e autoavaliação. O [índice da oficina](docs/oficina-revisao.md) apresenta as questões e os caminhos de resposta.
+
+O HTML final ainda não foi implementado. Permanecem pendentes os resumos curtos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
 
 ## Atlas
 
@@ -28,6 +30,7 @@ Cada `verdict_outline` propõe uma tese, argumentos favoráveis, contra-argument
 - `data/fontes/`: inventário e manifesto de proveniência.
 - `data/caderno/`: resumos por leitura.
 - `data/atlas/`: comparações e roteiros, no esquema descrito em [SPEC-atlas.md](SPEC-atlas.md).
+- `data/oficina/`: 16 exercícios nos modos guiado e autônomo, conforme [SPEC-oficina.md](SPEC-oficina.md).
 - `.local/fontes/`: originais e extrações paginadas; arquivos locais não versionados.
 - `.local/entregas/fontes-eae1244.zip`: pacote local dos 44 arquivos baixados, com índice.
 
@@ -42,10 +45,15 @@ python3 scripts/fontes.py verify --manifest data/fontes/manifest.json --scope pr
 python3 scripts/caderno.py validate --manifest data/fontes/manifest.json --caderno data/caderno --scope priority
 python3 scripts/atlas.py validate --manifest data/fontes/manifest.json --caderno data/caderno --atlas data/atlas
 python3 scripts/atlas.py coverage --manifest data/fontes/manifest.json --caderno data/caderno --atlas data/atlas
+python3 scripts/oficina.py validate --manifest data/fontes/manifest.json --caderno data/caderno --atlas data/atlas --oficina data/oficina
+python3 scripts/oficina.py coverage --manifest data/fontes/manifest.json --caderno data/caderno --atlas data/atlas --oficina data/oficina
 
 python3 -m unittest discover -s tests/fontes -p 'test_*.py' -v
 python3 -m unittest discover -s tests/caderno -p 'test_*.py' -v
 python3 -m unittest discover -s tests/atlas -p 'test_*.py' -v
+python3 -m unittest discover -s tests/oficina -p 'test_*.py' -v
 ```
 
 O atlas retorna 0 quando os dados são válidos e todas as leituras prioritárias estão cobertas; 1 para debates inválidos ou cobertura incompleta; 2 para argumentos ou entradas ilegíveis/malformadas. `coverage` também valida os debates antes de contabilizá-los. Citações devem constar no caderno consumido e na página indicada; relações exigem evidência das duas obras.
+
+A oficina contabiliza somente exercícios válidos e obras efetivamente usadas nas bases de roteiro/parágrafo. Sua cobertura exige oito temas, um exercício de cada modo por tema, as 14 leituras e as quatro habilidades. Os códigos de saída seguem a mesma convenção 0/1/2.
