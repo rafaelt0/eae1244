@@ -183,7 +183,7 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Checkpoint: dez exercícios válidos. Conferidas as relações `incentivos-ou-escolhas` e `politica-e-rendas`, o mecanismo indexado de restrição orçamentária branda em Allen e o limite da evidência de Rodrik.
 
 ## 24. Dívida e crises financeiras
-- [ ] Escrever os quatro exercícios distinguindo episódios, hipóteses e consequências da abertura.
+- [x] Escrever os quatro exercícios distinguindo episódios, hipóteses e consequências da abertura.
 - Verificação: validar e conferir que os modos guiado e autônomo pedem raciocínios diferentes.
 - Dependências: 23. Arquivos: quatro JSON em `data/oficina/`, tarefas.
 

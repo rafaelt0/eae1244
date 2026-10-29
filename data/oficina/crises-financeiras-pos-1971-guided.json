@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "exercise_id": "crises-financeiras-pos-1971-guided",
+  "debate_id": "crises-financeiras-pos-1971",
+  "mode": "guided",
+  "title": "Uma teoria fiscal explica todas as crises?",
+  "prompt": "Todas as crises cambiais depois de Bretton Woods resultaram de déficits públicos persistentes. Avalie a tese comparando a crise do MCE europeu de 1992 e a asiática de 1997–98, com Meissner e Frieden. Distingua credibilidade da paridade, descasamentos financeiros e contágio.",
+  "lessons": [
+    25
+  ],
+  "works": [
+    "moodle-resource-6614394",
+    "moodle-resource-6614400"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [
+    "Qual mecanismo define uma crise fiscal de primeira geração?",
+    "Por que Meissner usa outro mecanismo para 1992?",
+    "Como dívidas em dólares e prazos curtos podem ampliar o custo de uma desvalorização?"
+  ],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar o mecanismo universal: crises diferentes exigem explicar fundamentos, expectativas e estrutura dos balanços.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614394"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder a existência de crises por inconsistência fiscal e monetária com paridade fixa, sem universalizar o modelo.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614400",
+            "section": "argument",
+            "item": 1
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Usar o MCE para explicar ataque e custo de defender a paridade sem depender de déficits crônicos.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614400",
+            "section": "argument",
+            "item": 6
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614394",
+            "section": "cases",
+            "item": 9
+          }
+        ]
+      },
+      {
+        "text": "Comparar a crise asiática: pânico, risco moral, moeda, prazo e contágio precisam entrar na explicação.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "relations",
+            "item": "reversao-e-balancos"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614400",
+            "section": "argument",
+            "item": 7
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Classificar o mecanismo de cada episódio e suas combinações, em vez de deduzir toda crise de indisciplina fiscal.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "positions",
+            "item": "moodle-resource-6614400"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crises-financeiras-pos-1971",
+            "section": "relations",
+            "item": "reversao-e-balancos"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "O modelo de déficit financiado por emissão explica um tipo de crise, mas não todos os episódios posteriores a Bretton Woods. Na leitura de Meissner, a crise europeia de 1992 envolve credibilidade e equilíbrios múltiplos, sem depender de déficits públicos crônicos; defender a paridade podia exigir juros politicamente custosos. Na Ásia, a reversão de fluxos interagiu com dívidas de curto prazo em moeda estrangeira, tornando a desvalorização também um problema de balanço. Frieden situa esses mecanismos na reintegração financeira e na disciplina dos investidores. A comparação mostra que uma resposta deve identificar como a pressão se formou e por quais canais se ampliou em cada caso, em vez de escolher antecipadamente uma explicação fiscal universal.",
+    "basis": [
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614400",
+        "section": "argument",
+        "item": 1
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614400",
+        "section": "argument",
+        "item": 6
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crises-financeiras-pos-1971",
+        "section": "relations",
+        "item": "reversao-e-balancos"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614394",
+        "section": "cases",
+        "item": 9
+      }
+    ],
+    "commentary": "O modelo fiscal aparece como concessão delimitada; os dois casos introduzem mecanismos alternativos e canais de amplificação."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Aplicar o modelo de primeira geração a 1992 sem discutir a ausência de déficits crônicos.",
+      "revision": "Explicar a alternativa de credibilidade e ataque autorrealizável.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614400",
+          "section": "argument",
+          "item": 6
+        }
+      ]
+    },
+    {
+      "mistake": "Tratar a desvalorização apenas como ganho de competitividade.",
+      "revision": "Discutir seu efeito sobre dívidas em moeda estrangeira e o sistema bancário.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crises-financeiras-pos-1971",
+          "section": "relations",
+          "item": "reversao-e-balancos"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei a universalidade da explicação fiscal?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese prevê mecanismos diferentes por episódio?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Atribuí corretamente expectativas, balanços e narrativa histórica?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Diferenciei causa, amplificação e contágio?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Comparei MCE e Ásia com elementos concretos?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Minha conclusão admite combinações de mecanismos sem perder precisão?"
+    }
+  ]
+}
