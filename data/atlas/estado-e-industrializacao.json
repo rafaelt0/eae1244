@@ -1,0 +1,1064 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "estado-e-industrializacao",
+  "title": "Coordenação estatal: condições, ganhos e limites",
+  "lessons": [
+    21,
+    22,
+    23,
+    26
+  ],
+  "question": "Em que condições a coordenação estatal favoreceu a industrialização, e como avaliar seus limites na Ásia, na América Latina e na URSS?",
+  "thesis_statement": "A intervenção estatal funcionou no Leste Asiático e fracassou de modo uniforme na América Latina e na URSS.",
+  "works": [
+    "moodle-resource-6614380",
+    "moodle-resource-6614390",
+    "moodle-resource-6614378"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6614380",
+      "stance": "qualifies",
+      "summary": "Rodrik atribui o crescimento de Coreia e Taiwan a investimento coordenado e subsidiado, condicionado por capital humano e igualdade. Exportações financiam a importação de máquinas e são necessárias, mas não constituem o motor inicial em sua explicação. O resultado não permite generalizar uma receita estatal: as condições iniciais eram incomuns e a evidência de coordenação tem limites.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "must have been a necessary condition for exports to take off in Korea"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 14,
+          "quote": "export incentives were not sufficient in themselves"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "Investment rose from around 10% of GDP in the late 1950s in both countries to 30% in 1980."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "The East Asian TFP figures do not stand out in comparison with those for Latin American"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "capital accumulation rather than an increase in industrial factor productivity"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 20,
+          "quote": "Export orientation enables growth (by allowing imports to increase), but it is not its"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 22,
+          "quote": "Since the mid-1960s, the share of capital goods"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 22,
+          "quote": "with causality running from investment to imports"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "not only removed some policy-induced distortions, but also served"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "raising the private return to capital in the modern sectors to"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "the level of the social return."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "availability of relatively skilled labour, enabling the formation of a competent bureaucracy"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "neidier government had to contend with powerful industrial or"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "This is probably the single most important reason why extensive government"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the real debate should be over which government"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the relevance of their experience with"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "government intervention to other developing economies may well be limited"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614390",
+      "stance": "rejects",
+      "summary": "Bértola e Ocampo rejeitam o fracasso uniforme latino-americano: houve crescimento historicamente alto e aprendizado. Os limites se ligam a proteção permanente sem contrapartidas, fraqueza tecnológica, viés antiexportador e coalizões políticas insuficientes. O balanço pede distinguir países e fases, em vez de tratar toda intervenção como equivalente.",
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "new layers of protection were"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "protection for a given sector came to be viewed as a permanent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "The system had not been designed to implement time-bound protection measures"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "alization process reached its peak in Latin America in 1973-4."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 5,
+          "quote": "Argentina were highly diversified."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 6,
+          "quote": "The national innovation systems that were developed were not strong enough,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "climbed steeply between 1950 and 1975."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "peaking at an"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "highest rates of GDP and productivity growth of its history."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "it also needed to make a qualitative leap in"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6614378",
+      "stance": "rejects",
+      "summary": "Allen encontra eficácia inicial na orientação de investimento à indústria pesada e na mobilização de trabalho excedente. O declínio posterior não apaga esse resultado. Para ele, a qualidade das decisões e a mudança de condições importam mais que uma condenação uniforme do planejamento.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Two factors were of cardinal importance in promoting"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The strategy of investing in heavy industry"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Stalin, in other words, was not necessary."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "Exporting wheat and importing machinery – that is,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "central planning of firm output in conjunction with the soft-budget constraint was"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 20,
+          "quote": "The external reason was the Cold War,"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "On the contrary, the plans were implemented; the"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 21,
+          "quote": "the economy stopped growing because of the"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "investimento-coordenado",
+      "between": [
+        "moodle-resource-6614380",
+        "moodle-resource-6614378"
+      ],
+      "type": "converge",
+      "text": "Em casos e arranjos distintos, ambos atribuem ao investimento orientado papel central na transformação produtiva. Rodrik explica complementaridades no investimento privado; Allen, acumulação e absorção de trabalho sob planejamento. Essa convergência no papel do investimento não iguala seus regimes de propriedade nem seus mecanismos.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 7,
+          "quote": "Investment rose from around 10% of GDP in the late 1950s in both countries to 30% in 1980."
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "The East Asian TFP figures do not stand out in comparison with those for Latin American"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 8,
+          "quote": "capital accumulation rather than an increase in industrial factor productivity"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "coordinated investments was extremely high"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 27,
+          "quote": "modern sector unless others are doing so as well"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 28,
+          "quote": "It is this interdependence of production and investment decisions that creates the coordination problem."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "Capital accumulation will be the protagonist in the narrative proposed here."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "1928 the USSR was a capital-scarce, labour-surplus"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "By the 1970s this phase of growth was"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "Two factors were of cardinal importance in promoting"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 6,
+          "quote": "The strategy of investing in heavy industry"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 7,
+          "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+        }
+      ]
+    },
+    {
+      "id": "politica-e-rendas",
+      "between": [
+        "moodle-resource-6614380",
+        "moodle-resource-6614390"
+      ],
+      "type": "converge",
+      "text": "Ambos tornam a economia política decisiva para o resultado da intervenção. Rodrik destaca igualdade e autonomia diante de grupos de pressão; Bértola e Ocampo mostram proteção convertida em direito e coalizões que bloqueiam sua revisão. A aproximação ajuda a explicar condições de êxito e limite, sem supor que um esteja respondendo diretamente ao outro.",
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "availability of relatively skilled labour, enabling the formation of a competent bureaucracy"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "neidier government had to contend with powerful industrial or"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 40,
+          "quote": "This is probably the single most important reason why extensive government"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "new layers of protection were"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "protection for a given sector came to be viewed as a permanent"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 12,
+          "quote": "The system had not been designed to implement time-bound protection measures"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "traditional export sectors; another was the confrontations with the working class"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "Brazil marks a sharp contrast in this"
+        }
+      ]
+    },
+    {
+      "id": "sucesso-e-limites",
+      "between": [
+        "moodle-resource-6614378",
+        "moodle-resource-6614390"
+      ],
+      "type": "converge",
+      "text": "Os dois balanços recusam usar o declínio posterior para apagar realizações iniciais. Allen distingue fases soviéticas; Bértola e Ocampo combinam recordes históricos de crescimento com limites de exportação e inovação. Os critérios e períodos diferem e não permitem um ranking causal direto.",
+      "refs": [
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 2,
+          "quote": "The growth record divides in two sometime around"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "It was the most successful non-OECD country in this period."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "was arguably the second most successful economy in the world."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "There are three stories to choose from."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 4,
+          "quote": "The usual story among"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The end of surplus labour posed new challenges. The Communist"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "climbed steeply between 1950 and 1975."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "peaking at an"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "highest rates of GDP and productivity growth of its history."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "it also needed to make a qualitative leap in"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Investimento e transformação produtiva",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "cause",
+            "explanation": "Coordenação eleva retornos privados e desencadeia investimento.",
+            "refs": [
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 5,
+                "quote": "alleviating a coordination"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 26,
+                "quote": "coordinated investments was extremely high"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 28,
+                "quote": "Coordination failure is least likely to happen when the economy is well endowed"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614390",
+            "kind": "cause",
+            "explanation": "Aprendizado e diversificação acompanham a industrialização, com ganhos e limites tecnológicos.",
+            "refs": [
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 4,
+                "quote": "alization process reached its peak in Latin America in 1973-4."
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 5,
+                "quote": "Argentina were highly diversified."
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 6,
+                "quote": "The national innovation systems that were developed were not strong enough,"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 7,
+                "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 7,
+                "quote": "climbed steeply between 1950 and 1975."
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 8,
+                "quote": "peaking at an"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 8,
+                "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "cause",
+            "explanation": "Prioridade aos bens de produção e soft budget aceleram acumulação e emprego.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "from 7 per cent in the 1920s to 23 per cent in the mid-1930s"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "the 1939 capital stock"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 7,
+                "quote": "increased consumption per head by 1940."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "the marginal product of labour sinks below the wage"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 6,
+                "quote": "further gain of 23 per cent."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 5,
+                "quote": "Kornai ~1992! criticized these practices in the 1980s, when there was"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Controle político de incentivos e rendas",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "political_economy",
+            "explanation": "Igualdade e supervisão estatal contêm busca de renda.",
+            "refs": [
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 40,
+                "quote": "Such powerful groups had been decimated by die Japanese"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 40,
+                "quote": "The political leadership in Taiwan and Korea could concentrate on expanding die pie instead."
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 33,
+                "quote": "entrepreneurs who undertook investments in line with his priorities would be richly rewarded"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614390",
+            "kind": "political_economy",
+            "explanation": "Proteção sem prazo nem exigência de desempenho cristaliza interesses.",
+            "refs": [
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 2,
+                "quote": "This was clearly due to the political economy of the"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 2,
+                "quote": "protectionist strata that was to become an emblematic feature of state-led"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 2,
+                "quote": "LAIA) was faced with"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "political_economy",
+            "explanation": "Capacidade de impor diretrizes pode tornar erros do topo sistêmicos.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 20,
+                "quote": "The external reason was the Cold War,"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 21,
+                "quote": "On the contrary, the plans were implemented; the"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 21,
+                "quote": "the economy stopped growing because of the"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Acesso externo e limites tecnológicos",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6614380",
+            "kind": "transmitter",
+            "explanation": "Importar máquinas requer exportações; a orientação externa viabiliza o investimento.",
+            "refs": [
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 20,
+                "quote": "Export orientation enables growth (by allowing imports to increase), but it is not its"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 22,
+                "quote": "Since the mid-1960s, the share of capital goods"
+              },
+              {
+                "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+                "pdf_page": 22,
+                "quote": "with causality running from investment to imports"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614390",
+            "kind": "cause",
+            "explanation": "Exportações fracas e inovação insuficiente limitam convergência.",
+            "refs": [
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 10,
+                "quote": "greatest drawbacks of state-led industrialization was its inability to take full"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 11,
+                "quote": "In other words,"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 15,
+                "quote": "structural volatility of an export sector that still relied"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 6,
+                "quote": "failed to achieve a sustained reduction in"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 6,
+                "quote": "The science and technology"
+              },
+              {
+                "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+                "pdf_page": 15,
+                "quote": "Latin America had narrowed"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6614378",
+            "kind": "cause",
+            "explanation": "Autossuficiência em matérias-primas e investimento remoto elevam custos; P&D militar reduz recursos civis.",
+            "refs": [
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 9,
+                "quote": "12 per cent of its GDP on defence in 1966–70 against 16 per"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 9,
+                "quote": "diverting R&D resources from civilian to military innovation."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 10,
+                "quote": "The Cold War may have been one factor contributing to the fall in Soviet"
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 19,
+                "quote": "Ricardian trap."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 19,
+                "quote": "Japan was at the opposite pole."
+              },
+              {
+                "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+                "pdf_page": 20,
+                "quote": "the objectives were self-sufficiency and the full"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "Industrialização tardia: trajetórias nacionais comparadas",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6614380",
+          "text": "Coreia e Taiwan: Estado coordena investimento privado sob condições favoráveis de capital humano e igualdade.",
+          "refs": [
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 23,
+              "quote": "placed them among the ranks of countries at several times their income"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 24,
+              "quote": "Korea and Taiwan are the two countries closest to the origin"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 25,
+              "quote": "Table 6 shows that almost 90% of the two countries' growdi experience since"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 26,
+              "quote": "not only removed some policy-induced distortions, but also served"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 32,
+              "quote": "raising the private return to capital in the modern sectors to"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 32,
+              "quote": "the level of the social return."
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 40,
+              "quote": "availability of relatively skilled labour, enabling the formation of a competent bureaucracy"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 40,
+              "quote": "neidier government had to contend with powerful industrial or"
+            },
+            {
+              "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+              "pdf_page": 40,
+              "quote": "This is probably the single most important reason why extensive government"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614390",
+          "text": "Brasil: diversificação profunda e coalizão industrial mais forte que em vários vizinhos, com inflação e distância de renda ainda importantes.",
+          "refs": [
+            {
+              "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+              "pdf_page": 4,
+              "quote": "Brazil coupled this move"
+            },
+            {
+              "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+              "pdf_page": 8,
+              "quote": "Brazil’s per capita GDP was equivalent to just 33 percent"
+            },
+            {
+              "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+              "pdf_page": 15,
+              "quote": "the dominant elites were clearly in agreement on a national"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6614378",
+          "text": "URSS: forte acumulação inicial; depois, investimentos em reconstrução de plantas e recursos remotos reduzem o rendimento da estratégia.",
+          "refs": [
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 6,
+              "quote": "Two factors were of cardinal importance in promoting"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 6,
+              "quote": "The strategy of investing in heavy industry"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 7,
+              "quote": "capital stock is within 0.2 per cent of the actual 1939 value of 344.7"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 17,
+              "quote": "the capital stock went up by 55 per cent"
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 18,
+              "quote": "The shift in emphasis to reconstruction of old sites was disastrous."
+            },
+            {
+              "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+              "pdf_page": 18,
+              "quote": "Three industries had TFP falls of more than 10 per cent between 1975 and"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Comparação entre casos diferentes, sem experimento comum: Rodrik discute Coreia e Taiwan, Allen a URSS, e Bértola e Ocampo uma região heterogênea. A categoria Estado reúne instrumentos e estruturas de propriedade distintos.",
+      "works": [
+        "moodle-resource-6614380",
+        "moodle-resource-6614378",
+        "moodle-resource-6614390"
+      ],
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 26,
+          "quote": "not only removed some policy-induced distortions, but also served"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "raising the private return to capital in the modern sectors to"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 32,
+          "quote": "the level of the social return."
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The investment rate was pushed up from"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "As Alec Nove ~1964! put it: Was Stalin Necessary?"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 5,
+          "quote": "The third was the use of output targets and the corresponding provision of soft"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "There were three major strategies,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 2,
+          "quote": "placed increasing emphasis on export promotion and was what we have"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 4,
+          "quote": "The third strategy involved a frontal attack on the role of the state in economic"
+        }
+      ]
+    },
+    {
+      "text": "O crescimento latino-americano historicamente alto não é o mesmo critério que alcançar a fronteira tecnológica. O sucesso inicial soviético também usa comparação com países de renda inicial semelhante. Explicitar o padrão de comparação antes de julgar sucesso ou fracasso.",
+      "works": [
+        "moodle-resource-6614390",
+        "moodle-resource-6614378"
+      ],
+      "refs": [
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "Per capita GDP grew at an annual rate of 2.7 percent between 1945 and 1980,"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 7,
+          "quote": "climbed steeply between 1950 and 1975."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "peaking at an"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "all-time record rate for Latin America of 6.7 percent per annum between 1967 and"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "However, apart from the cases of Brazil, Mexico, and Venezuela (for shorter"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 8,
+          "quote": "On the downside, there was the slow pace of growth in the economies that had"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 9,
+          "quote": "Most of the countries that did poorly had undergone revolutions:"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "state terrorism accompanying the collectivization of agriculture did increase growth"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "per capita consumption increased by one-quarter in the 1930s.2 The gains accrued to the urban population"
+        },
+        {
+          "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+          "pdf_page": 3,
+          "quote": "similar level of income in 1928. The USSR outperformed all of those countries"
+        }
+      ]
+    },
+    {
+      "text": "Rodrik limita a generalização das condições asiáticas. O trecho de Bértola e Ocampo termina com uma hipótese aberta sobre o caminho tecnológico; nenhuma das entradas fornece uma receita universal de política industrial.",
+      "works": [
+        "moodle-resource-6614380",
+        "moodle-resource-6614390"
+      ],
+      "refs": [
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the real debate should be over which government"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "the relevance of their experience with"
+        },
+        {
+          "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+          "pdf_page": 45,
+          "quote": "government intervention to other developing economies may well be limited"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 14,
+          "quote": "highest rates of GDP and productivity growth of its history."
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "the coalition of industrialists never grew strong enough to take the"
+        },
+        {
+          "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+          "pdf_page": 15,
+          "quote": "it also needed to make a qualitative leap in"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a premissa de fracasso uniforme. Avaliar resultados por fase, objetivo e condição inicial, antes de comparar instrumentos de intervenção.",
+        "basis": [
+          "position:moodle-resource-6614380",
+          "position:moodle-resource-6614390",
+          "position:moodle-resource-6614378"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Explicar o êxito asiático segundo Rodrik: complementaridades, subsídios e coordenação elevam investimento num ambiente de capital humano e igualdade.",
+        "basis": [
+          "position:moodle-resource-6614380"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Qualificar o contraste regional: Bértola e Ocampo registram crescimento e aprendizado, mas mostram incentivos permanentes e limites tecnológicos.",
+        "basis": [
+          "position:moodle-resource-6614390",
+          "relation:politica-e-rendas"
+        ]
+      },
+      {
+        "text": "Introduzir Allen: a estratégia soviética mobilizou fatores disponíveis e depois respondeu mal à mudança de restrições.",
+        "basis": [
+          "position:moodle-resource-6614378",
+          "relation:sucesso-e-limites"
+        ]
+      },
+      {
+        "text": "Comparar canais: coordenação de complementaridades, proteção condicionada ou cristalizada, e qualidade da seleção de investimentos. A presença do Estado, sozinha, explica pouco.",
+        "basis": [
+          "relation:investimento-coordenado",
+          "relation:politica-e-rendas"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "O argumento defensável é condicional: intervenção pode elevar investimento e aprendizado quando combina capacidades, controle de rendas e adaptação. Os casos mostram realizações e limites, sem demonstrar uma fórmula única.",
+        "basis": [
+          "position:moodle-resource-6614380",
+          "position:moodle-resource-6614390",
+          "position:moodle-resource-6614378"
+        ]
+      }
+    ]
+  }
+}

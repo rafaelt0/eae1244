@@ -118,14 +118,16 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Dependências: 14. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
 
 ## 16. Planejamento central e coordenação estatal
-- [ ] Escrever `planejamento-sovietico`, com Allen, Eichengreen e Frieden: sucesso inicial, desaceleração e colapso distinguidos.
-- [ ] Escrever `estado-e-industrializacao`, com Rodrik, Bértola/Ocampo e Allen: condições, resultados e limites da coordenação, incluindo as realizações da ISI.
+- [x] Escrever `planejamento-sovietico`, com Allen, Eichengreen e Frieden: sucesso inicial, desaceleração e colapso distinguidos.
+- [x] Escrever `estado-e-industrializacao`, com Rodrik, Bértola/Ocampo e Allen: condições, resultados e limites da coordenação, incluindo as realizações da ISI.
 - Verificação: validação sem novos erros; conferir contraste Allen–Eichengreen e qualificação da premissa de fracasso latino-americano; um roteiro por tema.
 - Dependências: 15. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
 
 ## Checkpoint intermediário do atlas
-- [ ] Conferir uma relação `converge`, uma `diverge` e uma `context`, com evidência de ambas as obras.
-- [ ] Diferenças de país, período e método registradas onde limitam as comparações.
+- [x] Conferir uma relação `converge`, uma `diverge` e uma `context`, com evidência de ambas as obras.
+- [x] Diferenças de país, período e método registradas onde limitam as comparações.
+
+- Resultado: cinco temas válidos, nove leituras cobertas. Amostra manual: `limite-da-expansao-extensiva` (convergência), `incentivos-ou-escolhas` (divergência) e `periodos-e-medidas` (contexto), confrontadas com as afirmações e referências do caderno. Leituras de Allen distinguem cumprimento e qualidade do plano; as de Eichengreen distinguem sobrevida econômica e ruptura política.
 
 ## 17. Dívida e crises depois de 1971
 - [ ] Escrever `crise-da-divida-e-reformas`, preservando choque externo, vulnerabilidades internas e diferenças entre reformas latino-americanas e transição pós-socialista.
