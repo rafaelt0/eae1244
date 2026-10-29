@@ -1,6 +1,7 @@
 """Geração e verificação do pacote offline de estudo EAE1244."""
 
 import argparse
+import base64
 import hashlib
 import json
 import os
@@ -29,6 +30,23 @@ def package_path(root, name):
     if path.is_absolute() or '..' in path.parts or '\\' in name or not name:
         raise ValueError('Caminho inválido no pacote.')
     return local_path(root, name)
+
+
+def embed_fonts(root, css):
+    def inline(match):
+        target = match[1].strip('"\'')
+        if target.startswith('data:'):
+            return match[0]
+        if not re.fullmatch(r'fonts/[a-z0-9-]+\.woff2', target):
+            raise ValueError('Recurso externo ou caminho inválido no CSS: ' + target)
+        font = root / 'web' / target
+        if not font.is_file():
+            raise ValueError('Fonte ausente: ' + target)
+        return 'url("data:font/woff2;base64,' + base64.b64encode(font.read_bytes()).decode('ascii') + '")'
+    css = re.sub(r'url\(\s*([^)]*?)\s*\)', inline, css)
+    if '@import' in css:
+        raise ValueError('@import não é permitido no CSS do pacote.')
+    return css
 
 
 def present_data(manifest, summaries, atlas, exercises, root):
@@ -120,7 +138,7 @@ def build_package(root, output, data, originals):
         folder.mkdir()
         encoded = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
         html = (root / 'web/index.html').read_text(encoding='utf-8')
-        assets = {'STYLE': (root / 'web/style.css').read_text(), 'DATA': encoded,
+        assets = {'STYLE': embed_fonts(root, (root / 'web/style.css').read_text()), 'DATA': encoded,
                   'APP': (root / 'web/app.js').read_text()}
         for name in assets:
             if html.count('/*' + name + '*/') != 1:

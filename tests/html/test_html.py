@@ -43,6 +43,20 @@ class PackageTests(unittest.TestCase):
             self.assertIn('guide/index.html', archive.namelist())
             self.assertEqual(archive.read('guide/originais/work.pdf'), self.original['source'].read_bytes())
 
+    def test_local_fonts_are_embedded_and_remote_assets_rejected(self):
+        (self.root / 'web/fonts').mkdir()
+        (self.root / 'web/fonts/serif-400.woff2').write_bytes(b'wOF2 synthetic')
+        (self.root / 'web/style.css').write_text('@font-face { src: url("fonts/serif-400.woff2") format("woff2"); }')
+        self.build()
+        html = (self.output / 'index.html').read_text()
+        self.assertIn('url("data:font/woff2;base64,d09GMiBzeW50aGV0aWM=")', html)
+        self.assertNotIn('fonts/serif-400.woff2', html)
+        for css in ('@import url("https://fonts.example/a.css");', 'a { background: url(//cdn.example/x.png); }',
+                    '@font-face { src: url("fonts/../secret.woff2"); }', '@font-face { src: url("fonts/missing.woff2"); }'):
+            (self.root / 'web/style.css').write_text(css)
+            with self.subTest(css=css), self.assertRaises(ValueError):
+                self.build()
+
     def test_template_like_text_in_data_remains_literal(self):
         self.build(data={'text': '/*APP*/ /*STYLE*/ /*DATA*/'})
         self.assertIn('/*APP*/ /*STYLE*/ /*DATA*/', (self.output / 'index.html').read_text())
