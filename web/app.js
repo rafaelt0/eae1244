@@ -31,6 +31,26 @@
       }
     };
   }
+  function createStudyStore(storage) {
+    const stringMap = value => Object.fromEntries(Object.entries(value && typeof value==='object' ? value : {}).filter(([,item])=>typeof item==='string'));
+    function clean(value={}) {
+      const last=value.last;
+      return {schema_version:1, saved:Array.isArray(value.saved)?[...new Set(value.saved.filter(id=>typeof id==='string'))]:[],
+        last:last && ['caderno','atlas','praticar'].includes(last.view) && typeof last.id==='string'?{view:last.view,id:last.id}:null,
+        topic:typeof value.topic==='string'?value.topic:null, readings:stringMap(value.readings),exercises:stringMap(value.exercises),
+        positions:Object.fromEntries(Object.entries(value.positions && typeof value.positions==='object'?value.positions:{}).filter(([,position])=>Number.isFinite(position)&&position>=0)),
+        theme:['light','dark','system'].includes(value.theme)?value.theme:'system',
+        filter:typeof value.filter==='string' && /^(priority|all|\d+)$/.test(value.filter)?value.filter:'priority'};
+    }
+    let state=clean(),available=!!storage;
+    try { const saved=JSON.parse(storage?.getItem('eae1244:study:v1')||'null');if(saved?.schema_version===1)state=clean(saved); }
+    catch(_){available=false;}
+    return {get available(){return available;},get(){return state;},update(patch){
+      state=clean({...state,...patch});
+      try {if(!storage)throw Error('Unavailable');storage.setItem('eae1244:study:v1',JSON.stringify(state));available=true;}
+      catch(_){available=false;}return available;
+    }};
+  }
   function relatedTopics(resource, allTopics) {
     const distance=topic=>topic.lessons.filter(n=>!resource.lessons.includes(n)).length;
     return allTopics.filter(t=>t.works.includes(resource.id)).sort((a,b)=>distance(a)-distance(b)||a.works.length-b.works.length);
@@ -40,7 +60,7 @@
     const primary=candidates.filter(e=>e.debate_id===related[0]?.debate_id);
     return primary.find(e=>e.mode==='guided')||primary[0]||candidates.find(e=>e.mode==='guided')||candidates[0];
   }
-  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise}; return; }
+  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise}; return; }
   const $ = selector => document.querySelector(selector);
   const el = (tag, text, className) => { const node = document.createElement(tag); if (text != null) node.textContent = text; if (className) node.className = className; return node; };
   let data;
