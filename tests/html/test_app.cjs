@@ -1,6 +1,6 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
-const {normalize, searchDocs, createDraftStore} = require('../../web/app.js');
+const {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise} = require('../../web/app.js');
 
 test('search ignores accents and case and returns matching context', () => {
   assert.equal(normalize('EDUCAÇÃO'), 'educacao');
@@ -28,4 +28,15 @@ test('malformed stored data does not become a draft', () => {
   const store = createDraftStore({getItem:()=>'{"drafts":{"one":{"answer":7,"checks":"bad"}}}',setItem(){}});
   assert.equal(store.get('one').answer,'');
   assert.deepEqual(store.get('one').checks,[]);
+});
+
+test('reading shortcuts prefer the closest topic and its guided exercise', () => {
+  const reading = {id:'harrison',lessons:[17]};
+  const topics = [{debate_id:'growth',lessons:[17,20],works:['harrison','crafts']},
+                  {debate_id:'war',lessons:[17],works:['harrison']}];
+  const related = relatedTopics(reading,topics);
+  assert.equal(related[0].debate_id,'war');
+  const exercises = [{exercise_id:'context',debate_id:'growth',mode:'independent',works:['harrison']},
+                     {exercise_id:'war-guided',debate_id:'war',mode:'guided',works:['harrison']}];
+  assert.equal(studyExercise(reading.id,related,exercises).exercise_id,'war-guided');
 });

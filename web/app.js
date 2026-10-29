@@ -31,7 +31,16 @@
       }
     };
   }
-  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, createDraftStore}; return; }
+  function relatedTopics(resource, allTopics) {
+    const distance=topic=>topic.lessons.filter(n=>!resource.lessons.includes(n)).length;
+    return allTopics.filter(t=>t.works.includes(resource.id)).sort((a,b)=>distance(a)-distance(b)||a.works.length-b.works.length);
+  }
+  function studyExercise(rid, related, allExercises) {
+    const candidates=allExercises.filter(e=>e.works.includes(rid));
+    const primary=candidates.filter(e=>e.debate_id===related[0]?.debate_id);
+    return primary.find(e=>e.mode==='guided')||primary[0]||candidates.find(e=>e.mode==='guided')||candidates[0];
+  }
+  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise}; return; }
   const $ = selector => document.querySelector(selector);
   const el = (tag, text, className) => { const node = document.createElement(tag); if (text != null) node.textContent = text; if (className) node.className = className; return node; };
   let data;
@@ -91,8 +100,8 @@
     if(entry.status!=='complete') content.append(el('p','Resumo parcial. Confira os limites e o original.','notice'));
     content.append(el('p',entry.thesis,'lead'));
     if(entry.question) content.append(el('p',entry.question,'question'));
-    const related=data.atlas.filter(t=>t.works.includes(resource.id));
-    if(related.length){const links=el('div',null,'quick-links');links.append(button('Relacionar autores →',()=>go('atlas',related[0].debate_id)),button('Praticar esta leitura →',()=>go('praticar',data.exercises.find(e=>e.works.includes(resource.id)).exercise_id)));content.append(links);}
+    const related=relatedTopics(resource,data.atlas);
+    if(related.length){const links=el('div',null,'quick-links'),exercise=studyExercise(resource.id,related,data.exercises);links.append(button('Relacionar leituras →',()=>go('atlas',related[0].debate_id)));if(exercise)links.append(button('Praticar esta leitura →',()=>go('praticar',exercise.exercise_id)));content.append(links);}
     listSection('O argumento, passo a passo',entry.argument,'claim',true);
     listSection('Mecanismos em jogo',entry.mechanisms,'description');
     listSection('Conceitos para a resposta',entry.concepts,'definition');
