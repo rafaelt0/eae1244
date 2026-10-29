@@ -1,6 +1,6 @@
 # Protótipo do hub EAE1244
 
-Protótipo descartável para escolher a estrutura e o acabamento da interface. A decisão visual está pendente da avaliação do usuário. O código está isolado do guia entregue e não deve ser promovido diretamente para produção.
+Protótipo descartável para escolher a estrutura e o acabamento da interface. **O usuário escolheu a alternativa B, Percurso por aula, em 29/10/2026.** O código está isolado do guia entregue e não deve ser promovido diretamente para produção.
 
 ## Abrir
 
@@ -9,7 +9,7 @@ python3 scripts/prototype_hub.py
 python3 -m http.server 8767 --bind 127.0.0.1 --directory .local/ux-proposta/taste
 ```
 
-Abrir <http://localhost:8767/?variant=A>. O arquivo `.local/ux-proposta/taste/index.html` também pode ser aberto diretamente. CSS, JavaScript, ícones e dados estão incorporados; não há dependência de CDN.
+Abrir <http://localhost:8767/> ou <http://localhost:8767/?variant=B>. A alternativa B é o padrão. O arquivo `.local/ux-proposta/taste/index.html` também pode ser aberto diretamente. CSS, JavaScript, ícones e dados estão incorporados; não há dependência de CDN.
 
 Os PDFs não são copiados pelo gerador. Nesta sessão, a pasta `originais` da prévia aponta para o pacote local preservado, permitindo conferir as evidências. Para transportar o protótipo com os PDFs, colocar a pasta `originais` do pacote gerado junto ao `index.html`. O HTML sozinho preserva navegação e estudo, mas não contém os arquivos PDF.
 
@@ -22,6 +22,12 @@ Qual estrutura ajuda o aluno a escolher o que estudar, encontrar explicações e
 - `?variant=C`: **Explorar por perguntas**. Busca em destaque e debates como entrada para as leituras.
 
 O seletor inferior e as teclas de seta alternam as interfaces. As setas preservam seu comportamento nativo durante escrita, seleção e interação com o diálogo. Tema, rascunhos e marcações permanecem ao trocar de interface. O estado relevante pode ser consultado no painel “Estado do protótipo”.
+
+## Direção escolhida
+
+A alternativa B orientará a implementação definitiva: entrada organizada por aulas e percurso contextual entre **Estudar leituras**, **Comparar autores** e **Treinar respostas**. A consulta deve preservar tema, autor, modo de exercício, ponto de leitura e resposta em andamento. A e C permanecem disponíveis apenas como referências da exploração.
+
+Permanecem os requisitos já definidos: uso por alunos da disciplina, igual importância para computador e celular, acabamento visual editorial, site público compartilhável sem cadastro obrigatório, originais acessíveis e hospedagem gratuita. O usuário declarou autorização para republicar os originais. A escolha de B não significa que persistência durável, sincronização ou publicação já estejam implementadas.
 
 ## Auditoria e direção visual
 
@@ -56,7 +62,7 @@ Os 17 resumos anteriores permanecem identificados como pendentes. O protótipo n
 
 O usuário confirmou que o produto final deve ser público, ter todas as funções acessíveis e hospedagem sem custo, e declarou autorização para republicar os originais. A implementação deverá manter o acervo e adaptar a distribuição à hospedagem estática escolhida. O ZIP offline de aproximadamente 71 MiB excede o limite de 25 MiB por arquivo do Cloudflare Pages; o site e os originais individuais cabem, mas o ZIP requer uma distribuição separada se entrar na interface pública.
 
-Antes de implementar o vencedor, validar com colegas se os nomes orientam a escolha, se a aula ou a pergunta é a melhor entrada e se a retomada reduz o esforço de voltar ao estudo. A especificação de produção deve registrar o resultado.
+Na implementação de B, conferir se os nomes orientam a escolha e se a retomada reduz o esforço de voltar ao estudo. A avaliação com colegas permanece recomendada para validar essas hipóteses de usabilidade; não substitui a direção escolhida pelo usuário. A especificação de produção deve registrar o resultado.
 
 ## Conferência realizada em 29/10/2026
 
@@ -69,4 +75,4 @@ Antes de implementar o vencedor, validar com colegas se os nomes orientam a esco
 - A primeira auditoria encontrou um nome acessível diferente do rótulo visível de revisão; o rótulo foi alinhado. Uma auditoria posterior identificou deslocamento no carregamento; reservar o espaço da navegação e definir a alternativa antes da primeira pintura eliminou esse apontamento na auditoria final.
 - Geração, sintaxe JavaScript e integridade dos marcadores passaram. O HTML final tem aproximadamente 494 KiB. Nenhum arquivo da interface ou do corpus original foi alterado.
 
-Código-fonte primário preservado na branch `prototype/hub-taste`. A decisão sobre a alternativa vencedora permanece pendente; esta branch não deve ser mesclada como implementação de produção.
+Código-fonte da exploração original preservado na branch `prototype/hub-taste`. A alternativa B foi escolhida; o código descartável não deve ser mesclado como implementação de produção.

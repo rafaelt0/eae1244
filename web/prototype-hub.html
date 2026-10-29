@@ -16,7 +16,7 @@ State is intentionally in memory; this is not the production guide. -->
 <style>/*PROTOTYPE_STYLE*/</style>
 </head>
 <body>
-<script>document.body.dataset.variant=['A','B','C'].includes(new URLSearchParams(location.search).get('variant'))?new URLSearchParams(location.search).get('variant'):'A';document.body.dataset.page=location.hash.slice(1).split('/')[0]||'home';</script>
+<script>document.body.dataset.variant=['A','B','C'].includes(new URLSearchParams(location.search).get('variant'))?new URLSearchParams(location.search).get('variant'):'B';document.body.dataset.page=location.hash.slice(1).split('/')[0]||'home';</script>
 <div class="prototype-note">Protótipo de interface. Explore as três opções no seletor inferior. Seu estudo nesta prévia fica apenas nesta sessão.</div>
 <div id="study-hub">
 <a class="skip" href="#main">Pular para o conteúdo</a>
@@ -29,7 +29,7 @@ State is intentionally in memory; this is not the production guide. -->
 </div>
 <div id="live-status" class="live-status" role="status"></div>
 <details class="prototype-state"><summary>Estado do protótipo</summary><pre id="state-output"></pre></details>
-<nav class="prototype-switcher" aria-label="Alternativas do protótipo"><button type="button" id="variant-prev" aria-label="Alternativa anterior">←</button><label for="variant-select">Interface<select id="variant-select"><option value="A">A · Biblioteca editorial</option><option value="B">B · Percurso por aula</option><option value="C">C · Explorar por perguntas</option></select></label><button type="button" id="variant-next" aria-label="Próxima alternativa">→</button></nav>
+<nav class="prototype-switcher" aria-label="Alternativas do protótipo"><button type="button" id="variant-prev" aria-label="Alternativa anterior">←</button><label for="variant-select">Interface<select id="variant-select"><option value="A">A · Biblioteca editorial</option><option value="B" selected>B · Percurso por aula</option><option value="C">C · Explorar por perguntas</option></select></label><button type="button" id="variant-next" aria-label="Próxima alternativa">→</button></nav>
 <dialog id="share-dialog"><form method="dialog"><h2>Compartilhar esta prévia</h2><label for="share-url">Link da tela atual</label><input id="share-url" type="text" readonly><p>Este endereço funciona onde o protótipo estiver servido. A publicação do hub vem depois da escolha da interface.</p><button class="primary" type="submit">Fechar</button></form></dialog>
 <script type="application/json" id="prototype-data">/*PROTOTYPE_DATA*/</script>
 <script>/*PROTOTYPE_APP*/</script>

@@ -16,7 +16,7 @@
   const title = resource => data.shortTitles[resource.id.split('-').pop()] || resource.title;
   const lessonLabel = values => 'Aula' + (values.length > 1 ? 's ' : ' ') + values.join(', ');
   const authors = rid => resources.get(rid)?.authors.join(', ') || 'Leitura';
-  const state = {variant:variants.includes(new URLSearchParams(location.search).get('variant')) ? new URLSearchParams(location.search).get('variant') : 'A', page:'home', id:null, topic:'fim-bretton-woods', query:'', saved:new Set(), drafts:Object.create(null), checks:Object.create(null), last:null, readingByTopic:Object.create(null), practiceByTopic:Object.create(null), scrolls:Object.create(null), theme:matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'};
+  const state = {variant:variants.includes(new URLSearchParams(location.search).get('variant')) ? new URLSearchParams(location.search).get('variant') : 'B', page:'home', id:null, topic:'fim-bretton-woods', query:'', saved:new Set(), drafts:Object.create(null), checks:Object.create(null), last:null, readingByTopic:Object.create(null), practiceByTopic:Object.create(null), scrolls:Object.create(null), theme:matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'};
   const activeTopic = () => topics.get(state.topic) || orderedTopics[0];
   const action = (label, page, id='', className='secondary', glyph='', topic='') => '<button type="button" class="'+className+'" data-go="'+page+'" data-id="'+h(id)+'"'+(topic?' data-topic="'+h(topic)+'"':'')+'>'+(glyph?icon(glyph):'')+h(label)+'</button>';
   const pageHeading = (heading, description='', meta='') => '<div class="page-head">'+(meta?'<p class="byline">'+h(meta)+'</p>':'')+'<h1>'+h(heading)+'</h1>'+(description?'<p>'+h(description)+'</p>':'')+'</div>';
@@ -165,7 +165,7 @@
   document.addEventListener('keydown',event=>{if(event.target.closest('input,textarea,select,[contenteditable],dialog'))return;if(event.altKey||event.ctrlKey||event.metaKey)return;if(event.key==='ArrowLeft'||event.key==='ArrowRight'){event.preventDefault();switchVariant(variants[(variants.indexOf(state.variant)+(event.key==='ArrowRight'?1:2))%3]);}});
   $('#theme-toggle').addEventListener('click',()=>{state.theme=state.theme==='dark'?'light':'dark';applyTheme();exposeState();});
   function applyTheme(){document.documentElement.style.colorScheme=state.theme;$('#theme-toggle').innerHTML=icon(state.theme==='dark'?'sun':'moon');$('#theme-toggle').setAttribute('aria-label',state.theme==='dark'?'Usar aparência clara':'Usar aparência escura');}
-  window.addEventListener('popstate',()=>{state.variant=new URLSearchParams(location.search).get('variant')||'A';readRoute();render();});
+  window.addEventListener('popstate',()=>{state.variant=new URLSearchParams(location.search).get('variant')||'B';readRoute();render();});
   document.querySelectorAll('[data-icon]').forEach(element=>{element.innerHTML=icon(element.dataset.icon);});
   readRoute();applyTheme();render();
 })();
