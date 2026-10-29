@@ -2,7 +2,7 @@
 
 Módulo: `atlas`, conforme o [mapa de capacidades](CAPABILITY-MAP.md). Depende de `caderno`.
 
-Status: **aprovada pelo usuário em 28/10/2026**, com os oito temas propostos, Harrison como verbete de uma leitura e Bretton Woods como piloto. Implementação ainda não iniciada; plano e tarefas em revisão.
+Status: **aprovada pelo usuário em 28/10/2026**, com os oito temas propostos, Harrison como verbete de uma leitura e Bretton Woods como piloto. Plano e tarefas aprovados pelo usuário; implementação em andamento.
 
 ## Objetivo
 

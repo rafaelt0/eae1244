@@ -90,12 +90,12 @@
 
 # Tarefas — atlas
 
-Especificação aprovada; **plano e tarefas aguardam revisão**. A tarefa 12 permanece pendente e não bloqueia este recorte prioritário.
+Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa 12 permanece pendente e não bloqueia este recorte prioritário.
 
 ## 13. Validar debates e calcular cobertura
-- [ ] Implementar `scripts/atlas.py validate` e `coverage`, reaproveitando a conferência de referências do caderno, com JSON por tema e códigos de saída 0/1/2.
-- [ ] Validar campos, enums, IDs únicos, uma posição por obra, pares de relações, matriz, referências internas do roteiro e exceção explícita para verbete.
-- [ ] Exigir obras com entrada `complete`, citações pertencentes às obras corretas e cobertura de todas as leituras prioritárias.
+- [x] Implementar `scripts/atlas.py validate` e `coverage`, reaproveitando a conferência de referências do caderno, com JSON por tema e códigos de saída 0/1/2.
+- [x] Validar campos, enums, IDs únicos, uma posição por obra, pares de relações, matriz, referências internas do roteiro e exceção explícita para verbete.
+- [x] Exigir obras com entrada `complete`, citações pertencentes às obras corretas e cobertura de todas as leituras prioritárias.
 - Verificação: `python3 -m unittest discover -s tests/atlas -p 'test_*.py' -v`; testes de falha com citação ausente, página errada, fonte de terceiro, entrada parcial, relações incompletas e diretório sem debates. Fixtures sintéticas, sem PDFs.
 - Dependências: 11. Arquivos: `scripts/atlas.py`, `tests/atlas/test_atlas.py` (escopo pequeno).
 

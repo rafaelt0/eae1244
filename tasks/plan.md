@@ -53,7 +53,7 @@ Especificação: [SPEC-caderno.md](../SPEC-caderno.md), aprovada em 28/10/2026. 
 
 # Plano de execução — atlas
 
-Especificação: [SPEC-atlas.md](../SPEC-atlas.md), aprovada em 28/10/2026. **Plano e tarefas aguardam revisão do usuário.** As tarefas 13–19 estão em [todo.md](todo.md); as pendências anteriores permanecem registradas.
+Especificação: [SPEC-atlas.md](../SPEC-atlas.md), aprovada em 28/10/2026. **Plano e tarefas aprovados pelo usuário em 28/10/2026.** As tarefas 13–19 estão em [todo.md](todo.md); as pendências anteriores permanecem registradas.
 
 ## Base conferida
 
