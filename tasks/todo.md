@@ -213,22 +213,22 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Verificação: evidência do caderno e `atlas validate`; commit exclusivo de conteúdo.
 
 ## 28. Gerar e verificar o pacote
-- [ ] Testar e implementar geração segura, cópia íntegra dos originais e ZIP, preservando saída anterior em falhas.
+- [x] Testar e implementar geração segura, cópia íntegra dos originais e ZIP, preservando saída anterior em falhas.
 - Verificação: testes sintéticos de geração e adulteração; saída real com 44 originais.
 - Arquivos: `scripts/html.py`, `tests/html/`, estrutura de `web/`, `.gitignore`.
 
 ## 29. Caderno e navegação
-- [ ] Implementar leitura, evidências, filtros de aula e estados de resumo pendente.
+- [x] Implementar leitura, evidências, filtros de aula e estados de resumo pendente.
 - Verificação: navegação e leitura de entrada real no navegador; desktop e celular.
 - Arquivos: `web/index.html`, `web/style.css`, `web/app.js`.
 
 ## 30. Atlas e busca
-- [ ] Implementar temas, relações, mecanismos, vínculos e busca sem acentos.
+- [x] Implementar temas, relações, mecanismos, vínculos e busca sem acentos.
 - Verificação: pesquisar, abrir resultado, conferir evidência e voltar ao contexto; estado sem resultado.
 - Arquivos: interface e testes pertinentes.
 
 ## 31. Prática e rascunhos
-- [ ] Implementar os 16 exercícios com roteiro recolhido, autoavaliação, rascunho persistido quando disponível e download.
+- [x] Implementar os 16 exercícios com roteiro recolhido, autoavaliação, rascunho persistido quando disponível e download.
 - Verificação: digitar, trocar de tela, retornar, recarregar, testar armazenamento indisponível e exportar resposta.
 - Arquivos: interface e testes pertinentes.
 
