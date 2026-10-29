@@ -3,10 +3,10 @@ const base = await page.eval(() => location.href.split('#')[0]);
 const checks = [];
 function check(name, ok) { if (!ok) throw Error(name); checks.push(name); }
 await page.open(base);
-await page.click('.quick-links button:nth-of-type(1)');
+await page.click('.quick-links li:nth-of-type(1) button');
 check('reading opens its primary topic', await page.eval(() => location.hash === '#atlas/guerra-e-mobilizacao'));
 await page.open(base);
-await page.click('.quick-links button:nth-of-type(2)');
+await page.click('.quick-links li:nth-of-type(2) button');
 check('reading opens its guided exercise', await page.eval(() => location.hash === '#praticar/guerra-e-mobilizacao-guided'));
 await page.open(base + '#praticar/fim-bretton-woods-guided');
 await page.wait('#answer');
@@ -36,7 +36,7 @@ await page.eval(() => {
   window.__originalObjectURL = URL.createObjectURL;
   URL.createObjectURL = blob => { window.__exportedAnswer = blob; return window.__originalObjectURL(blob); };
 });
-await page.click('#article section:nth-of-type(2) > button');
+await page.click('#download-answer');
 check('export contains prompt and answer', await page.eval(async () => {
   const text = await window.__exportedAnswer.text();
   return text.includes('QA: tese, mecanismo e contraponto.') && text.includes('O fim de Bretton Woods') && text.includes('[x]');

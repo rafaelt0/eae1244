@@ -12,7 +12,7 @@ A oficina contém 16 exercícios, com roteiros, parágrafos comentados e autoava
 
 O [HTML de estudo](dist/guia-eae1244/index.html) está implementado e verificado. Para usar em outro lugar, baixe o [pacote offline](dist/guia-eae1244.zip), descompacte-o e abra `index.html`, mantendo a pasta `originais` junto dele.
 
-Há Caderno, Atlas, busca global e Praticar com rascunhos e download da resposta. A [revisão da interface](docs/html-revisao.md) registra testes e capturas. Permanecem pendentes os resumos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
+Há Caderno, Atlas, busca global e Praticar com rascunhos e download da resposta. A interface segue uma composição editorial, conforme [SPEC-editorial.md](SPEC-editorial.md), com sumário de livro, notas de margem, matriz impressa e folha de prova. A [revisão da interface](docs/html-revisao.md) registra testes e capturas. Permanecem pendentes os resumos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
 
 ## Atlas
 

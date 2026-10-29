@@ -61,3 +61,16 @@ Rascunhos não entram no ZIP nem são enviados a terceiros. O armazenamento depe
 As classificações, comparações e roteiros continuam identificados como interpretações de estudo. A interface apresenta o conteúdo existente e seus limites. Não há nota automática, avaliação de domínio ou previsão das questões da prova.
 
 O servidor local usado na prévia é opcional. A pasta e o ZIP gerados ficam em `dist/`, fora do Git, pois contêm o acervo local. A geração exige as fontes preservadas; os testes usam fixtures sintéticas.
+
+## Edição editorial (29/10/2026)
+
+Recomposição visual conforme [SPEC-editorial.md](../SPEC-editorial.md). O inventário do texto de interface está em [editorial-copy.md](editorial-copy.md). Os dados de estudo não foram alterados.
+
+- Fontes Source Serif 4 incorporadas em base64 pelo gerador. O teste novo rejeita URL remota, `@import`, caminho fora de `web/fonts/` e fonte ausente. HTML com 1,12 MiB.
+- 92 testes passaram: 23 de fontes, 22 do caderno, 16 do atlas, 15 da oficina, 11 de geração e cinco de lógica JavaScript. `html.py verify` não apontou divergências.
+- `tests/html/browser.mjs` passou nas 17 verificações e nas 55 rotas, sem erros de console. Três seletores foram trocados pelos equivalentes do novo layout, com as mesmas asserções.
+- Nenhuma rolagem horizontal nas 56 rotas, incluindo o acervo, em 320, 768, 1024 e 1440 px, medida por `scrollWidth`.
+- Contraste sobre o papel `#f6f1e6`: texto 15,4:1, secundário 6,8:1, destaque 6,9:1 e aviso 6,4:1.
+- Com o pacote aberto por `file://`, as únicas requisições são o próprio arquivo e os recursos embutidos.
+
+Capturas antes, em `.local/editorial-qa/antes/`, e depois, em `.local/editorial-qa/depois/`: Caderno, Atlas, Praticar e busca em 1440 px, Caderno, Atlas e Praticar em 390 px, e acervo em 1024 px. A aprovação visual do usuário continua pendente.
