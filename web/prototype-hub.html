@@ -1,0 +1,37 @@
+<!doctype html>
+<!-- PROTOTYPE: three study-hub layouts on one route, selected with ?variant=A|B|C.
+Design read: preserve the editorial identity of EAE1244; native CSS, no UI framework.
+DESIGN_VARIANCE: 5; MOTION_INTENSITY: 2; VISUAL_DENSITY: 4.
+Product reading/workshop flows retain the existing native accessibility patterns.
+State is intentionally in memory; this is not the production guide. -->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Protótipo do hub EAE1244: leituras, comparação de autores e treino de respostas discursivas.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:,">
+<title>EAE1244 · Protótipo do hub</title>
+<style>/*PROTOTYPE_STYLE*/</style>
+</head>
+<body>
+<script>document.body.dataset.variant=['A','B','C'].includes(new URLSearchParams(location.search).get('variant'))?new URLSearchParams(location.search).get('variant'):'A';document.body.dataset.page=location.hash.slice(1).split('/')[0]||'home';</script>
+<div class="prototype-note">Protótipo de interface. Explore as três opções no seletor inferior. Seu estudo nesta prévia fica apenas nesta sessão.</div>
+<div id="study-hub">
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<header class="topbar">
+<a class="brand" href="#home" data-page="home"><span class="brand-mark" aria-hidden="true">H</span><span><strong>EAE1244</strong><span>História econômica do século XX</span></span></a>
+<div class="search"><label for="global-search">Buscar no acervo</label><div class="search-field"><span data-icon="magnifying-glass"></span><input id="global-search" type="search" autocomplete="off" placeholder="Um autor, conceito ou pergunta…"><button id="clear-search" class="icon-button" type="button" aria-label="Limpar busca" hidden><span data-icon="x"></span></button></div></div>
+<button id="theme-toggle" class="icon-button" type="button" aria-label="Alternar aparência"><span data-icon="moon"></span></button>
+</header>
+<div class="workspace"><aside id="navigation"></aside><main id="main" tabindex="-1"><section id="results" aria-label="Resultados da busca" hidden></section><div id="page"></div></main></div>
+</div>
+<div id="live-status" class="live-status" role="status"></div>
+<details class="prototype-state"><summary>Estado do protótipo</summary><pre id="state-output"></pre></details>
+<nav class="prototype-switcher" aria-label="Alternativas do protótipo"><button type="button" id="variant-prev" aria-label="Alternativa anterior">←</button><label for="variant-select">Interface<select id="variant-select"><option value="A">A · Biblioteca editorial</option><option value="B">B · Percurso por aula</option><option value="C">C · Explorar por perguntas</option></select></label><button type="button" id="variant-next" aria-label="Próxima alternativa">→</button></nav>
+<dialog id="share-dialog"><form method="dialog"><h2>Compartilhar esta prévia</h2><label for="share-url">Link da tela atual</label><input id="share-url" type="text" readonly><p>Este endereço funciona onde o protótipo estiver servido. A publicação do hub vem depois da escolha da interface.</p><button class="primary" type="submit">Fechar</button></form></dialog>
+<script type="application/json" id="prototype-data">/*PROTOTYPE_DATA*/</script>
+<script>/*PROTOTYPE_APP*/</script>
+</body>
+</html>
