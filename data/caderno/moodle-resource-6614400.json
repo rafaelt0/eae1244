@@ -903,6 +903,128 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 13.1",
+      "title": "Comovimento e correlação entre produto e consumo em quatro regimes monetários, 1880-2009",
+      "unit": "coeficiente de correlação",
+      "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+      "pdf_page": 7,
+      "columns": [
+        "Grupo e medida",
+        "Padrão-ouro (1880-1913)",
+        "Entreguerras (1920-1938)",
+        "Bretton Woods (1950-1971)",
+        "Flutuação (1973-2009)"
+      ],
+      "rows": [
+        [
+          "Todos os países: correlação do consumo com o produto",
+          "0.55",
+          "0.62",
+          "0.67",
+          "0.75"
+        ],
+        [
+          "Todos os países: correlação do consumo com Reino Unido/EUA",
+          "0.18",
+          "0.12",
+          "0.05",
+          "0.26"
+        ],
+        [
+          "Países centrais: correlação do consumo com o produto",
+          "0.68",
+          "0.5",
+          "0.71",
+          "—"
+        ],
+        [
+          "Países centrais: correlação do consumo com Reino Unido/EUA",
+          "0.21",
+          "-0.25",
+          "0.07",
+          "—"
+        ],
+        [
+          "Periferia: correlação do consumo com o produto",
+          "0.48",
+          "0.68",
+          "0.66",
+          "—"
+        ],
+        [
+          "Periferia: correlação do consumo com Reino Unido/EUA",
+          "0.18",
+          "0.25",
+          "0.05",
+          "—"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que o compartilhamento de risco melhorou só um pouco com a liberalização (correlação do consumo com os EUA de 0,05 em Bretton Woods para 0,26 na flutuação), muito abaixo de 1, que indicaria integração perfeita.",
+      "note": "Tabela completa. '—' = sem dado no original. A correlação do consumo é com o Reino Unido antes de 1950 e com os EUA depois de 1950. Fonte: cálculos do autor com dados de Barro e Ursúa (2008)."
+    },
+    {
+      "label": "Tabela 13.2",
+      "title": "Principais razões de dívida, 1973-1980",
+      "unit": "razões x 100",
+      "file_id": "4ec1db554d74cdf7512b080db727d896a84a4d8f513545e417db84ef70d6a469",
+      "pdf_page": 11,
+      "columns": [
+        "Indicador",
+        "1973",
+        "1975",
+        "1979",
+        "1980"
+      ],
+      "rows": [
+        [
+          "Dívida / exportações totais: média simples",
+          "106.6",
+          "121.4",
+          "116.0",
+          "98.3"
+        ],
+        [
+          "Dívida / exportações totais: mediana",
+          "111.2",
+          "122.5",
+          "94.1",
+          "83.1"
+        ],
+        [
+          "Juros pagos / exportações totais: média simples",
+          "4.5",
+          "7.3",
+          "9.3",
+          "9.8"
+        ],
+        [
+          "Juros pagos / exportações totais: mediana",
+          "5.1",
+          "8.0",
+          "6.6",
+          "7.6"
+        ],
+        [
+          "Reservas internacionais / dívida: média simples",
+          "70.0",
+          "149.5",
+          "85.7",
+          "81.8"
+        ],
+        [
+          "Reservas internacionais / dívida: mediana",
+          "43.8",
+          "27.0",
+          "95.5",
+          "89.4"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que os indicadores tradicionais de dívida não estavam críticos antes de 1982 (dívida/exportações caiu para 98,3 em 1980): eram retrospectivos e não captavam o choque de juros de Volcker nem a queda da demanda mundial.",
+      "note": "Tabela completa. Dívida pública externa de longo prazo (> 1 ano); amostra: Argentina, Brasil, Chile, Colômbia, México e Venezuela. Fonte: cálculos do autor com dados de Diaz-Alejandro (1984), tabela 2. O valor de 1975 (média, dívida/exportações) aparece como '1214' na extração de texto; a imagem mostra 121.4."
+    }
+  ],
   "limits": [
     "Inferência minha: o autor mistura teorias (primeira geração, autorrealizável, risco moral, contágio); na prova, classifique cada crise pelo mecanismo dominante e diga que Meissner admite combinações e que 'as causas das crises são tipicamente únicas'.",
     "Inferência minha: a classificação causa/transmissor/economia política é mais nossa que do autor. Sugestão: causas = déficits, endividamento em moeda estrangeira, risco moral; transmissores = juros dos EUA, parada súbita e contágio; economia política = Consenso de Washington, FMI e governança/dívida odiosa.",
@@ -915,8 +1037,8 @@
   "figures_note": [
     "Página 2, Figura 13.1: ativos e passivos externos sobre o PIB mundial, 1970-2009, para economias de alta renda e emergentes; a extração só captura os eixos, não as séries.",
     "Página 5, Figura 13.2: percentual de países com controles de capital por renda, 1950-2016; as linhas não foram capturadas.",
-    "Página 7, Tabela 13.1: correlações de consumo e produto em quatro regimes monetários (1880-2009); a tabela foi extraída com ruído e colunas desalinhadas. Usei apenas os valores citados no texto (0,05 e 0,26).",
-    "Página 11, Tabela 13.2: razões de dívida 1973-1980 (Argentina, Brasil, Chile, Colômbia, México, Venezuela); a extração está legível mas com alguns valores ambíguos (ex.: '1214'); consultar o original.",
+    "Página 7, Tabela 13.1: correlações de consumo e produto em quatro regimes monetários (1880-2009); transcrita na seção Tabelas a partir da imagem da página (a extração de texto tinha colunas desalinhadas).",
+    "Página 11, Tabela 13.2: razões de dívida 1973-1980 (Argentina, Brasil, Chile, Colômbia, México, Venezuela); transcrita na seção Tabelas a partir da imagem da página (o '1214' da extração é 121.4 no original).",
     "Página 12, Figura 13.3: taxas de câmbio contra o marco alemão, 1990-1995, para Reino Unido, Suécia, França e Itália; extração ilegível.",
     "Página 15, Figura 13.4: taxas de câmbio contra o dólar em seis países (1994=100), 1994-2005; extração ilegível.",
     "Página 18, Figura 13.5: PIB real contra a tendência em cinco mercados emergentes, 1989-2005; as curvas não foram capturadas."

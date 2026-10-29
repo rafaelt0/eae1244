@@ -961,6 +961,75 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 1",
+      "title": "Regressões de mínimos quadrados ordinários estimando o efeito da educação sobre a renda numa amostra de corte transversal de países",
+      "unit": "variável dependente: log do PIB per capita; erros-padrão robustos entre parênteses",
+      "file_id": "307c8b9e8f80f4e8abd3b3187d5467aa4cc454bad57aca7f8ea03edd44d8c51d",
+      "pdf_page": 16,
+      "columns": [
+        "Variável",
+        "1980 (1)",
+        "1990 (2)",
+        "2000 (3)",
+        "2010 (4)",
+        "2014 (5)"
+      ],
+      "rows": [
+        [
+          "Anos de escolaridade",
+          "0.123***",
+          "0.219***",
+          "0.245***",
+          "0.243***",
+          "0.259***"
+        ],
+        [
+          "(erro-padrão)",
+          "(0.0405)",
+          "(0.0324)",
+          "(0.0298)",
+          "(0.0241)",
+          "(0.0208)"
+        ],
+        [
+          "Constante",
+          "8.093***",
+          "7.547***",
+          "7.425***",
+          "7.552***",
+          "7.390***"
+        ],
+        [
+          "(erro-padrão)",
+          "(0.401)",
+          "(0.313)",
+          "(0.324)",
+          "(0.287)",
+          "(0.255)"
+        ],
+        [
+          "Observações",
+          "112",
+          "124",
+          "144",
+          "155",
+          "153"
+        ],
+        [
+          "R²",
+          "0.225",
+          "0.610",
+          "0.634",
+          "0.685",
+          "0.740"
+        ]
+      ],
+      "supports": "Sustenta o passo do argumento sobre a regressão entre países: a relação escolaridade-renda é positiva e estável, com coeficiente de 0,259 em 2014 (0,1 ano a mais de escolaridade associado a +2,6% de renda) e R² de 0,74.",
+      "note": "Tabela completa. *** = significativo a 1%. Regressões ponderadas pelo PIB e sem a China; dados da China dos censos (1982, 1990, 2000 e 2010), dos demais países do UIS/UNESCO e EdStats do Banco Mundial."
+    }
+  ],
   "limits": [
     "Os próprios autores dizem que a regressão é correlação de forma reduzida, não retorno causal à educação: países com mais capital humano também têm mais capital físico, tecnologia e instituições (p. 13).",
     "A projeção de 3% é ilustrativa e depende de pressupostos: relação global estável (reta de 2014), supondo a continuidade da melhoria de capital físico, tecnologia e instituições que acompanha o capital humano; a regressão usa anos de escolaridade de adultos 25+ e a variante com a força de trabalho 25–64 dá 4,0%.",
@@ -977,6 +1046,6 @@
     "Figura 2 (p. 9): admissões universitárias na China (milhões); gráfico sem dados extraídos. O texto dá os valores principais (0,4 milhão em 1978, 1 milhão em 1998, quadruplicação até 2005).",
     "Figura 3 (p. 12): barras com a proporção da força de trabalho com ensino superior e médio em países selecionados; só rótulos de eixo ruidosos foram extraídos. Os valores numéricos de vários países estão no texto da p. 11.",
     "Figura 4 (pp. 14–15): dispersão de renda per capita contra anos de escolaridade (1980–2014), com China e EUA marcados; a extração traz só rótulos de eixos e posições aproximadas, sem os pontos dos países nem a reta ajustada. Para a posição da China, usar o texto da p. 16–17.",
-    "Tabela 1 (p. 16): extraída de forma legível, mas os erros-padrão e as colunas devem ser conferidos no original ao citar valores precisos."
+    "Tabela 1 (p. 16): regressões de MQO da renda contra escolaridade (1980–2014); transcrita na seção Tabelas a partir da imagem da página, com erros-padrão."
   ]
 }

@@ -1000,6 +1000,224 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 1",
+      "title": "Insumos, produto e produtividade, 1928-85",
+      "unit": "% ao ano",
+      "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+      "pdf_page": 4,
+      "columns": [
+        "Variável",
+        "1928-40",
+        "1950-60",
+        "1960-70",
+        "1970-75",
+        "1975-80",
+        "1980-85"
+      ],
+      "rows": [
+        [
+          "PNB",
+          "5.8",
+          "5.7",
+          "5.2",
+          "3.7",
+          "2.6",
+          "2.0"
+        ],
+        [
+          "Trabalho",
+          "3.3",
+          "1.2",
+          "1.7",
+          "1.7",
+          "1.2",
+          "0.7"
+        ],
+        [
+          "Capital",
+          "9.0",
+          "9.5",
+          "8.0",
+          "7.9",
+          "6.8",
+          "6.3"
+        ],
+        [
+          "Terra",
+          "1.6",
+          "3.3",
+          "0.2",
+          "1.0",
+          "-0.1",
+          "-0.1"
+        ],
+        [
+          "Insumos totais",
+          "4.0",
+          "4.0",
+          "3.7",
+          "3.7",
+          "3.0",
+          "2.5"
+        ],
+        [
+          "Produtividade (PTF)",
+          "1.7",
+          "1.6",
+          "1.5",
+          "0.0",
+          "-0.4",
+          "-0.5"
+        ]
+      ],
+      "supports": "Sustenta a divisão do desempenho por volta de 1970 e o caso da desaceleração: o PNB cai de mais de 5% para 2,0% ao ano, o capital segue crescendo acima dos demais insumos e a PTF fica negativa em 1975-85.",
+      "note": "Tabela completa. Fonte: Ofer (1987, 1778-9). A década de 1940 foi omitida no original por causa da Segunda Guerra Mundial. Sinais negativos de Terra e Produtividade (1975-80 e 1980-85) conferidos na imagem da página; a extração de texto os mostra como '20.1', '20.4' e '20.5'."
+    },
+    {
+      "label": "Tabela 2",
+      "title": "Estoque de capital não agrícola real e simulado",
+      "unit": "bilhões de rublos de 1937",
+      "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+      "pdf_page": 6,
+      "columns": [
+        "Linha",
+        "Coletivização, soft budget",
+        "NEP, soft budget",
+        "Emprego capitalista, hard budget"
+      ],
+      "rows": [
+        [
+          "1928, real",
+          "136.3",
+          "136.3",
+          "136.3"
+        ],
+        [
+          "1939, simulado, e = 0.07",
+          "201.0",
+          "192.7",
+          "162.9"
+        ],
+        [
+          "1939, simulado, e = 0.12",
+          "237.3",
+          "225.1",
+          "186.3"
+        ],
+        [
+          "1939, simulado, e = 0.17",
+          "281.1",
+          "263.6",
+          "215.2"
+        ],
+        [
+          "1939, simulado, e = 0.23",
+          "343.9",
+          "318.0",
+          "258.7"
+        ],
+        [
+          "1939, real",
+          "344.7",
+          "344.7",
+          "344.7"
+        ]
+      ],
+      "supports": "Sustenta o argumento das simulações contrafactuais: com e = 0,23 o capital salta de 162,9 para 258,7 (+90%), o soft budget leva a 318,0 (+23%) e a coletivização só a 343,9 (+8%), a 0,2% do valor real de 344,7.",
+      "note": "Tabela completa. e é a fração do produto de bens de produção reinvestida no próprio setor de bens de produção. Fonte: Allen (1998b), com revisões."
+    },
+    {
+      "label": "Tabela 3",
+      "title": "Crescimento da produtividade (PTF) por indústria, 1965-85",
+      "unit": "% no período",
+      "file_id": "e58f4fa58a56124eba5ed1b690c4cda128d7593f9f1c095036a7a002f0f86d20",
+      "pdf_page": 16,
+      "columns": [
+        "Indústria",
+        "Grupo (classificação de Allen)",
+        "1965-75",
+        "1975-85"
+      ],
+      "rows": [
+        [
+          "Gás",
+          "Moderadamente bem-sucedidas",
+          "31%",
+          "41%"
+        ],
+        [
+          "Eletricidade",
+          "Moderadamente bem-sucedidas",
+          "31",
+          "8"
+        ],
+        [
+          "Química",
+          "Moderadamente bem-sucedidas",
+          "33",
+          "12"
+        ],
+        [
+          "Construção de máquinas",
+          "Fracas",
+          "15%",
+          "-2%"
+        ],
+        [
+          "Materiais de construção",
+          "Fracas",
+          "14",
+          "-3"
+        ],
+        [
+          "Indústria leve",
+          "Fracas",
+          "10",
+          "2"
+        ],
+        [
+          "Alimentos",
+          "Fracas",
+          "10",
+          "-7"
+        ],
+        [
+          "Outras",
+          "Fracas",
+          "1",
+          "3"
+        ],
+        [
+          "Carvão",
+          "Desastres",
+          "8%",
+          "-24%"
+        ],
+        [
+          "Petróleo",
+          "Desastres",
+          "37%",
+          "-21%"
+        ],
+        [
+          "Metais ferrosos",
+          "Desastres",
+          "11%",
+          "-12%"
+        ],
+        [
+          "Total",
+          "",
+          "19%",
+          "-2%"
+        ]
+      ],
+      "supports": "Sustenta a tese da má alocação do investimento: carvão, petróleo e metais ferrosos têm quedas de PTF acima de 10% em 1975-85, enquanto gás, eletricidade e química mantêm ganhos.",
+      "note": "Tabela completa; os valores são impressos com '%' só na primeira linha de cada grupo, como no original. Sinais negativos conferidos na imagem da página (a extração mostra '22%', '224%', '221%', '212%'). Fonte: índices de produto, emprego e capital de Narodnoe Khozyaistvo SSSR, Trud v SSSR e Promyshlennost' SSSR; PTF calculada com Cobb-Douglas, participação do trabalho 0,7 e do capital 0,3."
+    }
+  ],
   "limits": [
     "Allen trabalha com simulações e contrafactuais, não com dados diretos: os resultados dependem dos parâmetros e das hipóteses do modelo (por exemplo, e, regra de emprego e funções de migração).",
     "O texto reconhece a controvérsia da queda da TFP: ela pressupõe Cobb-Douglas, e a alternativa de Weitzman tem sua própria elegância, mas Allen a considera implausível em perspectiva internacional (contraste com o Japão).",
@@ -1274,11 +1492,11 @@
   ],
   "figures_note": [
     "Artigo, página 2 (impressa 860): Figura 1, crescimento do PIB per capita de 1928 a 1970 contra o nível de 1928 (OCDE e não OCDE, regressão de convergência); a extração perdeu o gráfico. Consultar o original.",
-    "Artigo, página 4: Tabela 1 (insumos, produto e produtividade, 1928-85, Ofer). A extração tem as taxas de PNB, trabalho, capital e produtividade legíveis, mas os sinais negativos foram perdidos (por exemplo, valores de terra e TFP aparecem como '20.1' e '20.5' no lugar de -0,1 e -0,5 aproximadamente); conferir os sinais no original. Obs.: leitura dos números negativos é inferência.",
-    "Artigo, página 6: Tabela 2 (estoque de capital não agrícola, real e simulado, por e e por cenário); a extração trouxe os números, mas a leitura por colunas deve ser conferida no original.",
+    "Artigo, página 4: Tabela 1 (insumos, produto e produtividade, 1928-85, Ofer) transcrita na seção Tabelas a partir da imagem da página, com os sinais negativos conferidos (Terra -0.1 em 1975-80 e 1980-85; Produtividade -0.4 e -0.5); a extração de texto os perdeu ('20.1', '20.4', '20.5').",
+    "Artigo, página 6: Tabela 2 (estoque de capital não agrícola, real e simulado, por e e por cenário) transcrita na seção Tabelas a partir da imagem da página.",
     "Artigo, páginas 11-12: Figura 2 (diagrama de Weitzman com isoquanta de proporções fixas, pontos A, Y1, Y2, K1, K2, L1, L2); a figura não foi extraída. A lógica está descrita no texto. As equações (1)-(3) do modelo Solow-Swan com CES (página 12-13) também aparecem com ruído de OCR e não foram usadas.",
     "Artigo, página 13: Figura 3 (PIB per capita soviético real contra o simulado, 1928-89). Página 14: Figura 4 (isoquanta unitária soviética 1928-89, com datas). Gráficos não extraídos.",
-    "Artigo, página 16: Tabela 3 (crescimento da TFP por indústria, 1965-85: gás, eletricidade e química moderadamente bem-sucedidos; carvão, petróleo e metais ferrosos desastres); os sinais negativos foram perdidos na extração. Consultar o original.",
+    "Artigo, página 16: Tabela 3 (crescimento da PTF por indústria, 1965-85: gás, eletricidade e química moderadamente bem-sucedidos; carvão, petróleo e metais ferrosos desastres) transcrita na seção Tabelas a partir da imagem da página, com os sinais negativos conferidos; a extração de texto os perdeu.",
     "Slides 4, 7, 8, 12, 20 e 30 são imagens sem texto: slide 4 (tabelas 12.1 e 12.3, PIB per capita da Europa Ocidental, EUA, Leste Europeu e URSS), slide 7 (tabela 1.1, PIB por pessoa no mundo, 1820-1989), slide 8 (figura 1, crescimento 1928-89), slide 12 (figuras 1.2 e 1.3, URSS frente à Europa e ao Leste Asiático), slide 20 (tabela 2, estoque de capital real e simulado) e slide 30 (figura 2, modelo de Weitzman). Slides 13 a 15 trazem a tabela das fases econômicas descrita só em texto."
   ]
 }

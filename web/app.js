@@ -63,7 +63,7 @@
   function buildSearchDocs(data, readingTitle=resource=>resource.title) {
     const docs=[],works=new Map(data.resources.map(resource=>[resource.id,resource]));
     const text=value=>{if(typeof value==='string')return value;if(Array.isArray(value))return value.map(text).join(' ');if(value&&typeof value==='object')return Object.entries(value).filter(([key])=>!['refs','file_id','resource_id','basis'].includes(key)).map(([,value])=>text(value)).join(' ');return '';};
-    const readingSections={thesis:'tese-central',question:'tese-central',argument:'o-argumento-passo-a-passo',mechanisms:'mecanismos-em-jogo',concepts:'conceitos-para-a-resposta',cases:'casos-e-comparacoes',evidence:'evidencias-e-resultados',limits:'limites-e-ressalvas',professor_emphasis:'enfases-do-professor',figures_note:'figuras-e-tabelas'};
+    const readingSections={thesis:'tese-central',question:'tese-central',argument:'o-argumento-passo-a-passo',mechanisms:'mecanismos-em-jogo',concepts:'conceitos-para-a-resposta',cases:'casos-e-comparacoes',evidence:'evidencias-e-resultados',tables:'tabelas',limits:'limites-e-ressalvas',professor_emphasis:'enfases-do-professor',figures_note:'figuras-e-tabelas'};
     for(const resource of data.resources.filter(resource=>resource.kind==='reading')){
       const base={view:'caderno',id:resource.id,title:readingTitle(resource),type:resource.summary?'Leitura':'Resumo pendente'},context=resource.title+' '+resource.authors.join(' ')+' Aula '+resource.lessons.join(' ');
       if(resource.summary){for(const [field,section]of Object.entries(readingSections))if(resource.summary[field])docs.push({...base,section,text:context+' '+text(resource.summary[field])});}
@@ -207,6 +207,7 @@
     listSection('Conceitos para a resposta',entry.concepts,'definition');
     listSection('Casos e comparações',entry.cases,'outcome');
     listSection('Evidências e resultados',entry.evidence,'fact');
+    if(entry.tables?.length){const box=section('Tabelas');for(const t of entry.tables){const figure=el('figure',null,'data-table');figure.append(el('figcaption',t.label+' · '+t.title));if(t.unit)figure.append(el('p',t.unit,'byline'));const scroll=el('div',null,'table-scroll'),table=el('table'),head=el('tr');t.columns.forEach(c=>{const th=el('th',c);th.scope='col';head.append(th);});const thead=el('thead'),tbody=el('tbody');thead.append(head);for(const row of t.rows){const tr=el('tr');row.forEach((c,i)=>{const cell=el(i?'td':'th',c);if(!i)cell.scope='row';tr.append(cell);});tbody.append(tr);}table.append(thead,tbody);scroll.append(table);figure.append(scroll,el('p',t.supports,'table-supports'));if(t.note)figure.append(el('p',t.note,'table-note'));const file=byFile[t.file_id];if(file){const a=el('a','Conferir no original · página física '+t.pdf_page);a.href=file.href+'#page='+t.pdf_page;a.target='_blank';a.rel='noopener';figure.append(a);}box.append(figure);}}
     if(entry.limits?.length){const box=section('Limites e ressalvas'),ul=el('ul',null,'limits');entry.limits.forEach(t=>ul.append(el('li',t)));box.append(ul);}
     listSection('Ênfases do professor',entry.professor_emphasis,'point');
     if(entry.figures_note?.length){const box=section('Figuras e tabelas');entry.figures_note.forEach(t=>box.append(el('p',t)));}

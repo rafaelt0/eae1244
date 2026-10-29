@@ -48,6 +48,7 @@ Essa questão já foi cobrada pelo professor e serve só como modelo de estilo; 
 | `limits` | Limitações, pressupostos e objeções possíveis. |
 | `professor_emphasis` | Só para aulas com slides: pontos destacados nos slides, com `refs`. |
 | `figures_note` | Figuras e tabelas que a extração não representa, com a página, para consulta no original. |
+| `tables` | Opcional. Tabelas da própria leitura que sustentam uma afirmação do resumo, transcritas de forma enxuta e conferidas na imagem da página: `label`, `title`, `unit` (opcional), `file_id`, `pdf_page`, `columns`, `rows` (células em texto, valores como impressos), `supports` (a afirmação sustentada) e `note` (omissões). |
 
 `refs` é uma lista de `{file_id, pdf_page, quote}`. `quote` é um trecho literal curto (até 25 palavras) que deve aparecer na página citada.
 
@@ -61,6 +62,9 @@ python3 scripts/caderno.py validate --manifest data/fontes/manifest.json --cader
 
 # Validar só as aulas 17–28
 python3 scripts/caderno.py validate --manifest data/fontes/manifest.json --caderno data/caderno --scope priority
+
+# Números das tabelas ausentes do texto extraído (para conferir na imagem)
+python3 scripts/caderno.py tables --manifest data/fontes/manifest.json --caderno data/caderno
 
 # Relatório de cobertura: leituras com entrada, completas, parciais e ausentes
 python3 scripts/caderno.py coverage --manifest data/fontes/manifest.json --caderno data/caderno

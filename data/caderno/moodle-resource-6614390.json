@@ -896,6 +896,448 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 4.6",
+      "title": "Indústria de transformação e agricultura: crescimento e participação no PIB",
+      "unit": "participação no PIB em % (preços constantes de 1970); crescimento em % ao ano",
+      "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+      "pdf_page": 4,
+      "columns": [
+        "País",
+        "Indústria: % do PIB 1950",
+        "Indústria: % do PIB 1974",
+        "Indústria: % do PIB 1980",
+        "Indústria: cresc. 1950–1974",
+        "Indústria: cresc. 1974–1980",
+        "Agricultura: % do PIB 1950",
+        "Agricultura: % do PIB 1974",
+        "Agricultura: % do PIB 1980",
+        "Agricultura: cresc. 1950–1974",
+        "Agricultura: cresc. 1974–1980"
+      ],
+      "rows": [
+        [
+          "Brasil",
+          "21.9",
+          "30.6",
+          "30.2",
+          "8.7",
+          "6.7",
+          "20.7",
+          "9.3",
+          "8.6",
+          "3.7",
+          "5.3"
+        ],
+        [
+          "México",
+          "17.2",
+          "23.5",
+          "23.9",
+          "8.0",
+          "6.7",
+          "18.7",
+          "9.9",
+          "8.4",
+          "3.8",
+          "3.5"
+        ],
+        [
+          "Argentina",
+          "23.8",
+          "31.6",
+          "27.5",
+          "4.9",
+          "-0.6",
+          "16.0",
+          "12.4",
+          "11.6",
+          "2.6",
+          "0.7"
+        ],
+        [
+          "Chile",
+          "25.6",
+          "25.9",
+          "22.2",
+          "3.4",
+          "1.2",
+          "9.7",
+          "6.8",
+          "6.6",
+          "1.9",
+          "3.2"
+        ],
+        [
+          "Uruguai",
+          "18.9",
+          "22.2",
+          "22.4",
+          "2.3",
+          "4.9",
+          "13.8",
+          "11.2",
+          "10.2",
+          "0.7",
+          "3.1"
+        ],
+        [
+          "Colômbia",
+          "16.1",
+          "22.7",
+          "21.6",
+          "6.7",
+          "4.0",
+          "33.4",
+          "22.9",
+          "22.5",
+          "3.5",
+          "4.5"
+        ],
+        [
+          "Peru",
+          "15.1",
+          "20.0",
+          "18.9",
+          "6.7",
+          "1.8",
+          "27.8",
+          "14.5",
+          "12.1",
+          "2.6",
+          "-0.3"
+        ],
+        [
+          "Venezuela",
+          "12.1",
+          "16.4",
+          "17.6",
+          "7.9",
+          "5.0",
+          "8.6",
+          "6.6",
+          "6.4",
+          "5.4",
+          "3.1"
+        ],
+        [
+          "América Latina",
+          "19.9",
+          "27.2",
+          "26.7",
+          "7.5",
+          "5.4",
+          "20.3",
+          "11.2",
+          "10.4",
+          "3.5",
+          "4.3"
+        ]
+      ],
+      "supports": "Sustenta dois passos do resumo: a participação da indústria no PIB atingiu o pico por volta de 1973-74 (27,2% em 1974 contra 26,7% em 1980 para a região, com recuo em Argentina e Chile) e o viés antiagrícola não se confirma (agricultura crescendo 3,5% ao ano em 1950-74 e 4,3% em 1974-80).",
+      "note": "Omitidos América Central (Costa Rica, El Salvador, Guatemala, Honduras, Nicarágua) e 'Outros' (Bolívia, Equador, Panamá, Paraguai, República Dominicana). Tabela impressa de cabeça para baixo na página digitalizada. Fonte: estimativas dos autores com séries históricas da CEPAL, encadeando preços constantes de 1970 e de 1990."
+    },
+    {
+      "label": "Tabela 4.8",
+      "title": "Dinamismo econômico",
+      "unit": "crescimento médio anual (%)",
+      "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+      "pdf_page": 7,
+      "columns": [
+        "País ou grupo",
+        "PIB",
+        "PIB per capita",
+        "PIB por trabalhador"
+      ],
+      "rows": [
+        [
+          "Brasil",
+          "7.0%",
+          "4.1%",
+          "3.4%"
+        ],
+        [
+          "México",
+          "6.6%",
+          "3.4%",
+          "3.4%"
+        ],
+        [
+          "Países grandes",
+          "6.8%",
+          "3.7%",
+          "3.4%"
+        ],
+        [
+          "Argentina",
+          "3.3%",
+          "1.6%",
+          "2.0%"
+        ],
+        [
+          "Chile",
+          "3.5%",
+          "1.4%",
+          "1.9%"
+        ],
+        [
+          "Uruguai",
+          "2.2%",
+          "1.3%",
+          "1.2%"
+        ],
+        [
+          "Cone Sul",
+          "3.0%",
+          "1.4%",
+          "1.7%"
+        ],
+        [
+          "Andinos",
+          "5.3%",
+          "2.2%",
+          "2.4%"
+        ],
+        [
+          "América Central",
+          "4.8%",
+          "1.8%",
+          "1.9%"
+        ],
+        [
+          "Outros",
+          "5.4%",
+          "2.6%",
+          "3.1%"
+        ],
+        [
+          "América Latina",
+          "5.5%",
+          "2.7%",
+          "2.6%"
+        ],
+        [
+          "Média aritmética",
+          "4.9%",
+          "2.2%",
+          "2.5%"
+        ],
+        [
+          "Estados Unidos",
+          "3.6%",
+          "2.2%",
+          "2.8%"
+        ],
+        [
+          "Europa industrializada (UE12)",
+          "4.1%",
+          "3.5%",
+          "3.9%"
+        ],
+        [
+          "Mundo",
+          "4.5%",
+          "2.6%",
+          "—"
+        ]
+      ],
+      "supports": "Sustenta o passo sobre o desempenho excepcional (PIB regional a 5,5% ao ano e per capita a 2,7%, com Brasil e México liderando) e o de que ele foi desigual, com o Cone Sul ficando para trás (1,4% per capita contra 3,7% dos países grandes).",
+      "note": "A tabela não imprime o período; o texto associa os números a 1945/1950-1980. O texto da p. 7 fala em PIB por trabalhador de 2,7% ao ano em 1950-80, mas a linha América Latina da tabela traz 2,6% por trabalhador (2,7% é o per capita). Omitidas as linhas por país de Andinos (Colômbia, Peru, Venezuela), América Central e Outros; mantidos os subtotais. '—' = célula vazia no original. Fonte: séries históricas da CEPAL a preços constantes de 2000; força de trabalho da OIT; mundo, UE12 e EUA de Maddison (2001)."
+    },
+    {
+      "label": "Tabela 4.10",
+      "title": "Exportações latino-americanas, 1953-2000",
+      "unit": "%",
+      "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+      "pdf_page": 11,
+      "columns": [
+        "Indicador",
+        "1953",
+        "1958",
+        "1963",
+        "1968",
+        "1973",
+        "1980",
+        "1990",
+        "2000"
+      ],
+      "rows": [
+        [
+          "% do mundo: total",
+          "10.1",
+          "8.3",
+          "6.8",
+          "5.5",
+          "4.7",
+          "4.8",
+          "3.7",
+          "5.7"
+        ],
+        [
+          "% do mundo: alimentos",
+          "23.9",
+          "19.4",
+          "15.1",
+          "15.2",
+          "13.1",
+          "12.5",
+          "9.3",
+          "12.0"
+        ],
+        [
+          "% do mundo: matérias-primas, exceto combustíveis",
+          "11.0",
+          "9.3",
+          "9.2",
+          "8.3",
+          "7.4",
+          "8.5",
+          "9.0",
+          "11.8"
+        ],
+        [
+          "% do mundo: combustíveis",
+          "19.5",
+          "20.4",
+          "27.0",
+          "18.0",
+          "11.4",
+          "9.3",
+          "11.5",
+          "9.7"
+        ],
+        [
+          "% do mundo: máquinas",
+          "0.0",
+          "0.1",
+          "0.2",
+          "0.2",
+          "0.7",
+          "1.1",
+          "1.2",
+          "4.9"
+        ],
+        [
+          "% do mundo: manufaturas diversas",
+          "2.6",
+          "2.2",
+          "2.5",
+          "2.9",
+          "2.7",
+          "2.7",
+          "2.9",
+          "4.7"
+        ],
+        [
+          "Composição das exportações: alimentos",
+          "52.7",
+          "46.0",
+          "37.8",
+          "38.0",
+          "38.6",
+          "26.9",
+          "21.7",
+          "13.3"
+        ],
+        [
+          "Composição das exportações: combustíveis",
+          "19.6",
+          "28.1",
+          "31.4",
+          "27.0",
+          "21.2",
+          "37.5",
+          "26.1",
+          "17.0"
+        ],
+        [
+          "Composição das exportações: manufaturas diversas",
+          "6.8",
+          "6.9",
+          "10.2",
+          "15.4",
+          "17.0",
+          "14.3",
+          "23.0",
+          "21.8"
+        ]
+      ],
+      "supports": "Sustenta o viés antiexportador e a incapacidade de aproveitar a expansão do comércio mundial: a fatia latino-americana nas exportações mundiais caiu para pouco mais de 4% no início dos anos 1970 (4,7% em 1973), com perda concentrada em alimentos e combustíveis, enquanto as manufaturas ganhavam peso na pauta a partir dos anos 1960 (modelo misto).",
+      "note": "Omitidos o bloco 'América Latina como % dos países em desenvolvimento', a coluna de códigos SITC (total 0-9; alimentos 0+1; matérias-primas 2+4; combustíveis 3; químicos 5; máquinas 7; manufaturas diversas 6+8) e as linhas de químicos e de matérias-primas/máquinas na composição. Fonte: Nações Unidas, Yearbook of International Trade Statistics (1958), e cálculos dos autores com UN-COMTRADE."
+    },
+    {
+      "label": "Tabela 4.11",
+      "title": "Participação das empresas estatais na atividade econômica",
+      "unit": "% do PIB não agrícola",
+      "file_id": "ad9634ddcbae1c4c1b9ef94abca72a67bae123cb73a7cb4880b7e277594c7bb5",
+      "pdf_page": 14,
+      "columns": [
+        "País ou região",
+        "1979–1981",
+        "1984–1986",
+        "1989–1991"
+      ],
+      "rows": [
+        [
+          "Argentina",
+          "5.4",
+          "5.2",
+          "3.9"
+        ],
+        [
+          "Brasil",
+          "6.4",
+          "6.6",
+          "9.4"
+        ],
+        [
+          "Chile",
+          "12.8",
+          "16.9",
+          "10.9"
+        ],
+        [
+          "México",
+          "10.2",
+          "15.3",
+          "10.8"
+        ],
+        [
+          "Venezuela",
+          "26.8",
+          "22.6",
+          "29.6"
+        ],
+        [
+          "América Latina (média ponderada)",
+          "9.7",
+          "10.7",
+          "9.7"
+        ],
+        [
+          "África (média ponderada)",
+          "21.3",
+          "23.0",
+          "20.4"
+        ],
+        [
+          "Ásia (média ponderada)",
+          "13.0",
+          "15.1",
+          "14.0"
+        ],
+        [
+          "Economias emergentes (média ponderada)",
+          "12.1",
+          "13.8",
+          "12.5"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que o Estado empresário não era inchado: as estatais respondiam em média por cerca de 10% do PIB não agrícola na América Latina, menos que na África, na Ásia e no conjunto das economias emergentes.",
+      "note": "Omitidos os demais países latino-americanos (Bolívia, Colômbia, Costa Rica, Equador, El Salvador, Guatemala, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai) e o bloco de bancos públicos (% dos ativos dos dez maiores bancos em 1970 e 1995; América Latina 69.7 e 41.7, médias aritméticas). Fonte: estatais segundo Banco Mundial (1995); bancos segundo La Porta et al. (2002)."
+    }
+  ],
   "limits": [
     "O OCR é ruidoso nas páginas 1, 3, 4, 5, 6, 7, 8, 10, 11 e 13-14, que contêm tabelas e gráficos: números de tabelas não foram usados quando ilegíveis; só dados do texto corrido e de tabelas legíveis.",
     "O trecho é parte do capítulo 4 (título de cabeçalho \"State-led Industrialization\", páginas impressas 162-190) e começa e termina no meio de argumentos (a página 1 abre no meio da discussão do ambiente internacional; a página 15 termina no meio de uma frase), de modo que o capítulo todo não está coberto.",
@@ -908,14 +1350,14 @@
   "figures_note": [
     "Página 1 (impressa 163): Figura 4.3, indicadores de crises de balanço de pagamentos 1950-80 (A: países com programas do FMI e financiamento; B: reservas brutas e líquidas, % do PIB); o OCR dos gráficos está ilegível, consultar o original.",
     "Página 3 (impressa 166): Tabela 4.5, dinâmica das exportações (crescimento real e abertura por país e período); parcialmente legível, com valores corrompidos em várias linhas; conferir no original antes de citar números.",
-    "Página 4 (impressa 168): Figura 4.4, valor adicionado da manufatura como parcela do PIB 1950-2006, e Tabela 4.6 (participação da indústria por país), ilegíveis na extração (texto rotacionado).",
+    "Página 4 (impressa 168): Figura 4.4, valor adicionado da manufatura como parcela do PIB 1950-2006, ilegível na extração; a Tabela 4.6 (indústria e agricultura: participação no PIB e crescimento por país) foi transcrita na seção Tabelas a partir da imagem da página.",
     "Páginas 5-6 (impressas 170-172): Tabela 4.7, composição do valor adicionado industrial em 1974 por setor, ilegível na extração.",
-    "Página 7 (impressa 174): Figura 4.5, taxas decenais de crescimento do PIB; Tabela 4.8 parcialmente legível, com crescimento do PIB, da força de trabalho e da produtividade por grupo de países.",
+    "Página 7 (impressa 174-175): Figura 4.5, taxas decenais de crescimento do PIB (gráfico, não transcrito); a Tabela 4.8 (crescimento do PIB, per capita e por trabalhador por país e grupo) foi transcrita na seção Tabelas a partir da imagem da página.",
     "Página 8 (impressa 176): Figura 4.6, PTF (média simples, 1960 = 1) para LA7, LA17 e EUA, ilegível.",
     "Página 10 (impressa 180): Tabela 4.9, população e urbanização, ilegível.",
-    "Página 11 (impressa 182): Tabela 4.10, exportações latino-americanas 1953-2000 por categoria SITC; legível em parte, mas com colunas desalinhadas e células faltando.",
+    "Página 11 (impressa 182): Tabela 4.10, exportações latino-americanas 1953-2000 por categoria SITC; transcrita (em parte) na seção Tabelas a partir da imagem da página.",
     "Páginas 12-13 (impressas 185-187): Figura 4.7 (inflação) e Figura 4.8 (receitas, gastos e saldo fiscal, 1950-85), ilegíveis.",
-    "Página 14 (impressa 188): Tabela 4.11, participação de estatais e de bancos públicos; legível em grande parte, mas com alguns valores corrompidos.",
+    "Página 14 (impressa 188): Tabela 4.11, participação de estatais e de bancos públicos; a parte de estatais foi transcrita na seção Tabelas a partir da imagem da página.",
     "Página 15 (impressa 190): Tabela 4.12 (padrões de trabalho por país, García e Tokman) é mencionada, mas não aparece no trecho."
   ]
 }

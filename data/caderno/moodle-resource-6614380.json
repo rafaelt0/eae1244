@@ -859,6 +859,274 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 1",
+      "title": "Experiência comparada de crescimento",
+      "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+      "pdf_page": 4,
+      "columns": [
+        "País",
+        "PIB per capita, 1960 (dólares de 1985)",
+        "PIB per capita, 1989 (dólares de 1985)",
+        "Crescimento do PIB per capita, 1960-89 (%)"
+      ],
+      "rows": [
+        [
+          "Coreia do Sul",
+          "883",
+          "6206",
+          "6.82"
+        ],
+        [
+          "Taiwan",
+          "1359",
+          "8207",
+          "6.17"
+        ],
+        [
+          "Gana",
+          "873",
+          "815",
+          "-0.54"
+        ],
+        [
+          "Brasil",
+          "1745",
+          "4138",
+          "3.58"
+        ],
+        [
+          "México",
+          "2798",
+          "5163",
+          "2.36"
+        ],
+        [
+          "Argentina",
+          "3294",
+          "3608",
+          "0.63"
+        ]
+      ],
+      "supports": "Sustenta os casos de Coreia (883 para 6.206 dólares, 6,82% ao ano) e Taiwan (1.359 para 8.207, 6,17%) e a comparação com Gana, Brasil, México e Argentina citada nas evidências.",
+      "note": "Omitidas as linhas de Senegal (0.16%) e Moçambique (-2.29%). Fonte: Penn World Table 5.5."
+    },
+    {
+      "label": "Tabela 2",
+      "title": "Estatísticas comparadas de crescimento da produtividade",
+      "unit": "crescimento da PTF, % ao ano",
+      "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+      "pdf_page": 7,
+      "columns": [
+        "País",
+        "Período",
+        "Economia",
+        "Indústria"
+      ],
+      "rows": [
+        [
+          "Coreia do Sul",
+          "1966-90",
+          "1.2*",
+          "2.7"
+        ],
+        [
+          "Taiwan",
+          "1966-90",
+          "1.8",
+          "1.4"
+        ],
+        [
+          "Argentina",
+          "1940-80",
+          "1.0",
+          "n.a."
+        ],
+        [
+          "Brasil",
+          "1950-80",
+          "2.0",
+          "n.a."
+        ],
+        [
+          "Brasil",
+          "1960-80",
+          "n.a.",
+          "1.0"
+        ],
+        [
+          "Chile",
+          "1940-80",
+          "1.2",
+          "n.a."
+        ],
+        [
+          "México",
+          "1940-80",
+          "1.7",
+          "n.a."
+        ],
+        [
+          "México",
+          "1940-70",
+          "n.a.",
+          "1.3"
+        ]
+      ],
+      "supports": "Sustenta o argumento de que a PTF de Coreia e Taiwan foi respeitável mas comparável à da América Latina, de modo que a causa próxima do milagre é a acumulação de capital.",
+      "note": "* Economia não agrícola. Omitidas as linhas de Colômbia (0.9, 1940-80) e Venezuela (indústria 2.6, 1950-70). Fonte: Young (1994); dados latino-americanos originalmente de Elias (1990)."
+    },
+    {
+      "label": "Tabela 4",
+      "title": "Indicadores educacionais",
+      "unit": "razões, c. 1960",
+      "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+      "pdf_page": 24,
+      "columns": [
+        "País",
+        "Matrícula primária, prevista",
+        "Matrícula primária, real",
+        "Matrícula secundária, prevista",
+        "Matrícula secundária, real",
+        "Alfabetização, prevista",
+        "Alfabetização, real"
+      ],
+      "rows": [
+        [
+          "Coreia",
+          "0.57",
+          "0.94",
+          "0.10",
+          "0.27",
+          "0.31",
+          "0.71"
+        ],
+        [
+          "Taiwan",
+          "0.62",
+          "0.96",
+          "0.12",
+          "0.28",
+          "0.36",
+          "0.54"
+        ]
+      ],
+      "supports": "Sustenta as condições iniciais: por volta de 1960 os dois países tinham matrícula primária quase universal e alfabetização muito acima do previsto pela renda.",
+      "note": "Tabela completa. Valores previstos com base no nível de renda (fonte: ver texto do artigo)."
+    },
+    {
+      "label": "Tabela 6",
+      "title": "Proporção do crescimento explicada pelas condições iniciais",
+      "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+      "pdf_page": 25,
+      "columns": [
+        "País",
+        "Crescimento real, 1960-85",
+        "Crescimento previsto",
+        "Proporção explicada (%)"
+      ],
+      "rows": [
+        [
+          "Coreia do Sul",
+          "5.95",
+          "5.24",
+          "88"
+        ],
+        [
+          "Taiwan",
+          "5.68",
+          "4.96",
+          "87"
+        ],
+        [
+          "Argentina",
+          "0.48",
+          "1.58",
+          "329"
+        ],
+        [
+          "Brasil",
+          "3.52",
+          "1.96",
+          "56"
+        ],
+        [
+          "Índia",
+          "1.37",
+          "3.46",
+          "253"
+        ],
+        [
+          "Quênia",
+          "0.96",
+          "1.46",
+          "152"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que matrícula primária e baixa desigualdade 'explicam' cerca de 88% (Coreia) e 87% (Taiwan) do crescimento de 1960-85, de modo que o desempenho não foi estatisticamente miraculoso.",
+      "note": "Tabela completa. Crescimento previsto pela regressão (1) da Tabela 5 do artigo (não transcrita)."
+    },
+    {
+      "label": "Tabela 9",
+      "title": "Importância das empresas públicas no PIB e no investimento",
+      "unit": "%",
+      "file_id": "9b1f6e84202fe530dae7864eeafc816f7132a7e89a8e9f11bf00fadfbdac293a",
+      "pdf_page": 38,
+      "columns": [
+        "País",
+        "Período",
+        "Participação no PIB",
+        "Participação na formação de capital"
+      ],
+      "rows": [
+        [
+          "Coreia do Sul",
+          "1963-4",
+          "6.7",
+          "31.2"
+        ],
+        [
+          "Coreia do Sul",
+          "1971-2",
+          "9.1",
+          "21.7"
+        ],
+        [
+          "Taiwan",
+          "1954-7",
+          "11.7",
+          "34.3"
+        ],
+        [
+          "Taiwan",
+          "1958-61",
+          "13.5",
+          "38.1"
+        ],
+        [
+          "Taiwan",
+          "1962-5",
+          "14.1",
+          "27.7"
+        ],
+        [
+          "Índia",
+          "1966-9",
+          "6.5",
+          "29.6"
+        ],
+        [
+          "Tanzânia",
+          "1970-3",
+          "12.7",
+          "48.2"
+        ]
+      ],
+      "supports": "Sustenta o mecanismo de transmissão por empresas públicas: elas responderam por 31,2% da formação de capital na Coreia (1963-64) e 38,1% em Taiwan (1958-61), e em Taiwan pesavam mais no PIB do que na Índia e na Tanzânia.",
+      "note": "Omitidas as linhas de Taiwan para 1966-9 a 1974-7 (13.3 a 13.6% do PIB; 28.0 a 35.0% da formação de capital) e de Argentina (1978-80). Fontes: Wade (1990, tabela 6.2), com dados de Short (1983), exceto a participação no PIB da Coreia, de Jones e Sakong (1980, tabela 24)."
+    }
+  ],
   "limits": [
     "O próprio Rodrik admite que a evidência de falha de coordenação é circunstancial e sem confirmação empírica direta, e pede estudos micro e setoriais.",
     "Grossman (debatedor) aceita a refutação do crescimento exportador, mas duvida que seja possível provar a falha de coordenação e que as políticas seletivas fossem necessárias; sugere que o 'efeito de desequilíbrio' e o aprendizado de convergência bastam, e que a política apenas acelerou um processo que ocorreria de qualquer forma. Rodrik responde que os anos 1950 mostram que isso não ocorria sozinho.",
@@ -991,11 +1259,11 @@
     }
   ],
   "figures_note": [
-    "Tabela 1 (p. 4 do PDF): crescimento comparado de Coreia, Taiwan, Gana, Senegal, Moçambique, Brasil, México e Argentina; a extração captura os números. Slide 3 da aula 23 reproduz a Tabela 1 como imagem.",
+    "Tabela 1 (p. 4 do PDF): crescimento comparado de Coreia, Taiwan, Gana, Senegal, Moçambique, Brasil, México e Argentina; transcrita na seção Tabelas a partir da imagem da página. Slide 3 da aula 23 reproduz a Tabela 1 como imagem.",
     "Figura 1 (p. 6 do PDF, crescimento per capita 1954-90; slide 6) e Figura 2 (p. 6, exportações/PIB 1952-90; slide 7) são gráficos que a extração não captura em dados; Figura 3 (p. 7, investimento/PIB 1951-90; slide 10) idem.",
-    "Tabela 2 (p. 7, PTF; slide 12): números capturados pelo texto, mas conferir as notas de rodapé no original.",
+    "Tabela 2 (p. 7, PTF; slide 12): transcrita na seção Tabelas a partir da imagem da página, com a nota de rodapé (* economia não agrícola).",
     "Figuras 4 (p. 11, preço relativo das exportações e exportações/PIB na Coreia 1955-76), 5 (p. 13, câmbio real e exportações em Taiwan), 6 e 7 (pp. 14-15, Turquia e Chile): gráficos sem dados legíveis na extração; Figuras 9 a 12 (pp. 20-22) mostram importações e investimento e a composição das importações; Figura 8 e Box 1 (pp. 18-19) são o diagrama da resposta endógena das exportações, só em imagem.",
-    "Figura 13 (p. 24, Gini de renda e de terra em 41 países) e Figura 14 (p. 42, investimento e crescimento 1960-85) são gráficos de dispersão; as Tabelas 3 a 11 (pp. 23-47) estão no texto extraído, mas com ruído de OCR em alguns números. O apêndice (pp. 52-55) tem o modelo formal com fórmulas ilegíveis na extração.",
+    "Figura 13 (p. 24, Gini de renda e de terra em 41 países) e Figura 14 (p. 42, investimento e crescimento 1960-85) são gráficos de dispersão. As Tabelas 4 (p. 24), 6 (p. 25) e 9 (p. 38) foram transcritas na seção Tabelas a partir da imagem da página; as Tabelas 3, 5, 7, 8, 10 e 11 (pp. 23-47) estão no texto extraído, mas com ruído de OCR em alguns números, e não foram transcritas. O apêndice (pp. 52-55) tem o modelo formal com fórmulas ilegíveis na extração.",
     "Slides da aula 23 sem texto: 3 (Tabela 1), 6 (Figura 1), 7 (Figura 2), 10 (Figura 3) e 12 (Tabela 2); a página 1 do PDF tem ruído de cabeçalho."
   ]
 }

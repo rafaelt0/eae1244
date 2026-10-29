@@ -17,6 +17,8 @@ COMMON = ("resource_id", "file_id", "lessons", "authors", "title", "depth", "sta
 DEEP_SECTIONS = {"argument": "claim", "mechanisms": "description", "cases": "outcome",
                  "concepts": "definition", "evidence": "fact"}
 DEEP_FIELDS = ("year", "question", "limits", "figures_note")
+TABLE_TEXT = ("label", "title", "supports")
+NUMBER = re.compile(r"-?\d+(?:[.,]\d+)*")
 
 
 def normalize(text: str) -> str:
@@ -88,6 +90,50 @@ def check_items(entry: dict, section: str, text_field: str, sources: Sources) ->
     return errors
 
 
+def check_tables(entry: dict, sources: Sources) -> list[str]:
+    tables = entry.get("tables")
+    if tables is None:
+        return []
+    if not isinstance(tables, list) or not tables:
+        return ["tables: seção vazia."]
+    errors = []
+    for index, table in enumerate(tables, 1):
+        where = f"tables[{index}]"
+        if not isinstance(table, dict) or any(not isinstance(table.get(f), str) or not table[f].strip()
+                                              for f in TABLE_TEXT):
+            errors.append(f"{where}: rótulo, título ou argumento sustentado ausente.")
+            continue
+        page = table.get("pdf_page")
+        if table.get("file_id") != entry["file_id"]:
+            errors.append(f"{where}: a tabela deve vir da própria leitura.")
+        elif type(page) is not int or sources.page_text(entry["file_id"], page) is None:
+            errors.append(f"{where}: página inexistente ({page}).")
+        columns, rows = table.get("columns"), table.get("rows")
+        if not isinstance(columns, list) or len(columns) < 2 or not all(isinstance(c, str) and c.strip() for c in columns):
+            errors.append(f"{where}: colunas inválidas.")
+            continue
+        if not isinstance(rows, list) or not rows:
+            errors.append(f"{where}: tabela sem linhas.")
+            continue
+        for number, row in enumerate(rows, 1):
+            if not isinstance(row, list) or len(row) != len(columns) or not all(isinstance(c, str) for c in row):
+                errors.append(f"{where}: linha {number} não tem {len(columns)} células de texto.")
+    return errors
+
+
+def unmatched_numbers(entry: dict, sources: Sources) -> list[dict]:
+    """Números das tabelas que não aparecem no texto extraído da página citada."""
+    report = []
+    for table in entry.get("tables") or []:
+        text = sources.page_text(table["file_id"], table["pdf_page"]) or ""
+        found = set(NUMBER.findall(text))
+        cells = [c for row in table["rows"] for c in row[1:]]
+        missing = [n for c in cells for n in NUMBER.findall(c) if n.lstrip("-") not in found and n not in found]
+        report.append({"label": table["label"], "pdf_page": table["pdf_page"],
+                       "numbers": sum(len(NUMBER.findall(c)) for c in cells), "unmatched": missing})
+    return report
+
+
 def validate_entry(entry: dict, resource: dict, sources: Sources, has_slides: bool) -> list[str]:
     missing = [f for f in COMMON if not entry.get(f)]
     if missing:
@@ -116,7 +162,7 @@ def validate_entry(entry: dict, resource: dict, sources: Sources, has_slides: bo
         errors += check_items(entry, section, text_field, sources)
     if has_slides:
         errors += check_items(entry, "professor_emphasis", "point", sources)
-    return errors
+    return errors + check_tables(entry, sources)
 
 
 def load_entries(directory: Path, resource_id: str) -> list[tuple[Path, dict]]:
@@ -180,13 +226,19 @@ def main(argv: list[str] | None = None, root: Path | None = None) -> int:
     commands = parser.add_subparsers(dest="command", required=True)
     validate = commands.add_parser("validate")
     validate.add_argument("--scope", choices=["all", "priority"], required=True)
-    for command in (validate, commands.add_parser("coverage")):
+    for command in (validate, commands.add_parser("coverage"), commands.add_parser("tables")):
         command.add_argument("--manifest", required=True)
         command.add_argument("--caderno", required=True)
     args = parser.parse_args(argv)
     try:
         manifest = json.loads(local_path(root, args.manifest).read_text(encoding="utf-8"))
         directory = local_path(root, args.caderno)
+        if args.command == "tables":
+            sources = Sources(manifest, root)
+            report = {path.name: unmatched_numbers(entry, sources) for r in readings(manifest, "all")
+                      for path, entry in load_entries(directory, r["resource_id"]) if entry.get("tables")}
+            print(json.dumps(report, ensure_ascii=False, indent=1))
+            return 0
         if args.command == "coverage":
             print(json.dumps(coverage(manifest, directory), ensure_ascii=False))
             return 0

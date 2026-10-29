@@ -1167,6 +1167,203 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 10.1",
+      "title": "Economias em transição: desempenho do produto, 1989-2004",
+      "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+      "pdf_page": 11,
+      "columns": [
+        "País/região",
+        "Ano de início da transição (T)",
+        "PNB (PPC) per capita em 1989",
+        "Ano em que o produto foi mínimo",
+        "Queda máxima do produto desde T - 1 (%)",
+        "Crescimento acumulado do mínimo até 2004 (%)",
+        "Crescimento médio desde o mínimo até 2004 (%)"
+      ],
+      "rows": [
+        [
+          "Europa Central e Oriental",
+          "1990–1991",
+          "5,760",
+          "1991–1997",
+          "24.7",
+          "52.2",
+          "3.56"
+        ],
+        [
+          "República Tcheca",
+          "1991",
+          "9,000",
+          "1992",
+          "12.1",
+          "38.8",
+          "2.98"
+        ],
+        [
+          "Hungria",
+          "1990",
+          "6,810",
+          "1993",
+          "18.1",
+          "46.7",
+          "3.48"
+        ],
+        [
+          "Polônia",
+          "1990",
+          "5,150",
+          "1991",
+          "13.7",
+          "84.5",
+          "4.71"
+        ],
+        [
+          "Eslováquia",
+          "1991",
+          "8,000",
+          "1993",
+          "24.4",
+          "61.2",
+          "4.34"
+        ],
+        [
+          "Estados Bálticos",
+          "1992",
+          "7,973",
+          "1993–1994",
+          "38.1",
+          "74.2",
+          "5.75"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que a transição trouxe recessão profunda, com queda acumulada de 12% na Tchéquia a 38% nos Bálticos, e a comparação de ritmo: a Polônia (reforma rápida) teve o mínimo já em 1991 e a maior recuperação acumulada.",
+      "note": "Tabela completa (Bulgária e Romênia não constam do original). Fonte: Fischer e Sahay (2004). PPC = paridade do poder de compra. Separador de milhar com vírgula, como no original."
+    },
+    {
+      "label": "Tabela 10.2",
+      "title": "Alemanha Oriental e Ocidental: indicadores básicos do mercado de trabalho, 1991-2000, anos selecionados",
+      "unit": "Leste em % do Oeste",
+      "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+      "pdf_page": 27,
+      "columns": [
+        "Indicador",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "2000"
+      ],
+      "rows": [
+        [
+          "Salários nominais brutos",
+          "50.8",
+          "61.8",
+          "68.9",
+          "72.5",
+          "74.9",
+          "76.8"
+        ],
+        [
+          "Produtividade do trabalho",
+          "34.4",
+          "48.3",
+          "59.5",
+          "64.3",
+          "65.1",
+          "68.5"
+        ],
+        [
+          "Custo unitário do trabalho",
+          "146.8",
+          "127.9",
+          "115.8",
+          "112.8",
+          "115.0",
+          "112.2"
+        ],
+        [
+          "Taxa de desemprego",
+          "205.8",
+          "300.2",
+          "251.0",
+          "213.8",
+          "196.6",
+          "254.8"
+        ]
+      ],
+      "supports": "Sustenta a explicação do autor para o fraco desempenho da antiga RDA pelo custo do trabalho: salários subiram mais rápido que a produtividade e o custo unitário do trabalho ficou acima do ocidental em todo o período, com desemprego de duas a três vezes o do Oeste.",
+      "note": "Tabela completa. Fonte: von Hagen, Strauch e Wolff (2002). Os números de 1994 citados no resumo (salários perto de 80% e produto por trabalhador de 46%) vêm do texto da página 29, com outra base, e não desta tabela."
+    },
+    {
+      "label": "Tabela 10.4",
+      "title": "Comércio entre CEEC-10 e UE-15",
+      "unit": "%",
+      "file_id": "8afec925dbd742b030f31b1da29e43e454cc4b0e39d6b0ae6fab47029e3e5f6c",
+      "pdf_page": 38,
+      "columns": [
+        "Indicador (CEEC-10)",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "rows": [
+        [
+          "I. Exportações do CEEC-10 para a UE-15, % das exportações totais",
+          "—",
+          "—",
+          "48.0",
+          "58.8",
+          "58.9",
+          "59.7",
+          "64.8",
+          "68.6"
+        ],
+        [
+          "II. Importações do CEEC-10 vindas da UE-15, % das importações totais",
+          "—",
+          "—",
+          "46.1",
+          "57.6",
+          "58.3",
+          "59.0",
+          "62.0",
+          "62.3"
+        ],
+        [
+          "III. Exportações da UE-15 para o CEEC-10, % das exportações da UE-15 para fora da UE-15",
+          "4.0",
+          "6.9",
+          "6.7",
+          "9.3",
+          "10.2",
+          "10.9",
+          "12.3",
+          "12.3"
+        ],
+        [
+          "IV. Importações da UE-15 vindas do CEEC-10, % das importações da UE-15 de fora da UE-15",
+          "3.4",
+          "5.5",
+          "5.8",
+          "8.1",
+          "8.1",
+          "8.5",
+          "9.6",
+          "9.8"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que a integração com a UE completou a normalização: no fim dos anos 1990 mais da metade das exportações e importações do CEEC-10 era com a UE-15, e o peso do CEEC-10 no comércio extrabloco da UE-15 cresceu ao longo da década.",
+      "note": "Mantidas só as linhas do agregado CEEC-10 em cada painel; omitidas as linhas de Polônia, Romênia e CEEC-8. '—' = dado ausente no original. Fonte: Comissão Europeia (2001)."
+    }
+  ],
   "limits": [
     "Interpretação do autor, não consenso: afirma que parte importante da queda do PIB foi estatística ou sem perda de bem-estar; o texto mesmo reconhece dificuldades de medição (empresas que deixaram de reportar, setor privado não captado).",
     "A relação 'reforma radical = mais recessão, recuperação mais cedo' é uma correlação entre poucos casos; o autor cita Åslund, que diz que a Polônia deve seus resultados a reformas complementares e não à estratégia de privatização.",
@@ -1315,11 +1512,11 @@
     }
   ],
   "figures_note": [
-    "Tabela 10.1 (pdf p. 11): desempenho do produto nas economias em transição, 1989-2004 (ano de início, PIB per capita PPP em 1989, queda máxima, crescimento do vale até 2004). A extração traz as linhas, mas em colunas desalinhadas; consulte o original para os números por país.",
+    "Tabela 10.1 (pdf p. 11): desempenho do produto nas economias em transição, 1989-2004 (ano de início, PIB per capita PPP em 1989, queda máxima, crescimento do vale até 2004), transcrita na seção Tabelas a partir da imagem da página (a extração tinha colunas desalinhadas).",
     "Figura 10.1 (pdf p. 23): gráfico de dispersão de coalizões políticas (índice de governo de coalizão) contra indicadores de transição do BERD (1998); só os rótulos dos países foram extraídos.",
-    "Tabela 10.2 (pdf p. 27): salários, produtividade, custo unitário do trabalho e desemprego da Alemanha Oriental em % do Ocidental, 1991-2000 (colunas desalinhadas na extração).",
-    "Tabela 10.3 (pdf p. 30): produtividade por setor na Alemanha Oriental, 1992-2000 (1991 = 100).",
-    "Tabela 10.4 (pdf p. 38): comércio entre CEEC-10 e UE-15, 1992-1999, em percentuais.",
+    "Tabela 10.2 (pdf p. 27): salários, produtividade, custo unitário do trabalho e desemprego da Alemanha Oriental em % do Ocidental, 1991-2000, transcrita na seção Tabelas a partir da imagem da página.",
+    "Tabela 10.3 (pdf p. 30): produtividade por setor na Alemanha Oriental, 1992-2000 (1991 = 100); não transcrita, pois o resumo não usa a decomposição setorial. Consultar o original.",
+    "Tabela 10.4 (pdf p. 38): comércio entre CEEC-10 e UE-15, 1992-1999, em percentuais; linhas do agregado CEEC-10 transcritas na seção Tabelas a partir da imagem da página.",
     "Slides (SLIDE SEM TEXTO, aulas 21-22, sobre Allen e não sobre Eichengreen): slide 4 (Tabelas 12.1 e 12.3, PIB per capita), slide 7 (Tabela 1.1, PIB por pessoa 1820-1989), slide 8 (Figura 1, crescimento 1928-89 OCDE e não OCDE), slide 12 (Figuras 1.2 e 1.3), slide 20 (Tabela 2, estoque de capital real e simulado) e slide 30 (Figura 2, modelo de Weitzman)."
   ]
 }
