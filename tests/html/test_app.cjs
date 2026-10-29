@@ -1,6 +1,6 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
-const {normalize, searchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise} = require('../../web/app.js');
+const {normalize, searchDocs, buildSearchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise} = require('../../web/app.js');
 
 test('search ignores accents and case and returns matching context', () => {
   assert.equal(normalize('EDUCAÇÃO'), 'educacao');
@@ -74,4 +74,14 @@ test('invalid persisted study metadata is ignored instead of breaking navigation
   assert.equal(restored.readings.war,undefined);
   assert.equal(restored.positions.bad,undefined);
   assert.equal(restored.theme,'system');
+});
+
+test('global search opens the concept section and does not index exercise solutions', () => {
+  const docs=buildSearchDocs({resources:[{id:'r1',kind:'reading',title:'O crescimento',authors:['Autora'],lessons:[20],
+    summary:{thesis:'Tese principal',concepts:[{term:'Convergência',definition:'Aproximação das rendas.'}]}}],atlas:[],
+    exercises:[{exercise_id:'q1',title:'Questão',mode:'guided',prompt:'Explique o crescimento.',works:['r1'],lessons:[20],answer_outline:{thesis:[{text:'SOLUCAO_RESERVADA'}]}}]});
+  const match=searchDocs(docs,'convergencia')[0];
+  assert.equal(match.id,'r1');assert.equal(match.section,'conceitos-para-a-resposta');
+  assert.equal(searchDocs(docs,'SOLUCAO_RESERVADA').length,0);
+  assert.equal(searchDocs(docs,'Autora').some(doc=>doc.view==='praticar'),true);
 });

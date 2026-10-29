@@ -52,7 +52,9 @@ def present_data(manifest, summaries, atlas, exercises, root):
             'authors': summary.get('authors', []) if summary else [], 'summary': summary,
             'files': files, 'source_url': resource.get('source_url', ''), 'label': resource['label']})
     readings = [r for r in resources if r['kind'] == 'reading']
-    return {'resources': resources, 'atlas': atlas, 'exercises': exercises, 'files': file_index,
+    icon_path = root / 'web/icons.json'
+    icons = json.loads(icon_path.read_text()) if icon_path.is_file() else {}
+    return {'resources': resources, 'atlas': atlas, 'exercises': exercises, 'files': file_index, 'icons': icons,
             'counts': {'readings': len(readings), 'complete': sum(bool(r['summary'] and r['summary'].get('status') == 'complete') for r in readings),
                        'pending': sum(not r['summary'] or r['summary'].get('status') != 'complete' for r in readings)}}, originals
 

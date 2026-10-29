@@ -60,7 +60,21 @@
     const primary=candidates.filter(e=>e.debate_id===related[0]?.debate_id);
     return primary.find(e=>e.mode==='guided')||primary[0]||candidates.find(e=>e.mode==='guided')||candidates[0];
   }
-  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise}; return; }
+  function buildSearchDocs(data, readingTitle=resource=>resource.title) {
+    const docs=[],works=new Map(data.resources.map(resource=>[resource.id,resource]));
+    const text=value=>{if(typeof value==='string')return value;if(Array.isArray(value))return value.map(text).join(' ');if(value&&typeof value==='object')return Object.entries(value).filter(([key])=>!['refs','file_id','resource_id','basis'].includes(key)).map(([,value])=>text(value)).join(' ');return '';};
+    const readingSections={thesis:'tese-central',question:'tese-central',argument:'o-argumento-passo-a-passo',mechanisms:'mecanismos-em-jogo',concepts:'conceitos-para-a-resposta',cases:'casos-e-comparacoes',evidence:'evidencias-e-resultados',limits:'limites-e-ressalvas',professor_emphasis:'enfases-do-professor',figures_note:'figuras-e-tabelas'};
+    for(const resource of data.resources.filter(resource=>resource.kind==='reading')){
+      const base={view:'caderno',id:resource.id,title:readingTitle(resource),type:resource.summary?'Leitura':'Resumo pendente'},context=resource.title+' '+resource.authors.join(' ')+' Aula '+resource.lessons.join(' ');
+      if(resource.summary){for(const [field,section]of Object.entries(readingSections))if(resource.summary[field])docs.push({...base,section,text:context+' '+text(resource.summary[field])});}
+      else docs.push({...base,text:context});
+    }
+    const atlasSections={question:'',thesis_statement:'',positions:'o-que-cada-leitura-afirma',relations:'como-as-leituras-se-relacionam',mechanism_matrix:'mapa-dos-mecanismos',cases:'casos-para-sustentar-a-comparacao',context_differences:'diferencas-de-contexto',verdict_outline:'um-caminho-para-a-resposta'};
+    for(const topic of data.atlas)for(const[field,section]of Object.entries(atlasSections))if(topic[field])docs.push({view:'atlas',id:topic.debate_id,title:topic.title,type:'Comparação',section,text:text(topic[field])+' '+topic.works.map(id=>works.get(id)?.authors.join(' ')||'').join(' ')});
+    for(const exercise of data.exercises)docs.push({view:'praticar',id:exercise.exercise_id,title:exercise.title,type:exercise.mode==='guided'?'Treino guiado':'Treino autônomo',text:exercise.prompt+' '+exercise.works.map(id=>works.get(id)?.authors.join(' ')||'').join(' ')+' Aula '+exercise.lessons.join(' ')});
+    return docs;
+  }
+  if (typeof module !== 'undefined' && module.exports) { module.exports = {normalize, searchDocs, buildSearchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise}; return; }
   const $ = selector => document.querySelector(selector);
   const el = (tag, text, className) => { const node = document.createElement(tag); if (text != null) node.textContent = text; if (className) node.className = className; return node; };
   let data;
@@ -74,15 +88,81 @@
   const title = resource => shortTitles[resource.id.split('-').pop()] || resource.title;
   const author = rid => resources.get(rid)?.authors.join(', ') || resources.get(rid)?.title || 'Leitura';
   const lessons = values => 'Aula' + (values.length > 1 ? 's ' : ' ') + values.join(', ');
-  let state = {view:'caderno', id:'moodle-resource-6577587'};
+  let storage=null;try{storage=window.localStorage;}catch(_){}
+  const study=createStudyStore(storage);
+  const drafts=createDraftStore(storage);
+  let state = {view:'inicio',id:'all'},context=topics.has(study.get().topic)?study.get().topic:null,lastSearch=null;
+  const topicNames={'guerra-e-mobilizacao':'Guerra e mobilização','fim-bretton-woods':'O fim de Bretton Woods','crescimento-era-de-ouro':'O crescimento na Era de Ouro','planejamento-sovietico':'Planejamento soviético','estado-e-industrializacao':'Estado e industrialização','capital-humano-e-convergencia':'Capital humano e convergência','crise-da-divida-e-reformas':'Dívida e reformas','crises-financeiras-pos-1971':'Integração e crises financeiras'};
+  const orderedTopics=[...data.atlas].sort((a,b)=>Object.keys(topicNames).indexOf(a.debate_id)-Object.keys(topicNames).indexOf(b.debate_id));
   const content = $('#article');
   function button(text, action, className='link-button') { const b = el('button', text, className); b.type='button'; b.addEventListener('click',action); return b; }
-  function go(view, id) {
+  function uiIcon(name) {
+    const span=el('span',null,'ui-icon');span.setAttribute('aria-hidden','true');
+    // These are repository-owned Phosphor UI assets, never course or visitor text.
+    const source=data.icons?.[name];if(source){const svg=new DOMParser().parseFromString(source,'image/svg+xml').documentElement;svg.setAttribute('focusable','false');span.append(document.importNode(svg,true));}
+    return span;
+  }
+  function studyUpdate(patch) {
+    const saved=study.update(patch);
+    $('#study-status').textContent=saved?'':'Salvamento do percurso indisponível. As marcações e a navegação ficam apenas nesta sessão; baixe suas respostas.';
+    return saved;
+  }
+  function rememberPosition() {
+    if(['caderno','atlas','praticar'].includes(state.view)&&!content.hidden)studyUpdate({positions:{...study.get().positions,[state.view+'/'+state.id]:window.scrollY}});
+  }
+  function go(view, id='all', options={}) {
+    rememberPosition();
+    if(topics.has(options.topic))context=options.topic;
+    if(view==='atlas')context=id;
+    if(view==='praticar')context=exercises.get(id)?.debate_id||context;
+    if(view==='caderno'&&!topics.get(context)?.works.includes(id))context=relatedTopics(resources.get(id),data.atlas)[0]?.debate_id||null;
+    lastSearch=options.query?{query:options.query}:null;
     $('#search').value=''; $('#results').hidden=true; $('#clear-search').hidden=true; content.hidden=false;
-    const hash = '#' + view + '/' + encodeURIComponent(id);
+    const params=new URLSearchParams();if(context)params.set('tema',context);if(options.section)params.set('secao',options.section);
+    const hash = '#' + view + '/' + encodeURIComponent(id)+(params.size?'?'+params:'');
     if (location.hash === hash) showRoute(true); else location.hash = hash;
   }
-  function section(name) { const s=el('section',null,'content-section'); s.append(el('h2',name)); content.append(s); return s; }
+  function section(name) { const s=el('section',null,'content-section');s.id=normalize(name).replace(/[^a-z0-9]+/g,'-').replace(/-$/,'');s.append(el('h2',name)); content.append(s); return s; }
+  function topicName(topic){return topicNames[topic.debate_id]||topic.title;}
+  function topicExercise(topic){const remembered=exercises.get(study.get().exercises[topic.debate_id]);return remembered?.debate_id===topic.debate_id?remembered:data.exercises.find(e=>e.debate_id===topic.debate_id&&e.mode==='guided');}
+  function topicReading(topic){const remembered=study.get().readings[topic.debate_id];return topic.works.includes(remembered)?remembered:topic.works[0];}
+  function reviewButton(topic) {
+    const b=button('',()=>{const saved=new Set(study.get().saved);saved.has(topic.debate_id)?saved.delete(topic.debate_id):saved.add(topic.debate_id);studyUpdate({saved:[...saved]});
+      document.querySelectorAll('[data-save]').forEach(control=>{const active=saved.has(control.dataset.save);control.setAttribute('aria-pressed',String(active));control.textContent=active?'Na revisão':'Quero rever';});if(state.view==='rever')showRoute();},'review-toggle');
+    b.dataset.save=topic.debate_id;const saved=study.get().saved.includes(topic.debate_id);b.textContent=saved?'Na revisão':'Quero rever';b.setAttribute('aria-pressed',String(saved));return b;
+  }
+  function validRoute(route){return route&&(route.view==='caderno'?resources.has(route.id):route.view==='atlas'?topics.has(route.id):route.view==='praticar'?exercises.has(route.id):false);}
+  function home(reviewOnly=false) {
+    heading('',reviewOnly?'O que você quer rever':'Uma aula, um percurso.',reviewOnly?'Seus temas marcados para voltar com mais atenção.':'Leia, compare os argumentos e construa sua resposta.');
+    if(!reviewOnly){const last=study.get().last,box=el('section',null,'resume-study');box.append(el('h2',validRoute(last)?'Continuar de onde parei':'Seu estudo começa aqui'));
+      if(validRoute(last)){const name=last.view==='caderno'?title(resources.get(last.id)):last.view==='atlas'?topicName(topics.get(last.id)):exercises.get(last.id).title;box.append(el('p',name),button('Retomar →',()=>go(last.view,last.id,{topic:study.get().topic}),'primary-button'));}
+      else box.append(el('p','Escolha um percurso abaixo para começar. Você pode consultar as leituras e voltar à sua resposta a qualquer momento.'));
+      content.append(box);
+    }
+    const list=el('div',null,'lesson-journey'),filter=$('#lesson').value;
+    const selected=orderedTopics.filter(t=>(!reviewOnly||study.get().saved.includes(t.debate_id))&&(filter==='priority'||filter==='all'||t.lessons.includes(Number(filter))));
+    for(const topic of selected){const row=el('section',null,'lesson-row'),meta=el('p',lessons(topic.lessons),'lesson-number'),description=el('div'),actions=el('div',null,'lesson-actions');description.append(el('h2',topicName(topic)),el('p',topic.works.map(author).join(' / ')));
+      const start=button('Começar →',()=>go('caderno',topicReading(topic),{topic:topic.debate_id}),'primary-button');start.setAttribute('aria-label','Começar: '+topicName(topic));actions.append(start,reviewButton(topic));row.append(meta,description,actions);list.append(row);}
+    content.append(list);
+    if(!selected.length)content.append(el('p',reviewOnly?'Sua lista está vazia neste recorte. Marque “Quero rever” em um percurso.':'Nenhum percurso neste recorte. Escolha outra aula ou consulte todas as leituras.','notice'));
+    if(!reviewOnly){const links=el('div',null,'quick-links');links.append(button('Explorar todas as leituras',()=>go('leituras')),button('Ver todos os exercícios',()=>go('exercicios')));content.append(links,el('p',data.counts.complete+' leituras resumidas; '+data.counts.pending+' resumos anteriores pendentes. As marcações e os rascunhos são pessoais, neste navegador.','storage-note'));}
+  }
+  function collection(view) {
+    if(view==='leituras'){heading('','Estudar leituras','Entenda a tese, os argumentos e os conceitos de cada texto.');for(const resource of data.resources.filter(r=>r.kind==='reading')){const row=el('section',null,'collection-item');row.append(el('p',lessons(resource.lessons),'byline'),el('h2',title(resource)),el('p',resource.summary?resource.authors.join(', '):'Resumo pendente'),button(resource.summary?'Estudar leitura →':'Ver original e estado →',()=>go('caderno',resource.id)));content.append(row);}}
+    if(view==='temas'){heading('','Comparar autores','Concordâncias, divergências e diferenças de contexto sustentadas pelas leituras.');for(const topic of orderedTopics){const row=el('section',null,'collection-item');row.append(el('p',lessons(topic.lessons),'byline'),el('h2',topicName(topic)),el('p',topic.question),button(topic.works.length===1?'Comparar casos →':'Comparar autores →',()=>go('atlas',topic.debate_id)));content.append(row);}}
+    if(view==='exercicios'){heading('','Treinar respostas','Escreva primeiro. Consulte os apoios quando precisar e revise seus argumentos.');for(const topic of orderedTopics){const row=el('section',null,'collection-item');row.append(el('h2',topicName(topic)));for(const exercise of data.exercises.filter(e=>e.debate_id===topic.debate_id))row.append(button((exercise.mode==='guided'?'Guiado: ':'Autônomo: ')+exercise.title,()=>go('praticar',exercise.exercise_id),'exercise-choice'));content.append(row);}}
+  }
+  function journey() {
+    const topic=topics.get(context);if(!topic||!['caderno','atlas','praticar'].includes(state.view))return;
+    const box=el('section',null,'journey-context'),nav=el('nav',null,'journey-steps');nav.setAttribute('aria-label','Percurso desta aula');box.append(el('p',lessons(topic.lessons),'byline'),el('h2',topicName(topic)));
+    for(const [label,view,id] of [['Estudar leituras','caderno',topicReading(topic)],[topic.works.length===1?'Comparar casos':'Comparar autores','atlas',topic.debate_id],['Treinar respostas','praticar',topicExercise(topic).exercise_id]]){const b=button(label,()=>go(view,id,{topic:topic.debate_id}),'journey-step');if(state.view===view)b.setAttribute('aria-current','step');nav.append(b);}
+    nav.append(reviewButton(topic),button('Compartilhar',share,'journey-step'));box.append(nav);content.append(box);
+  }
+  function share() {
+    $('#share-url').value=location.href;
+    $('#share-note').textContent=location.protocol==='file:'?'Este é um arquivo local. Para compartilhar com outras pessoas, use o endereço da versão publicada.':'Copie este link para abrir o mesmo conteúdo. Rascunhos e marcações pessoais não são incluídos.';
+    $('#share-dialog').showModal();$('#share-url').select();
+  }
   function evidence(refs) {
     if (!refs?.length) return document.createDocumentFragment();
     const box=el('details',null,'evidence');
@@ -108,20 +188,20 @@
   function listSection(name, items, field, ordered=false) {
     if (!items?.length) return;
     const box=section(name), list=el(ordered?'ol':'div',null,ordered?'argument':'items');
-    for (const item of items) { const entry=el(ordered?'li':'div',null,'item'); if(item.kind) entry.append(el('span',labels[item.kind]||item.kind,'kind')); if(item.name||item.term) entry.append(el('h3',item.name||item.term)); if(item.period) entry.append(el('p',item.period,'byline')); entry.append(el('p',item[field]),evidence(item.refs)); list.append(entry); }
+    for (const item of items) { const entry=el(field==='definition'?'details':ordered?'li':'div',null,'item');if(field==='definition')entry.classList.add('concept-detail'); if(item.kind) entry.append(el('span',labels[item.kind]||item.kind,'kind')); if(item.name||item.term) entry.append(el(field==='definition'?'summary':'h3',item.name||item.term)); if(item.period) entry.append(el('p',item.period,'byline')); entry.append(el('p',item[field]),evidence(item.refs)); list.append(entry); }
     box.append(list);
   }
   function reading(resource) {
-    heading(lessons(resource.lessons)+' · Caderno',title(resource),resource.authors.join(' · '));
+    heading(lessons(resource.lessons)+' · Estudar leituras',title(resource),resource.authors.join(' · '));
     const meta=el('details',null,'source-meta'); meta.append(el('summary','Dados da leitura'),el('p',resource.title)); content.append(meta,originalLinks(resource));
     if(resource.files.some(f=>!f.reviewed)) content.append(el('p','A revisão da extração desta fonte ainda tem pendências. O original está disponível.','notice'));
     const entry=resource.summary;
     if(!entry){content.append(el('p','Resumo pendente. Esta leitura está no acervo, mas ainda não foi resumida. As aulas 17–28 concentram o conteúdo completo desta entrega.','notice'));return;}
     if(entry.status!=='complete') content.append(el('p','Resumo parcial. Confira os limites e o original.','notice'));
-    content.append(el('p',entry.thesis,'lead'));
+    const thesis=el('p',entry.thesis,'lead');thesis.id='tese-central';content.append(thesis);
     if(entry.question) content.append(el('p',entry.question,'question'));
     const related=relatedTopics(resource,data.atlas);
-    if(related.length){const links=el('div',null,'quick-links'),exercise=studyExercise(resource.id,related,data.exercises);links.append(button('Relacionar leituras →',()=>go('atlas',related[0].debate_id)));if(exercise)links.append(button('Praticar esta leitura →',()=>go('praticar',exercise.exercise_id)));content.append(links);}
+    if(related.length){const links=el('div',null,'quick-links'),primary=related.find(topic=>topic.debate_id===context)||related[0],exercise=topicExercise(primary);links.append(button('Comparar leituras →',()=>go('atlas',primary.debate_id)));if(exercise)links.append(button('Treinar resposta →',()=>go('praticar',exercise.exercise_id)));content.append(links);}
     listSection('O argumento, passo a passo',entry.argument,'claim',true);
     listSection('Mecanismos em jogo',entry.mechanisms,'description');
     listSection('Conceitos para a resposta',entry.concepts,'definition');
@@ -131,9 +211,12 @@
     listSection('Ênfases do professor',entry.professor_emphasis,'point');
     if(entry.figures_note?.length){const box=section('Figuras e tabelas');entry.figures_note.forEach(t=>box.append(el('p',t)));}
     if(related.length){const box=section('Continuar relacionando'),links=el('div',null,'related');related.forEach(t=>links.append(button(t.title,()=>go('atlas',t.debate_id))));box.append(links);}
+    const toc=el('nav',null,'reading-toc');toc.setAttribute('aria-label','Nesta leitura');toc.append(el('strong','Nesta leitura'));
+    for(const s of content.querySelectorAll('.content-section')){const link=el('a',s.querySelector('h2').textContent);link.href='#'+s.id;link.addEventListener('click',event=>{event.preventDefault();s.setAttribute('tabindex','-1');s.focus({preventScroll:true});s.scrollIntoView({block:'start'});});toc.append(link);}
+    thesis.before(toc);
   }
   function archive() {
-    heading('Acervo local','Originais e apoios','44 arquivos preservados · 31 leituras e 13 materiais de apoio');
+    heading('Acervo','Originais e apoios','44 arquivos preservados · 31 leituras e 13 materiais de apoio');
     content.append(el('p','Os links abrem os arquivos do pacote. Baixado, resumido e revisado são estados diferentes.','question'));
     for(const resource of data.resources){const box=el('div',null,'archive-item');box.append(el('h2',title(resource)),el('p',lessons(resource.lessons)+' · '+(resource.kind==='reading'?(resource.summary?'Com resumo':'Resumo pendente'):'Material de apoio')),originalLinks(resource));if(resource.kind==='reading')box.append(button('Ver no caderno',()=>go('caderno',resource.id)));content.append(box);}
   }
@@ -168,11 +251,11 @@
     }
   }
   function atlasView(topic) {
-    heading(lessons(topic.lessons)+' · Atlas',topic.title,topic.entry_type==='single_reading'?'Uma leitura, comparação entre casos':topic.works.length+' leituras em relação');
+    heading(lessons(topic.lessons)+' · Comparar autores',topic.title,topic.entry_type==='single_reading'?'Uma leitura, comparação entre casos':topic.works.length+' leituras em relação');
     content.append(el('p',topic.question,'question'),el('p',topic.thesis_statement,'lead'));
     const links=el('div',null,'quick-links');
     topic.works.forEach(rid=>links.append(button(title(resources.get(rid)),()=>go('caderno',rid))));
-    links.append(button('Praticar este tema →',()=>go('praticar',topic.debate_id+'-guided')));content.append(links);
+    links.append(button('Treinar resposta →',()=>go('praticar',topicExercise(topic).exercise_id)));content.append(links);
     const positions=section('O que cada leitura afirma');
     for(const position of topic.positions){const box=el('div',null,'item');box.append(el('span',labels[position.stance]||'Outro enfoque','kind'),el('h3',author(position.resource_id)),el('p',position.summary),evidence(position.refs));positions.append(box);}
     if(topic.relations.length){const box=section('Como as leituras se relacionam');for(const relation of topic.relations){const item=el('div',null,'item');item.append(el('span',labels[relation.type],'kind'),el('h3',relation.between.map(author).join(' × ')),el('p',relation.text),evidence(relation.refs));box.append(item);}}
@@ -183,8 +266,6 @@
     listSection('Diferenças de contexto',topic.context_differences,'text');
     answerOutline(section('Um caminho para a resposta'),topic.verdict_outline);
   }
-  let storage=null;try{storage=window.localStorage;}catch(_){}
-  const drafts=createDraftStore(storage);
   function practice(exercise) {
     const mode=exercise.mode==='guided'?'Guiado':'Autônomo';
     heading(lessons(exercise.lessons)+' · Treino '+mode.toLowerCase(),exercise.title,'Questão de estudo · '+topics.get(exercise.debate_id).title);
@@ -210,7 +291,7 @@
     const checks=drafts.get(exercise.exercise_id).checks;
     for(const criterion of exercise.self_review){const l=el('label',null,'review-item'),input=el('input');input.type='checkbox';input.checked=checks.includes(criterion.criterion);input.addEventListener('change',()=>{const set=new Set(drafts.get(exercise.exercise_id).checks);input.checked?set.add(criterion.criterion):set.delete(criterion.criterion);statusText(drafts.update(exercise.exercise_id,{checks:[...set]}));});l.append(input,el('span',criterion.question));review.append(l);}
     const alternative=data.exercises.find(e=>e.debate_id===exercise.debate_id&&e.exercise_id!==exercise.exercise_id);
-    const next=section('Continuar o estudo'),links=el('div',null,'related');links.append(button('Voltar ao atlas',()=>go('atlas',exercise.debate_id)));if(alternative)links.append(button(alternative.mode==='guided'?'Tentar a questão guiada':'Tentar a questão autônoma',()=>go('praticar',alternative.exercise_id)));next.append(links);
+    const next=section('Continuar o estudo'),links=el('div',null,'related');links.append(button('Voltar à comparação',()=>go('atlas',exercise.debate_id)));if(alternative)links.append(button(alternative.mode==='guided'?'Tentar a questão guiada':'Tentar a questão autônoma',()=>go('praticar',alternative.exercise_id)));next.append(links);
   }
   function menu() {
     const target=$('#menu');target.replaceChildren();
@@ -218,40 +299,62 @@
     const visible=values=>filter==='all'||(filter==='priority'?values.some(n=>n>=17&&n<=28):values.includes(Number(filter)));
     const topicOrder=['guerra-e-mobilizacao','fim-bretton-woods','crescimento-era-de-ouro','planejamento-sovietico','estado-e-industrializacao','capital-humano-e-convergencia','crise-da-divida-e-reformas','crises-financeiras-pos-1971'];
     let items=[];
-    if(state.view==='caderno'||state.view==='acervo') items=data.resources.filter(r=>r.kind==='reading'&&visible(r.lessons)).map(r=>({id:r.id,name:title(r),detail:r.summary?r.authors.join(', '):'Resumo pendente',lessons:r.lessons,view:'caderno'}));
-    if(state.view==='atlas')items=data.atlas.filter(t=>visible(t.lessons)).map(t=>({id:t.debate_id,name:t.title,detail:t.works.length===1?'Leitura única':t.works.length+' leituras',lessons:t.lessons,view:'atlas',order:topicOrder.indexOf(t.debate_id)*2}));
-    if(state.view==='praticar')items=data.exercises.filter(e=>visible(e.lessons)).map(e=>({id:e.exercise_id,name:e.title,detail:e.mode==='guided'?'Guiado':'Autônomo',lessons:e.lessons,view:'praticar',order:topicOrder.indexOf(e.debate_id)*2+(e.mode==='guided'?0:1)}));
+    if(['caderno','acervo','leituras','inicio','rever'].includes(state.view)) items=data.resources.filter(r=>r.kind==='reading'&&visible(r.lessons)).map(r=>({id:r.id,name:title(r),detail:r.summary?r.authors.join(', '):'Resumo pendente',lessons:r.lessons,view:'caderno'}));
+    if(['atlas','temas'].includes(state.view))items=data.atlas.filter(t=>visible(t.lessons)).map(t=>({id:t.debate_id,name:t.title,detail:t.works.length===1?'Leitura única':t.works.length+' leituras',lessons:t.lessons,view:'atlas',order:topicOrder.indexOf(t.debate_id)*2}));
+    if(['praticar','exercicios'].includes(state.view))items=data.exercises.filter(e=>visible(e.lessons)).map(e=>({id:e.exercise_id,name:e.title,detail:e.mode==='guided'?'Guiado':'Autônomo',lessons:e.lessons,view:'praticar',order:topicOrder.indexOf(e.debate_id)*2+(e.mode==='guided'?0:1)}));
     if(!items.length)target.append(el('p','Nenhum conteúdo nesta área para o recorte escolhido.','empty-note'));
     for(const item of items.sort((a,b)=>(a.order??Math.min(...a.lessons))-(b.order??Math.min(...b.lessons)))){const b=button(item.name,()=>{go(item.view,item.id);if(innerWidth<=760) $('.index-panel').open=false;},'menu-item'); b.replaceChildren(el('strong',item.name),el('small',lessons(item.lessons)+' · '+item.detail));if(state.id===item.id)b.setAttribute('aria-current','page');target.append(b);}
   }
   function showRoute(focus=false) {
-    const [view,id]=location.hash.slice(1).split('/');
+    const [path,query='']=location.hash.slice(1).split('?'),params=new URLSearchParams(query);
+    const [view,id]=path.split('/');
     let decoded;try{decoded=id?decodeURIComponent(id):state.id;}catch(_){decoded=state.id;}
     if(view==='caderno'&&resources.has(decoded)) state={view,id:decoded};
     else if(view==='atlas'&&topics.has(decoded))state={view,id:decoded};
     else if(view==='praticar'&&exercises.has(decoded))state={view,id:decoded};
     else if(view==='acervo') state={view:'acervo',id:'all'};
+    else if(['inicio','rever','leituras','temas','exercicios'].includes(view))state={view,id:'all'};
+    document.body.dataset.view=state.view;
+    const requested=topics.get(params.get('tema'));
+    if(state.view==='atlas')context=state.id;
+    if(state.view==='praticar')context=exercises.get(state.id).debate_id;
+    if(state.view==='caderno')context=requested?.works.includes(state.id)?requested.debate_id:topics.get(context)?.works.includes(state.id)?context:relatedTopics(resources.get(state.id),data.atlas)[0]?.debate_id||null;
+    if(['caderno','atlas','praticar'].includes(state.view)){
+      const patch={last:{...state},topic:context};
+      if(context&&state.view==='caderno')patch.readings={...study.get().readings,[context]:state.id};
+      if(context&&state.view==='praticar')patch.exercises={...study.get().exercises,[context]:state.id};
+      studyUpdate(patch);
+    }
     content.replaceChildren();content.hidden=false;$('#results').hidden=true;
-    if(state.view==='caderno')reading(resources.get(state.id)); else if(state.view==='atlas')atlasView(topics.get(state.id));else if(state.view==='praticar')practice(exercises.get(state.id));else archive();
-    menu();document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-current',b.dataset.view===(state.view==='acervo'?'caderno':state.view)?'page':'false'));
+    if(lastSearch)content.append(button('← Voltar à busca',()=>{$('#search').value=lastSearch.query;search();$('#search').focus();},'back-search'));
+    journey();
+    if(state.view==='caderno')reading(resources.get(state.id)); else if(state.view==='atlas')atlasView(topics.get(state.id));else if(state.view==='praticar')practice(exercises.get(state.id));else if(state.view==='acervo')archive();else if(state.view==='inicio'||state.view==='rever')home(state.view==='rever');else collection(state.view);
+    const area={leituras:'caderno',temas:'atlas',exercicios:'praticar',acervo:'caderno'}[state.view]||state.view;
+    menu();document.querySelectorAll('[data-view]').forEach(b=>{if(b.dataset.view===area)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});
     document.title=(content.querySelector('h1')?.textContent||'Guia')+' · EAE1244';
-    if(focus){window.scrollTo(0,0);$('#content').focus({preventScroll:true});}
+    const anchor=params.get('secao');
+    requestAnimationFrame(()=>{const target=anchor&&document.getElementById(anchor);if(target){target.querySelectorAll('details.concept-detail').forEach(d=>{d.open=true;});target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({block:'start'});}else{window.scrollTo(0,study.get().positions[state.view+'/'+state.id]||0);if(focus)$('#content').focus({preventScroll:true});}});
   }
   const nums=[...new Set(data.resources.filter(r=>r.kind==='reading').flatMap(r=>r.lessons))].sort((a,b)=>a-b);
   nums.forEach(n=>{const o=el('option','Aula '+n);o.value=n;$('#lesson').append(o);});
-  $('#lesson').addEventListener('change',menu);
+  if([...$('#lesson').options].some(option=>option.value===study.get().filter))$('#lesson').value=study.get().filter;
+  $('#lesson').addEventListener('change',()=>{studyUpdate({filter:$('#lesson').value});menu();if(['inicio','rever'].includes(state.view))showRoute();});
   $('#archive').addEventListener('click',()=>go('acervo','all'));
-  document.querySelector('[data-view="caderno"]').addEventListener('click',()=>go('caderno','moodle-resource-6577587'));
-  document.querySelector('[data-view="atlas"]').addEventListener('click',()=>go('atlas','fim-bretton-woods'));
-  document.querySelector('[data-view="praticar"]').addEventListener('click',()=>go('praticar','fim-bretton-woods-guided'));
-  function collectText(value){if(typeof value==='string')return value;if(Array.isArray(value))return value.map(collectText).join(' ');if(value&&typeof value==='object')return Object.entries(value).filter(([k])=>!['refs','file_id','resource_id','basis'].includes(k)).map(([,v])=>collectText(v)).join(' ');return '';}
-  const docs=[...data.resources.filter(r=>r.kind==='reading').map(r=>({view:'caderno',id:r.id,title:title(r),type:r.summary?'Caderno':'Resumo pendente',text:r.title+' '+r.authors.join(' ')+' '+lessons(r.lessons)+' '+collectText(r.summary)})),...data.atlas.map(t=>({view:'atlas',id:t.debate_id,title:t.title,type:'Atlas',text:collectText(t)})),...data.exercises.map(e=>({view:'praticar',id:e.exercise_id,title:e.title,type:e.mode==='guided'?'Treino guiado':'Treino autônomo',text:e.prompt+' '+e.works.map(author).join(' ')+' '+lessons(e.lessons)}))];
-  function search(){const query=$('#search').value.trim(),results=$('#results');results.replaceChildren();$('#clear-search').hidden=!query;content.hidden=!!query;results.hidden=!query;if(!query)return;const matches=searchDocs(docs,query);const status=el('p',matches.length+' resultado'+(matches.length===1?'':'s'),'result-title');status.setAttribute('role','status');results.append(status);if(!matches.length)results.append(el('p','Nenhum resultado. Tente um autor, outra palavra ou limpe a busca.','notice'));for(const match of matches){const b=button('',()=>go(match.view,match.id),'result');b.append(el('small',match.type),el('h2',match.title),el('p',match.snippet));results.append(b);}}
+  document.querySelectorAll('[data-view]').forEach(control=>control.addEventListener('click',()=>{
+    const view=control.dataset.view,topic=topics.get(context);
+    if(topic&&['caderno','atlas','praticar'].includes(state.view)&&['caderno','atlas','praticar'].includes(view))go(view,view==='caderno'?topicReading(topic):view==='atlas'?topic.debate_id:topicExercise(topic).exercise_id,{topic:topic.debate_id});
+    else go({caderno:'leituras',atlas:'temas',praticar:'exercicios'}[view]||view);
+  }));
+  const docs=buildSearchDocs(data,title);
+  function search(){const query=$('#search').value.trim(),results=$('#results');results.replaceChildren();$('#clear-search').hidden=!query;content.hidden=!!query;results.hidden=!query;if(!query)return;const matches=searchDocs(docs,query);const status=el('p',matches.length+' trecho'+(matches.length===1?'':'s')+' encontrado'+(matches.length===1?'':'s'),'result-title');status.setAttribute('role','status');results.append(status);if(!matches.length)results.append(el('p','Nenhum resultado. Tente um autor, outra palavra ou limpe a busca.','notice'));for(const match of matches){const b=button('',()=>go(match.view,match.id,{section:match.section,query}),'result');b.append(el('small',match.type),el('h2',match.title),el('p',match.snippet));results.append(b);}}
   $('#search').addEventListener('input',search);
   $('#clear-search').addEventListener('click',()=>{$('#search').value='';search();$('#search').focus();});
-  const mobileQuery=matchMedia('(max-width:760px)');
-  mobileQuery.addEventListener('change',event=>{$('.index-panel').open=!event.matches;});
-  window.addEventListener('hashchange',()=>showRoute(true));
-  if(innerWidth<=760)$('.index-panel').open=false;
+  function applyTheme(){const theme=study.get().theme==='system'?(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'):study.get().theme;document.documentElement.style.colorScheme=theme;$('#theme-toggle').textContent=theme==='dark'?'Aparência clara':'Aparência escura';}
+  $('#theme-toggle').addEventListener('click',()=>{studyUpdate({theme:document.documentElement.style.colorScheme==='dark'?'light':'dark'});applyTheme();});
+  matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{if(study.get().theme==='system')applyTheme();});
+  document.querySelectorAll('[data-icon]').forEach(node=>node.append(uiIcon(node.dataset.icon)));
+  window.addEventListener('hashchange',()=>{rememberPosition();showRoute(true);});
+  window.addEventListener('pagehide',rememberPosition);
+  applyTheme();
   showRoute();
 })();
