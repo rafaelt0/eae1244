@@ -924,6 +924,103 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 5.1",
+      "title": "Formação bruta de capital fixo",
+      "unit": "% do PIB",
+      "file_id": "1cd0a09e0b96275c66742f5a906b9248c61b83df911419e0bb85cbe9e41d0fba",
+      "pdf_page": 2,
+      "columns": [
+        "Média e grupo",
+        "1950–1957",
+        "1958–1967",
+        "1968–1974",
+        "1975–1980",
+        "1981–1990",
+        "1991–1997",
+        "1998–2003",
+        "2004–2008",
+        "2008–2010"
+      ],
+      "rows": [
+        [
+          "Média simples: países grandes",
+          "23.9%",
+          "20.1%",
+          "21.6%",
+          "24.3%",
+          "19.1%",
+          "19.6%",
+          "18.3%",
+          "21.5%",
+          "23.3%"
+        ],
+        [
+          "Média simples: países pequenos",
+          "14.2%",
+          "15.7%",
+          "18.1%",
+          "21.5%",
+          "17.0%",
+          "19.2%",
+          "20.0%",
+          "19.8%",
+          "19.1%"
+        ],
+        [
+          "Média simples: América Latina",
+          "19.1%",
+          "17.6%",
+          "19.5%",
+          "22.6%",
+          "17.8%",
+          "19.4%",
+          "19.4%",
+          "20.5%",
+          "20.8%"
+        ],
+        [
+          "Média ponderada: países grandes",
+          "21.0%",
+          "19.5%",
+          "22.2%",
+          "25.1%",
+          "18.9%",
+          "18.2%",
+          "18.0%",
+          "19.9%",
+          "20.9%"
+        ],
+        [
+          "Média ponderada: países pequenos",
+          "15.8%",
+          "16.8%",
+          "17.7%",
+          "22.2%",
+          "16.9%",
+          "18.6%",
+          "19.3%",
+          "19.1%",
+          "18.7%"
+        ],
+        [
+          "Média ponderada: América Latina",
+          "20.7%",
+          "19.1%",
+          "21.9%",
+          "24.9%",
+          "18.8%",
+          "18.2%",
+          "18.1%",
+          "19.8%",
+          "20.7%"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que a taxa de investimento oscilava entre 19% e 22% do PIB até meados dos anos 1970, subiu a cerca de 25% em 1975-80 (24,9% na média ponderada), caiu cerca de seis pontos com a crise da dívida e só se recuperou no boom de 2004-8.",
+      "note": "Tabela completa. Fonte: séries históricas da CEPAL a preços constantes; Costa Rica desde 1952, El Salvador desde 1962, Nicarágua desde 1960 e Uruguai desde 1955; médias de todos os países com dados disponíveis."
+    }
+  ],
   "limits": [
     "Inferência minha: classifico o choque Volcker e a queda das commodities como causas e o ciclo de crédito, a fragilidade financeira e o problema de transferência doméstica como transmissores; o texto não usa essa terminologia, e os autores tratam a interação entre choque e políticas internas como a causa de fato (Díaz-Alejandro).",
     "Objeção ao argumento: os próprios autores reconhecem que déficits externos e fiscais crescentes e a dependência de empréstimos tornavam o modelo vulnerável (\"sword of Damocles\"), então a defesa de que a crise foi principalmente externa é matizada; eles dizem que sem a crise o colapso é improvável, o que é contrafactual.",
@@ -933,7 +1030,7 @@
     "OCR com ruído em figuras, tabelas e algumas linhas (por exemplo, palavras quebradas e símbolos soltos); só foram citados trechos legíveis."
   ],
   "figures_note": [
-    "Página 3: Figura 5.1 (crescimento do PIB e saldo comercial, % do PIB, por subperíodos) e Tabela 5.1 (formação bruta de capital fixo, % do PIB, médias simples e ponderadas por período e porte de país). A extração traz a tabela com ruído de OCR; consulte o original para os valores exatos.",
+    "Página 2 (impressa 201): Figura 5.1 (crescimento do PIB e saldo comercial, % do PIB, por subperíodos), gráfico não transcrito; a Tabela 5.1 (formação bruta de capital fixo, % do PIB, médias simples e ponderadas por período e porte de país) foi transcrita na seção Tabelas a partir da imagem da página.",
     "Página 4: Figura 5.2 (transferências líquidas de recursos, % do PIB; via IED e fluxos financeiros). Gráfico não capturado; ver o original.",
     "Página 6: Figura 5.3 (A: juros reais; B: preços reais de commodities não petrolíferas, 1980=100) e Figura 5.4 (dívida externa como % do PIB e das exportações). Gráficos não capturados; ver o original.",
     "Página 7: Figura 5.5 (comparação das crises dos anos 1930 e 1980: poder de compra das exportações e saldo comercial como % das exportações). Gráfico não capturado.",

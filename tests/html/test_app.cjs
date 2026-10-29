@@ -85,3 +85,11 @@ test('global search opens the concept section and does not index exercise soluti
   assert.equal(searchDocs(docs,'SOLUCAO_RESERVADA').length,0);
   assert.equal(searchDocs(docs,'Autora').some(doc=>doc.view==='praticar'),true);
 });
+
+test('table cells of a reading are searchable and point to the tables section', () => {
+  const summary = {thesis:'Tese', tables:[{label:'Tabela 1', title:'Crescimento', supports:'Sustenta.', file_id:'f', pdf_page:4, columns:['País','1950-73'], rows:[['Coreia','5.9']]}]};
+  const docs = buildSearchDocs({resources:[{id:'r', kind:'reading', title:'Rodrik', authors:['Rodrik'], lessons:[23], summary}], atlas:[], exercises:[]});
+  const hit = searchDocs(docs, 'Coreia 5.9');
+  assert.equal(hit.length, 1);
+  assert.equal(hit[0].section, 'tabelas');
+});
