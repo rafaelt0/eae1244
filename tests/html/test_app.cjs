@@ -1,6 +1,6 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
-const {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise} = require('../../web/app.js');
+const {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise, collectText} = require('../../web/app.js');
 
 test('search ignores accents and case and returns matching context', () => {
   assert.equal(normalize('EDUCAÇÃO'), 'educacao');
@@ -39,4 +39,14 @@ test('reading shortcuts prefer the closest topic and its guided exercise', () =>
   const exercises = [{exercise_id:'context',debate_id:'growth',mode:'independent',works:['harrison']},
                      {exercise_id:'war-guided',debate_id:'war',mode:'guided',works:['harrison']}];
   assert.equal(studyExercise(reading.id,related,exercises).exercise_id,'war-guided');
+});
+
+test('search text keeps prose and labels, never internal identifiers', () => {
+  const topic = {debate_id:'fim-bretton-woods', entry_type:'debate', positions:[{resource_id:'moodle-resource-1', stance:'qualifies', summary:'Meissner apresenta Triffin.', refs:[{file_id:'abc', quote:'boost'}]}],
+                 relations:[{id:'ajuste', type:'converge', between:['moodle-resource-1'], text:'Ambos ligam o colapso.'}]};
+  const text = collectText(topic, {qualifies:'Qualifica a tese', converge:'Convergência'});
+  assert.match(text, /Meissner apresenta Triffin/);
+  assert.match(text, /Qualifica a tese/);
+  assert.match(text, /Convergência/);
+  for (const raw of ['qualifies', 'converge', 'moodle-resource', 'fim-bretton-woods', 'debate', 'ajuste', 'boost']) assert.doesNotMatch(text, new RegExp('\\b' + raw + '\\b'));
 });

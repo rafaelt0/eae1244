@@ -74,3 +74,9 @@ Recomposição visual conforme [SPEC-editorial.md](../SPEC-editorial.md). O inve
 - Com o pacote aberto por `file://`, as únicas requisições são o próprio arquivo e os recursos embutidos.
 
 Capturas antes, em `.local/editorial-qa/antes/`, e depois, em `.local/editorial-qa/depois/`: Caderno, Atlas, Praticar e busca em 1440 px, Caderno, Atlas e Praticar em 390 px, e acervo em 1024 px. Resultado aprovado pelo usuário em 29/10/2026.
+
+### Revisão de acabamento
+
+- A busca deixou de indexar identificadores internos, como `qualifies`, `converge`, IDs de leitura e de tema. As classificações passam a ser encontradas pelo rótulo em português, como "Qualifica a tese". Um teste novo cobre isso, e a consulta "qualifies" não retorna resultados no pacote real.
+- Até 1023 px, a busca ocupa a segunda linha do cabeçalho, as abas cabem inteiras no sumário e as posições do Atlas se empilham sem o fio lateral.
+- 93 testes passaram. `browser.mjs` passou nas 17 verificações e nas 55 rotas, e as 56 rotas continuam sem rolagem horizontal nas quatro larguras.

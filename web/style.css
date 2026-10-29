@@ -1001,6 +1001,23 @@ textarea:focus-visible {
   }
 }
 @media(max-width:1023px) {
+  .masthead {
+    grid-template-columns:1fr auto;
+    gap:12px 20px
+  }
+  .search-wrap {
+    grid-column:1/-1;
+    grid-row:2
+  }
+  .modes {
+    gap:14px
+  }
+  .position,.position:first-child {
+    padding:0 0 12px;
+    border-left:0;
+    border-bottom:1px solid var(--rule);
+    margin-bottom:16px
+  }
   .matrix-table,.matrix-table tbody,.matrix-table tr,.matrix-table th,.matrix-table td {
     display:block;
     width:auto
@@ -1091,12 +1108,6 @@ textarea:focus-visible {
   .see-also li {
     grid-template-columns:1fr;
     gap:0
-  }
-  .position {
-    padding:0 0 12px;
-    border-left:0;
-    border-bottom:1px solid var(--rule);
-    margin-bottom:16px
   }
   textarea {
     padding-left:1rem;
