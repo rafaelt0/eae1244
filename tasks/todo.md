@@ -85,3 +85,61 @@
 - [ ] Entradas `short`, `partial`, para os demais recursos; pendências explícitas na cobertura.
 - Verificação: `coverage` separa prioritárias e demais.
 - Dependências: 11. Pode ficar parcial.
+
+---
+
+# Tarefas — atlas
+
+Especificação aprovada; **plano e tarefas aguardam revisão**. A tarefa 12 permanece pendente e não bloqueia este recorte prioritário.
+
+## 13. Validar debates e calcular cobertura
+- [ ] Implementar `scripts/atlas.py validate` e `coverage`, reaproveitando a conferência de referências do caderno, com JSON por tema e códigos de saída 0/1/2.
+- [ ] Validar campos, enums, IDs únicos, uma posição por obra, pares de relações, matriz, referências internas do roteiro e exceção explícita para verbete.
+- [ ] Exigir obras com entrada `complete`, citações pertencentes às obras corretas e cobertura de todas as leituras prioritárias.
+- Verificação: `python3 -m unittest discover -s tests/atlas -p 'test_*.py' -v`; testes de falha com citação ausente, página errada, fonte de terceiro, entrada parcial, relações incompletas e diretório sem debates. Fixtures sintéticas, sem PDFs.
+- Dependências: 11. Arquivos: `scripts/atlas.py`, `tests/atlas/test_atlas.py` (escopo pequeno).
+
+## 14. Piloto — fim de Bretton Woods
+- [ ] Escrever as posições de Eichengreen, Frieden e Meissner, relações fundamentadas, matriz de mecanismos, casos e diferenças de contexto.
+- [ ] Montar roteiro que avalie a tese sobre ouro e Triffin, confrontando-a com custos políticos e inviabilidade do ajuste, com conclusão marcada como interpretação.
+- Verificação: executar os dois comandos do atlas da especificação; aceitar apenas pendências de cobertura das leituras ainda não escritas. Conferir manualmente as referências de uma convergência e uma divergência e registrar o teste de suficiência.
+- Dependências: 13. Arquivos: `data/atlas/fim-bretton-woods.json`, `tasks/todo.md` (escopo pequeno).
+
+## Checkpoint do piloto do atlas
+- [ ] Nenhum erro estrutural no piloto; leituras descobertas explicitadas no relatório.
+- [ ] Resposta sobre desenho, política e ajuste montável só com o piloto e o caderno.
+
+## 15. Guerra e crescimento europeu
+- [ ] Escrever `guerra-e-mobilizacao` como verbete de Harrison, sem comparação fictícia entre autores.
+- [ ] Escrever `crescimento-era-de-ouro`, distinguindo o argumento de Crafts/Toniolo do contexto de mobilização de Harrison.
+- Verificação: validação dos arquivos presentes sem erro estrutural; roteiro de resposta por tema; contexto não apresentado como divergência.
+- Dependências: 14. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
+
+## 16. Planejamento central e coordenação estatal
+- [ ] Escrever `planejamento-sovietico`, com Allen, Eichengreen e Frieden: sucesso inicial, desaceleração e colapso distinguidos.
+- [ ] Escrever `estado-e-industrializacao`, com Rodrik, Bértola/Ocampo e Allen: condições, resultados e limites da coordenação, incluindo as realizações da ISI.
+- Verificação: validação sem novos erros; conferir contraste Allen–Eichengreen e qualificação da premissa de fracasso latino-americano; um roteiro por tema.
+- Dependências: 15. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
+
+## Checkpoint intermediário do atlas
+- [ ] Conferir uma relação `converge`, uma `diverge` e uma `context`, com evidência de ambas as obras.
+- [ ] Diferenças de país, período e método registradas onde limitam as comparações.
+
+## 17. Dívida e crises depois de 1971
+- [ ] Escrever `crise-da-divida-e-reformas`, preservando choque externo, vulnerabilidades internas e diferenças entre reformas latino-americanas e transição pós-socialista.
+- [ ] Escrever `crises-financeiras-pos-1971`, distinguindo mecanismos das crises e limites dos benefícios da liberalização, com Meissner, Frieden e Crafts.
+- Verificação: validação sem novos erros; um roteiro por tema e conferência de que sínteses regionais não viraram afirmações universais.
+- Dependências: 16. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
+
+## 18. Capital humano e convergência
+- [ ] Escrever `capital-humano-e-convergencia`, com Li et al., Crafts/Toniolo, Crafts e Rodrik.
+- [ ] Distinguir correlação, mecanismo causal e condições institucionais; preservar as ressalvas das projeções chinesas.
+- Verificação: `validate` e `coverage` com código 0, oito temas e 14 leituras prioritárias cobertas; roteiro de resposta suficiente para avaliar a tese.
+- Dependências: 17. Arquivos: `data/atlas/capital-humano-e-convergencia.json`, `tasks/todo.md` (escopo pequeno).
+
+## 19. Conferência final do atlas
+- [ ] Rever os oito roteiros usando só atlas e caderno, documentando a suficiência e limites; revisão do usuário não será presumida.
+- [ ] Atualizar README, mapa, plano e tarefas com comandos, cobertura real e pendências dos módulos seguintes.
+- [ ] Executar as suítes de fontes, caderno e atlas e as validações reais dos recortes prioritários; conferir o diff e registrar os incrementos em commits.
+- Verificação: comandos da especificação e testes dos três módulos; fontes e caderno preservados; nenhum erro omitido do relatório.
+- Dependências: 18. Arquivos: `README.md`, `CAPABILITY-MAP.md`, `tasks/plan.md`, `tasks/todo.md` (escopo médio).
