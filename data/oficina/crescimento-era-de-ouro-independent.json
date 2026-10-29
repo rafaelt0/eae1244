@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "exercise_id": "crescimento-era-de-ouro-independent",
+  "debate_id": "crescimento-era-de-ouro",
+  "mode": "independent",
+  "title": "Coordenação na guerra e no crescimento",
+  "prompt": "Compare o papel da coordenação em Harrison e em Crafts e Toniolo. Em que sentido ela pode importar tanto para a mobilização de guerra quanto para o crescimento europeu posterior, e por que as medidas de desempenho dos dois estudos não são intercambiáveis?",
+  "lessons": [
+    17,
+    20
+  ],
+  "works": [
+    "moodle-resource-6577587",
+    "moodle-resource-6601131"
+  ],
+  "skills": [
+    "compare_authors",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Identificar uma aproximação sobre organização dos recursos, preservando os problemas e períodos distintos de cada estudo.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "coordenacao-comparada"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "periodos-e-medidas"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Explicar estruturas de comando e equilíbrio do esforço em Harrison.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "mechanisms",
+            "item": 3
+          }
+        ]
+      },
+      {
+        "text": "Explicar incentivos ao investimento e à assimilação tecnológica no estudo do pós-guerra.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "positions",
+            "item": "moodle-resource-6601131"
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 0
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Intensidade do esforço não mede crescimento da produtividade; o êxito numa dimensão não prova êxito na outra.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "periodos-e-medidas"
+          }
+        ]
+      },
+      {
+        "text": "A aproximação entre organização bélica e instituições de crescimento não constitui uma teoria da Era de Ouro em Harrison.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "coordenacao-comparada"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que coordenação é uma pergunta comparável, mas sua função e o critério de resultado precisam ser especificados.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "coordenacao-comparada"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "crescimento-era-de-ouro",
+            "section": "relations",
+            "item": "periodos-e-medidas"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "Nos dois estudos, organizar recursos importa, mas o resultado a explicar muda. Harrison investiga como as economias converteram suas bases produtivas em esforço de guerra e compara intensidade e equilíbrio da mobilização. Crafts e Toniolo procuram explicar crescimento da produtividade e catch-up, associando seu aproveitamento a incentivos e capacidade social. A aproximação está na necessidade de compreender a organização econômica, não numa identidade entre mecanismos. Uma parcela elevada da renda mobilizada para a guerra não é medida de produtividade crescente no pós-guerra. A comparação, portanto, ganha força quando explicita suas fronteiras: o estudo de Harrison oferece contexto anterior e uma cautela de método, sem testar a explicação da Era de Ouro.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "crescimento-era-de-ouro",
+        "section": "relations",
+        "item": "coordenacao-comparada"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crescimento-era-de-ouro",
+        "section": "relations",
+        "item": "periodos-e-medidas"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crescimento-era-de-ouro",
+        "section": "positions",
+        "item": "moodle-resource-6577587"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "crescimento-era-de-ouro",
+        "section": "positions",
+        "item": "moodle-resource-6601131"
+      }
+    ],
+    "commentary": "O parágrafo começa pela aproximação, especifica a variável de cada estudo e limita a conclusão comparativa."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Atribuir a Harrison uma tese sobre os contratos sociais de 1950–73.",
+      "revision": "Restringir a ele o estudo da mobilização e atribuir a discussão do catch-up a Crafts e Toniolo.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crescimento-era-de-ouro",
+          "section": "positions",
+          "item": "moodle-resource-6577587"
+        },
+        {
+          "module": "atlas",
+          "entry_id": "crescimento-era-de-ouro",
+          "section": "positions",
+          "item": "moodle-resource-6601131"
+        }
+      ]
+    },
+    {
+      "mistake": "Usar intensidade bélica como indicador de crescimento posterior.",
+      "revision": "Definir separadamente esforço relativo e crescimento da produtividade.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "crescimento-era-de-ouro",
+          "section": "relations",
+          "item": "periodos-e-medidas"
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Comparei a função da coordenação nos dois estudos?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese indica a aproximação e seu limite?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Mantive cada argumento com seus autores e período?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Expliquei por que as medidas respondem a perguntas distintas?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei ao menos um mecanismo de cada estudo?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Evitei inferir crescimento pós-guerra a partir da intensidade bélica?"
+    }
+  ]
+}

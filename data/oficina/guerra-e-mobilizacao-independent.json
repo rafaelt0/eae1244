@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "exercise_id": "guerra-e-mobilizacao-independent",
+  "debate_id": "guerra-e-mobilizacao",
+  "mode": "independent",
+  "title": "Quem usou e quem financiou os recursos?",
+  "prompt": "Como o Lend-Lease altera a comparação da mobilização britânica e americana? Explique por que recursos utilizados e financiamento doméstico podem produzir avaliações diferentes e discuta o limite de um ranking único do esforço de guerra, segundo Harrison.",
+  "lessons": [
+    17
+  ],
+  "works": [
+    "moodle-resource-6577587"
+  ],
+  "skills": [
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Defender que utilização e financiamento são duas perguntas legítimas, com denominadores e origem dos recursos explicitados.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 9
+          },
+          {
+            "module": "atlas",
+            "entry_id": "guerra-e-mobilizacao",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Explicar que a ajuda americana entra no esforço financiado pelo doador e nos recursos usados pelo receptor; somar contas sem ajuste pode duplicá-la.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 9
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Comparar Reino Unido e EUA sob as duas medidas e mostrar por que a ordem relativa pode mudar.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 9
+          }
+        ]
+      },
+      {
+        "text": "Distinguir essa mudança contábil de uma descoberta de eficiência militar superior.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "guerra-e-mobilizacao",
+            "section": "positions",
+            "item": "moodle-resource-6577587"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que o ranking só faz sentido depois de declarar o que se pretende medir e como as transferências foram tratadas.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 8
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6577587",
+            "section": "argument",
+            "item": 9
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "O Lend-Lease torna insuficiente comparar orçamentos nacionais sem examinar a origem dos recursos. A ajuda financiada pelos Estados Unidos podia ser utilizada no esforço britânico; contá-la integralmente nas duas contas cria uma duplicação. Harrison separa a utilização nacional dos recursos, qualquer que seja sua origem, do financiamento doméstico, ajustado pelas transferências. Nessa distinção, a posição relativa de britânicos e americanos pode mudar porque muda a pergunta: quem utilizou mais recursos proporcionalmente ou quem financiou o esforço com sua própria base? A mudança do ranking não demonstra que um exército se tornou mais eficiente. Ela mostra que uma comparação histórica depende de conceitos contábeis coerentes.",
+    "basis": [
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6577587",
+        "section": "argument",
+        "item": 9
+      },
+      {
+        "module": "atlas",
+        "entry_id": "guerra-e-mobilizacao",
+        "section": "positions",
+        "item": "moodle-resource-6577587"
+      }
+    ],
+    "commentary": "A comparação é construída a partir da transferência de recursos e da mudança de pergunta, sem depender de decorar porcentagens."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Somar gasto americano e gasto dos receptores como recursos independentes.",
+      "revision": "Identificar a mesma transferência nas duas contas e eliminar dupla contagem.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6577587",
+          "section": "argument",
+          "item": 9
+        }
+      ]
+    },
+    {
+      "mistake": "Escolher a medida que favorece um país sem explicitar a pergunta.",
+      "revision": "Declarar se a comparação trata de utilização ou financiamento doméstico.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6577587",
+          "section": "argument",
+          "item": 9
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Expliquei o papel do Lend-Lease na comparação?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese esclarece por que não há ranking único sem critério?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Mantive as duas medidas usadas por Harrison?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Reconstruí o caminho da transferência até a dupla contagem?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "A comparação Reino Unido–EUA aparece no argumento?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Evitei inferir eficiência militar de uma mudança contábil?"
+    }
+  ]
+}

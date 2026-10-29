@@ -171,7 +171,7 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Checkpoint: dois exercícios válidos, três obras usadas; os outros 14 exercícios continuam explicitamente pendentes. Conferidos o contraste de peso causal e o episódio do Gold Pool pelas bases indicadas.
 
 ## 22. Guerra e Era de Ouro
-- [ ] Escrever os quatro exercícios com operações e casos adequados a cada leitura.
+- [x] Escrever os quatro exercícios com operações e casos adequados a cada leitura.
 - Verificação: validar; conferir intensidade/eficiência e catch-up/instituições sem atribuição indevida a Harrison.
 - Dependências: 21. Arquivos: quatro JSON em `data/oficina/`, tarefas.
 
