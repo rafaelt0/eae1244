@@ -49,3 +49,5 @@ O validador prova que as bases existem, pertencem às obras declaradas e depende
 As questões guiadas mostram planejamento; as autônomas apresentam problemas diferentes, sem perguntas de planejamento. Roteiros e exemplos permanecem em campos separados para futura revelação no HTML. Este módulo não implementa a interface, salvamento das tentativas ou correção automática.
 
 Permanece fora do escopo uma conferência do contexto sobre datas de Smithsonian no atlas: o texto dessa diferença usa uma referência ao caso do Gold Pool de Eichengreen, em vez do caso seguinte sobre o colapso. A oficina usa diretamente os itens pertinentes ao Gold Pool e não depende daquela comparação de datas. Essa referência deve ser revisada em incremento próprio antes da integração final.
+
+Atualização de 29/10/2026: a referência sobre Smithsonian identificada acima foi corrigida no incremento de integração do HTML, commit `ae24f61`, usando o caso 7 do caderno de Eichengreen. A pendência está resolvida.

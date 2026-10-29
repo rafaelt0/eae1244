@@ -2,7 +2,7 @@
 
 Módulo: `html`, conforme o [mapa de capacidades](CAPABILITY-MAP.md). Consome `fontes`, `caderno`, `atlas` e `oficina`.
 
-Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução. Implementação incremental em andamento.
+Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução. Implementação concluída e verificada: pacote offline, 14 resumos completos, oito temas e 16 exercícios. Os 17 resumos anteriores e a revisão do usuário permanecem pendentes.
 
 ## Objetivo
 

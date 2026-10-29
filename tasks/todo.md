@@ -233,6 +233,8 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Arquivos: interface e testes pertinentes.
 
 ## 32. Verificação e entrega do HTML
-- [ ] Conferir quatro larguras, teclado, console, integridade, uso local e ZIP.
-- [ ] Atualizar documentação, salvar capturas e disponibilizar a pasta e o pacote.
+- [x] Conferir quatro larguras, teclado, console, integridade, uso local e ZIP.
+- [x] Atualizar documentação, salvar capturas e disponibilizar a pasta e o pacote.
 - Verificação: testes, validadores e evidências reais; pendências anteriores explícitas.
+
+- Resultado: pacote e HTML em `dist/`; 91 testes e 17 verificações de interação passaram. As 55 páginas de conteúdo, os 44 originais e o uso offline foram conferidos. Evidências em `docs/html-revisao.md`. Os 17 resumos anteriores permanecem pendentes.

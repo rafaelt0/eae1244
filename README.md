@@ -10,7 +10,9 @@ O caderno contém 14 resumos completos do recorte prioritário. O atlas contém 
 
 A oficina contém 16 exercícios, com roteiros, parágrafos comentados e autoavaliação. O [índice da oficina](docs/oficina-revisao.md) apresenta as questões e os caminhos de resposta.
 
-O HTML final ainda não foi implementado. Permanecem pendentes os resumos curtos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
+O [HTML de estudo](dist/guia-eae1244/index.html) está implementado e verificado. Para usar em outro lugar, baixe o [pacote offline](dist/guia-eae1244.zip), descompacte-o e abra `index.html`, mantendo a pasta `originais` junto dele.
+
+Há Caderno, Atlas, busca global e Praticar com rascunhos e download da resposta. A [revisão da interface](docs/html-revisao.md) registra testes e capturas. Permanecem pendentes os resumos das outras 17 leituras e parte da revisão das fontes anteriores. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
 
 ## Atlas
 
@@ -52,8 +54,19 @@ python3 -m unittest discover -s tests/fontes -p 'test_*.py' -v
 python3 -m unittest discover -s tests/caderno -p 'test_*.py' -v
 python3 -m unittest discover -s tests/atlas -p 'test_*.py' -v
 python3 -m unittest discover -s tests/oficina -p 'test_*.py' -v
+python3 -m unittest discover -s tests/html -p 'test_*.py' -v
+node --test tests/html/test_app.cjs
 ```
 
 O atlas retorna 0 quando os dados são válidos e todas as leituras prioritárias estão cobertas; 1 para debates inválidos ou cobertura incompleta; 2 para argumentos ou entradas ilegíveis/malformadas. `coverage` também valida os debates antes de contabilizá-los. Citações devem constar no caderno consumido e na página indicada; relações exigem evidência das duas obras.
 
 A oficina contabiliza somente exercícios válidos e obras efetivamente usadas nas bases de roteiro/parágrafo. Sua cobertura exige oito temas, um exercício de cada modo por tema, as 14 leituras e as quatro habilidades. Os códigos de saída seguem a mesma convenção 0/1/2.
+
+## Gerar o HTML
+
+```bash
+python3 scripts/html.py build --manifest data/fontes/manifest.json --caderno data/caderno --atlas data/atlas --oficina data/oficina --output dist/guia-eae1244
+python3 scripts/html.py verify --output dist/guia-eae1244
+```
+
+A geração confere as dependências e os hashes, incorpora os dados e cria pasta e ZIP. A pasta de saída deve ficar diretamente em `dist/` e pertencer ao gerador; uma falha preserva a entrega anterior. Não é necessário instalar Node.js para usar o HTML; ele é usado somente nos testes JavaScript.

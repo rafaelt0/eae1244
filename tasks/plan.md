@@ -149,3 +149,7 @@ Especificação aprovada em 29/10/2026; execução solicitada pelo usuário. Con
 6. Conferir teclado e quatro larguras, originais, ZIP e funcionamento local. Documentar evidências, limitações e 17 resumos ainda pendentes.
 
 Python padrão para geração e testes; HTML/CSS/JS nativos para apresentação. Sem rede no uso. O estado de estudo não depende de um servidor, e o arquivo de dados não executa conteúdo das leituras. Mudanças no conteúdo consumido são verificadas em incrementos próprios.
+
+## Resultado do HTML
+
+Pacote local concluído com Caderno, Atlas, busca e Praticar. 91 testes passaram, além da conferência de 55 páginas e dos fluxos de interação. Rede desativada e abertura direta por arquivo verificadas. Relatório em [docs/html-revisao.md](../docs/html-revisao.md). Os 17 resumos anteriores não foram declarados completos.

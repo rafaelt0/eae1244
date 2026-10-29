@@ -1,6 +1,6 @@
 # Mapa de capacidades — Guia EAE1244
 
-Status: mapa e especificações de `fontes`, `caderno` e `atlas` aprovados pelo usuário em 28/10/2026. O caderno prioritário contém 14 leituras completas; o atlas está implementado com oito temas e cobertura das 14 leituras prioritárias. A oficina, aprovada em 29/10/2026, contém 16 exercícios validados. Fontes e leituras anteriores ainda têm pendências em `tasks/todo.md`.
+Status: mapa e especificações de `fontes`, `caderno` e `atlas` aprovados pelo usuário em 28/10/2026. O caderno prioritário contém 14 leituras completas; o atlas está implementado com oito temas e cobertura das 14 leituras prioritárias. A oficina, aprovada em 29/10/2026, contém 16 exercícios validados. O HTML foi aprovado e entregue em 29/10/2026, com pacote offline e prévia local. Fontes e leituras anteriores ainda têm pendências em `tasks/todo.md`.
 
 Direção aprovada: [caderno por aula + atlas de debates + oficina de respostas](docs/ideas/guia-eae1244.md).
 
@@ -29,4 +29,4 @@ Ordem de construção: `fontes` → `caderno` → `atlas` → `oficina` → `htm
 - Entrega local, com o HTML utilizável sem internet após o download e os originais acessíveis no pacote local.
 - Sem serviços de IA durante o uso, publicação na internet ou correção automática.
 
-Os contratos de `fontes`, `caderno` e `atlas` estão aprovados. A oficina também está especificada e implementada. O módulo `html` é a próxima etapa.
+Os contratos de `fontes`, `caderno` e `atlas` estão aprovados. A oficina também está especificada e implementada. O módulo `html` está implementado e verificado. Os resumos anteriores e a revisão completa de fontes mantêm as pendências registradas.
