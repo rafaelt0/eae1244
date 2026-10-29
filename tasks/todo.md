@@ -112,8 +112,8 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Resultado do piloto: nenhuma referência ou estrutura inválida; 3 de 14 leituras cobertas, 11 ainda pendentes. Roteiro suficiente: Triffin cria a tensão, as finanças transmitem a perda de confiança e a recusa do ajuste decide o desfecho. A diferença Eichengreen–Meissner é de primazia causal; a aproximação Frieden–Meissner é a resistência ao ajuste. Conferidas as referências das relações `peso-do-ouro` e `ajuste-e-politica`; revisão feita pelo agente, não presumida como revisão do usuário.
 
 ## 15. Guerra e crescimento europeu
-- [ ] Escrever `guerra-e-mobilizacao` como verbete de Harrison, sem comparação fictícia entre autores.
-- [ ] Escrever `crescimento-era-de-ouro`, distinguindo o argumento de Crafts/Toniolo do contexto de mobilização de Harrison.
+- [x] Escrever `guerra-e-mobilizacao` como verbete de Harrison, sem comparação fictícia entre autores.
+- [x] Escrever `crescimento-era-de-ouro`, distinguindo o argumento de Crafts/Toniolo do contexto de mobilização de Harrison.
 - Verificação: validação dos arquivos presentes sem erro estrutural; roteiro de resposta por tema; contexto não apresentado como divergência.
 - Dependências: 14. Arquivos: dois JSON em `data/atlas/`, `tasks/todo.md` (escopo médio).
 

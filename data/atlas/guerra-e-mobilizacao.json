@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "entry_type": "single_reading",
+  "debate_id": "guerra-e-mobilizacao",
+  "title": "Guerra: potencial produtivo e intensidade da mobilização",
+  "lessons": [
+    17
+  ],
+  "question": "Como relacionar base produtiva, intensidade de mobilização e sustentação do esforço aliado?",
+  "thesis_statement": "A superioridade produtiva aliada torna dispensável explicar a mobilização dos recursos.",
+  "works": [
+    "moodle-resource-6577587"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6577587",
+      "stance": "rejects",
+      "summary": "Harrison parte da superioridade aliada na produção de munições e investiga como esse potencial se realizou. Distingue preparação, coordenação e intensidade; corrige comparações de renda e trabalho e a dupla contagem de ajuda externa. A URSS suportou esforço relativo extraordinário, mas sua superioridade sobre a Alemanha é uma conclusão sobre intensidade e equilíbrio, sem provar eficiência superior em geral.",
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "what won the war for them in the end was their ability to"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 2,
+          "quote": "produce more, and vastly more, munitions than the Axis.1"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "In contrast, Soviet experience has suffered neglect.3 The main reason is that"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "How may the effectiveness of the Soviet economic war effort be compared with"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "political leadership and"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "distortions of concept and measurement from the comparative statistical record already established for"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "U.S. Lend-Lease transfers were double counted."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "Measure (II) shows the domestic finance of resources supplied to the war effort,"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "allocated more resources (irrespective of origin) to the war (57 versus 47 per cent of"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "Soviet wartime economic performance was clearly superior to that of Nazi"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "country of World War II to survive invasion as a nation state."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 24,
+          "quote": "greater intensity than those of the United Kingdom or North America."
+        }
+      ]
+    }
+  ],
+  "relations": [],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Base produtiva e folga inicial",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6577587",
+            "kind": "cause",
+            "explanation": "A capacidade ociosa permitia expandir a produção; a URSS já sobrecarregada precisava retirar recursos dos civis.",
+            "refs": [
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 4,
+                "quote": "rearmament was initiated in an"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 10,
+                "quote": "starting point (less than full employment"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 23,
+                "quote": "and with spare capacity which allowed substantial expansion of economic activity"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 6,
+                "quote": "subtracting resources from the civilian sector, especially from household"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Coordenação e equilíbrio do esforço",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6577587",
+            "kind": "political_economy",
+            "explanation": "Estruturas de comando e interesses burocráticos condicionavam a alocação entre soldados, indústria e civis.",
+            "refs": [
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 10,
+                "quote": "By the end of 1942 this transition had been achieved."
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 11,
+                "quote": "the rule was to fight the war by committee."
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 12,
+                "quote": "remained full of untouched reserves-of"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 13,
+                "quote": "of policy also had to be secured, in May 1943, in the Office of War Mobilization"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 21,
+                "quote": "Until D-Day the Reich Labour Office successfully"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 21,
+                "quote": "private interests of capital goods producers ensured a relatively high commitment of"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 12,
+                "quote": "local traditions and bureaucratic"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 20,
+                "quote": "In the United Kingdom the maximum degree of mobilization consistent with"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 20,
+                "quote": "Behind the high"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Ajuda externa",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6577587",
+            "kind": "transmitter",
+            "explanation": "Lend-Lease amplia os recursos disponíveis e exige separar utilização de financiamento doméstico.",
+            "refs": [
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 15,
+                "quote": "U.S. Lend-Lease transfers were double counted."
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 22,
+                "quote": "The U.S.S.R. was also heavily dependent on Lend-Lease, which may have"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 21,
+                "quote": "Her main source of credit"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 16,
+                "quote": "Measure (II) shows the domestic finance of resources supplied to the war effort,"
+              },
+              {
+                "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+                "pdf_page": 17,
+                "quote": "allocated more resources (irrespective of origin) to the war (57 versus 47 per cent of"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "URSS, mobilização de 1941–44",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6577587",
+          "text": "A invasão reduziu a base econômica; evacuação, coordenação e alívio da mobilização excessiva tornaram possível sustentar o esforço.",
+          "refs": [
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 9,
+              "quote": "saved Soviet specialized"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 10,
+              "quote": "One was the capacity of Soviet leadership for high-level initiative and individual"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 10,
+              "quote": "But everything else was in an utter shambles."
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 10,
+              "quote": "By the end of 1942 this transition had been achieved."
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 17,
+              "quote": "The U.S.S.R. showed a higher level of economic mobilization than either of her"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 17,
+              "quote": "In 1943, on a national utilization basis, the 1942 record was perhaps even"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 18,
+              "quote": "income grew by more than a quarter, and this supplied just over half the domestic"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 18,
+              "quote": "fell by more than two-fifths in 1940-2 under the impact of invasion and territorial"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 20,
+              "quote": "avoid excessive mobilization of labour and other inputs for war."
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 20,
+              "quote": "could not have been sustained for any longer than a"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 20,
+              "quote": "ceiling of two million on the size of the ground forces in March 1941.36 In the Soviet"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 21,
+              "quote": "The German economy, in contrast, passed almost directly from undermobilization of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alemanha, desequilíbrio entre frente e retaguarda",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6577587",
+          "text": "Grande fração da renda dedicada à guerra coexistiu com pouca ampliação do trabalho industrial bélico e efetivo militar desequilibrado.",
+          "refs": [
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 18,
+              "quote": "The U.K. had achieved a higher degree of mobilization-45 per cent either in"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 19,
+              "quote": "The most intensive workforce mobilization among the Allies, however,"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 19,
+              "quote": "the industrial mobilization of labour remained at a relatively low"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 20,
+              "quote": "a privileged and bloated contingent of military personnel"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 23,
+              "quote": "Soviet wartime economic performance was clearly superior to that of Nazi"
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 23,
+              "quote": "country of World War II to survive invasion as a nation state."
+            },
+            {
+              "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+              "pdf_page": 24,
+              "quote": "greater intensity than those of the United Kingdom or North America."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "Verbete com uma leitura. As diferenças entre países são comparações internas de Harrison; não há aqui divergência entre autores.",
+      "works": [
+        "moodle-resource-6577587"
+      ],
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "How may the effectiveness of the Soviet economic war effort be compared with"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 3,
+          "quote": "political leadership and"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 4,
+          "quote": "distortions of concept and measurement from the comparative statistical record already established for"
+        }
+      ]
+    },
+    {
+      "text": "Intensidade é participação da renda e do trabalho; eficiência é outra pergunta. Utilização de ajuda externa e financiamento doméstico também produzem rankings diferentes.",
+      "works": [
+        "moodle-resource-6577587"
+      ],
+      "refs": [
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "the intensity of resource use.43 Neither is sufficient on its own-a nation may be"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 23,
+          "quote": "intensity, rather than efficiency in the use of resources for warfare."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 15,
+          "quote": "U.S. Lend-Lease transfers were double counted."
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 16,
+          "quote": "Measure (II) shows the domestic finance of resources supplied to the war effort,"
+        },
+        {
+          "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+          "pdf_page": 17,
+          "quote": "allocated more resources (irrespective of origin) to the war (57 versus 47 per cent of"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a suficiência do tamanho econômico: superioridade potencial precisava converter-se em esforço sustentado, e as medidas de esforço devem ser comparáveis.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Conceder o ponto de partida: a capacidade aliada de produzir mais munições importa para explicar o resultado militar.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Comparar URSS e Alemanha: esforço relativo, coordenação e equilíbrio entre frente e retaguarda diferiam mesmo com parcelas de renda elevadas.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      },
+      {
+        "text": "Explicar Lend-Lease: separar recursos utilizados e financiados pelo país evita contar a mesma ajuda duas vezes.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      },
+      {
+        "text": "Limitar a conclusão: mobilizar uma fração maior não demonstra eficiência maior nem esgota a explicação da vitória.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que base, conversão e sustentabilidade são dimensões complementares. Usar intensidade para responder quem suportou maior esforço relativo, sem convertê-la em medida universal de desempenho.",
+        "basis": [
+          "position:moodle-resource-6577587"
+        ]
+      }
+    ]
+  }
+}
