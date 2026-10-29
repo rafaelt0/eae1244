@@ -1,6 +1,6 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
-const {normalize, searchDocs, createDraftStore, relatedTopics, studyExercise} = require('../../web/app.js');
+const {normalize, searchDocs, buildSearchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise} = require('../../web/app.js');
 
 test('search ignores accents and case and returns matching context', () => {
   assert.equal(normalize('EDUCAÇÃO'), 'educacao');
@@ -39,4 +39,49 @@ test('reading shortcuts prefer the closest topic and its guided exercise', () =>
   const exercises = [{exercise_id:'context',debate_id:'growth',mode:'independent',works:['harrison']},
                      {exercise_id:'war-guided',debate_id:'war',mode:'guided',works:['harrison']}];
   assert.equal(studyExercise(reading.id,related,exercises).exercise_id,'war-guided');
+});
+
+test('study context, review list and reading position survive reload without changing drafts', () => {
+  const values = new Map();
+  const storage = {getItem:key=>values.get(key),setItem:(key,value)=>values.set(key,value)};
+  createDraftStore(storage).update('war-guided',{answer:'Minha resposta',checks:['thesis']});
+  const study = createStudyStore(storage);
+  study.update({saved:['war'],topic:'war',last:{view:'praticar',id:'war-independent'},
+    readings:{war:'harrison'},exercises:{war:'war-independent'},positions:{'caderno/harrison':810},theme:'dark'});
+  const restored = createStudyStore(storage).get();
+  assert.deepEqual(restored.saved,['war']);
+  assert.deepEqual(restored.last,{view:'praticar',id:'war-independent'});
+  assert.equal(restored.readings.war,'harrison');
+  assert.equal(restored.exercises.war,'war-independent');
+  assert.equal(restored.positions['caderno/harrison'],810);
+  assert.equal(restored.theme,'dark');
+  assert.equal(createDraftStore(storage).get('war-guided').answer,'Minha resposta');
+});
+
+test('unavailable study storage preserves the session and reports failure', () => {
+  const study = createStudyStore({getItem(){throw Error('blocked')},setItem(){throw Error('blocked')}});
+  assert.equal(study.update({saved:['war']}),false);
+  assert.deepEqual(study.get().saved,['war']);
+  assert.equal(study.available,false);
+});
+
+test('invalid persisted study metadata is ignored instead of breaking navigation', () => {
+  const storage = {getItem:()=>JSON.stringify({schema_version:1,saved:'wrong',last:{view:'unknown',id:'war'},
+    readings:{war:7},positions:{bad:-10,infinite:'Infinity'},theme:'wrong'}),setItem(){}};
+  const restored = createStudyStore(storage).get();
+  assert.deepEqual(restored.saved,[]);
+  assert.equal(restored.last,null);
+  assert.equal(restored.readings.war,undefined);
+  assert.equal(restored.positions.bad,undefined);
+  assert.equal(restored.theme,'system');
+});
+
+test('global search opens the concept section and does not index exercise solutions', () => {
+  const docs=buildSearchDocs({resources:[{id:'r1',kind:'reading',title:'O crescimento',authors:['Autora'],lessons:[20],
+    summary:{thesis:'Tese principal',concepts:[{term:'Convergência',definition:'Aproximação das rendas.'}]}}],atlas:[],
+    exercises:[{exercise_id:'q1',title:'Questão',mode:'guided',prompt:'Explique o crescimento.',works:['r1'],lessons:[20],answer_outline:{thesis:[{text:'SOLUCAO_RESERVADA'}]}}]});
+  const match=searchDocs(docs,'convergencia')[0];
+  assert.equal(match.id,'r1');assert.equal(match.section,'conceitos-para-a-resposta');
+  assert.equal(searchDocs(docs,'SOLUCAO_RESERVADA').length,0);
+  assert.equal(searchDocs(docs,'Autora').some(doc=>doc.view==='praticar'),true);
 });
