@@ -1,0 +1,938 @@
+{
+  "schema_version": 1,
+  "entry_type": "debate",
+  "debate_id": "fim-bretton-woods",
+  "title": "Bretton Woods: ouro, ajuste e escolhas políticas",
+  "lessons": [
+    18,
+    19
+  ],
+  "question": "O fim de Bretton Woods decorreu do desenho ouro-dólar, do conflito político doméstico ou da inviabilidade do ajuste?",
+  "thesis_statement": "A manutenção do papel monetário do ouro foi a causa principal do fim de Bretton Woods.",
+  "works": [
+    "moodle-resource-6601122",
+    "moodle-resource-6601124",
+    "moodle-resource-6601125"
+  ],
+  "positions": [
+    {
+      "resource_id": "moodle-resource-6601122",
+      "stance": "supports",
+      "summary": "Eichengreen identifica no papel residual do ouro a falha central: a liquidez internacional exigia dólares crescentes, mas a promessa de conversão tinha lastro limitado. A crise de confiança decorria desse desenho. Sua comparação com o regime posterior a 1971–73 sustenta que o ouro era dispensável; isso não significa que o sistema seguinte fosse perfeito.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 2,
+          "quote": "designed a system of pegged but adjustable exchange rates"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 2,
+          "quote": "was that it retained a monetary role for gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "The crossover point where the foreign currency obligations of the United"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "Understandably, this excess of foreign dollar holdings over US monetary gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "Convertibility of national currencies like the dollar into gold at a fixed"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "change in the level or composition of the international reserves"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "resemblance to the Bretton Woods system that preceded it"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6601124",
+      "stance": "qualifies",
+      "summary": "Frieden reconhece a insuficiência do ouro diante dos dólares, mas explica o abandono da paridade pela decisão de não pagar o custo do ajuste. A restauração das finanças e a inflação americana tornaram a defesa cambial incompatível com prioridades domésticas. Austeridade ou juros maiores eram alternativas politicamente recusadas por Nixon.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Bancos, empresas e investidores que perderiam com as alterações no"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        }
+      ]
+    },
+    {
+      "resource_id": "moodle-resource-6601125",
+      "stance": "qualifies",
+      "summary": "Meissner apresenta Triffin como explicação plausível, sem considerá-la necessariamente a razão do colapso. Destaca a recusa de ajuste por deficitários, superavitários e EUA, a debilidade do FMI e a erosão dos controles de capital. Seu diagnóstico é da inviabilidade prática do conjunto das regras.",
+      "refs": [
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Bretton Woods System, most deficit countries preferred to delay adjustment."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Surplus nations also disdained advice from the IMF"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "fundamental disequilibrium” was simply not a well-defined term."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "The system was"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Triffin’s views were somewhat plausible, but not necessarily the reason"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Ultimately, the Bretton Woods system was simply unworkable."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Accelerating inflation in the United States"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Capital flows were limited with capital controls"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "The Bretton Woods system also was built upon an implicit compromise"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "but it also involved much greater instability."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "peso-do-ouro",
+      "between": [
+        "moodle-resource-6601122",
+        "moodle-resource-6601125"
+      ],
+      "type": "diverge",
+      "text": "A divergência está no peso causal atribuído ao desenho: Eichengreen o apresenta como fonte central da fragilidade; Meissner admite a lógica de Triffin, mas recusa tratá-la como explicação necessariamente decisiva. Não divergem sobre a existência da promessa de conversão.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "This agreement was then formalized as the Gold Pool in November 1961."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "devaluation, the Gold Pool hemorrhaged gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 16,
+          "quote": "A leading source of this fragility was the monetary role of gold."
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "Predictably this gave rise to what was variously called the Triffin"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Triffin’s views were somewhat plausible, but not necessarily the reason"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Ultimately, the Bretton Woods system was simply unworkable."
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 11,
+          "quote": "Accelerating inflation in the United States"
+        }
+      ]
+    },
+    {
+      "id": "ajuste-e-politica",
+      "between": [
+        "moodle-resource-6601124",
+        "moodle-resource-6601125"
+      ],
+      "type": "converge",
+      "text": "Ambos ligam o colapso à falta de disposição para aceitar os custos do ajuste. Frieden desenvolve a coalizão doméstica americana; Meissner amplia o problema a deficitários e superavitários e à falta de força do FMI.",
+      "refs": [
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Bancos, empresas e investidores que perderiam com as alterações no"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 6,
+          "quote": "Associated austerity was postponed for as long as possible until the reserve"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Without the political will to adjust, the Bretton Woods system was unable to"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "Exchange"
+        }
+      ]
+    },
+    {
+      "id": "desenho-e-decisao",
+      "between": [
+        "moodle-resource-6601122",
+        "moodle-resource-6601124"
+      ],
+      "type": "context",
+      "text": "Eichengreen explica por que a promessa ouro-dólar era frágil e por que se manteve o ouro no desenho. Frieden explica por que o governo americano preferiu abandoná-la a impor austeridade. São níveis de explicação que podem ser combinados; a centralidade distinta não prova que um negue os mecanismos do outro.",
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "The crossover point where the foreign currency obligations of the United"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "Understandably, this excess of foreign dollar holdings over US monetary gold"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 12,
+          "quote": "It was a way of imposing discipline on the key currency country at"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 11,
+          "quote": "US legislators, by passing the Thomas"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 17,
+          "quote": "the new system. It was seen as disciplining the policies of countries, like the"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Bancos, empresas e investidores que perderiam com as alterações no"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        }
+      ]
+    }
+  ],
+  "mechanism_matrix": {
+    "interpretation": true,
+    "rows": [
+      {
+        "mechanism": "Ouro, liquidez e confiança",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6601122",
+            "kind": "cause",
+            "explanation": "Triffin nasce do papel residual do ouro.",
+            "refs": [
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 3,
+                "quote": "This residual role of gold was what gave rise to the Triffin Dilemma, the"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 17,
+                "quote": "Predictably this gave rise to what was variously called the Triffin"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601124",
+            "kind": "transmitter",
+            "explanation": "Conversões transformam a perda de confiança em saída de ouro; a explicação final é política.",
+            "refs": [
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 7,
+                "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "Os Estados Unidos impuseram controles de"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "autorizaram um mercado privado a tomar conta do"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601125",
+            "kind": "other",
+            "explanation": "Triffin é hipótese plausível, sem primazia causal necessária.",
+            "refs": [
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 10,
+                "quote": "Under Bretton Woods, the supply of US dollars"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 10,
+                "quote": "the amount of gold was"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 10,
+                "quote": "Triffin’s views were somewhat plausible, but not necessarily the reason"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 10,
+                "quote": "Ultimately, the Bretton Woods system was simply unworkable."
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 11,
+                "quote": "Accelerating inflation in the United States"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Custo político do ajuste",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6601122",
+            "kind": "political_economy",
+            "explanation": "O vínculo também foi escolhido como disciplina e credibilidade; o autor discute a política da criação do regime.",
+            "refs": [
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 12,
+                "quote": "It was a way of imposing discipline on the key currency country at"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 11,
+                "quote": "US legislators, by passing the Thomas"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 17,
+                "quote": "the new system. It was seen as disciplining the policies of countries, like the"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601124",
+            "kind": "political_economy",
+            "explanation": "Eleitores e grupos domésticos pesam na recusa de recessão e juros altos.",
+            "refs": [
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 8,
+                "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 9,
+                "quote": "Para um governo, a importância relativa da estabilidade cambial e da"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 9,
+                "quote": "internacional correspondia a menos de 10% da economia"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 2,
+                "quote": "Nixon atribuía sua derrota para John F. Kennedy nas eleições presidenciais"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601125",
+            "kind": "political_economy",
+            "explanation": "Deficitários e superavitários resistem ao ajuste e o FMI não os obriga.",
+            "refs": [
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 6,
+                "quote": "Associated austerity was postponed for as long as possible until the reserve"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 7,
+                "quote": "Without the political will to adjust, the Bretton Woods system was unable to"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 10,
+                "quote": "Exchange"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "mechanism": "Mobilidade de capitais e pressão sobre reservas",
+        "classifications": [
+          {
+            "resource_id": "moodle-resource-6601122",
+            "kind": "transmitter",
+            "explanation": "Corridas de conversão e medidas ad hoc explicitam a fragilidade.",
+            "refs": [
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 15,
+                "quote": "market price of gold in London up to $40, significantly above the"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 15,
+                "quote": "replenishing their gold stocks outside the pool"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 16,
+                "quote": "into gold for official foreign holders in August 1971"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 15,
+                "quote": "What the left hand gave, the right hand"
+              },
+              {
+                "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+                "pdf_page": 15,
+                "quote": "Special Drawing Rights, was reached in 1968 but activated"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601124",
+            "kind": "transmitter",
+            "explanation": "Finanças reativadas limitam a autonomia monetária.",
+            "refs": [
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 5,
+                "quote": "quase não havia fluxos monetários de curto prazo; em parte devido ao"
+              },
+              {
+                "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+                "pdf_page": 6,
+                "quote": "anos 1970, o sistema financeiro global possuía cerca de US$165 bilhões e"
+              }
+            ]
+          },
+          {
+            "resource_id": "moodle-resource-6601125",
+            "kind": "transmitter",
+            "explanation": "Eurodólares e especulação corroem os controles.",
+            "refs": [
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 9,
+                "quote": "As time passed, the capital controls that gave nations some breathing"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 9,
+                "quote": "Agents attempted to speculate on the dollar by withdrawing their funds"
+              },
+              {
+                "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+                "pdf_page": 11,
+                "quote": "Capital flows were limited with capital controls"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "name": "Estados Unidos, agosto de 1971",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6601122",
+          "text": "Suspender a conversibilidade encerra o sistema ouro-dólar depois de remendos insuficientes.",
+          "refs": [
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 15,
+              "quote": "This agreement was then formalized as the Gold Pool in November 1961."
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 16,
+              "quote": "devaluation, the Gold Pool hemorrhaged gold"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 16,
+              "quote": "A leading source of this fragility was the monetary role of gold."
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 17,
+              "quote": "Predictably this gave rise to what was variously called the Triffin"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6601124",
+          "text": "Nixon recusa os custos domésticos de sustentar a paridade e fecha a janela do ouro.",
+          "refs": [
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 8,
+              "quote": "Não havia ouro suficiente no planeta – muito menos nos Estados"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 8,
+              "quote": "Caso o FED aumentasse a taxa de juros em dois ou três pontos percentuais,"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 8,
+              "quote": "Nenhuma das medidas foi aceita pelo governo Nixon durante a corrida"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 4,
+              "quote": "internacionais, e, em 15 de agosto de 1971, Richard Nixon retirou o dólar"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 4,
+              "quote": "impacto da desvalorização impondo uma taxa de 10% sobre as importações"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 4,
+              "quote": "Woods, em 1973 a administração Nixon, mais uma vez, desvalorizou o"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6601125",
+          "text": "A decisão americana revela a inviabilidade de fazer cumprir o ajuste.",
+          "refs": [
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 9,
+              "quote": "German policymakers complained of the imported"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 10,
+              "quote": "The long-expected dollar devaluation came on August 15, 1971, a Sunday"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 10,
+              "quote": "A futile attempt in 1972 to stabilize exchange"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 10,
+              "quote": "A new era of"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 10,
+              "quote": "Triffin’s views were somewhat plausible, but not necessarily the reason"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 10,
+              "quote": "Ultimately, the Bretton Woods system was simply unworkable."
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 11,
+              "quote": "Accelerating inflation in the United States"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "França e cooperação monetária",
+      "readings": [
+        {
+          "resource_id": "moodle-resource-6601122",
+          "text": "A tradição e a credibilidade do ouro ajudam a explicar a adesão francesa ao desenho; membros do Gold Pool também convertiam dólares fora do acordo.",
+          "refs": [
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 11,
+              "quote": "eliminated the international monetary role of gold"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 11,
+              "quote": "in order to enlist the support of countries like France"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 12,
+              "quote": "It was a way of imposing discipline on the key currency country at"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 13,
+              "quote": "of the influence of the historical role of gold in shaping and limiting the"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 15,
+              "quote": "What the left hand gave, the right hand"
+            },
+            {
+              "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+              "pdf_page": 15,
+              "quote": "Special Drawing Rights, was reached in 1968 but activated"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6601124",
+          "text": "As conversões e a crítica francesa ao privilégio americano pressionam os EUA.",
+          "refs": [
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 7,
+              "quote": "ouro. De 1961 a 1968, investidores e governos estrangeiros trocaram US$7"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 8,
+              "quote": "Os Estados Unidos impuseram controles de"
+            },
+            {
+              "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+              "pdf_page": 8,
+              "quote": "autorizaram um mercado privado a tomar conta do"
+            }
+          ]
+        },
+        {
+          "resource_id": "moodle-resource-6601125",
+          "text": "A França contesta a garantia e não aceita ser avalista final dos déficits.",
+          "refs": [
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 8,
+              "quote": "By the early 1960s, French president Charles De Gaulle, backed by"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 9,
+              "quote": "The arrangement"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 9,
+              "quote": "Out of the reach of US authorities, this market yielded a (higher)"
+            },
+            {
+              "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+              "pdf_page": 9,
+              "quote": "French and American"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context_differences": [
+    {
+      "text": "O contrafactual de Eichengreen compara o sistema com e sem ouro. Frieden reconstrói preferências e decisões políticas; comparar esses métodos exige separar fragilidade estrutural da decisão que a resolve.",
+      "works": [
+        "moodle-resource-6601122",
+        "moodle-resource-6601124"
+      ],
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "Convertibility of national currencies like the dollar into gold at a fixed"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "change in the level or composition of the international reserves"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 4,
+          "quote": "resemblance to the Bretton Woods system that preceded it"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 8,
+          "quote": "razões políticas, não técnicas. O sistema ouro-dólar era politicamente"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "Bancos, empresas e investidores que perderiam com as alterações no"
+        },
+        {
+          "file_id": "79744ea647b66892021e1340191fd94ff427d3464f6c18984f29359be511dd05",
+          "pdf_page": 9,
+          "quote": "internacional correspondia a menos de 10% da economia"
+        }
+      ]
+    },
+    {
+      "text": "As datas de cruzamento de passivos e ouro não são medidas idênticas: Eichengreen distingue passivos totais e oficiais em sua entrada; Meissner fala em entidades oficiais. Não transformar datas distintas em contradição empírica sem harmonizar o denominador.",
+      "works": [
+        "moodle-resource-6601122",
+        "moodle-resource-6601125"
+      ],
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 3,
+          "quote": "The crossover point where the foreign currency obligations of the United"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 4,
+          "quote": "In 1948, the United States held about"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "Around 1963, US liabilities payable to official foreign entities,"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 7,
+          "quote": "The Bretton Woods system was analogous to a bank operating on the"
+        }
+      ]
+    },
+    {
+      "text": "Os capítulos distinguem a suspensão da conversibilidade em 1971 da passagem ao câmbio flutuante em 1973. No caderno, há diferença de data para Smithsonian: Eichengreen registra dezembro de 1971 e Meissner refere-se a uma tentativa em 1972. O roteiro não depende de resolver essa diferença.",
+      "works": [
+        "moodle-resource-6601122",
+        "moodle-resource-6601125"
+      ],
+      "refs": [
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 14,
+          "quote": "In the aftermath of World War II the dollar shortage was acute, reflecting"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 14,
+          "quote": "American gold holdings then began falling more rapidly in the 1960s, as"
+        },
+        {
+          "file_id": "3dca9be92e30de7f2ebc6957a4ce9138c3daeb5f3e93a36fd878bed3988c8115",
+          "pdf_page": 15,
+          "quote": "Eight central banks, including the Federal Reserve, committed to buying and"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "A futile attempt in 1972 to stabilize exchange"
+        },
+        {
+          "file_id": "6151f708c521b5dcf541766c4102cccc11c6232f824d3a881fbbde449ae280bb",
+          "pdf_page": 10,
+          "quote": "countries would eventually manage to re-peg their exchange rates with each"
+        }
+      ]
+    }
+  ],
+  "verdict_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Qualificar a tese: o ouro criou uma tensão estrutural importante, mas o desfecho exige explicar quem aceitaria o ajuste e por que os EUA o recusaram.",
+        "basis": [
+          "position:moodle-resource-6601122",
+          "position:moodle-resource-6601124",
+          "position:moodle-resource-6601125"
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Reconstruir Triffin: demanda por reservas → expansão de dólares → deterioração da confiança na conversão em ouro.",
+        "basis": [
+          "position:moodle-resource-6601122"
+        ]
+      },
+      {
+        "text": "Mostrar a relevância do desenho com o argumento de Eichengreen de que parte dos arranjos sobreviveu à retirada do ouro.",
+        "basis": [
+          "position:moodle-resource-6601122"
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Confrontar a primazia do ouro com Meissner: o ajuste fracassou também pela resistência de países deficitários e superavitários.",
+        "basis": [
+          "relation:peso-do-ouro",
+          "relation:ajuste-e-politica"
+        ]
+      },
+      {
+        "text": "Usar Nixon como teste: juros e austeridade poderiam defender o dólar, mas seus custos domésticos foram recusados. Isso explica a decisão sem apagar a restrição estrutural.",
+        "basis": [
+          "position:moodle-resource-6601124",
+          "relation:desenho-e-decisao"
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir em três níveis: desenho vulnerável, transmissão financeira e decisão política. A afirmação de causa única é mais forte que a síntese permitida pelas três leituras.",
+        "basis": [
+          "position:moodle-resource-6601122",
+          "position:moodle-resource-6601124",
+          "position:moodle-resource-6601125"
+        ]
+      }
+    ]
+  }
+}

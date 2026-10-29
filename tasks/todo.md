@@ -100,14 +100,16 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Dependências: 11. Arquivos: `scripts/atlas.py`, `tests/atlas/test_atlas.py` (escopo pequeno).
 
 ## 14. Piloto — fim de Bretton Woods
-- [ ] Escrever as posições de Eichengreen, Frieden e Meissner, relações fundamentadas, matriz de mecanismos, casos e diferenças de contexto.
-- [ ] Montar roteiro que avalie a tese sobre ouro e Triffin, confrontando-a com custos políticos e inviabilidade do ajuste, com conclusão marcada como interpretação.
+- [x] Escrever as posições de Eichengreen, Frieden e Meissner, relações fundamentadas, matriz de mecanismos, casos e diferenças de contexto.
+- [x] Montar roteiro que avalie a tese sobre ouro e Triffin, confrontando-a com custos políticos e inviabilidade do ajuste, com conclusão marcada como interpretação.
 - Verificação: executar os dois comandos do atlas da especificação; aceitar apenas pendências de cobertura das leituras ainda não escritas. Conferir manualmente as referências de uma convergência e uma divergência e registrar o teste de suficiência.
 - Dependências: 13. Arquivos: `data/atlas/fim-bretton-woods.json`, `tasks/todo.md` (escopo pequeno).
 
 ## Checkpoint do piloto do atlas
-- [ ] Nenhum erro estrutural no piloto; leituras descobertas explicitadas no relatório.
-- [ ] Resposta sobre desenho, política e ajuste montável só com o piloto e o caderno.
+- [x] Nenhum erro estrutural no piloto; leituras descobertas explicitadas no relatório.
+- [x] Resposta sobre desenho, política e ajuste montável só com o piloto e o caderno.
+
+- Resultado do piloto: nenhuma referência ou estrutura inválida; 3 de 14 leituras cobertas, 11 ainda pendentes. Roteiro suficiente: Triffin cria a tensão, as finanças transmitem a perda de confiança e a recusa do ajuste decide o desfecho. A diferença Eichengreen–Meissner é de primazia causal; a aproximação Frieden–Meissner é a resistência ao ajuste. Conferidas as referências das relações `peso-do-ouro` e `ajuste-e-politica`; revisão feita pelo agente, não presumida como revisão do usuário.
 
 ## 15. Guerra e crescimento europeu
 - [ ] Escrever `guerra-e-mobilizacao` como verbete de Harrison, sem comparação fictícia entre autores.
