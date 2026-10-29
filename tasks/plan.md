@@ -196,4 +196,4 @@ O protótipo vem antes de qualquer mudança em `web/style.css`. Ele é uma pági
 
 ## Resultado da edição editorial
 
-Caderno, Atlas, Praticar, Busca, Sumário e Originais recompostos com tipografia embutida. 92 testes e as 17 verificações do roteiro de navegador passaram nas 55 páginas. Não há rolagem horizontal nas 56 rotas em 320, 768, 1024 e 1440 px, e o menor contraste de texto é 6,4:1. Desvios e capturas estão em [SPEC-editorial.md](../SPEC-editorial.md) e [docs/html-revisao.md](../docs/html-revisao.md). A aprovação visual do usuário continua pendente.
+Caderno, Atlas, Praticar, Busca, Sumário e Originais recompostos com tipografia embutida. 92 testes e as 17 verificações do roteiro de navegador passaram nas 55 páginas. Não há rolagem horizontal nas 56 rotas em 320, 768, 1024 e 1440 px, e o menor contraste de texto é 6,4:1. Desvios e capturas estão em [SPEC-editorial.md](../SPEC-editorial.md) e [docs/html-revisao.md](../docs/html-revisao.md). Resultado aprovado pelo usuário em 29/10/2026.

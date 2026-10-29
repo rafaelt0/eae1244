@@ -73,4 +73,4 @@ Recomposição visual conforme [SPEC-editorial.md](../SPEC-editorial.md). O inve
 - Contraste sobre o papel `#f6f1e6`: texto 15,4:1, secundário 6,8:1, destaque 6,9:1 e aviso 6,4:1.
 - Com o pacote aberto por `file://`, as únicas requisições são o próprio arquivo e os recursos embutidos.
 
-Capturas antes, em `.local/editorial-qa/antes/`, e depois, em `.local/editorial-qa/depois/`: Caderno, Atlas, Praticar e busca em 1440 px, Caderno, Atlas e Praticar em 390 px, e acervo em 1024 px. A aprovação visual do usuário continua pendente.
+Capturas antes, em `.local/editorial-qa/antes/`, e depois, em `.local/editorial-qa/depois/`: Caderno, Atlas, Praticar e busca em 1440 px, Caderno, Atlas e Praticar em 390 px, e acervo em 1024 px. Resultado aprovado pelo usuário em 29/10/2026.

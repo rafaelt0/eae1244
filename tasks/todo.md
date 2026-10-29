@@ -283,5 +283,5 @@ Especificação: [SPEC-editorial.md](../SPEC-editorial.md). Plano: [plan.md](pla
 
 ## 40. Texto aplicado, verificação e entrega
 - [x] Aplicar o inventário da tarefa 33; gerar, verificar e empacotar; registrar capturas antes e depois em quatro larguras; atualizar README e mapa.
-- Verificação: todas as suítes, `html.py verify`, `browser.mjs`, rede desativada e abertura por arquivo; aprovação final do usuário (pendente).
+- Verificação: todas as suítes, `html.py verify`, `browser.mjs`, rede desativada e abertura por arquivo; aprovação final do usuário, recebida em 29/10/2026.
 - Arquivos: `web/`, `docs/html-revisao.md`, `README.md`, `CAPABILITY-MAP.md`.
