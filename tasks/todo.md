@@ -142,8 +142,10 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Dependências: 17. Arquivos: `data/atlas/capital-humano-e-convergencia.json`, `tasks/todo.md` (escopo pequeno).
 
 ## 19. Conferência final do atlas
-- [ ] Rever os oito roteiros usando só atlas e caderno, documentando a suficiência e limites; revisão do usuário não será presumida.
-- [ ] Atualizar README, mapa, plano e tarefas com comandos, cobertura real e pendências dos módulos seguintes.
-- [ ] Executar as suítes de fontes, caderno e atlas e as validações reais dos recortes prioritários; conferir o diff e registrar os incrementos em commits.
+- [x] Rever os oito roteiros usando só atlas e caderno, documentando a suficiência e limites; revisão do usuário não será presumida.
+- [x] Atualizar README, mapa, plano e tarefas com comandos, cobertura real e pendências dos módulos seguintes.
+- [x] Executar as suítes de fontes, caderno e atlas e as validações reais dos recortes prioritários; conferir o diff e registrar os incrementos em commits.
 - Verificação: comandos da especificação e testes dos três módulos; fontes e caderno preservados; nenhum erro omitido do relatório.
 - Dependências: 18. Arquivos: `README.md`, `CAPABILITY-MAP.md`, `tasks/plan.md`, `tasks/todo.md` (escopo médio).
+
+- Resultado: oito temas válidos e 14/14 leituras cobertas; 61 testes passaram (23 fontes, 22 caderno, 16 atlas). As verificações reais prioritárias e a cobertura do atlas passaram. Revisão e oito testes de suficiência em `docs/atlas-revisao.md`; revisão do usuário permanece pendente.

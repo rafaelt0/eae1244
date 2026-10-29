@@ -94,3 +94,7 @@ As 14 leituras das aulas 17–28 têm entradas `complete` e passaram em `scripts
 ## Aprovação e limites
 
 Este plano não inicia `oficina` nem `html`, e não resolve as 17 entradas anteriores ainda ausentes. A aprovação do plano e das tarefas autoriza executar os incrementos do atlas em sequência; novas decisões que mudem o escopo seguem os limites da especificação.
+
+## Resultado do atlas
+
+Oito temas concluídos, com as 14 leituras prioritárias cobertas, sem erros de validação. Verificações e teste de suficiência registrados em [docs/atlas-revisao.md](../docs/atlas-revisao.md). Foram preservados os dados e o código de fontes e caderno. As 17 leituras anteriores, a oficina e o HTML seguem pendentes.

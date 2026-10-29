@@ -1,6 +1,6 @@
 # Mapa de capacidades — Guia EAE1244
 
-Status: mapa e especificações de `fontes`, `caderno` e `atlas` aprovados pelo usuário em 28/10/2026. O caderno prioritário contém 14 leituras completas; o plano do atlas aguarda revisão. Fontes e leituras anteriores ainda têm pendências em `tasks/todo.md`.
+Status: mapa e especificações de `fontes`, `caderno` e `atlas` aprovados pelo usuário em 28/10/2026. O caderno prioritário contém 14 leituras completas; o atlas está implementado com oito temas e cobertura das 14 leituras prioritárias. Fontes e leituras anteriores ainda têm pendências em `tasks/todo.md`.
 
 Direção aprovada: [caderno por aula + atlas de debates + oficina de respostas](docs/ideas/guia-eae1244.md).
 
