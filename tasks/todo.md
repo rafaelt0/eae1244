@@ -238,3 +238,50 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Verificação: testes, validadores e evidências reais; pendências anteriores explícitas.
 
 - Resultado: pacote e HTML em `dist/`; 91 testes e 17 verificações de interação passaram. As 55 páginas de conteúdo, os 44 originais e o uso offline foram conferidos. Evidências em `docs/html-revisao.md`. Os 17 resumos anteriores permanecem pendentes.
+
+---
+
+# Tarefas — edição editorial
+
+Especificação: [SPEC-editorial.md](../SPEC-editorial.md). Plano: [plan.md](plan.md).
+
+## 33. Inventário do texto de interface
+- [x] Listar cada string de `web/index.html` e `web/app.js` com a decisão (manter, reescrever ou remover) e a nova redação; marcar os textos de garantia.
+- Verificação: nenhuma string de interface sem decisão; nenhum texto de `data/` no inventário. Revisão do usuário.
+- Arquivos: `docs/editorial-copy.md`.
+
+## 34. Fontes incorporadas
+- [x] Baixar os WOFF2 latinos de Source Serif 4 (regular, itálico, semibold) e o `OFL.txt`; incorporar em base64 pelo gerador.
+- Verificação: teste falhando e depois passando para fonte embutida, ausência de `url(http` e limite de 4 MiB; frase com diacríticos renderizada no navegador sem requisição externa.
+- Arquivos: `web/fonts/`, `scripts/html.py`, `tests/html/test_html.py`.
+
+## 35. Protótipo editorial
+- [ ] skip: execução contínua pedida pelo usuário; direção única aplicada e registrada na especificação.
+- [ ] Compor a leitura de Harrison (aula 17) em duas ou três direções, com as duas cores de destaque, em 1440 e 390 px.
+- Verificação: capturas lado a lado; o usuário escolhe a direção e a cor.
+- Arquivos: `.local/prototipos/` (fora do Git). Não criados.
+
+## 36. Base tipográfica e sumário
+- [x] Tokens de cor, escala tipográfica, ornamentos e foco; sumário lateral de livro e sobreposição no celular.
+- Verificação: contraste AA medido nos tokens; teclado no sumário; quatro larguras; `browser.mjs` passa.
+- Arquivos: `web/style.css`, `web/index.html`, `web/app.js`, `tests/html/browser.mjs`.
+
+## 37. Caderno como página de leitura
+- [x] Cabeço corrido, abertura com autor em versaletes e linha fina, parágrafos numerados, notas de margem a partir de 1024 px e recolhíveis abaixo, e remissão "Ver também".
+- Verificação: as 31 leituras renderizam, incluindo as pendentes; as evidências abrem por teclado; capturas para revisão do usuário.
+- Arquivos: `web/style.css`, `web/app.js`, `tests/html/browser.mjs`.
+
+## 38. Atlas como comparação impressa
+- [x] Epígrafe, posições em colunas paralelas, matriz como tabela impressa e lista abaixo de 1024 px, e roteiro como apêndice.
+- Verificação: oito temas; classificações legíveis sem cor; "Não tratado no material usado" preservado; sem rolagem horizontal em 320 px.
+- Arquivos: `web/style.css`, `web/app.js`, `tests/html/browser.mjs`.
+
+## 39. Praticar, Busca e Originais
+- [x] Folha de prova com apêndices recolhidos, índice remissivo agrupado por tipo e bibliografia dos originais.
+- Verificação: rascunho, armazenamento bloqueado, download, revelação voluntária, busca sem acento e 44 originais, todos no `browser.mjs`.
+- Arquivos: `web/style.css`, `web/app.js`, `tests/html/browser.mjs`.
+
+## 40. Texto aplicado, verificação e entrega
+- [x] Aplicar o inventário da tarefa 33; gerar, verificar e empacotar; registrar capturas antes e depois em quatro larguras; atualizar README e mapa.
+- Verificação: todas as suítes, `html.py verify`, `browser.mjs`, rede desativada e abertura por arquivo; aprovação final do usuário (pendente).
+- Arquivos: `web/`, `docs/html-revisao.md`, `README.md`, `CAPABILITY-MAP.md`.
