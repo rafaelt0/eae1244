@@ -3,6 +3,7 @@ import importlib.util
 import json
 from pathlib import Path
 import tempfile
+from unittest.mock import patch
 import unittest
 import zipfile
 
@@ -41,6 +42,29 @@ class PackageTests(unittest.TestCase):
         with zipfile.ZipFile(self.output.with_suffix('.zip')) as archive:
             self.assertIn('guide/index.html', archive.namelist())
             self.assertEqual(archive.read('guide/originais/work.pdf'), self.original['source'].read_bytes())
+
+    def test_template_like_text_in_data_remains_literal(self):
+        self.build(data={'text': '/*APP*/ /*STYLE*/ /*DATA*/'})
+        self.assertIn('/*APP*/ /*STYLE*/ /*DATA*/', (self.output / 'index.html').read_text())
+        self.assertEqual(guide.verify_package(self.output), [])
+
+    def test_publish_failure_restores_both_previous_outputs(self):
+        self.build()
+        previous_html = (self.output / 'index.html').read_bytes()
+        previous_zip = self.output.with_suffix('.zip').read_bytes()
+        replace = guide.os.replace
+        count = 0
+        def fail_once(source, target):
+            nonlocal count
+            count += 1
+            if count == 4:
+                raise OSError('Simulated publication failure')
+            return replace(source, target)
+        with patch.object(guide.os, 'replace', fail_once), self.assertRaises(OSError):
+            self.build(data={'new': 'content'})
+        self.assertEqual((self.output / 'index.html').read_bytes(), previous_html)
+        self.assertEqual(self.output.with_suffix('.zip').read_bytes(), previous_zip)
+        self.assertEqual(guide.verify_package(self.output), [])
 
     def test_source_hash_mismatch_does_not_replace_existing_package(self):
         self.build()

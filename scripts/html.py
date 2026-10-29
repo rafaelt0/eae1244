@@ -120,10 +120,12 @@ def build_package(root, output, data, originals):
         folder.mkdir()
         encoded = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
         html = (root / 'web/index.html').read_text(encoding='utf-8')
-        for token, content in [('/*STYLE*/', (root / 'web/style.css').read_text()), ('/*DATA*/', encoded), ('/*APP*/', (root / 'web/app.js').read_text())]:
-            if html.count(token) != 1:
-                raise ValueError('Marcador ausente ou repetido no template: ' + token)
-            html = html.replace(token, content)
+        assets = {'STYLE': (root / 'web/style.css').read_text(), 'DATA': encoded,
+                  'APP': (root / 'web/app.js').read_text()}
+        for name in assets:
+            if html.count('/*' + name + '*/') != 1:
+                raise ValueError('Marcador ausente ou repetido no template: ' + name)
+        html = re.sub(r'/\*(STYLE|DATA|APP)\*/', lambda match: assets[match[1]], html)
         if len(html.encode('utf-8')) > MAX_HTML:
             raise ValueError('HTML ultrapassa 4 MiB.')
         (folder / 'index.html').write_text(html, encoding='utf-8')
