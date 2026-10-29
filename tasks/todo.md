@@ -188,7 +188,7 @@ Especificação aprovada em 29/10/2026; execução incremental solicitada pelo u
 - Dependências: 23. Arquivos: quatro JSON em `data/oficina/`, tarefas.
 
 ## 25. Capital humano e convergência
-- [ ] Escrever os dois exercícios finais e completar cobertura dos oito temas e 14 leituras.
+- [x] Escrever os dois exercícios finais e completar cobertura dos oito temas e 14 leituras.
 - Verificação: `validate` e `coverage` com código 0; correlação e cenários não apresentados como causalidade ou observação atual.
 - Dependências: 24. Arquivos: dois JSON em `data/oficina/`, tarefas.
 

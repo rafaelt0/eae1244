@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "exercise_id": "capital-humano-e-convergencia-independent",
+  "debate_id": "capital-humano-e-convergencia",
+  "mode": "independent",
+  "title": "As soluções de uma fase servem à seguinte?",
+  "prompt": "Instituições e políticas que favoreceram o crescimento numa fase garantem a continuidade da convergência. Avalie a afirmação comparando a Europa estudada por Crafts e Toniolo e por Crafts com a mudança das fontes de crescimento chinês discutida por Li e coautores. Diferencie resultado histórico e projeção.",
+  "lessons": [
+    20,
+    24,
+    28
+  ],
+  "works": [
+    "moodle-resource-6601131",
+    "moodle-resource-6614388",
+    "moodle-resource-6614397"
+  ],
+  "skills": [
+    "assess_thesis",
+    "compare_authors",
+    "compare_cases",
+    "classify_mechanisms"
+  ],
+  "planning_prompts": [],
+  "answer_outline": {
+    "interpretation": true,
+    "thesis": [
+      {
+        "text": "Rejeitar a garantia: fontes transitórias se esgotam e a adequação institucional pode mudar quando tecnologia e estrutura econômica mudam.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "relations",
+            "item": "capacidade-social"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          }
+        ]
+      }
+    ],
+    "arguments_for": [
+      {
+        "text": "Reconhecer que capacidade social e incentivos contribuíram para o catch-up europeu; uma instituição bem-sucedida precisa ser avaliada em sua fase.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6601131"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "relations",
+            "item": "capacidade-social"
+          }
+        ]
+      }
+    ],
+    "counterarguments": [
+      {
+        "text": "Comparar a adaptação europeia à TIC com o esgotamento chinês de ganhos demográficos e de realocação, sem igualar seus mecanismos.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6601131",
+            "section": "argument",
+            "item": 13
+          },
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614397",
+            "section": "argument",
+            "item": 9
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          }
+        ]
+      },
+      {
+        "text": "Explicar que o cenário de Li publicado em 2017 não é uma observação de 2035 nem um diagnóstico atualizado de 2026.",
+        "basis": [
+          {
+            "module": "caderno",
+            "entry_id": "moodle-resource-6614388",
+            "section": "argument",
+            "item": 9
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "text": "Concluir que convergência sustentada exige investigar novas restrições e capacidades; êxito anterior e projeção não garantem continuidade.",
+        "basis": [
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6601131"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614397"
+          },
+          {
+            "module": "atlas",
+            "entry_id": "capital-humano-e-convergencia",
+            "section": "positions",
+            "item": "moodle-resource-6614388"
+          }
+        ]
+      }
+    ]
+  },
+  "worked_paragraph": {
+    "interpretation": true,
+    "text": "O êxito anterior de um arranjo institucional não garante sua adequação à fase seguinte. Crafts e Toniolo discutem oportunidades de catch-up e incentivos que sustentaram o crescimento europeu, enquanto Crafts examina dificuldades de adaptação à TIC. Li e coautores abordam outra mudança: menor contribuição de demografia e realocação aumenta a importância do capital humano na trajetória chinesa. A comparação é útil porque questiona a extrapolação automática de taxas passadas, sem supor que Europa e China enfrentem a mesma restrição. Também há uma diferença de evidência: a trajetória europeia é uma análise histórica; a renda chinesa futura depende de hipóteses do cenário publicado em 2017. Uma conclusão fundamentada precisa distinguir esses exercícios antes de julgar a persistência da convergência.",
+    "basis": [
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "positions",
+        "item": "moodle-resource-6601131"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6601131",
+        "section": "argument",
+        "item": 13
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614397",
+        "section": "argument",
+        "item": 9
+      },
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "positions",
+        "item": "moodle-resource-6614397"
+      },
+      {
+        "module": "atlas",
+        "entry_id": "capital-humano-e-convergencia",
+        "section": "positions",
+        "item": "moodle-resource-6614388"
+      },
+      {
+        "module": "caderno",
+        "entry_id": "moodle-resource-6614388",
+        "section": "argument",
+        "item": 9
+      }
+    ],
+    "commentary": "O parágrafo compara mudanças de fase, especifica mecanismos distintos e usa a diferença entre história e cenário para limitar a extrapolação."
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Concluir que o problema europeu de TIC e o demográfico chinês são o mesmo mecanismo.",
+      "revision": "Explicar a restrição específica de cada caso antes de formular a aproximação.",
+      "basis": [
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614397",
+          "section": "argument",
+          "item": 9
+        },
+        {
+          "module": "atlas",
+          "entry_id": "capital-humano-e-convergencia",
+          "section": "positions",
+          "item": "moodle-resource-6614388"
+        }
+      ]
+    },
+    {
+      "mistake": "Apresentar a projeção chinesa como renda observada ou previsão atualizada.",
+      "revision": "Indicar seu ano de publicação e as hipóteses do cenário, sem atualizar números por conta própria.",
+      "basis": [
+        {
+          "module": "atlas",
+          "entry_id": "capital-humano-e-convergencia",
+          "section": "positions",
+          "item": "moodle-resource-6614388"
+        },
+        {
+          "module": "caderno",
+          "entry_id": "moodle-resource-6614388",
+          "section": "argument",
+          "item": 9
+        }
+      ]
+    }
+  ],
+  "self_review": [
+    {
+      "criterion": "task",
+      "question": "Avaliei se êxito numa fase garante continuidade?"
+    },
+    {
+      "criterion": "thesis",
+      "question": "Minha tese identifica mudança de restrições e adequação institucional?"
+    },
+    {
+      "criterion": "source_fidelity",
+      "question": "Diferenciei o capítulo europeu, a análise dos anos 1990 e o artigo sobre a China?"
+    },
+    {
+      "criterion": "reasoning",
+      "question": "Comparei os mecanismos sem tratá-los como idênticos?"
+    },
+    {
+      "criterion": "evidence",
+      "question": "Usei TIC, demografia ou realocação como evidência concreta?"
+    },
+    {
+      "criterion": "qualification",
+      "question": "Separei resultado histórico de cenário condicionado?"
+    }
+  ]
+}
