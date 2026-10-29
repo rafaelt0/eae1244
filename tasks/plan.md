@@ -98,3 +98,35 @@ Este plano não inicia `oficina` nem `html`, e não resolve as 17 entradas anter
 ## Resultado do atlas
 
 Oito temas concluídos, com as 14 leituras prioritárias cobertas, sem erros de validação. Verificações e teste de suficiência registrados em [docs/atlas-revisao.md](../docs/atlas-revisao.md). Foram preservados os dados e o código de fontes e caderno. As 17 leituras anteriores, a oficina e o HTML seguem pendentes.
+
+---
+
+# Plano de execução — oficina
+
+Especificação: [SPEC-oficina.md](../SPEC-oficina.md), aprovada em 29/10/2026 com solicitação de implementação incremental. Este plano detalha essa execução sem alterar o formato aprovado. As tarefas anteriores permanecem registradas.
+
+## Decisões e dependências
+
+- Biblioteca padrão Python; reutilizar a validação do atlas e do caderno e seus dados, sem modificá-los.
+- Validar o contrato com fixtures sintéticas antes de escrever o piloto. Alvos do atlas resolvem por IDs; índices do caderno são inteiros não negativos e precisam existir.
+- Calcular cobertura somente a partir de exercícios válidos e obras usadas nas bases de roteiro/parágrafo. Exigir um exercício por modo por tema.
+- Escrever cada par como incremento verificável. O piloto de Bretton Woods prova o fluxo; os demais seguem a ordem das aulas.
+- Roteiros e parágrafos serão escritos para cada enunciado. Não gerar variações de exercícios por substituição automática de frases.
+- O modo guiado inclui planejamento; o autônomo traz um problema diferente e mantém roteiro separado. A interface e persistência das tentativas pertencem ao HTML.
+- Execução sequencial, com testes, conferência e commit por incremento. Sem dependências novas nem delegação.
+
+## Ordem e verificação
+
+1. Tarefa 20: validador, resolução de bases e cobertura, com testes de referência incorreta e falsa cobertura.
+2. Tarefa 21: par de Bretton Woods; conferir se cada pergunta admite uma resposta sustentada e se os parágrafos mostram a ligação entre os argumentos.
+3. Checkpoint: piloto estruturalmente válido, demais temas explicitamente pendentes.
+4. Tarefa 22: guerra e Era de Ouro; preservar a comparação entre países em Harrison e seu papel contextual no crescimento europeu.
+5. Tarefa 23: planejamento e industrialização; preservar a divergência Allen–Eichengreen e os ganhos latino-americanos.
+6. Checkpoint: conferir amostra de base de relação do atlas e de item indexado do caderno.
+7. Tarefa 24: dívida e finanças; distinguir choque, exposição, transmissão e política de reformas.
+8. Tarefa 25: capital humano e convergência; distinguir correlação, causa e cenário.
+9. Tarefa 26: revisar as 16 respostas em tópicos, validar os dados reais e documentar comandos e limitações. Executar as quatro suítes pertinentes e comprovar que um erro deliberado é detectado.
+
+## Riscos
+
+Referências corretas não provam que o parágrafo responde ao enunciado: conferir conteúdo manualmente. Mudanças de índices no caderno podem alterar o sentido de uma base: revisar o conteúdo, além da existência. Obras listadas sem uso não contam para cobertura. Os resultados são apoio à autoavaliação, sem notas automáticas ou alegação de gabarito único.

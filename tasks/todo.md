@@ -149,3 +149,48 @@ Especificação, plano e tarefas aprovados pelo usuário em 28/10/2026. A tarefa
 - Dependências: 18. Arquivos: `README.md`, `CAPABILITY-MAP.md`, `tasks/plan.md`, `tasks/todo.md` (escopo médio).
 
 - Resultado: oito temas válidos e 14/14 leituras cobertas; 61 testes passaram (23 fontes, 22 caderno, 16 atlas). As verificações reais prioritárias e a cobertura do atlas passaram. Revisão e oito testes de suficiência em `docs/atlas-revisao.md`; revisão do usuário permanece pendente.
+
+---
+
+# Tarefas — oficina
+
+Especificação aprovada em 29/10/2026; execução incremental solicitada pelo usuário.
+
+## 20. Validador e cobertura da oficina
+- [ ] Implementar resolução de bases, esquema e cobertura por tema, modo, habilidade e obra usada.
+- [ ] Testar índices negativos/fora de faixa, relações ausentes, dependências inválidas, duplicatas, interpretação, roteiro e critérios incompletos e falsa cobertura.
+- Verificação: `python3 -m unittest discover -s tests/oficina -p 'test_*.py' -v`; nenhuma dependência externa.
+- Dependências: 19. Arquivos: `scripts/oficina.py`, `tests/oficina/test_oficina.py`.
+
+## 21. Par piloto — Bretton Woods
+- [ ] Escrever e validar questão guiada e autônoma com roteiro, parágrafo comentado, erros frequentes e seis critérios.
+- [ ] Conferir suficiência para responder aos dois enunciados com as bases declaradas.
+- Verificação: comandos `validate` e `coverage` da especificação; somente cobertura dos outros temas pode continuar pendente.
+- Dependências: 20. Arquivos: dois JSON em `data/oficina/`, tarefas.
+
+## 22. Guerra e Era de Ouro
+- [ ] Escrever os quatro exercícios com operações e casos adequados a cada leitura.
+- Verificação: validar; conferir intensidade/eficiência e catch-up/instituições sem atribuição indevida a Harrison.
+- Dependências: 21. Arquivos: quatro JSON em `data/oficina/`, tarefas.
+
+## 23. Planejamento e industrialização
+- [ ] Escrever os quatro exercícios de comparação de mecanismos, condições e resultados.
+- Verificação: validar; conferir contrapontos e as bases de uma relação do atlas e de um argumento indexado do caderno.
+- Dependências: 22. Arquivos: quatro JSON em `data/oficina/`, tarefas.
+
+## 24. Dívida e crises financeiras
+- [ ] Escrever os quatro exercícios distinguindo episódios, hipóteses e consequências da abertura.
+- Verificação: validar e conferir que os modos guiado e autônomo pedem raciocínios diferentes.
+- Dependências: 23. Arquivos: quatro JSON em `data/oficina/`, tarefas.
+
+## 25. Capital humano e convergência
+- [ ] Escrever os dois exercícios finais e completar cobertura dos oito temas e 14 leituras.
+- Verificação: `validate` e `coverage` com código 0; correlação e cenários não apresentados como causalidade ou observação atual.
+- Dependências: 24. Arquivos: dois JSON em `data/oficina/`, tarefas.
+
+## 26. Revisar e documentar a oficina
+- [ ] Rever os 16 caminhos de resposta e registrar amostra semântica e limites.
+- [ ] Executar as suítes de fontes, caderno, atlas e oficina e as validações reais; revisar o diff e detectar um erro deliberado com os testes.
+- [ ] Atualizar documentação e registrar a entrega em commits, preservando os módulos anteriores.
+- Verificação: testes, validadores e Git sem mudanças pendentes. A revisão do usuário não será presumida.
+- Dependências: 25. Arquivos: `docs/oficina-revisao.md`, `README.md`, `CAPABILITY-MAP.md`, `SPEC-oficina.md`, tarefas.
