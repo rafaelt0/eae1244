@@ -60,6 +60,7 @@ const routes = await page.eval(async () => {
     if (view === 'atlas' && document.querySelector('h1').textContent !== item.title) failures.push(id + ': atlas');
     if (view === 'caderno' && !document.querySelector('.originals a')?.href.endsWith(item.files[0].href)) failures.push(id + ': original');
     if (view === 'caderno' && !item.summary && ![...document.querySelectorAll('.notice')].some(n => n.textContent.includes('Resumo pendente'))) failures.push(id + ': pending');
+    if (view === 'caderno' && item.summary && item.summary.status !== 'complete' && ![...document.querySelectorAll('.notice')].some(n => n.textContent.includes('ainda não revisada'))) failures.push(id + ': partial');
   }
   return {count:routes.length, failures, errors:window.__errors};
 });

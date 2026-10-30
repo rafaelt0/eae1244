@@ -136,5 +136,14 @@ class PackageTests(unittest.TestCase):
         self.assertEqual(originals, [])
 
 
+    def test_present_summaries_must_validate_even_outside_priority(self):
+        manifest = {'resources': [{'resource_id': 'r2'}]}
+        missing = [{'resource_id': 'r2', 'message': 'Entrada ausente.'}]
+        with patch.object(guide, 'validate_caderno', return_value=missing):
+            self.assertEqual(guide.load_summaries(manifest, self.root, self.root), {})
+        invalid = [{'resource_id': 'r2', 'entry': 'r2.json', 'message': 'argument[1]: trecho não encontrado na página 3.'}]
+        with patch.object(guide, 'validate_caderno', return_value=invalid), self.assertRaisesRegex(ValueError, 'r2'):
+            guide.load_summaries(manifest, self.root, self.root)
+
 if __name__ == '__main__':
     unittest.main()

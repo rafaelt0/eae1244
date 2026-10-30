@@ -117,10 +117,10 @@
   function reading(resource) {
     heading(lessons(resource.lessons),'Caderno',title(resource),resource.authors.join(' · '));
     const colophon=el('div',null,'colophon');const meta=el('details',null,'source-meta');meta.append(el('summary','Referência completa'),el('p',resource.title));colophon.append(originalLinks(resource),meta);content.append(colophon);
-    if(resource.files.some(f=>!f.reviewed)) content.append(el('p','A revisão da extração desta fonte ainda tem pendências. O original está disponível.','notice'));
     const entry=resource.summary;
+    if(resource.files.some(f=>!f.reviewed)&&entry?.status!=='partial') content.append(el('p','A revisão da extração desta fonte ainda tem pendências. O original está disponível.','notice'));
     if(!entry){content.append(el('p','Resumo pendente. A leitura está no acervo e o original pode ser aberto acima; os resumos completos cobrem as aulas 17–28.','notice'));return;}
-    if(entry.status!=='complete') content.append(el('p','Resumo parcial. Confira as ressalvas e o original.','notice'));
+    if(entry.status!=='complete') content.append(el('p',entry.depth==='short'?'Resumo curto de contexto, feito sobre extração ainda não revisada. Confira as ressalvas e o original.':'Resumo parcial, feito sobre extração ainda não revisada. Confira as ressalvas e o original.','notice'));
     content.append(el('p',entry.thesis,'lead'));
     if(entry.question){const q=el('p',null,'question');q.append(el('span','Pergunta','question-label'),document.createTextNode(entry.question));content.append(q);}
     content.append(el('p','⁂','ornament'));
@@ -263,6 +263,9 @@
     document.title=(content.querySelector('h1')?.textContent||'Guia')+' · EAE1244';
     if(focus){window.scrollTo(0,0);$('#content').focus({preventScroll:true});}
   }
+  const readingsList=data.resources.filter(r=>r.kind==='reading');
+  const tally=[[readingsList.filter(r=>r.summary?.status==='complete').length,' completas'],[readingsList.filter(r=>r.summary&&r.summary.status!=='complete').length,' curtas, com fonte em revisão'],[readingsList.filter(r=>!r.summary).length,' pendentes']].filter(([n])=>n);
+  $('#coverage').append(readingsList.length+' leituras: ');tally.forEach(([n,label],i)=>{$('#coverage').append(el('strong',String(n)),label+(i<tally.length-1?', ':'.'));});
   const nums=[...new Set(data.resources.filter(r=>r.kind==='reading').flatMap(r=>r.lessons))].sort((a,b)=>a-b);
   nums.forEach(n=>{const o=el('option','Aula '+n);o.value=n;$('#lesson').append(o);});
   $('#lesson').addEventListener('change',menu);

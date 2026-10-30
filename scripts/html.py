@@ -13,7 +13,7 @@ import tempfile
 import zipfile
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from caderno import load_entries
+from caderno import load_entries, validate_caderno
 from fontes import local_path
 from oficina import inspect_workshop
 
@@ -47,6 +47,14 @@ def embed_fonts(root, css):
     if '@import' in css:
         raise ValueError('@import não é permitido no CSS do pacote.')
     return css
+
+
+def load_summaries(manifest, directory, root):
+    invalid = [i for i in validate_caderno(manifest, directory, root, 'all') if i['message'] != 'Entrada ausente.']
+    if invalid:
+        raise ValueError('Resumo inválido: ' + invalid[0]['resource_id'] + ': ' + invalid[0]['message'])
+    return {r['resource_id']: entries[0][1] for r in manifest['resources']
+            if (entries := load_entries(directory, r['resource_id']))}
 
 
 def present_data(manifest, summaries, atlas, exercises, root):
@@ -195,8 +203,7 @@ def main(argv=None, root=None):
         if not report['ok']:
             print(json.dumps({'ok': False, 'dependencies': report}, ensure_ascii=False))
             return 1
-        summaries = {r['resource_id']: entries[0][1] for r in manifest['resources']
-                     if (entries := load_entries(dirs[0], r['resource_id']))}
+        summaries = load_summaries(manifest, dirs[0], root)
         atlas, exercises = [[json.loads(local_path(root, p).read_text()) for p in sorted(d.glob('*.json'))] for d in dirs[1:]]
         data, originals = present_data(manifest, summaries, atlas, exercises, root)
         print(json.dumps(build_package(root, output, data, originals), ensure_ascii=False))
