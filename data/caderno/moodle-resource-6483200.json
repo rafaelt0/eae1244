@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6483200",
+  "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+  "lessons": [
+    2,
+    3
+  ],
+  "authors": [
+    "Christopher M. Meissner"
+  ],
+  "title": "The Great Specialization, 1820-1914 (cap. 3 de One from the Many: The Global Economy Since 1850)",
+  "year": 2024,
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para Meissner, entre 1820 e 1914 o comércio internacional cresceu mais que a produção porque os custos de comércio caíram (vapor, ferrovia, telégrafo, liberalização tarifária, padrão-ouro e redes bancárias), produzindo uma 'Grande Especialização' segundo a vantagem comparativa. Essa especialização trouxe convergência entre as economias atlânticas, como prevê Heckscher-Ohlin, mas os dados a apoiam só em parte: houve também divergência e desindustrialização na Ásia, que a nova teoria do comércio e fatores locais ajudam a explicar.",
+  "question": "O que impulsionou o boom do comércio no século XIX, quem comerciava com quem e o quê, e por que a globalização trouxe convergência para alguns países e divergência para outros?",
+  "refs": [
+    {
+      "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+      "pdf_page": 2,
+      "quote": "Behind this great rise in international economic \"integration\" was a striking fall in the cost of trading."
+    },
+    {
+      "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+      "pdf_page": 24,
+      "quote": "The data only partially support these convergence theories."
+    },
+    {
+      "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+      "pdf_page": 30,
+      "quote": "Globalization was accompanied by strong economic growth in some countries, but other countries lagged."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Decomposição do crescimento do comércio: nos anos 1870 a queda dos custos de comércio explica 73% do crescimento do comércio mundial; depois o peso do crescimento da renda aumenta (até 50% em 1890-1900 e 63% em 1900-1910). A integração cresceu em todo o período, mas desacelerou a partir dos anos 1880.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 2,
+          "quote": "explain the majority of the growth of trade (73% to be precise)"
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 3,
+          "quote": "and 63% between 1900 and 1910, is accounted for by economic growth."
+        }
+      ]
+    },
+    {
+      "claim": "Tecnologia: o navio a vapor, as melhorias na navegação a vela, o Canal de Suez (distância Londres-Bombaim 47% menor), as ferrovias ligando portos ao interior e o telégrafo (informação em tempo real, menos risco) reduziram os custos de comércio.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 4,
+          "quote": "The oceangoing steamship was a central force driving this maritime revolution."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 7,
+          "quote": "The diffusion of the telegraph undoubtedly contributed to the global trade boom of the 19th century"
+        }
+      ]
+    },
+    {
+      "claim": "Política e moeda: a revogação das Corn Laws (1846) e o tratado Cobden-Chevalier (1860), cuja cláusula de nação mais favorecida desencadeou uma corrida de tratados, baixaram tarifas na Europa; conquista e coerção baixaram tarifas na África e na Ásia. O padrão-ouro reduziu o risco cambial e as redes bancárias centradas em Londres financiaram o comércio.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 9,
+          "quote": "Because of this clause, there was a quick rush to sign more treaties."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 9,
+          "quote": "Imperial conquest and colonization forced tariffs down in much of Africa, India, and other parts of East Asia"
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 14,
+          "quote": "This stability limited the uncertainty (and risk) about the returns to trade relationships"
+        }
+      ]
+    },
+    {
+      "claim": "Quem comercia com quem: o modelo gravitacional explica a geografia do comércio pelo tamanho econômico dos parceiros e pelos custos de comércio (distância, informação, crédito, câmbio, direito). Países pequenos são mais abertos; a Grã-Bretanha era o centro da rede e comerciava mais fora da Europa por causa do Império.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 16,
+          "quote": "the magnitude of trade depends on the economic size of the trade partners."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 17,
+          "quote": "Economic gravity is one of the most successful empirical relationships in all of economics."
+        }
+      ]
+    },
+    {
+      "claim": "O que se comercia: o caso do Japão confirma o modelo ricardiano (os termos de troca melhoraram e o ganho da abertura chegou a cerca de 8% do PIB de 1853). Heckscher-Ohlin explica a especialização das Américas em produtos primários e da Europa em manufaturas, a convergência de preços e a queda da dispersão dos salários reais entre 1854 e 1913.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 19,
+          "quote": "the value of opening up to international trade for Japan has been calculated to be on the order of 8% of 1853 GDP"
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 20,
+          "quote": "differences in relative factor endowments created opportunities for gains from international trade."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 23,
+          "quote": "strongly consistent with the idea that increased integration was a force for factor price convergence"
+        }
+      ]
+    },
+    {
+      "claim": "Limites da convergência: o hiato salarial EUA-Reino Unido fechou só 5% (Heckscher-Ohlin previa ao menos 50%), e Ásia, África e América Latina divergiram. A nova teoria do comércio (rendimentos crescentes, aglomeração) prevê divergência e ajuda a entender a desindustrialização de Índia, China e Império Otomano; o autor acrescenta fatores locais (eficiência do trabalho, capital humano, instituições e direitos de propriedade).",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 24,
+          "quote": "Instead, the wage gap closed by only 5% between 1870 and 1910."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 27,
+          "quote": "also predicts economic divergence as a result of"
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 28,
+          "quote": "Local factors also mattered a great deal for explaining economic growth during the first period of globalization."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Queda dos custos de comércio (transporte, informação, tarifas, risco cambial, crédito) como causa principal do crescimento do comércio acima da produção, sobretudo nos anos 1870.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 2,
+          "quote": "explain the majority of the growth of trade (73% to be precise)"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Canal Stolper-Samuelson: com a queda dos custos de comércio, a especialização eleva a demanda pelo fator abundante, de modo que os salários sobem nos países ricos em trabalho (Europa) e caem nos ricos em terra (Américas), fazendo o PIB per capita convergir.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 22,
+          "quote": "wages in labor-abundant nations rise relative to the returns to land-owning."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Interesses e política: a revogação das Corn Laws passou porque parte da elite agrária havia diversificado seus investimentos para a indústria; a oferta de educação dependia da economia política (sufrágio mais amplo associado a mais escolaridade; elites latino-americanas bloqueando acesso à educação).",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 8,
+          "quote": "significant fractions of the agricultural elite had insured themselves against repeal."
+        },
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 29,
+          "quote": "The supply of schooling on the other hand depends on political economy."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Revogação das Corn Laws (Grã-Bretanha)",
+      "period": "1846",
+      "outcome": "Aprovada por 327 a 229 com racha conservador; pequenos proprietários se arruinaram, trabalhadores e industriais ganharam com alimentos mais baratos, e a Grã-Bretanha se especializou em manufaturas e virou defensora do livre comércio.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 8,
+          "quote": "On May 15, 1846, 327 members of Parliament voted for repeal while 229 voted against."
+        }
+      ]
+    },
+    {
+      "name": "Tratado Cobden-Chevalier (França-Grã-Bretanha)",
+      "period": "1860 até início dos anos 1870",
+      "outcome": "Fixou o precedente da cláusula incondicional de nação mais favorecida; tratados bilaterais cobriram mais da metade dos pares de países europeus e as tarifas sobre manufaturas caíram.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 9,
+          "quote": "The Cobden-Chevalier trade treaty of 1860 between France and Great Britain was another watershed in world trade history"
+        }
+      ]
+    },
+    {
+      "name": "Abertura do Japão",
+      "period": "1853 aos anos 1870",
+      "outcome": "Forçado pela missão Perry, o Japão eliminou tarifas, passou a importar lã, combustível e grãos e a exportar seda e chá; os termos de troca quase triplicaram em seis anos.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 11,
+          "quote": "Japan largely eliminated tariffs and other prohibitions in the late 19th century."
+        }
+      ]
+    },
+    {
+      "name": "Desindustrialização da Índia e da China",
+      "period": "século XIX até o início do XX",
+      "outcome": "Indústrias locais foram dizimadas; o autor diz que ainda não está claro quanto pesaram as forças da economia aberta frente a fatores locais como o declínio mogol e o imperialismo britânico.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 28,
+          "quote": "By the beginning of the 20th century, local industries had been decimated."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Grande Especialização (Great Specialization)",
+      "definition": "Nome dado por O'Rourke e Findlay ao processo em que a queda dos custos de comércio levou cada região a se especializar segundo sua vantagem comparativa.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 2,
+          "quote": "dubbed by Kevin O'Rourke and Ronald Findlay the \"Great Specialization,\""
+        }
+      ]
+    },
+    {
+      "term": "Modelo gravitacional",
+      "definition": "O comércio bilateral cresce com o tamanho econômico dos parceiros e cai com os custos de comércio entre eles, dos quais a distância é só uma parte.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 16,
+          "quote": "This approach is called the \"gravity\" model of trade."
+        }
+      ]
+    },
+    {
+      "term": "Comércio intraindústria",
+      "definition": "Troca de produtos diferenciados da mesma indústria entre países de dotações parecidas (sedas, algodões), explicada pela nova teoria do comércio e pelo gosto por variedade; já era relevante dentro da Europa antes de 1914.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 25,
+          "quote": "This pattern of specialization was dubbed intra-industry trade"
+        }
+      ]
+    },
+    {
+      "term": "Aglomeração e efeito mercado doméstico",
+      "definition": "Com economias de escala e custos de comércio intermediários, as empresas se concentram perto dos grandes mercados e umas das outras, o que gera o 'U invertido' da concentração industrial e prevê divergência.",
+      "refs": [
+        {
+          "file_id": "e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c",
+          "pdf_page": 26,
+          "quote": "economies of scale, barriers to trade generate a desire of firms to be close to large markets and to each other."
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Texto extraído por OCR; as páginas estão legíveis, mas os gráficos saíram só como números de eixo e legendas soltas, e a tabela 3.1 (p. 25) tem colunas desalinhadas.",
+    "É um capítulo de manual que sintetiza a literatura (O'Rourke e Williamson, Jacks, Meissner e Novy, Crafts e Venables, Clark, Bernhofen e Brown); a evidência de convergência e divergência vem desses estudos, e o próprio autor deixa em aberto o peso relativo das forças externas e locais na desindustrialização indiana.",
+    "As reações políticas aos efeitos distributivos da globalização são só anunciadas no resumo final (p. 30) como tema de capítulos seguintes, que não estão neste PDF."
+  ],
+  "figures_note": [
+    "Figuras 3.1 (p. 3, exportações/PIB mundial), 3.2 (p. 4, decomposição do crescimento do comércio), 3.3 (p. 5, fretes), 3.4 e 3.5 (p. 10, tratados com cláusula MFN e tarifas asiáticas), 3.6 (p. 13, países no ouro e na prata), 3.7 (p. 17, exportações/PIB de quatro países), 3.8 (p. 18, gravidade), 3.9 (p. 21, diferencial do preço do trigo), 3.10 (p. 22, exportações primárias versus terra/trabalho), 3.11 (p. 23, dispersão dos salários reais), 3.12 (p. 26, U invertido) e 3.13 (p. 27, participação na produção industrial mundial) carregam a evidência do capítulo e só aparecem como eixos na extração; consulte o original."
+  ]
+}

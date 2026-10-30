@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6508650",
+  "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+  "lessons": [
+    4,
+    5
+  ],
+  "authors": [
+    "Barry Eichengreen"
+  ],
+  "title": "O padrão ouro (cap. 2 de A globalização do capital: uma história do sistema monetário internacional)",
+  "year": 2012,
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para Eichengreen, o padrão-ouro clássico não nasceu de um acordo internacional: surgiu de decisões nacionais condicionadas por externalidades de rede, que primeiro sustentaram o bimetalismo e, a partir da adoção alemã de 1871, empurraram os países para o ouro. O sistema não funcionava por obediência mecânica às 'regras do jogo', e sim pela credibilidade do compromisso com a conversibilidade, apoiada em condições políticas específicas (eleitorado restrito, autoridades isoladas de pressões) e na solidariedade entre bancos centrais; essas condições faltavam na periferia e já se enfraqueciam antes de 1914.",
+  "question": "Como e por que o padrão-ouro surgiu como sistema internacional depois de 1870, como de fato se ajustava o balanço de pagamentos sob ele e o que garantia (ou ameaçava) sua estabilidade?",
+  "refs": [
+    {
+      "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+      "pdf_page": 2,
+      "quote": "são exceções, e não a regra"
+    },
+    {
+      "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+      "pdf_page": 15,
+      "quote": "As externalidades em rede, que no passado haviam sustentado o bimetalismo, empurraram os paises para o ouro."
+    },
+    {
+      "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+      "pdf_page": 30,
+      "quote": "A pedra fundamental do padrão ouro no periodo anterior a guerra foi a prioridade atribuida pelos governos a manutengao da conversibilidade."
+    },
+    {
+      "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+      "pdf_page": 36,
+      "quote": "dependia da colaboragio entre bancos centrais e governos"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Origem: arranjos monetários negociados são exceção; o padrão-ouro foi um acidente histórico, ligado à adoção de fato pela Grã-Bretanha em 1717 (preço da prata fixado por Newton). Como base das operações monetárias internacionais, porém, ele só surgiu depois de 1870.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 2,
+          "quote": "Seu desenvolvimento foi um dos grandes acidentes monetarios dos tempos modernos."
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 5,
+          "quote": "Seria mais exato dizer que o padrão ouro, como base das operagdes monetarias internacionais, surgiu apos 1870."
+        }
+      ]
+    },
+    {
+      "claim": "Bimetalismo: a arbitragem entre a relação de cunhagem e a de mercado expulsava o metal subvalorizado, mas o sistema francês absorvia pequenos choques. O autor rejeita como explicações suficientes da persistência do bimetalismo a técnica de cunhagem (Redish) e o conflito agrário-industrial, e a atribui às externalidades de rede.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 6,
+          "quote": "Isso geraria incentivos a arbitragem."
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 11,
+          "quote": "as divisdes eram mais complexas do que poderiam ser"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 12,
+          "quote": "O bimetalismo foi mantido em vigor pelo tipo de externalidades em rede"
+        }
+      ]
+    },
+    {
+      "claim": "Advento: a Guerra Franco-Prussiana desfez o bloco bimetálico e a Alemanha, usando a indenização francesa, adotou o ouro. A reação em cadeia dos anos 1870 veio do interesse de cada país em ter o padrão de seus parceiros, e não da venda de prata alemã; mesmo com a deflação, a volta ao bimetalismo esbarrou em problemas de coordenação.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 14,
+          "quote": "A Alemanha fez pender a balança."
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 15,
+          "quote": "Iniciou-se, assim, uma reação em cadeia, provocada não pela liquidagio da prata pela Alemanha"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 17,
+          "quote": "era do interesse de nenhum pais, a menos que outros paises tomassem"
+        }
+      ]
+    },
+    {
+      "claim": "Funcionamento: o modelo de fluxo de moedas metálicas de Hume, e sua versão Cunliffe, explicam o ajuste por preços relativos, mas preveem fluxos de ouro muito maiores que os observados. A taxa de redesconto ajustava o crédito sem mover ouro; contudo, Bloomfield mostrou que as 'regras do jogo' eram desrespeitadas antes de 1913 tanto quanto no entreguerras.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 24,
+          "quote": "modelo de fluxo de moedas metdlicas de David Hume"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 28,
+          "quote": "o desrespeito as regras eram igualmente comuns antes de 1913"
+        }
+      ]
+    },
+    {
+      "claim": "Credibilidade e solidariedade: como o voto era restrito, os partidos operários eram incipientes e salários e preços eram flexíveis, a prioridade à conversibilidade raramente era contestada. Por isso o capital fluía de modo estabilizador e os bancos centrais podiam desviar-se das regras no curto prazo. Em crises, como a do Baring em 1890, a cooperação entre bancos centrais salvou o sistema.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 31,
+          "quote": "Na maioria dos paises, o direito ao voto era ainda limitado aos homens que possuissem propriedades"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 32,
+          "quote": "da conversibilidade em ouro gozava de credibilidade"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 36,
+          "quote": "dependia da colaboragio entre bancos centrais e governos"
+        }
+      ]
+    },
+    {
+      "claim": "Periferia e fragilidade: fora do centro europeu faltavam bancos centrais, cooperação e as condições políticas; choques de preços de commodities e reversões de capital se reforçavam, e grupos pró-inflação forçaram suspensões. O autor vê razões para duvidar que o equilíbrio durasse: o peso britânico caía, as reservas em divisas cresciam, e a ampliação do voto e as tensões entre as potências minavam a credibilidade e a solidariedade.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 40,
+          "quote": "Os resultados foram menos satisfatoérios fora do centro europeu"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 45,
+          "quote": "Ha razões para duvidar que esse equilibrio tivesse permanecido estavel"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 46,
+          "quote": "ampliação dos direitos de cidadania e o surgimento de partidos politicos operarios"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Externalidades de rede na escolha do padrão monetário: era vantajoso adotar o mesmo padrão dos parceiros comerciais e financeiros. Isso sustentou o bimetalismo enquanto o bloco existia e, depois da adoção alemã, causou a corrida ao ouro e dificultou a volta coordenada ao bimetalismo.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 12,
+          "quote": "Havia vantagens na manuten¢io dos mesmos arranjos monetarios internacionais adotados por outros paises."
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 15,
+          "quote": "As externalidades em rede, que no passado haviam sustentado o bimetalismo, empurraram os paises para o ouro."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Ajuste do balanço de pagamentos sem grandes fluxos de ouro: o banco central mexia na taxa de redesconto para contrair ou expandir o crédito, e a confiança na paridade atraía capital estabilizador quando o câmbio se enfraquecia.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 27,
+          "quote": "Através da manipulagio de sua taxa de redesconto, o banco central podia interferir no volume de crédito doméstico."
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 32,
+          "quote": "registravam-se rapidamente entradas de capital"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "A credibilidade dependia de quem tinha voz política: no centro europeu, o voto restrito isolava as autoridades; nos EUA e nos países latinos, devedores rurais, exportadores e mineradores de prata pressionavam por inflação e desvalorização, e onde prevaleceram a conversibilidade foi suspensa.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 31,
+          "quote": "Na maioria dos paises, o direito ao voto era ainda limitado aos homens que possuissem propriedades"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 44,
+          "quote": "foi a influéncia politica dos grupos que defendiam a inflação e a desvalorizagdo"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Alemanha adota o ouro",
+      "period": "1871-1873",
+      "outcome": "Com a indenização francesa de 5 bilhões de francos, acumulou ouro, cunhou o marco e vendeu prata; os vizinhos comerciais (Escandinávia, Holanda, União Monetária Latina) seguiram logo depois.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 14,
+          "quote": "A Alemanha empregou o dinheiro das reparagdes para acumular ouro"
+        }
+      ]
+    },
+    {
+      "name": "Crise do Baring",
+      "period": "1890",
+      "outcome": "O Banco da Inglaterra tomou ouro emprestado do Banco da França e obteve promessa da Rússia, o que permitiu prover liquidez sem abandonar a conversibilidade; inaugurou a cooperação recorrente (1893, 1898, 1906-07, 1909-10).",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 35,
+          "quote": "O Banco da Inglaterra tomou um empréstimo de 3 milhões de libras em ouro do Banco da Franga"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos e a questão da prata",
+      "period": "1878-1900",
+      "outcome": "As leis Bland-Allison e Sherman e a campanha de Bryan puseram em dúvida o compromisso com o ouro e provocaram fuga de capitais (crise de 1893); a dúvida só terminou com a vitória de McKinley, a alta dos preços mundiais e a Lei do Padrão Ouro de 1900.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 43,
+          "quote": "Somente com a vitéria de McKinley"
+        },
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 44,
+          "quote": "A posição do dolar foi consolidada através da aprovação da Lei do Padrao Ouro de 1900."
+        }
+      ]
+    },
+    {
+      "name": "Países 'latinos' da periferia",
+      "period": "fim do século XIX",
+      "outcome": "Argentina, Brasil, Chile, Itália e Portugal suspenderam repetidamente a conversibilidade e desvalorizaram, sob pressão de proprietários endividados, exportadores e mineradores.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 44,
+          "quote": "Isso ocorreu nos casos da Argentina, Brasil, Chile, Itilia e Portugal."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Bimetalismo",
+      "definition": "Regime em que a lei permitia cunhar e circular moedas de ouro e de prata a uma relação fixa (na França, 15,5 para 1); só se sustentava enquanto a relação de mercado ficava próxima da de cunhagem.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 5,
+          "quote": "paises praticavam o que era conhecido como padroes bimetdlicos"
+        }
+      ]
+    },
+    {
+      "term": "Externalidades de rede",
+      "definition": "Vantagem de usar o mesmo arranjo monetário dos vizinhos: simplifica o comércio, facilita empréstimos externos e evita confusão com moedas estrangeiras em circulação.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 12,
+          "quote": "Havia vantagens na manuten¢io dos mesmos arranjos monetarios internacionais adotados por outros paises."
+        }
+      ]
+    },
+    {
+      "term": "Regras do jogo",
+      "definition": "Comportamento em que o banco central reforça o efeito das perdas ou ganhos de ouro sobre a oferta de moeda; a expressão é de Keynes (1925), e os dados mostram que não era seguida rigidamente.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 27,
+          "quote": "Esse comportamento por parte dos bancos centrais veio a ser denominado \"jogar segundo as regras\""
+        }
+      ]
+    },
+    {
+      "term": "Cláusula de exceção",
+      "definition": "Possibilidade de suspender temporariamente a conversibilidade ou furar o mínimo de reservas em crises verificáveis e não causadas pelas autoridades, sem perder credibilidade em tempos normais.",
+      "refs": [
+        {
+          "file_id": "36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46",
+          "pdf_page": 39,
+          "quote": "possivel suspender a conversibilidade sob condições excepcionais sem diminuir"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Extração por OCR com muitos erros (acentos perdidos, 'ç' lido como '¢' ou 'g', palavras deformadas como 'Unido' por 'União'); as citações reproduzem o OCR literalmente. O fim da p. 4 (última linha antes das notas) está ilegível e não foi preenchido; o PDF contém só o capítulo 2 do livro.",
+    "O ano 2012 vem do nome do arquivo (edição da Editora 34), não de uma página extraída; o texto não informa a data da edição original.",
+    "A explicação por externalidades de rede é a posição do autor contra a explicação usual pela venda de prata alemã; a pergunta sobre se o sistema teria sobrevivido sem a guerra fica, nas palavras do autor, sem resposta e remetida à reconstrução dos anos 1920 (capítulo seguinte, fora deste PDF)."
+  ],
+  "figures_note": [
+    "Gráfico 2.1 (p. 5, preço do ouro em relação à prata, 1830-1902) e gráfico 2.2 (p. 16, preços britânicos no atacado, 1873-1913) só têm eixos na extração; a deflação descrita no texto deve ser vista no original.",
+    "Figura 2.3 (p. 19, estrutura do padrão-ouro internacional após 1880) saiu como lista solta de países, e a tabela 2.1 (p. 22, ativos em divisas estrangeiras 1900-13) tem números com erros de OCR; confira no original."
+  ]
+}

@@ -758,8 +758,10 @@
             "method": "pdftotext",
             "page_count": 8,
             "pages_path": ".local/fontes/paginas/9def85d973bca10210e8c14a098512a00b06e7323eeba2760b2e92d683cbefd8.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 4, 8); texto legível e na ordem. O programa está completo (8 páginas), terminando na bibliografia; o cronograma em tabela sai como linhas de texto alinhadas, e algumas palavras ficam com a hifenização de fim de linha (ex.: 'analisare-mos')."
+            ],
             "pages_sha256": "9c6d7485548addfed55dc86e6f61a66bc94fbf6dcb7c4a3ca49435657a3d094c"
           }
         }
@@ -794,8 +796,10 @@
             "method": "pdftotext",
             "page_count": 25,
             "pages_path": ".local/fontes/paginas/b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 12, 13, 25); texto legível e na ordem. O capítulo 1 (Daudin, Morys e O'Rourke) vem completo até a p. 29 do livro, mas sem a lista de referências. Gráficos chegam só como rótulos soltos de eixo (ex.: Fig. 1.3, p. 12), e há ligaduras tipográficas ('ﬁ') no texto."
+            ],
             "pages_sha256": "5d48d4246577f126f6cbc0fd0d4c95e6b7f7eba83a72a374b4c46dbb8c031693"
           }
         }
@@ -835,8 +839,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 30,
             "pages_path": ".local/fontes/paginas/e9f31bc284daebf710fa92f2ca301d10f1e67fbb947ecfc7bcc79c6db72a501c.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 10, 15, 30); texto legível e na ordem. O PDF tem a capa do livro mais o capítulo 3 de Meissner ('The Great Specialization', pp. 29–57), que termina no 'Summary'. O texto corrido do OCR está limpo, mas os gráficos (ex.: Figs. 3.4 e 3.5, p. 10) viram números e símbolos ruidosos, e a capa saiu com 'FROM TIHE'."
+            ],
             "pages_sha256": "f41ffcdb929a6ba3aca0ee6272716cf5b11cbdcc1e7aa6ead07656b2a824d250"
           }
         }
@@ -871,8 +877,10 @@
             "method": "pptx-xml",
             "page_count": 46,
             "pages_path": ".local/fontes/paginas/e53003242cb2b0df97dbe4f5a394a93ab05ef3003dd9d3545cf73d87cb86a41a.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 9, 10, 12, 16, 21, 23, 31, 32, 46); o texto dos slides está legível e na ordem. Tabelas e gráficos estão inseridos como imagem e não foram extraídos: os slides 10, 12, 16, 31 e 32 ficam vazios, e os slides 9 e 21 trazem só o título, sem os dados das tabelas. Consultar o original para os números."
+            ],
             "pages_sha256": "72229ff655d5535293f71cc910de7684457bdeb9e0ab3931cc46543c2345415b"
           }
         }
@@ -907,8 +915,10 @@
             "method": "tesseract-5.5.4",
             "page_count": 47,
             "pages_path": ".local/fontes/paginas/36eb549b6de02a2f8b2ef37b745b60e791df2222ec09512ca901fb8883f18a46.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 24, 47); texto na ordem e compreensível. O PDF é a capa mais o capítulo 2 ('O padrão ouro') de Eichengreen, completo até a p. 74 do livro. O OCR é ruidoso nos acentos e cedilhas ('padrio', 'exposi¢ao', 'cooperagao', 'entio'), então citações literais precisam ser conferidas no original."
+            ],
             "pages_sha256": "bfd1bd32c39f93d41f9efcd46e9da624d75c8f1cfcb0534a1d5c376d6af44515"
           }
         }
@@ -943,8 +953,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 56,
             "pages_path": ".local/fontes/paginas/e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 2, 20, 54); o texto do working paper de Eichengreen e Flandreau (1994) está legível e na ordem. Mapas e figuras foram extraídos como ruído ou quase nada (pp. 11, 28, 39). A p. 1 é a folha de rosto do AgEcon, as pp. 55–56 são contracapas em branco, e alguns números de nota de rodapé saíram errados (ex.: '12' no lugar de '22' na p. 20)."
+            ],
             "pages_sha256": "9527696ddf4cf155b02f47e2f547cda48cdfbadfe74370fe6ff569ade8031505"
           }
         }
@@ -979,8 +991,10 @@
             "method": "pptx-xml",
             "page_count": 53,
             "pages_path": ".local/fontes/paginas/56db22c4210180fcc5cad19e155c636410db531addf43a91fdce262251f80130.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 12–14, 27, 34, 53); texto legível, na ordem e com a numeração certa. Os slides 12–14 só têm mapas e gráfico dos padrões ouro e prata, sem texto, e a tabela do slide 34 é imagem; consultar o original para os números."
+            ],
             "pages_sha256": "b0a99729585fa1e7b32da74e63f7b1ab95389b0b29d9da37552b1be3a3c2603a"
           }
         }
@@ -1015,8 +1029,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 47,
             "pages_path": ".local/fontes/paginas/3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 2, 16, 24, 47); texto legível e na ordem (pp. 6–51 do livro de Feinstein, Temin e Toniolo). A ligadura 'fi' some com frequência ('nancial', 'con ict'), os nomes na capa saem truncados e o PDF termina na p. 51 do livro, no meio do cap. 3."
+            ],
             "pages_sha256": "761f454998cfadf41abf5eafeab388e498bc1dc85e44a0e2517bb6d3d9d28f21"
           }
         }
@@ -1051,8 +1067,10 @@
             "method": "pdftotext+tesseract-5.5.4",
             "page_count": 39,
             "pages_path": ".local/fontes/paginas/3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 2, 16, 19, 39); texto legível e na ordem, cap. 1 de Broadberry e Harrison completo (pp. 3–40, com referências). As figuras 1.4–1.6 (pp. 16 e 19) viram rótulos soltos; legendas e texto corrido estão corretos."
+            ],
             "pages_sha256": "de0c14c5a5f885d9b615501686c8840acac35e967208501892bd8ab656148f10"
           }
         }
@@ -1087,8 +1105,10 @@
             "method": "pdftotext",
             "page_count": 23,
             "pages_path": ".local/fontes/paginas/65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 2, 12, 23); texto limpo e na ordem, cap. 6 de Eloranta e Harrison completo (pp. 133–155). Ligaduras saem como caracteres Unicode ('ﬁ', 'ﬂ'); a Tabela 6.5 manteve as colunas."
+            ],
             "pages_sha256": "dbce2ef2a18a93b6eef3ffae0d692001d0c6024af68d211c038d670687d08b75"
           }
         }
@@ -1123,8 +1143,10 @@
             "method": "pptx-xml",
             "page_count": 86,
             "pages_path": ".local/fontes/paginas/8d4d2d2678e48a50685eedcc99ec1bd66487329d46df39afb6aba583b9622a59.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 43, 86, mais os vazios e curtos); texto legível e na ordem. Em 13 dos 86 slides não sai texto (5, 10, 18, 28, 35, 37, 56, 59, 60, 61, 73, 76, 80) porque são tabelas, gráficos ou fotos em imagem, e vários slides curtos (ex.: 17, 20) trazem só o título; consultar o original para os números."
+            ],
             "pages_sha256": "82b007019e064e01d703f1a7276d05f97858858cb7927b2ba8af32e143fc512d"
           }
         }
@@ -1163,8 +1185,10 @@
             "method": "pdftotext",
             "page_count": 56,
             "pages_path": ".local/fontes/paginas/547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 24, 28, 46, 56); texto legível e na ordem, cap. 3 de A Globalização do Capital completo (pp. 75–130). OCR ruidoso nos acentos ('Franga', 'padrio'), epígrafe da p. 1 corrompida, Tabela 3.1 (p. 24, girada) desalinhada e gráficos 3.4–3.5 (p. 46) ilegíveis; não citar números dessas tabelas."
+            ],
             "pages_sha256": "b3a7c1dea64a6b9d8c3cbb8ea1cb360904b4d14558dd8cb808e47e74586e1932"
           }
         }
@@ -1199,9 +1223,11 @@
             "method": "tesseract-5.5.4",
             "page_count": 25,
             "pages_path": ".local/fontes/paginas/27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0.json",
-            "review_status": "pending",
-            "review_notes": [],
-            "pages_sha256": "96337e5ca916b7203dac41c0b09badc40700dbcf685a0cd8f32637e40efd7c93"
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 9, 13, 25); OCR legível e na ordem, com ruído nas margens e cabeçalhos (pp. 8, 13, 25). As pp. 10 e 12, digitalizadas de cabeça para baixo, e a p. 14 (Tabela 21.1) foram transcritas da renderização. O PDF termina no meio do capítulo 21, na p. 607 do livro."
+            ],
+            "pages_sha256": "55a8f5cb534356124606f8f779c361ff5650f74f4d322c1d6c8977e6ff52536c"
           }
         }
       ],
@@ -1235,8 +1261,10 @@
             "method": "pdftotext",
             "page_count": 34,
             "pages_path": ".local/fontes/paginas/b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 17, 34); texto legível e na ordem. O artigo está completo (pp. 285–317, capa do JSTOR mais 33 páginas); cada página traz o rodapé repetido do JSTOR ('This content downloaded from…'), que deve ser ignorado."
+            ],
             "pages_sha256": "ace9d34f25159336dcca42a2cd6a5cf871b2ef427e1f1f0f922937923843cc04"
           }
         }
@@ -1271,8 +1299,10 @@
             "method": "pdftotext",
             "page_count": 14,
             "pages_path": ".local/fontes/paginas/847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 7, 14); texto legível e na ordem (capítulo 7, 'Unemployment', pp. 113–134, até o fim do capítulo). A ligadura 'fi' sai separada em alguns pontos ('fi rst', 'defi nitive')."
+            ],
             "pages_sha256": "55a8f672df23ad52239b119e22525e3aa9af2ffddc5c55a887b5e2829b77b681"
           }
         }
@@ -1307,8 +1337,10 @@
             "method": "pdftotext",
             "page_count": 24,
             "pages_path": ".local/fontes/paginas/47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 12, 24); texto legível e na ordem (Bernanke, JEP 2025, pp. 149–172, completo). O texto tem hífens invisíveis (U+00AD) dentro de palavras e números soltos de notas de rodapé."
+            ],
             "pages_sha256": "dcd31dc16237bc449c859412863f87bc76bb4a6ce35d09bae9b2fa0079b3cc36"
           }
         }
@@ -1343,8 +1375,10 @@
             "method": "pdftotext",
             "page_count": 28,
             "pages_path": ".local/fontes/paginas/149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 14, 23, 28); texto legível e na ordem (Eichengreen 1992, pp. 213–239, completo). Algarismos em estilo antigo foram lidos como 'I' (ex.: 'I929'), as Figuras 6 e 7 (p. 23) viraram números soltos e cada página tem o rodapé do JSTOR."
+            ],
             "pages_sha256": "80a9b887bfeab7be525156416729050cfc2ebde10b3d87c2f9bf5a66ade9d08e"
           }
         }
@@ -1379,8 +1413,10 @@
             "method": "pptx-xml",
             "page_count": 63,
             "pages_path": ".local/fontes/paginas/4bfa614de444ce55c1c5ae961a25a847e142f620ad56e7c2715262b7e2d1e686.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 32, 63, mais os slides com pouco texto); texto fiel e na ordem, 63 slides. Gráficos e tabelas inseridos como imagem não foram extraídos (slides 9, 11, 33, 35, 37, 40, 55 e 56); consultar o original para os números."
+            ],
             "pages_sha256": "8aaf662f68a880ef7f836bd0dd52ca24465b27bc9bff48d8b958fe99bf4cbc55"
           }
         }
@@ -1415,8 +1451,10 @@
             "method": "tesseract-5.5.4",
             "page_count": 7,
             "pages_path": ".local/fontes/paginas/7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 3, 4, 7); o corpo do texto é legível e está na ordem, mas o OCR é ruidoso. Cada página do PDF é uma foto de duas páginas do livro (pp. 664–677); há erros perto da dobra, a Tabela 23.2 (p. 3, girada) e a Figura 23.3 (p. 4) saíram truncadas, e o PDF termina na p. 677, no meio do Apêndice A."
+            ],
             "pages_sha256": "eebc9f64cbe7b3b77268590cf78c9a54ecf162c1ec5177fa6c80181e33380d8a"
           }
         }
@@ -1456,8 +1494,10 @@
             "method": "pdftotext",
             "page_count": 16,
             "pages_path": ".local/fontes/paginas/6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 8, 16); texto em português com camada nativa, limpo e na ordem. O rótulo fala em 'cap 9 e 10', mas o arquivo traz só o cap. 9 e termina no meio de uma frase na p. 16; o cap. 10 não está no material."
+            ],
             "pages_sha256": "4265533b50e3de66815d0b2760a72e82c5cf132f55444feaf1f083da27c7f937"
           }
         }
@@ -1492,8 +1532,10 @@
             "method": "pptx-xml",
             "page_count": 44,
             "pages_path": ".local/fontes/paginas/c85b90e99102c728628fdca9c91b03085400a8010a5b685dd1729e4532540a0c.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 22, 27, 31, 44); texto fiel aos slides, completo e na ordem. O slide 31 é só a imagem da Tabela 8.1 (políticas cambiais e recuperação nos anos 1930), sem texto extraído; a capa diz 'Aula 9', embora o arquivo seja o das aulas 11 e 12."
+            ],
             "pages_sha256": "232a529f9b80b0e0800aff9fbc81530e29deaf0e8e6777151c0a16a85ee04e2d"
           }
         }
@@ -1533,8 +1575,10 @@
             "method": "pdftotext",
             "page_count": 41,
             "pages_path": ".local/fontes/paginas/6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 20, 41); texto nativo limpo, na ordem e com a paginação do livro (pp. 92–132), capítulo 3 completo. Cabeçalhos em versalete saem com espaços no meio das palavras, há ligaduras ﬁ/ﬂ e a Figura 3.2 (p. 41) virou números soltos."
+            ],
             "pages_sha256": "5360806e0f78c1cc0b272a467a1f3b44ff86be72934cc505f01d4968bb2f35ca"
           }
         }
@@ -1574,8 +1618,10 @@
             "method": "pdftotext",
             "page_count": 36,
             "pages_path": ".local/fontes/paginas/82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (pp. 1, 18, 36); texto nativo limpo e na ordem (pp. 151–160 e 204–229 do livro; o salto é esperado). O rótulo fala em p. 150, mas o arquivo começa na p. 151, no meio de um parágrafo; termina no fim do capítulo (p. 229)."
+            ],
             "pages_sha256": "2d36d252437333c972711dcd8881d7f5b2c9f55b23576a0dc1426405b0ceac1e"
           }
         }
@@ -1610,8 +1656,10 @@
             "method": "pptx-xml",
             "page_count": 51,
             "pages_path": ".local/fontes/paginas/c5dd19c9fe43b4963396661c1e6b7a272d3a2a141f403b8605ccccc4348b0e4f.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: início, meio e fim conferidos (slides 1, 12, 26, 34, 51); texto fiel aos slides, completo e na ordem. No slide 34 só vieram as referências: as imagens com os resumos de de Bromhead, Eichengreen e O'Rourke (2013) e Galofré-Vilà et al. (2021), com os grifos do professor, não foram extraídas."
+            ],
             "pages_sha256": "8dbc8b0a03f7803d1ae4bf5465713e4391c933c501583e79f9f385f4f4bf429c"
           }
         }
@@ -1646,8 +1694,10 @@
             "method": "pdftotext",
             "page_count": 2,
             "pages_path": ".local/fontes/paginas/e262113af4a15670ced755464c2c0451cd881d1e992a31dd4429c70be10ceffe.json",
-            "review_status": "pending",
-            "review_notes": [],
+            "review_status": "reviewed",
+            "review_notes": [
+              "Revisão de 30/10/2026: as duas páginas conferidas por inteiro; texto completo e na ordem (instruções, pesos 25%/60%/15%, prazo e a questão sobre o padrão-ouro). Só o negrito e o sublinhado se perderam."
+            ],
             "pages_sha256": "9f111a0fe653cdf0e0e9d92cff7b5cbe4ffc7ef1ffe5b296bc8dacf3342e261a"
           }
         }

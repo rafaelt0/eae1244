@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6577579",
+  "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+  "lessons": [
+    11,
+    12
+  ],
+  "authors": [
+    "Jeffry Frieden"
+  ],
+  "title": "Em direção à autarquia",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para Frieden, no colapso dos anos 1930 os países semi-industriais devedores trocaram a ortodoxia (padrão-ouro, livre-comércio, abertura ao capital) pela autarquia, com industrialização forçada sob regimes fascistas, comunistas ou desenvolvimentistas; o que separou as autarquias autoritárias das democracias abertas foi ser devedor ou credor internacional. A Alemanha de Schacht é o caso exemplar: pleno emprego rápido via gasto, déficit, controles e repressão, pago com salários e consumo comprimidos.",
+  "question": "Por que, na crise dos anos 1930, tantos países abandonaram a economia aberta e o padrão-ouro pela autarquia, o que essas autarquias fizeram e com que custos?",
+  "refs": [
+    {
+      "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+      "pdf_page": 1,
+      "quote": "grande parte do mundo optou pela alternativa autárquica"
+    },
+    {
+      "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+      "pdf_page": 2,
+      "quote": "Apenas um elemento determinava se um país seguiria a autarquia e o autoritarismo"
+    },
+    {
+      "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+      "pdf_page": 2,
+      "quote": "se esse país era um credor ou um devedor internacional"
+    },
+    {
+      "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+      "pdf_page": 8,
+      "quote": "Schacht tirou a política econômica alemã das profundezas da depressão e a conduziu para"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "A velha ordem (mercados globais, padrão-ouro, governo mínimo) parecia funcionar antes de 1914; com o colapso dos mercados nos anos 1930, os governos foram forçados a intervir e buscaram em toda parte um substituto, e boa parte do mundo escolheu a autossuficiência.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 1,
+          "quote": "colapso dos mercados internacionais na década de 1930, os governos foram forçados a intervir para salvar a economia nacional"
+        }
+      ]
+    },
+    {
+      "claim": "Os devedores eram semi-industriais: pobres o bastante para depender de exportações primárias e de crédito externo, ricos o bastante para ter indústrias voltadas ao mercado interno. A coexistência de setores internacionalistas e nacionalistas virou conflito quando a economia mundial ruiu.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 2,
+          "quote": "As nações devedoras se diferenciavam por serem de natureza semi-industrial."
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 2,
+          "quote": "a coexistência de setores econômicos nacionalistas e internacionalistas fez emergir conflitos quando a economia mundial entrou em colapso"
+        }
+      ]
+    },
+    {
+      "claim": "Os conservadores internacionalistas perderam força pela nova política de massas e pelo colapso de suas bases econômicas; dívidas e ouro passaram a ser vistos como fonte de ruína. As autarquias rejeitaram dívidas externas, mercados mundiais e vantagens comparativas e taxaram os antigos setores exportadores para financiar a indústria nacional.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 3,
+          "quote": "O segundo motivo para o enfraquecimento dos conservadores foi o colapso de suas bases"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 3,
+          "quote": "comerciantes globais impuseram a tirania do ouro, que levou todos à ruína"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 3,
+          "quote": "rejeitaram suas dívidas externas, a dependência dos mercados mundiais e as vantagens"
+        }
+      ]
+    },
+    {
+      "claim": "Na Alemanha, Schacht, antigo pilar da ortodoxia, aliou-se aos nazistas e acabou com o desemprego em três anos: frentes de trabalho, obras, subsídios à contratação, gasto público de 16% para 23% do PIB (1929-1934) e déficits de cerca de 5% do PIB. A inflação foi contida porque o regime destruiu o movimento trabalhista e impôs o terror nos locais de trabalho.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 7,
+          "quote": "Schacht, de fato, acabou com o desemprego em um prazo de três anos."
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 7,
+          "quote": "que em 1929 correspondiam a 16% do PIB, cresceram, atingindo 23% do PIB em 1934."
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 7,
+          "quote": "aumento dos preços estava fora de questão, uma vez que os nazistas destruíram o movimento trabalhista"
+        }
+      ]
+    },
+    {
+      "claim": "A \"economia schachtiana\" somou controle rigoroso de divisas e de saída de capital, suspensão dos pagamentos da dívida externa, taxas de câmbio múltiplas a favor de setores e aliados e uma rede de comércio preferencial com a Europa central e do leste, cuja fatia alemã subiu de 15% para mais de 40%.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 8,
+          "quote": "Todos os pagamentos de débitos externos do país – sem falar"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 8,
+          "quote": "Schacht colocou em prática um sistema de taxas de câmbio múltiplas"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 8,
+          "quote": "Schacht planejou um sistema elaborado de comércio"
+        }
+      ]
+    },
+    {
+      "claim": "Em geral, as autarquias mudaram os termos internos de troca a favor do investimento industrial e contra a agricultura e o consumo (proteção, controle do capital estrangeiro, câmbio sobrevalorizado para insumos, estatais). A indústria mais que dobrou em vários países e quadruplicou na URSS, mas os salários reais e o consumo caíram.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "As autarquias transformaram os termos internos de troca para favorecer o investimento industrial, contra a agricultura e o consumo."
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 12,
+          "quote": "produção da indústria cresceu mais de duas vezes na Alemanha, Polônia, Japão, Brasil,"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "No entanto, os salários reais em 1938 continuavam mais baixos que em 1933 (e 1929)"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Retirada do crédito e colapso dos mercados mundiais: o credor externo era como um guarda-chuva tomado de volta quando chove; os parceiros estrangeiros das elites locais faliram ou partiram e as dívidas herdadas da economia aberta ficaram impagáveis.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 3,
+          "quote": "a comparação entre um credor internacional e um guarda-chuva"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 3,
+          "quote": "À medida que a crise persistia, as obrigações herdadas da economia aberta aumentavam o"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Realinhamento de coalizões: o crescimento criou industriais que queriam proteção e trabalhadores urbanos que pagavam o custo do padrão-ouro; o fascismo teve apoio entusiasmado das classes médias-baixas e pequenos produtores e colaboração mais modesta dos grandes empresários, unidos contra o trabalhismo e a favor de fechar a economia.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 2,
+          "quote": "Os industriais que produziam para o mercado"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 12,
+          "quote": "Os movimentos fascistas e neofascistas contaram com o apoio entusiasmado da nova"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Transferência interna de recursos: preços industriais altos e insumos baratos, financiados pelos bolsos de trabalhadores e agricultores; na Alemanha, o consumo caiu de 83% para 59% da renda nacional entre 1932 e 1938.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "e dos bolsos de trabalhadores e fazendeiros também para o investimento industrial"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 16,
+          "quote": "O consumo sofreu redução ainda mais acentuada durante esse mesmo período, passou de 83% a 59% da renda nacional"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Alemanha nazista (Schacht)",
+      "period": "1933-1938",
+      "outcome": "Pleno emprego em 1936 e escassez de mão de obra em 1937-38; em 1938 o gasto do governo chegava a 34% do PIB e o comércio exterior mal chegava a 30% do de 1928; Schacht foi afastado a partir de 1936, quando Göring subordinou a economia a fins militares.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 7,
+          "quote": "Em 1936, a economia encontrava-se essencialmente em um estado de pleno emprego"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 8,
+          "quote": "os gastos do governo correspondiam a 34% do PIB"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "índices do comércio exterior alemão de 1938 mal correspondiam a 30% do que"
+        }
+      ]
+    },
+    {
+      "name": "Itália fascista",
+      "period": "anos 1920-1930",
+      "outcome": "Macroeconomia conservadora até a Depressão; depois, controle do comércio exterior (reforçado pelas sanções de 1935) e, no fim dos anos 1930, o Estado controlava cerca de metade do capital acionário; salários reais 20% abaixo de 1921.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 14,
+          "quote": "a macroeconomia italiana fora governada de acordo com diretrizes tipicamente conservadoras"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 15,
+          "quote": "o governo fascista controlava cerca de"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "reais na Itália do fim da década de 1930 regressaram aos índices pré-Primeira Guerra Mundial, 20% mais baixos do que em 1921"
+        }
+      ]
+    },
+    {
+      "name": "Japão (Takahashi)",
+      "period": "1931-1936",
+      "outcome": "Saída do ouro e grande desvalorização em 1931 geraram boom exportador; depois, gasto deficitário; a economia cresceu 72% nos anos 1930, enquanto militares e aliados empresariais impunham expansão imperial.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 16,
+          "quote": "Retirou o iene do ouro e arquitetou uma grande"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 16,
+          "quote": "Durante os anos 1930, a economia cresceu impressionantes 72%."
+        }
+      ]
+    },
+    {
+      "name": "Europa central, do leste e do sul",
+      "period": "1920-1936",
+      "outcome": "Duas ondas de ditaduras (pós-guerra e Depressão); até 1936 todos esses países, exceto a Tchecoslováquia, eram autoritários; o Estado dominou a indústria (na Bulgária, firmas financiadas pelo Estado fizeram 2/3 da produção industrial de 1937).",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 12,
+          "quote": "com a exceção apenas da Tchecoslováquia"
+        },
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 15,
+          "quote": "na Bulgária, as firmas financiadas pelo Estado foram responsáveis por 2/3 da produção industrial de 1937"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Autarquia",
+      "definition": "Autossuficiência econômica: produção nacional para fins domésticos, sobretudo industrial, com afastamento dos mercados e do capital estrangeiros.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 1,
+          "quote": "optou pela alternativa autárquica – a autossuficiência econômica"
+        }
+      ]
+    },
+    {
+      "term": "Países semi-industriais devedores",
+      "definition": "Economias dependentes de exportações primárias e de empréstimos externos, mas com indústria urbana para o mercado interno; foram as que seguiram a autarquia.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 2,
+          "quote": "As nações devedoras se diferenciavam por serem de natureza semi-industrial."
+        }
+      ]
+    },
+    {
+      "term": "Economia schachtiana",
+      "definition": "Forma alemã de autarquia: controle de divisas e de capitais, moratória da dívida externa, câmbio múltiplo e comércio preferencial com a esfera de influência alemã.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 8,
+          "quote": "uma forma de autarquia que se tornou conhecida como economia schachtiana"
+        }
+      ]
+    },
+    {
+      "term": "Termos internos de troca",
+      "definition": "Preços relativos domésticos que as autarquias manipularam para tornar o investimento industrial muito lucrativo à custa da agricultura e do consumo.",
+      "refs": [
+        {
+          "file_id": "6f980c72ff4dbec6be46b1b65b218374e3203d1d6d19d12ab44abacbda5c76cd",
+          "pdf_page": 10,
+          "quote": "As autarquias transformaram os termos internos de troca"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O recurso se chama \"frieden cap 9 e 10\", mas o PDF traz só o capítulo 9 (16 páginas), que termina no meio de uma frase na página 16 (Takahashi em 1936); o capítulo 10 não está no arquivo e não foi resumido.",
+    "Autor e ano não aparecem nas páginas extraídas: o nome vem do arquivo (frieden-cap-9.pdf) e da forma usada em outra entrada do caderno; o ano não consta no texto extraído.",
+    "A regra devedor/credor é uma afirmação forte do autor, com exceções que ele mesmo registra (Tchecoslováquia e Finlândia); o capítulo não traz teste sistemático dela. A classificação dos mecanismos em causa, economia política e outro é inferência do resumo."
+  ]
+}

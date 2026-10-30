@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6577583",
+  "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+  "lessons": [
+    13,
+    14
+  ],
+  "authors": [
+    "Ivan T. Berend"
+  ],
+  "title": "Economic dirigisme in authoritarian–fascist regimes",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Berend defende que os regimes autoritários e fascistas do entreguerras (sobretudo Itália, Alemanha, Espanha e Portugal, e em menor grau a Grécia) formaram um tipo econômico distinto, o dirigismo econômico: nacionalismo extremo, controle absoluto do comércio e das finanças, intervenção estatal com setor estatal, economia de guerra embutida e bem-estar populista para legitimar a repressão. Nascido da experiência da Primeira Guerra e do desejo de modernizar a periferia, gerou crescimento, mas não tirou o Mediterrâneo do atraso relativo.",
+  "question": "Houve um regime econômico próprio das ditaduras autoritárias e fascistas do entreguerras? Quais foram suas origens, instituições e resultados?",
+  "refs": [
+    {
+      "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+      "pdf_page": 2,
+      "quote": "constituting a clearly distinctive type of economy, which I call economic dirigisme"
+    },
+    {
+      "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+      "pdf_page": 2,
+      "quote": "Dictatorial political regimes all paired extreme economic nationalism with absolute control of trade and finances"
+    },
+    {
+      "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+      "pdf_page": 4,
+      "quote": "economic dirigisme was closely connected to the experience of the war economy"
+    },
+    {
+      "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+      "pdf_page": 40,
+      "quote": "were unable to change their economies radically or alter their relative backwardness"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "O dirigismo nasceu da economia de guerra de 1914-18: países que não alcançaram o Ocidente na era do laissez-faire viram nela um modelo para a paz. Surgiu sobretudo em países menos industrializados da periferia sul da Europa, como ditaduras de modernização.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 4,
+          "quote": "Disappointed countries, which failed to catch up during the laissez-faire"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 3,
+          "quote": "Economic dirigisme emerged mostly in less industrialized, partially modernized countries in the southern periphery of Europe"
+        }
+      ]
+    },
+    {
+      "claim": "A Alemanha, economia desenvolvida, é a exceção: adotou o dirigismo por causa do trauma de 1918, da Depressão (produção industrial cortada pela metade) e da lição de que o dirigismo de guerra trazia o máximo desempenho; teve origens e objetivos diferentes dos da Itália, Espanha e Portugal.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 3,
+          "quote": "Germany, however, also introduced economic dirigisme during the 1930s."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 3,
+          "quote": "German experience during World War I taught the lesson that wartime economic dirigisme was the key to"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 4,
+          "quote": "Economic dirigisme in Germany had different origins and goals from those in Italy, Spain, or Portugal."
+        }
+      ]
+    },
+    {
+      "claim": "Os regimes chegaram ao poder sem doutrina econômica: os primeiros programas eram tomados da esquerda, e a Itália teve política liberal até 1925. O programa veio aos poucos, com a economia subordinada a fins políticos e ao Estado todo-poderoso.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 8,
+          "quote": "They nevertheless lacked a consistent economic doctrine and program before they took over."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 11,
+          "quote": "The basic feature of our economic theory is that we have no theory at all"
+        }
+      ]
+    },
+    {
+      "claim": "Os instrumentos foram obras públicas e autossuficiência agrícola, corporativismo (sindicatos estatizados, greves proibidas), cartéis compulsórios, controle de preços, salários, câmbio e investimento, planos (Neuer Plan, Plano Quadrienal) e financiamento inflacionário oculto do rearmamento com as letras Mefo.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 18,
+          "quote": "Compulsory cartels were eventually the arms of the government."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 20,
+          "quote": "the Mefo-bills were discounted by the Reichsbank"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 16,
+          "quote": "The corporative system, however, was more of a façade than reality until"
+        }
+      ]
+    },
+    {
+      "claim": "O dirigismo criou setores estatais fortes (IRI na Itália, com 42% do capital acionário; INI na Espanha; Reichswerke e Volkswagen na Alemanha) e um sistema de bem-estar populista (previdência, lazer organizado) para ganhar apoio de massa e compensar a repressão.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 25,
+          "quote": "representing 42% of total joint-stock capital of the country"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 32,
+          "quote": "Regimes sought to offset centralized oppressive rule with welfare measures to earn mass support."
+        }
+      ]
+    },
+    {
+      "claim": "A autossuficiência era impossível em países pequenos, então o sistema exigiu integração regional ditada: o bloco italiano com Áustria e Hungria fracassou; a Alemanha montou sua Grossraumwirtschaft com acordos bilaterais de clearing no Sudeste europeu e, na guerra, subordinou e saqueou o continente ocupado.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 33,
+          "quote": "The system thus required regional cooperation."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 38,
+          "quote": "The realization of self-sufficiency, impossible in a national framework, was targeted in an"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Experiência da economia de guerra e frustração nacional: o dirigismo de guerra parecia a chave do máximo desempenho, e países atrasados ou humilhados (Itália, Espanha, Alemanha após 1918) buscaram um sistema mais controlado para modernizar ou se rearmar.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 4,
+          "quote": "the war economic system as a new opportunity to realize their goals"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Repressão com legitimação: sindicatos livres destruídos e representação operária criada de cima, com mais autonomia para os empregadores; pleno emprego, lazer e bem-estar populista compraram apoio de massa. Guerra e bem-estar eram partes do mesmo sistema.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 2,
+          "quote": "The systems of \"warfare\" and \"welfare\" were thus not isolated"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 15,
+          "quote": "It is fair to say that the state subordinated the labor organization but gave more autonomy to the employers"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Comércio de clearing regional: no Neuer Plan, a Alemanha concedeu cotas de exportação ao Sudeste europeu, pagou acima do mercado mundial com fundos congelados e liquidou tudo em escambo e compensação, pagando com produtos industriais e tornando a região dependente.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 35,
+          "quote": "All the transactions were based on barter and clearing systems."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 35,
+          "quote": "Germany thus paid for its imports with industrial products"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Itália fascista",
+      "period": "1922-1943",
+      "outcome": "Batalha do trigo elevou a produção a 80 milhões de quintais em 1937; gasto público de menos de 20% para mais de 33% do PIB (1929-1936); PIB per capita caiu só 6% em 1929-1933 e em 1935 superava o nível pré-crise.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 12,
+          "quote": "output rose steadily to 80 million quintals by 1937"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 19,
+          "quote": "per capita GDP declined by only 6% between 1929 and 1933"
+        }
+      ]
+    },
+    {
+      "name": "Alemanha nazista",
+      "period": "1933-1944",
+      "outcome": "Obras públicas de 4% do PIB nos dois primeiros anos, depois rearmamento como maior item; em 1938 a renda superava em 57% o fundo de 1932, recuperação atribuída à preparação para a guerra e à autossuficiência.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 14,
+          "quote": "During the first two years of the regime, 4% of the annual GDP was spent on public works."
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 39,
+          "quote": "by 1938 the income level surpassed the 1932 nadir by 57%"
+        }
+      ]
+    },
+    {
+      "name": "Espanha (Primo de Rivera e Franco)",
+      "period": "1923-fim dos anos 1950",
+      "outcome": "Tarifas mais altas da Europa, obras e investimento público nos anos 1920; sob Franco, autarquia, controles e o INI (1941); após 1953-59 o regime abandonou o dirigismo e se ajustou ao Ocidente.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 20,
+          "quote": "The dictator introduced the highest tariffs in Europe"
+        },
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 27,
+          "quote": "Franco's Spain also established a gigantic state-owned holding company"
+        }
+      ]
+    },
+    {
+      "name": "Sudeste europeu na Grossraumwirtschaft alemã",
+      "period": "1934-1941",
+      "outcome": "A fatia alemã no comércio de Bulgária, Hungria, Romênia e Iugoslávia subiu fortemente entre 1933 e 1939 (Tabela 3.1); a região foi rebaixada a base de matérias-primas e economia complementar da guerra alemã.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 36,
+          "quote": "Hungary was to be degraded to the level of a raw material base"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Dirigismo econômico",
+      "definition": "Nome que o autor dá ao tipo de economia das ditaduras do entreguerras: nacionalismo extremo, controle total de comércio e finanças, intervenção estatal sem limites, economia de guerra embutida e bem-estar populista.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 2,
+          "quote": "constituting a clearly distinctive type of economy, which I call economic dirigisme"
+        }
+      ]
+    },
+    {
+      "term": "Estado corporativo",
+      "definition": "Substituição da democracia parlamentar por corporações conjuntas de empregadores, empregados e Estado, sob tutela estatal; na prática, dominado pelo partido e pelo governo.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 15,
+          "quote": "The corporative system was the populist concept of replacing parliamentary democracy by corporative bodies"
+        }
+      ]
+    },
+    {
+      "term": "Grossraumwirtschaft",
+      "definition": "Grande espaço econômico sob liderança alemã, iniciado pelo Neuer Plan, para importar alimentos e matérias-primas dos países vizinhos do Sudeste europeu.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 23,
+          "quote": "the beginning of a German Grossraumwirtschaft (a large economic space)"
+        }
+      ]
+    },
+    {
+      "term": "Ditadura de modernização",
+      "definition": "Regime que declara guerra ao liberalismo e usa o Estado para mecanizar a agricultura, criar complexos industriais e buscar império; o autor aplica o termo à Itália fascista e à maioria dos regimes mediterrâneos.",
+      "refs": [
+        {
+          "file_id": "6d87286d2d818097b07b46be1617a07e519acf9e226e3360f41b3b8ef3ad529b",
+          "pdf_page": 8,
+          "quote": "thus becoming a modernization dictatorship"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Autor e ano não aparecem nas páginas extraídas: o nome vem do arquivo (Ivan T. Berend cap. 3.pdf) e o ano não consta no texto extraído. O título é o do capítulo 3, impresso na página 1; as 41 páginas do PDF correspondem às páginas impressas 92-132.",
+    "Os quadros 3.1 a 3.4 (autobahn, Schacht, Volkswagen, radar e foguete balístico) são digressões e não foram resumidos; vários números de resultados vêm de terceiros citados pelo autor (Zamagni, Maddison, Overy).",
+    "A generalização do dirigismo é a tese do autor; ele mesmo reconhece a objeção de Milward de que as diferenças entre Itália e Alemanha pesam mais que as semelhanças, e diz que a Europa central e oriental teve mais um mercado regulado ou um híbrido do que dirigismo pleno."
+  ],
+  "figures_note": [
+    "Página 36: Tabela 3.1 (participação alemã nas exportações e importações de Bulgária, Hungria, Romênia e Iugoslávia, 1933 e 1939) legível.",
+    "Página 39: Tabela 3.2 (PIB per capita de Itália, Espanha, Portugal e Grécia em 1913, 1929, 1938 e 1950) legível; sustenta a conclusão sobre o atraso relativo.",
+    "Páginas 40-41: Figuras 3.1 (emprego setorial, Itália e Espanha, 1950-1973) e 3.2 (turismo na Espanha, 1959-1973) com rótulos soltos na extração; consultar o original."
+  ]
+}

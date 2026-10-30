@@ -1,0 +1,309 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6483118",
+  "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+  "lessons": [
+    2,
+    3
+  ],
+  "authors": [
+    "Guillaume Daudin",
+    "Matthias Morys",
+    "Kevin H. O'Rourke"
+  ],
+  "title": "Globalization, 1870–1914",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para os autores, 1870-1914 foi o auge da globalização do século XIX, com integração crescente dos mercados de bens, capitais, trabalho e ideias, puxada sobretudo pela queda dos custos de transporte, pela paz e pela difusão do padrão-ouro. Os efeitos distributivos dessa integração, em especial a convergência de salários via migração, criaram perdedores cuja reação (protecionismo agrícola, restrições à imigração) fez a globalização minar parcialmente a si mesma, embora, em certa medida, os governos tenham administrado esses desafios antes de 1914, ora cedendo, ora compensando com legislação doméstica.",
+  "question": "Quão integrada estava a economia mundial entre 1870 e 1914, que efeitos essa globalização teve sobre a Europa e ela poderia ter continuado depois de 1914 se a Primeira Guerra não tivesse ocorrido?",
+  "refs": [
+    {
+      "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+      "pdf_page": 2,
+      "quote": "represented the high-water mark of"
+    },
+    {
+      "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+      "pdf_page": 22,
+      "quote": "Elsewhere, globalization undermined itself."
+    },
+    {
+      "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+      "pdf_page": 25,
+      "quote": "To some extent, therefore, late nineteenth-century governments successfully"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Mercado de bens: o comércio europeu cresceu e a razão comércio/PIB subiu; os diferenciais internacionais de preços caíram muito (trigo Liverpool-Chicago de 57,6% para 15,6%). As causas foram a queda dos fretes (vapor, Canal de Suez), as ferrovias, a paz entre as potências, os impérios e o padrão-ouro, que reduziu a incerteza cambial; mas desde os anos 1870 o protecionismo continental contrabalançou parte dessa integração.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 3,
+          "quote": "Chicago fell from 57.6 percent to 15.6 percent"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 3,
+          "quote": "International trade grew for many reasons. International freight rates declined steadily as a result of constant technical improvements"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 4,
+          "quote": "the gradual spread of the gold standard dampened exchange rate fluctuations"
+        }
+      ]
+    },
+    {
+      "claim": "Mercado de capitais: a Europa foi o banqueiro do mundo, e o Reino Unido aplicou cerca de 4% do PIB no exterior por mais de 40 anos. A direção dos fluxos é explicada pelos fundamentos econômicos (recursos naturais em áreas de povoamento recente), não pelo império: as colônias inglesas receberam só 16,9% das exportações de capital inglesas, menos que os EUA.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 7,
+          "quote": "All English colonies combined (excluding Canada, Australia, and New Zealand) received a paltry 16.9 percent of English capital exports"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 9,
+          "quote": "This brings us to economic fundamentals as the main determinant in explaining the size and direction of flows."
+        }
+      ]
+    },
+    {
+      "claim": "Migração: foi a dimensão mais globalizada do período, mesmo comparada com hoje. Os salários mais altos do Novo Mundo (maior razão terra/trabalho) explicam a emigração em massa, possível quando o vapor barateou a viagem; o modelo de Hatton e Williamson explica o ritmo por país (primeiro autorreforçada, depois autolimitada pela alta dos salários em casa) sem recorrer a explicações culturais.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 9,
+          "quote": "It is in the area of migration that the late nineteenth century was most impressively globalized, even compared with today."
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 12,
+          "quote": "emigration became self-limiting"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 13,
+          "quote": "Economic rationality turns out to do a pretty good job of explaining European emigration during this period."
+        }
+      ]
+    },
+    {
+      "claim": "Efeitos: as previsões de Heckscher-Ohlin se confirmam em linhas gerais (a razão salário/renda da terra subiu na Europa e caiu no Novo Mundo, menos nos países protecionistas), e o transporte barato baixou o preço dos alimentos. Mas a migração foi o principal fator de convergência dos padrões de vida, explicando cerca de 70% dela mesmo admitindo que o capital seguiu o trabalho.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 16,
+          "quote": "By and large, these predictions hold good for the late nineteenth century"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 16,
+          "quote": "Migration was the dimension of globalization that had the greatest impact on"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 18,
+          "quote": "migration emerges as a major determinant of living standard convergence, explaining about 70 percent of it."
+        }
+      ]
+    },
+    {
+      "claim": "Capital e império: a periferia europeia atraiu pouco capital (equivalente oitocentista do paradoxo de Lucas). Para o núcleo, as exportações de capital renderam mais que o investimento doméstico, e os autores descartam a tese de Lenin/Hobson de que o capitalismo europeu dependia do imperialismo; os ganhos europeus do império foram pequenos e incertos.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 19,
+          "quote": "This is the nineteenth-century equivalent of the Lucas paradox"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 20,
+          "quote": "This argument has been discredited."
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 21,
+          "quote": "On the whole, the European benefits from imperialism were small and uncertain."
+        }
+      ]
+    },
+    {
+      "claim": "Reação: o comércio prejudicou os interesses fundiários europeus, que obtiveram tarifas onde eram fortes; a imigração baixou salários no Novo Mundo e levou a restrições; a democratização poderia ter minado o padrão-ouro mesmo sem guerra. Ainda assim, políticas domésticas (legislação trabalhista em troca de apoio sindical ao livre comércio) sustentaram a abertura, e os autores concluem que os anos 1920-30 teriam sido muito diferentes sem a Grande Guerra.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 22,
+          "quote": "trade hurt European landed interests, and wherever these were powerful enough, the legislative reaction was predictable."
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 24,
+          "quote": "would have ultimately succeeded in undermining the gold standard"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 25,
+          "quote": "but the 1920s and 1930s would have been utterly different had it not been for the Great War."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Queda dos custos de transporte (vapor, ferrovias, Suez) como motor da integração: reduziu os diferenciais de preços das mercadorias e o custo da viagem transoceânica, liberando a emigração em massa.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 3,
+          "quote": "International trade grew for many reasons. International freight rates declined steadily as a result of constant technical improvements"
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 11,
+          "quote": "once the new steam technologies had lowered the cost of travel sufficiently, mass emigration became inevitable"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Reação dos perdedores: proprietários de terra europeus, onde eram poderosos, obtiveram tarifas (Alemanha 1879, França anos 1880 e 1892, Suécia, Itália); trabalhadores do Novo Mundo, cujos salários a imigração baixava, obtiveram restrições à imigração. A globalização gerou as forças que a limitaram.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 22,
+          "quote": "trade hurt European landed interests, and wherever these were powerful enough, the legislative reaction was predictable."
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 23,
+          "quote": "the result was a political backlash"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Padrão-ouro como facilitador da integração financeira: eliminava o risco cambial e sinalizava políticas fiscal e monetária conservadoras. Os autores ressalvam que instituições facilitam, mas não atraem capital sozinhas; o decisivo eram os fundamentos.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 8,
+          "quote": "Adherence to gold is seen as having promoted global financial integration in two ways."
+        },
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 9,
+          "quote": "it eliminated exchange rate risk."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Irlanda, Itália e Noruega (emigração em massa)",
+      "period": "1870-1913",
+      "outcome": "A emigração reduziu a força de trabalho (45% na Irlanda, 39% na Itália, 24% na Noruega) e os salários reais convergiram para o nível britânico; na Itália a convergência só começou quando a emigração explodiu, depois de 1900.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 17,
+          "quote": "In Ireland, real wages rose from 73 percent to 92 percent of the British level during this period"
+        }
+      ]
+    },
+    {
+      "name": "Suécia (importação de capital)",
+      "period": "depois de 1870",
+      "outcome": "Capital externo deixou o estoque de capital 50% maior e elevou os salários reais em 25%; talvez o país europeu que mais ganhou com importação de capital antes de 1914.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 18,
+          "quote": "increasing Swedish real wages by 25 percent"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido e Dinamarca (exceções liberais)",
+      "period": "anos 1870-1914",
+      "outcome": "Mantiveram o livre comércio agrícola por serem menos vulneráveis: a agricultura britânica já era pequena e a Dinamarca passou a exportar produtos animais para a Grã-Bretanha.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 22,
+          "quote": "Some small countries remained relatively liberal"
+        }
+      ]
+    },
+    {
+      "name": "Crise Baring",
+      "period": "1891",
+      "outcome": "Encerrou a primeira onda de integração financeira; o capital recuou por cerca de uma década antes de os empréstimos externos voltarem.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 7,
+          "quote": "A first wave of financial integration came to an end with the Baring crisis of 1891."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Convergência de preços de fatores (Heckscher-Ohlin)",
+      "definition": "O comércio entre o Novo Mundo, rico em terra, e a Europa, rica em trabalho, deveria fazer convergir a razão salário/renda da terra: subir na Europa e cair nas Américas.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 16,
+          "quote": "trade should have led to the wage–rental ratio, w/r, converging internationally"
+        }
+      ]
+    },
+    {
+      "term": "Efeito amigos e parentes",
+      "definition": "Emigrantes já instalados enviavam remessas e passagens pré-pagas, rompendo a armadilha de pobreza e tornando a emigração inicialmente autorreforçada.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 12,
+          "quote": "as a result of the friends and relatives effect"
+        }
+      ]
+    },
+    {
+      "term": "Paradoxo de Lucas",
+      "definition": "O capital tende a ir para países ricos e não para os pobres, apesar dos salários mais baixos destes; o texto o aplica à periferia europeia anterior a 1914.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 19,
+          "quote": "capital usually flows to rich rather than to poor countries today"
+        }
+      ]
+    },
+    {
+      "term": "Compacto trabalhista (labor compact)",
+      "definition": "Troca em que os sindicatos apoiavam o livre comércio em contrapartida a políticas domésticas pró-trabalho (regulação, seguros sociais), mais comum nas economias mais abertas.",
+      "refs": [
+        {
+          "file_id": "b893989f1cfa30f69a0f98740dfa2c47b05d2aaf90f72b0a8b55e9f42239d9ec",
+          "pdf_page": 25,
+          "quote": "this \"labor compact\" was more widespread in the more open European economies"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Identificação: o arquivo se chama 'Broadberry, ORourke cap. 1', mas o capítulo extraído é assinado por Daudin, Morys e O'Rourke; o ano de publicação não aparece nas páginas extraídas, por isso 'year' ficou nulo em vez de presumido.",
+    "Grande parte da evidência é síntese de outros trabalhos (O'Rourke e Williamson, Hatton e Williamson, Taylor e Williamson, Edelstein), muitas vezes contrafactuais ou simulações; os próprios autores dizem que os casos francês e alemão de investimento externo aguardam pesquisa e que o custo do imperialismo para os colonizados é pouco explorado.",
+    "A conclusão de que a globalização teria minado a si mesma via democratização é apresentada como especulação, com objeções dos próprios autores (o maior impulso ao sufrágio veio da guerra; o fim do padrão-ouro não implicaria o fim da integração financeira)."
+  ],
+  "figures_note": [
+    "Tabelas 1.1 (p. 3), 1.2 (p. 4), 1.3 (p. 6), 1.4 (p. 8) e 1.5 (p. 10) foram extraídas como texto em colunas; confira os números no original antes de citá-los.",
+    "Figuras 1.1 (p. 5, infraestrutura de transporte), 1.2 (p. 10, emigração europeia), 1.3 (p. 12, modelo estilizado de emigração), 1.4 (p. 14, comunidade científica internacional) e 1.5 (p. 17, salários relativos à Grã-Bretanha) só têm eixos e legendas na extração; as curvas devem ser vistas no original."
+  ]
+}

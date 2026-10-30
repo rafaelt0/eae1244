@@ -19,7 +19,7 @@ Decisões assumidas na execução autônoma: estado por navegador, sem sincroniz
 
 Módulo: `html`, conforme o [mapa de capacidades](CAPABILITY-MAP.md). Consome `fontes`, `caderno`, `atlas` e `oficina`.
 
-Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução. Implementação concluída e verificada: pacote offline, 14 resumos completos, oito temas e 16 exercícios. Os 17 resumos anteriores e a revisão do usuário permanecem pendentes.
+Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução. Implementação concluída e verificada: pacote offline, 14 resumos completos, oito temas e 16 exercícios. Em 29/10/2026, as 17 leituras anteriores receberam resumos curtos e parciais, validados pelo mesmo contrato; a revisão humana deles permanece pendente.
 
 ## Objetivo
 

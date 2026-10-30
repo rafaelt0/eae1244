@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6540579",
+  "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+  "lessons": [
+    6,
+    7
+  ],
+  "authors": [
+    "Charles H. Feinstein",
+    "Peter Temin",
+    "Gianni Toniolo"
+  ],
+  "title": "The World Economy between the World Wars (caps. 1-3: The Interwar Economy in a Secular Perspective; The Legacy of the First World War; The 1920s: Crises and Currency Stabilizations)",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para Feinstein, Temin e Toniolo, os anos 1913-1950 foram uma pausa no crescimento econômico moderno e um refluxo da globalização, e essa desaceleração foi obra humana, não natural: resultou sobretudo da guerra, dos acordos de paz e de políticas mal concebidas, num período marcado por divisões e falta de cooperação. A Primeira Guerra deixou choques reais, economias mais rígidas, finanças frágeis e um sistema monetário frágil; nos anos 1920, o conflito sobre quem pagaria os impostos alimentou inflação e hiperinflação, e a volta ao ouro, feita com paridades escolhidas sem coordenação e com bancos centrais que neutralizavam os fluxos de ouro, não restaurou o equilíbrio.",
+  "question": "Por que o crescimento mundial desacelerou e a integração internacional se desfez entre as guerras, e como a Primeira Guerra, os acordos de paz e as estabilizações dos anos 1920 prepararam a instabilidade do período?",
+  "refs": [
+    {
+      "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+      "pdf_page": 5,
+      "quote": "appears to be a pause in the onward progress of rising per capita income"
+    },
+    {
+      "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+      "pdf_page": 11,
+      "quote": "slow growth and depression were man-made"
+    },
+    {
+      "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+      "pdf_page": 12,
+      "quote": "the effects of the war and of ill-advised economic policies"
+    },
+    {
+      "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+      "pdf_page": 7,
+      "quote": "The whole period stands out as one of major divisions and lack of cooperation"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Em perspectiva secular (dados de Maddison), quase todas as regiões cresceram menos em 1913-1950 que antes de 1913 e muito menos que na era de ouro do pós-guerra; a exceção foi a União Soviética nos anos 1930. A queda europeia tem uma explicação dominante, a guerra, e o desemprego alto e estrutural é o fato novo do período.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 5,
+          "quote": "appears to be a pause in the onward progress of rising per capita income"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 6,
+          "quote": "There is one dominant explanation for the severity of the European slowdown"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 6,
+          "quote": "structural unemployment was the shocking new phenomenon of those years"
+        }
+      ]
+    },
+    {
+      "claim": "O refluxo da globalização não veio da tecnologia, que continuou barateando transporte e comunicação, mas de instituições: tarifas, limites à imigração, controles financeiros e o colapso do sistema monetário recriado nos anos 1920. A produtividade continuou subindo, o que reforça que a estagnação foi produzida por obstáculos humanos.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 8,
+          "quote": "On balance, man-made obstacles outweighed the favorable impact of technology on international economic transactions."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 8,
+          "quote": "Pre-1913 globalization was put in reverse."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 11,
+          "quote": "slow growth and depression were man-made"
+        }
+      ]
+    },
+    {
+      "claim": "A tabela 1.6 sugere que os neutros nas guerras cresceram mais e que, em 1929-1938, quem saiu do ouro em 1931 superou o bloco do ouro; a Alemanha aparece à parte porque se isolou na prática das regras do ouro. Os autores avisam que essas associações não provam causalidade, apenas apontam hipóteses.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 12,
+          "quote": "outperform the members of the gold bloc and Switzerland."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 12,
+          "quote": "cannot be taken as proofs of causal links"
+        }
+      ]
+    },
+    {
+      "claim": "Duas proposições sobre a organização internacional: (a) desequilíbrios estruturais e o fim dos impérios, que deixaram recursos mal alocados e desemprego nos anos 1920; (b) política e economia: sem liderança ('não mais Londres, ainda não Washington'), sem cooperação, com bancos centrais neutralizando assimetricamente o ouro e com a ideologia do retorno ao ouro, que acabou impedindo políticas de alívio no início dos anos 1930.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 13,
+          "quote": "a misallocation of resources that was responsible for the high rate of unemployment in Europe in the 1920s"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 14,
+          "quote": "no longer London, not yet Washington."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 16,
+          "quote": "the constraints of the gold standard prevented countries from initiating policies to alleviate economic distress"
+        }
+      ]
+    },
+    {
+      "claim": "A guerra total transformou Estados frugais em grandes gastadores, financiados por empréstimos e emissão de moeda. Deixou dois choques reais (expansão e depois ociosidade da capacidade bélica), economia mais rígida, estrutura financeira frágil e o fim do padrão-ouro clássico. A paz criou novos Estados com moeda e tarifas próprias, a ajuda financeira entre aliados acabou de forma abrupta e o modo como as reparações foram tratadas até 1924 acrescentou incerteza e rancor.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 19,
+          "quote": "simply by printing large quantities of bank notes."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 22,
+          "quote": "the prevailing trend was toward greater rigidity"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 29,
+          "quote": "Each new state created its own currency, erected trade barriers to protect domestic industry,"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 34,
+          "quote": "the whole problem was dealt with between 1918 and 1924 added an enormous further element of uncertainty"
+        }
+      ]
+    },
+    {
+      "claim": "Nos anos 1920, o conflito distributivo sobre o peso dos impostos explica a inflação e a hiperinflação (contra a tese alemã do balanço de pagamentos); as crises bancárias dependeram da gravidade da recessão, da disposição do banco central de emprestar em última instância e do banco universal. As estabilizações de 1922-1927 escolheram paridades sem coordenação, a volta à paridade de antes da guerra foi cara (Reino Unido, Dinamarca, Noruega) e França e Estados Unidos neutralizaram o ouro que recebiam: as reservas viraram amortecedor em vez de mecanismo de ajuste.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 38,
+          "quote": "could not agree on how the burden of taxation should be shared among the different social classes."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 40,
+          "quote": "the central bank decided to refrain from providing the necessary liquidity"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 43,
+          "quote": "the independent and uncoordinated process by which each country selected its parity."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 47,
+          "quote": "there was an increasing tendency in the interwar years to use gold reserves as a buffer"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "A guerra e os acordos de paz como origem: o deslocamento real e financeiro que provocaram gerou os fluxos de capital e de moeda que pressionaram o padrão-ouro restaurado; é também a explicação dominante da desaceleração europeia.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 47,
+          "quote": "the war and the postwar settlements caused the dislocation that produced the capital and currency"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 6,
+          "quote": "There is one dominant explanation for the severity of the European slowdown"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Conflito distributivo: grupos sociais divididos não chegavam a acordo sobre como repartir impostos entre trabalho e capital; imprimir moeda era a saída aceitável, o que alimentou a inflação na Alemanha e em países como França, Bélgica e Itália. Do lado externo, eleitorados democráticos passaram a exigir estabilidade interna de preços e rendas acima do equilíbrio externo.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 37,
+          "quote": "The printing of paper money thus provided the only acceptable way out of the dilemma."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 15,
+          "quote": "Democratic electorates increasingly required that governments should attach greater weight to internal stability of prices and incomes."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Padrão-ouro restaurado sem liderança nem cooperação: cada potência disputava uma parcela desproporcional do ouro mundial, a neutralização era assimétrica e as restrições do ouro impediram políticas de alívio no início dos anos 1930, de modo que o comportamento não cooperativo somou pressões deflacionárias à economia mundial e deixou moedas fracas, como a libra e o marco, expostas a ataques especulativos.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 15,
+          "quote": "the attempt of each of the main powers to secure for itself a disproportionate share"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 15,
+          "quote": "But the new position was not entirely symmetrical"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 16,
+          "quote": "the constraints of the gold standard prevented countries from initiating policies to alleviate economic distress"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Alemanha (hiperinflação)",
+      "period": "1919-1923",
+      "outcome": "O caso extremo entre os cinco países com hiperinflação: preços no atacado subindo 335% ao mês entre agosto de 1922 e novembro de 1923. Os autores apresentam a disputa entre a explicação pelo balanço de pagamentos (reparações) e a quantitativa (déficit e emissão), e enfatizam o déficit gerado pela guerra e pelos programas sociais da república de Weimar, agravado pela fuga do marco a partir de 1921.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 36,
+          "quote": "The latter was by far the most remarkable case"
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 37,
+          "quote": "Opponents of this view reversed the causal chain"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido (volta ao ouro)",
+      "period": "1920-1929",
+      "outcome": "Volta ao ouro em 1925 na paridade de antes da guerra (US$ 4,86), com sobrevalorização de cerca de 10%; os autores não a tomam como causa principal do declínio exportador (problemas estruturais de carvão, têxteis e navios), mas ela o agravou. Em 1929 as exportações ainda estavam 19% abaixo de 1913.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 43,
+          "quote": "resulted in an overvaluation of the currency by about 10 percent."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 43,
+          "quote": "would be wrong to see this as the primary reason for the decline of the export sector"
+        }
+      ]
+    },
+    {
+      "name": "Dinamarca e Noruega",
+      "period": "1925-1928",
+      "outcome": "A insistência em voltar à paridade antiga causou uma depressão quase tão grave quanto a de 1929-1933, com queda de produção e preços, falências e desemprego muito alto.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 43,
+          "quote": "caused a depression from 1925 to 1928 that was almost as severe as the one in"
+        }
+      ]
+    },
+    {
+      "name": "França (estabilização e ouro)",
+      "period": "1926-1932",
+      "outcome": "Estabilizou o franco com desvalorização (a um quinto do valor de antes da guerra) e acumulou reservas em ouro sem expandir proporcionalmente a moeda; vista de Londres, a França não seguiu as regras do jogo, e a lei de 1928 impedia o banco central de reduzir sua razão de reservas.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 45,
+          "quote": "the large increase in the central bank's holdings of gold and foreign currency was, to a considerable extent, neutralized."
+        },
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 45,
+          "quote": "the gold standard in France was not operated according to the rules"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Refluxo da globalização (globalization backlash)",
+      "definition": "Rótulo para o entreguerras como reversão da primeira globalização: comércio que cai em termos reais e forte redução dos movimentos internacionais de capital e trabalho.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 7,
+          "quote": "the sharp reduction in the cross-border movements of factors of production"
+        }
+      ]
+    },
+    {
+      "term": "Teorema da guerra curta",
+      "definition": "Crença de governos e estados-maiores antes de 1914 de que uma guerra moderna seria necessariamente breve, pelos recursos limitados; a guerra mostrou que ela ignorava a flexibilidade da economia moderna.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 18,
+          "quote": "the short-war theorem was based on very shaky foundations"
+        }
+      ]
+    },
+    {
+      "term": "Regras do jogo",
+      "definition": "Norma do padrão-ouro segundo a qual os movimentos de ouro deveriam se refletir na oferta monetária doméstica; no entreguerras, os bancos centrais tenderam a neutralizá-los.",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 15,
+          "quote": "the unwillingness of central banks to operate the gold standard according to the"
+        }
+      ]
+    },
+    {
+      "term": "Ausência de hegemonia",
+      "definition": "Tese de Brown e Kindleberger retomada pelos autores: o Reino Unido já não podia reger o sistema internacional e os Estados Unidos ainda não queriam assumir esse papel, faltando quem estabilizasse o ambiente monetário (por exemplo, como emprestador internacional de última instância).",
+      "refs": [
+        {
+          "file_id": "3992c8a27b4258364f0cd5079737f1531117feeac9e31b617de80b0243de362a",
+          "pdf_page": 14,
+          "quote": "London was unable to act as sole conductor of the international orchestra"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O PDF reúne três capítulos de um mesmo livro; a entrada os trata como um só argumento. Li as 47 páginas: a p. 1 é só a capa, com nomes truncados pelo OCR ('Feinsteli', 'Temi', 'Toniol'); os nomes completos vêm das autocitações no texto. O ano de publicação não aparece nas páginas extraídas, por isso year fica nulo (a citação mais recente é de 2006). O trecho termina na p. impressa 51 (pdf 47), no fim da seção 3.4; não se sabe se o capítulo 3 continua.",
+    "A p. 12 anuncia quatro proposições, mas a seção 1.3 traz só as duas sobre organização internacional; as outras duas não estão neste trecho. A extração perdeu as ligaduras 'fi' e 'fl' ('rst', 'nancial', 'de ation'); os trechos citados copiam o texto como foi extraído, e os números devem ser conferidos no original.",
+    "Os próprios autores dizem que a tabela 1.6 sugere hipóteses e não prova causalidade, e que o diagnóstico das 'regras do jogo' tem ressalvas (defasagens, capital de curto prazo, padrão clássico menos automático que nos manuais). A tese de que a estagnação foi obra humana é interpretação deles, apoiada na produtividade crescente. Sobre as reparações, eles relativizam Keynes: o valor final talvez fosse pagável, e o dano veio da forma como a questão foi conduzida entre 1918 e 1924."
+  ],
+  "figures_note": [
+    "Tabelas 1.1 a 1.6 (pdf pp. 4, 6, 8, 10, 11 e 13), 2.1 (p. 18), 3.1 (p. 36), 3.2 (p. 42) e 3.3 (p. 44) foram extraídas como texto e são legíveis, mas confira as colunas no original. Na tabela 1.3 (p. 8), a linha 'World' tem uma célula a menos que as outras.",
+    "Figura 2.1 (p. 28, mapa da Europa antes e depois da Primeira Guerra, com as populações de 1920): o mapa saiu fragmentado; só a lista de populações é legível."
+  ]
+}

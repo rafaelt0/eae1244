@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6560679",
+  "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+  "lessons": [
+    9,
+    10
+  ],
+  "authors": [
+    "Nicholas Crafts",
+    "Peter Fearon"
+  ],
+  "title": "Lessons from the 1930s Great Depression",
+  "year": 2010,
+  "depth": "short",
+  "status": "complete",
+  "thesis": "Para Crafts e Fearon, a Grande Depressão resultou de grandes choques de demanda agregada, monetários e de gasto, vindos sobretudo dos EUA e ampliados por um sistema financeiro frágil e por crises bancárias. O padrão-ouro foi o elemento-chave da transmissão internacional e da severidade desigual entre países, e abandoná-lo foi pré-requisito para a recuperação.",
+  "question": "Por que a crise começou em 1929, por que foi tão profunda e longa, como se espalhou entre países e que lições de política deixa para a crise de 2007-2009?",
+  "refs": [
+    {
+      "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+      "pdf_page": 18,
+      "quote": "the collapse in economic activity was the result of large shocks, both monetary and expenditure, to aggregate demand interacting with a fragile financial system"
+    },
+    {
+      "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+      "pdf_page": 11,
+      "quote": "adherence to fixed exchange rates was the key element in explaining the timing and the differential severity of the crisis"
+    },
+    {
+      "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+      "pdf_page": 13,
+      "quote": "Indeed, departure from gold was a prerequisite for recovery."
+    },
+    {
+      "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+      "pdf_page": 5,
+      "quote": "The big lesson that has been correctly identified is not to be passive in the face of large adverse financial shocks."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "A origem está nos EUA. Em 1928, o Fed apertou a política monetária para conter a especulação em Wall Street, e o capital americano deixou de fluir para países dependentes dele, como a Alemanha.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 7,
+          "quote": "In January 1928 the Federal Reserve ended several years of easy credit and embarked on a tight money policy."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 8,
+          "quote": "countries that had become dependent on US capital imports, for example, Germany, were suddenly deprived of an essential support for their fragile economies."
+        }
+      ]
+    },
+    {
+      "claim": "Na contração, o Fed errou: julgava a política frouxa porque os juros nominais eram baixos, ignorando que a deflação elevava os juros reais, e, quando teve de escolher, defendeu o ouro subindo juros em 1931 e em 1932-33.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 9,
+          "quote": "the monetary authorities failed to take account of the savage deflation which caused real interest rates to rise to punitive levels for borrowers"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 9,
+          "quote": "when faced with a policy choice, the Fed always opted to follow the gold standard rule"
+        }
+      ]
+    },
+    {
+      "claim": "As crises bancárias, num sistema subcapitalizado e de bancos unitários, amplificaram os choques. As falências cortaram a intermediação financeira (o 'credit crunch' de Bernanke). O crash de Wall Street, ao contrário, teve efeito real modesto.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 17,
+          "quote": "So bank failures were an important channel for the transmission of monetary impulses to real-economy outcomes."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 18,
+          "quote": "the United States entered the 1930s with a weak financial system, under-capitalized and based on unit rather than branch banking"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 18,
+          "quote": "the impact of the Wall Street Crash on the real American economy was very modest"
+        }
+      ]
+    },
+    {
+      "claim": "O padrão-ouro transmitiu a crise de forma assimétrica: quem perdia ouro tinha de deflacionar, enquanto quem acumulava (França e EUA, que esterilizavam o ouro) não tinha de inflar. Pelo trilema, os países membros abriram mão da política monetária, e a cooperação internacional não ocorreu.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 11,
+          "quote": "The action was always deflation but never devaluation (Temin, 1993)."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 19,
+          "quote": "such a country can only have two of a fixed exchange rate, capital mobility, and an independent monetary policy."
+        }
+      ]
+    },
+    {
+      "claim": "Na recuperação, quanto mais cedo um país deixou o ouro, mais rasa foi a queda. Nos EUA, a expansão monetária (fluxos de ouro e mudança de regime) puxou a retomada, a política fiscal praticamente não foi usada e o New Deal teve efeitos adversos do lado da oferta. A recessão de 1937-38 veio de aperto monetário e fiscal.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 22,
+          "quote": "On average, the earlier this happened the shallower was the downturn and the sooner recovery began"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 27,
+          "quote": "fiscal policy did not fail, rather it was not tried."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 21,
+          "quote": "adverse supply-side impact of the New Deal probably outweighs any positive demand stimulus that it delivered."
+        }
+      ]
+    },
+    {
+      "claim": "As lições, segundo os autores: não ser passivo diante de choques financeiros, levar crises bancárias a sério, temer o desemprego de longo prazo (histerese) e não insistir numa regra de política equivocada. A regulação pós-crise nos EUA foi capturada por interesses e preservou o banco unitário.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 29,
+          "quote": "The key point is surely the need to take banking crises seriously."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 27,
+          "quote": "Here was a classic case where adhering to the wrong policy rule made things worse."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 22,
+          "quote": "The regulatory response to the banking crises, captured by political interest groups intent on preserving unit banking"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Choques de demanda agregada, monetários e de gasto, originados principalmente nos EUA. Os outros países reagiram à política monetária deflacionária americana do fim dos anos 1920.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 17,
+          "quote": "The most important source of shocks to the world economy from the late 1920s onwards was the United States."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Padrão-ouro: o sistema de câmbio fixo ligou as economias na espiral descendente, impôs deflação aos que perdiam reservas e impediu uma resposta de política eficaz.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 17,
+          "quote": "Here, a central role was played by the gold standard, the fixed exchange-rate system"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 11,
+          "quote": "adherence to fixed exchange rates was the key element in explaining the timing and the differential severity of the crisis"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Amplificador financeiro: crises bancárias e o 'credit crunch' multiplicaram o impacto dos choques iniciais. Os autores acrescentam um elemento de economia política: o medo de perder a disciplina monetária pesou na decisão de ficar no ouro.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 17,
+          "quote": "the shocks which started the downward spiral were greatly amplified by the financial crises which characterized the early 1930s"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 19,
+          "quote": "The decision not to leave the gold standard was influenced by the strength of worries about loss of monetary discipline"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Reino Unido",
+      "period": "1931-1937",
+      "outcome": "Saiu cedo do ouro (setembro de 1931) e não teve falências bancárias. A queda foi leve, e o 'cheap money' puxou a recuperação, mas o desemprego regional e estrutural persistiu.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 13,
+          "quote": "The early exit from the gold standard and the robustness of the financial system created a platform for UK recovery"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 13,
+          "quote": "It was not foreign trade but a reflationary monetary policy that drove recovery."
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "period": "1929-1938",
+      "outcome": "O PIB real caiu 27% de 1929 a 1933, com ondas de falências bancárias, e subiu 36% de 1933 a 1937, após a saída do ouro. A recaída de 1937-38 foi autoinfligida.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 14,
+          "quote": "Between 1929 and 1933 real GDP fell by 27 per cent; between 1933 and 1937 it rose by 36 per cent"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 15,
+          "quote": "This recession was a serious self-induced wound."
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "period": "1931-1937",
+      "outcome": "Deixou o ouro em 1931 com controle de câmbio, mas sem desvalorizar, e manteve a deflação. Chegou a 6 milhões de desempregados em 1933. Os nazistas reduziram o desemprego com obras públicas deficitárias e controle salarial.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 12,
+          "quote": "the mark was not devalued and the government continued with the draconian deflation"
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 16,
+          "quote": "A mass programme of public works financed by budget deficits was begun immediately."
+        }
+      ]
+    },
+    {
+      "name": "Bloco do ouro liderado pela França",
+      "period": "1932-1936",
+      "outcome": "Ficou no ouro após 1931 e teve desempenho cada vez pior, até a França abandonar o ouro em 1936. Antes, a França havia acumulado e esterilizado ouro, pressionando os demais.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 13,
+          "quote": "The performance of the gold bloc, headed by France, was increasingly dismal and in 1936 France, too, abandoned gold."
+        },
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 11,
+          "quote": "Since the gold inflow was effectively sterilized, the policies of the Bank of France created a shortage of reserves"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Trilema macroeconômico",
+      "definition": "Um país só pode ter dois entre três: câmbio fixo, mobilidade de capital e política monetária independente. No padrão-ouro, abria-se mão da política monetária.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 19,
+          "quote": "such a country can only have two of a fixed exchange rate, capital mobility, and an independent monetary policy."
+        }
+      ]
+    },
+    {
+      "term": "Mudança de regime (regime change)",
+      "definition": "Saída do ouro e anúncio de reflação como sinal crível de fim da deflação. Isso altera as expectativas de inflação e reduz os juros reais, permitindo escapar da armadilha de liquidez.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 21,
+          "quote": "The key here was 'regime change', as was originally stressed by Temin and Wigmore"
+        }
+      ]
+    },
+    {
+      "term": "Doutrina das real bills",
+      "definition": "Ideia de que o Fed deveria só suprir o crédito demandado pelo comércio, sem mirar crescimento monetário ou inflação. Levou o Fed a julgar sua política frouxa em 1929-32.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 22,
+          "quote": "The real bills doctrine held that the Federal Reserve should simply supply credit to meet the needs of trade"
+        }
+      ]
+    },
+    {
+      "term": "Histerese e NAIRU",
+      "definition": "O desemprego de longo prazo afasta trabalhadores do mercado e eleva a taxa de desemprego compatível com inflação estável. No Reino Unido, cerca de 1,5 ponto percentual.",
+      "refs": [
+        {
+          "file_id": "b5f6e404d779b6f474cdc50e4227ffc3d8892cdfbd3160ff7ee4ec573422d19d",
+          "pdf_page": 25,
+          "quote": "hysteresis effects had raised the NAIRU"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "É um artigo-síntese que abre um número especial. Muitas conclusões resumem outros trabalhos (Fishback, Wolf, Calomiris, Hatton e Thomas, Eichengreen e Sachs). O resumo atribui aos autores apenas o que eles endossam.",
+    "O foco é EUA e Reino Unido. Os demais países aparecem de forma agregada, e a comparação com 2007-2010 reflete a data de publicação (2010).",
+    "A extração das tabelas tem números corrompidos (por exemplo, '228' por 22,8 e 'TB4' na Tabela 2). A p. 1 é a capa do JSTOR, e as pp. 30-34 são referências."
+  ],
+  "figures_note": [
+    "p. 3: Tabela 1, Grande Depressão vs Grande Recessão nos países avançados (PIB, preços, desemprego, comércio). Números parcialmente corrompidos na extração.",
+    "p. 4: Tabela 2, PIB, deflator, desemprego e bolsa no Reino Unido e nos EUA, 1929-1938. Base das comparações entre os dois países. Conferir no original.",
+    "p. 26: Tabela 3, decomposição do crescimento dos EUA, 1919-29 vs 1929-41 (capital quase estagnado, PTF forte)."
+  ]
+}

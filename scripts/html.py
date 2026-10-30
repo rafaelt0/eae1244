@@ -1,6 +1,7 @@
 """Geração e verificação do pacote offline de estudo EAE1244."""
 
 import argparse
+import base64
 import hashlib
 import json
 import os
@@ -12,7 +13,7 @@ import tempfile
 import zipfile
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from caderno import load_entries
+from caderno import load_entries, validate_caderno
 from fontes import local_path
 from oficina import inspect_workshop
 
@@ -29,6 +30,31 @@ def package_path(root, name):
     if path.is_absolute() or '..' in path.parts or '\\' in name or not name:
         raise ValueError('Caminho inválido no pacote.')
     return local_path(root, name)
+
+
+def embed_fonts(root, css):
+    def inline(match):
+        target = match[1].strip('"\'')
+        if target.startswith('data:'):
+            return match[0]
+        if not re.fullmatch(r'fonts/[a-z0-9-]+\.woff2', target):
+            raise ValueError('Recurso externo ou caminho inválido no CSS: ' + target)
+        font = root / 'web' / target
+        if not font.is_file():
+            raise ValueError('Fonte ausente: ' + target)
+        return 'url("data:font/woff2;base64,' + base64.b64encode(font.read_bytes()).decode('ascii') + '")'
+    css = re.sub(r'url\(\s*([^)]*?)\s*\)', inline, css)
+    if '@import' in css:
+        raise ValueError('@import não é permitido no CSS do pacote.')
+    return css
+
+
+def load_summaries(manifest, directory, root):
+    invalid = [i for i in validate_caderno(manifest, directory, root, 'all') if i['message'] != 'Entrada ausente.']
+    if invalid:
+        raise ValueError('Resumo inválido: ' + invalid[0]['resource_id'] + ': ' + invalid[0]['message'])
+    return {r['resource_id']: entries[0][1] for r in manifest['resources']
+            if (entries := load_entries(directory, r['resource_id']))}
 
 
 def present_data(manifest, summaries, atlas, exercises, root):
@@ -52,9 +78,7 @@ def present_data(manifest, summaries, atlas, exercises, root):
             'authors': summary.get('authors', []) if summary else [], 'summary': summary,
             'files': files, 'source_url': resource.get('source_url', ''), 'label': resource['label']})
     readings = [r for r in resources if r['kind'] == 'reading']
-    icon_path = root / 'web/icons.json'
-    icons = json.loads(icon_path.read_text()) if icon_path.is_file() else {}
-    return {'resources': resources, 'atlas': atlas, 'exercises': exercises, 'files': file_index, 'icons': icons,
+    return {'resources': resources, 'atlas': atlas, 'exercises': exercises, 'files': file_index,
             'counts': {'readings': len(readings), 'complete': sum(bool(r['summary'] and r['summary'].get('status') == 'complete') for r in readings),
                        'pending': sum(not r['summary'] or r['summary'].get('status') != 'complete' for r in readings)}}, originals
 
@@ -122,7 +146,7 @@ def build_package(root, output, data, originals):
         folder.mkdir()
         encoded = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
         html = (root / 'web/index.html').read_text(encoding='utf-8')
-        assets = {'STYLE': (root / 'web/style.css').read_text(), 'DATA': encoded,
+        assets = {'STYLE': embed_fonts(root, (root / 'web/style.css').read_text()), 'DATA': encoded,
                   'APP': (root / 'web/app.js').read_text()}
         for name in assets:
             if html.count('/*' + name + '*/') != 1:
@@ -179,8 +203,7 @@ def main(argv=None, root=None):
         if not report['ok']:
             print(json.dumps({'ok': False, 'dependencies': report}, ensure_ascii=False))
             return 1
-        summaries = {r['resource_id']: entries[0][1] for r in manifest['resources']
-                     if (entries := load_entries(dirs[0], r['resource_id']))}
+        summaries = load_summaries(manifest, dirs[0], root)
         atlas, exercises = [[json.loads(local_path(root, p).read_text()) for p in sorted(d.glob('*.json'))] for d in dirs[1:]]
         data, originals = present_data(manifest, summaries, atlas, exercises, root)
         print(json.dumps(build_package(root, output, data, originals), ensure_ascii=False))

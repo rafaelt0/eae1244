@@ -10,7 +10,7 @@ Direção aprovada: [caderno por aula + atlas de debates + oficina de respostas]
 | `caderno` | Produzir resumos por texto e aula, com referências às fontes e maior profundidade nas aulas 17–28. | `fontes` | [SPEC-caderno.md](SPEC-caderno.md), aprovada |
 | `atlas` | Relacionar autores e textos por debates, convergências, divergências e contexto, com evidências rastreáveis. | `caderno` | [SPEC-atlas.md](SPEC-atlas.md), aprovada |
 | `oficina` | Criar questões discursivas de treino, roteiros de resposta e critérios para revisar a própria resposta. | `caderno`, `atlas` | [SPEC-oficina.md](SPEC-oficina.md), aprovada em 29/10/2026 |
-| `html` | Integrar o conteúdo em um HTML elegante e acessível, com busca, navegação por aula, respostas expansíveis e links aos originais. | `fontes`, `caderno`, `atlas`, `oficina` | [SPEC-html.md](SPEC-html.md), aprovada em 29/10/2026 |
+| `html` | Integrar o conteúdo em um HTML elegante e acessível, com busca, navegação por aula, respostas expansíveis e links aos originais. | `fontes`, `caderno`, `atlas`, `oficina` | [SPEC-html.md](SPEC-html.md), aprovada em 29/10/2026; revisão editorial em [SPEC-editorial.md](SPEC-editorial.md), aprovada e implementada em 29/10/2026 |
 
 Ordem de construção: `fontes` → `caderno` → `atlas` → `oficina` → `html`.
 

@@ -8,7 +8,9 @@ Conferência realizada em 29/10/2026. A revisão do usuário permanece pendente.
 - [Pacote offline completo](../dist/guia-eae1244.zip), aproximadamente 71 MB. Descompactar e abrir `index.html`, mantendo a pasta `originais` junto dele.
 - HTML de aproximadamente 1 MiB, com apresentação, código e dados incorporados.
 - 31 leituras indexadas, 14 resumos completos, oito temas, 16 exercícios e 44 originais preservados.
-- Os 17 resumos anteriores continuam pendentes; o guia mostra esse estado e permite abrir os arquivos. Revisões de extração ainda pendentes também são identificadas. A entrega não declara completos esses resumos.
+- Atualização de 29/10/2026: as 17 leituras anteriores passaram a ter resumos curtos, marcados como parciais e com aviso próprio. O sumário lateral conta completos, curtos e pendentes a partir dos dados.
+- Atualização de 30/10/2026: revisadas as extrações das aulas 2–16, os 17 resumos curtos passaram a `complete` com profundidade `short` e aviso de resumo de contexto. A `main` recebeu em paralelo os PRs #2 (tema claro e escuro, ícones, percurso por tema, marcações e posição de leitura) e #3 (tabelas transcritas). A integração manteve a composição editorial e trouxe as funções: sumário de temas com marcador, lista "Para rever", tira do tema atual com "Copiar link", página escura em paleta própria (contraste mínimo 6,8:1), índice das seções da leitura, busca que abre a seção e volta ao índice remissivo, tabelas como figuras numeradas e restauração da posição de leitura. Os ícones não entraram: a direção editorial não usa ícones de interface. O slogan "Uma aula, um percurso.", que vinha do PR #2, foi removido. `browser.mjs` passou a 26 verificações, todas aprovadas nas 55 rotas.
+- Na entrega original, os 17 resumos anteriores ficavam pendentes; o guia mostrava esse estado e permitia abrir os arquivos. Revisões de extração ainda pendentes também são identificadas. A entrega não declara completos esses resumos.
 
 ## Verificações automatizadas
 
@@ -61,3 +63,22 @@ Rascunhos não entram no ZIP nem são enviados a terceiros. O armazenamento depe
 As classificações, comparações e roteiros continuam identificados como interpretações de estudo. A interface apresenta o conteúdo existente e seus limites. Não há nota automática, avaliação de domínio ou previsão das questões da prova.
 
 O servidor local usado na prévia é opcional. A pasta e o ZIP gerados ficam em `dist/`, fora do Git, pois contêm o acervo local. A geração exige as fontes preservadas; os testes usam fixtures sintéticas.
+
+## Edição editorial (29/10/2026)
+
+Recomposição visual conforme [SPEC-editorial.md](../SPEC-editorial.md). O inventário do texto de interface está em [editorial-copy.md](editorial-copy.md). Os dados de estudo não foram alterados.
+
+- Fontes Source Serif 4 incorporadas em base64 pelo gerador. O teste novo rejeita URL remota, `@import`, caminho fora de `web/fonts/` e fonte ausente. HTML com 1,12 MiB.
+- 92 testes passaram: 23 de fontes, 22 do caderno, 16 do atlas, 15 da oficina, 11 de geração e cinco de lógica JavaScript. `html.py verify` não apontou divergências.
+- `tests/html/browser.mjs` passou nas 17 verificações e nas 55 rotas, sem erros de console. Três seletores foram trocados pelos equivalentes do novo layout, com as mesmas asserções.
+- Nenhuma rolagem horizontal nas 56 rotas, incluindo o acervo, em 320, 768, 1024 e 1440 px, medida por `scrollWidth`.
+- Contraste sobre o papel `#f6f1e6`: texto 15,4:1, secundário 6,8:1, destaque 6,9:1 e aviso 6,4:1.
+- Com o pacote aberto por `file://`, as únicas requisições são o próprio arquivo e os recursos embutidos.
+
+Capturas antes, em `.local/editorial-qa/antes/`, e depois, em `.local/editorial-qa/depois/`: Caderno, Atlas, Praticar e busca em 1440 px, Caderno, Atlas e Praticar em 390 px, e acervo em 1024 px. Resultado aprovado pelo usuário em 29/10/2026.
+
+### Revisão de acabamento
+
+- A busca deixou de indexar identificadores internos, como `qualifies`, `converge`, IDs de leitura e de tema. As classificações passam a ser encontradas pelo rótulo em português, como "Qualifica a tese". Um teste novo cobre isso, e a consulta "qualifies" não retorna resultados no pacote real.
+- Até 1023 px, a busca ocupa a segunda linha do cabeçalho, as abas cabem inteiras no sumário e as posições do Atlas se empilham sem o fio lateral.
+- 93 testes passaram. `browser.mjs` passou nas 17 verificações e nas 55 rotas, e as 56 rotas continuam sem rolagem horizontal nas quatro larguras.

@@ -153,3 +153,47 @@ Python padrão para geração e testes; HTML/CSS/JS nativos para apresentação.
 ## Resultado do HTML
 
 Pacote local concluído com Caderno, Atlas, busca e Praticar. 91 testes passaram, além da conferência de 55 páginas e dos fluxos de interação. Rede desativada e abertura direta por arquivo verificadas. Relatório em [docs/html-revisao.md](../docs/html-revisao.md). Os 17 resumos anteriores não foram declarados completos.
+
+---
+
+# Plano de execução — edição editorial
+
+Especificação: [SPEC-editorial.md](../SPEC-editorial.md), aprovada em 29/10/2026. Tarefas 33–40 em [todo.md](todo.md). Execução contínua pedida pelo usuário em 29/10/2026, sem os checkpoints intermediários.
+
+## Decisões para as perguntas em aberto
+
+Na falta de resposta, valem estes padrões, revisáveis a qualquer checkpoint:
+
+- A frase "Uma aula, um percurso" é tratada como categoria. O inventário cobre todo o texto de interface.
+- A página inicial e as rotas não mudam. O frontispício com sumário fica como proposta separada.
+- O protótipo mostra as duas cores de destaque, vermelho de impressão e azul-tinta.
+- A habilidade "taste" não está disponível. A execução segue esta especificação e `frontend-ui-engineering`.
+
+## Fontes
+
+O `fontTools` não está instalado, então não há subconjunto local. Usar os WOFF2 de subconjunto latino já publicados pelo Fontsource (`@fontsource/source-serif-4`, OFL), baixados uma vez e versionados em `web/fonts/` com `OFL.txt` e a origem registrada. O latim básico com Latin-1 cobre ã, õ, ç e os acentos. Conferir a cobertura com uma frase de teste. O gerador incorpora os arquivos em base64 no CSS, e o teste garante que não haja URL remota.
+
+## Ordem e dependências
+
+Inventário de texto → fontes no gerador → **protótipo e escolha** → base tipográfica e sumário → Caderno → Atlas → Praticar, Busca e Originais → texto aplicado, verificação e entrega.
+
+O protótipo vem antes de qualquer mudança em `web/style.css`. Ele é uma página estática em `.local/prototipos/`, fora do Git, que compõe uma leitura real (aula 17, Harrison) em duas ou três direções lado a lado. Depois da escolha, cada tela é uma fatia vertical: CSS, composição em `app.js`, ajuste de seletores em `browser.mjs`, geração, conferência no navegador e commit.
+
+## Riscos
+
+- Notas de margem desalinhadas em afirmações longas: usar grade em CSS por parágrafo, com a nota na mesma linha da grade, e não posicionamento absoluto.
+- A matriz do Atlas pode ficar larga demais em 320–768 px. Abaixo de 1024 px, a tabela vira uma lista por mecanismo, com cada autor e a classificação em texto.
+- Seletores do `browser.mjs` podem quebrar. Atualizá-los na mesma fatia, mantendo cada verificação e a contagem de 55 rotas e 44 originais.
+- Peso das fontes: medir o HTML após a tarefa 34; parar se passar de 600 KiB de fontes ou de 4 MiB no total.
+- O gosto não é verificável por teste. Por isso há dois checkpoints com o usuário: o protótipo e o resultado final.
+
+## Checkpoints
+
+1. Depois da tarefa 33: você revisa o inventário de texto.
+2. Depois da tarefa 35: você escolhe a direção do protótipo e a cor.
+3. Depois da tarefa 37: você revisa o Caderno aplicado antes de Atlas e Praticar.
+4. Depois da tarefa 40: aprovação final com capturas antes e depois.
+
+## Resultado da edição editorial
+
+Caderno, Atlas, Praticar, Busca, Sumário e Originais recompostos com tipografia embutida. 92 testes e as 17 verificações do roteiro de navegador passaram nas 55 páginas. Não há rolagem horizontal nas 56 rotas em 320, 768, 1024 e 1440 px, e o menor contraste de texto é 6,4:1. Desvios e capturas estão em [SPEC-editorial.md](../SPEC-editorial.md) e [docs/html-revisao.md](../docs/html-revisao.md). Resultado aprovado pelo usuário em 29/10/2026.

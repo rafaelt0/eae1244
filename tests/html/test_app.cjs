@@ -1,6 +1,6 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
-const {normalize, searchDocs, buildSearchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise} = require('../../web/app.js');
+const {normalize, searchDocs, buildSearchDocs, createDraftStore, createStudyStore, relatedTopics, studyExercise, collectText} = require('../../web/app.js');
 
 test('search ignores accents and case and returns matching context', () => {
   assert.equal(normalize('EDUCAÇÃO'), 'educacao');
@@ -41,6 +41,16 @@ test('reading shortcuts prefer the closest topic and its guided exercise', () =>
   assert.equal(studyExercise(reading.id,related,exercises).exercise_id,'war-guided');
 });
 
+test('search text keeps prose and labels, never internal identifiers', () => {
+  const topic = {debate_id:'fim-bretton-woods', entry_type:'debate', positions:[{resource_id:'moodle-resource-1', stance:'qualifies', summary:'Meissner apresenta Triffin.', refs:[{file_id:'abc', quote:'boost'}]}],
+                 relations:[{id:'ajuste', type:'converge', between:['moodle-resource-1'], text:'Ambos ligam o colapso.'}]};
+  const text = collectText(topic, {qualifies:'Qualifica a tese', converge:'Convergência'});
+  assert.match(text, /Meissner apresenta Triffin/);
+  assert.match(text, /Qualifica a tese/);
+  assert.match(text, /Convergência/);
+  for (const raw of ['qualifies', 'converge', 'moodle-resource', 'fim-bretton-woods', 'debate', 'ajuste', 'boost']) assert.doesNotMatch(text, new RegExp('\\b' + raw + '\\b'));
+});
+
 test('study context, review list and reading position survive reload without changing drafts', () => {
   const values = new Map();
   const storage = {getItem:key=>values.get(key),setItem:(key,value)=>values.set(key,value)};
@@ -76,12 +86,15 @@ test('invalid persisted study metadata is ignored instead of breaking navigation
   assert.equal(restored.theme,'system');
 });
 
-test('global search opens the concept section and does not index exercise solutions', () => {
+test('search opens the matching section, lists each item once and never indexes solutions', () => {
   const docs=buildSearchDocs({resources:[{id:'r1',kind:'reading',title:'O crescimento',authors:['Autora'],lessons:[20],
     summary:{thesis:'Tese principal',concepts:[{term:'Convergência',definition:'Aproximação das rendas.'}]}}],atlas:[],
     exercises:[{exercise_id:'q1',title:'Questão',mode:'guided',prompt:'Explique o crescimento.',works:['r1'],lessons:[20],answer_outline:{thesis:[{text:'SOLUCAO_RESERVADA'}]}}]});
-  const match=searchDocs(docs,'convergencia')[0];
-  assert.equal(match.id,'r1');assert.equal(match.section,'conceitos-para-a-resposta');
+  const match=searchDocs(docs,'convergencia');
+  assert.equal(match.length,1);
+  assert.equal(match[0].id,'r1');assert.equal(match[0].section,'conceitos');
+  assert.match(match[0].snippet,/Convergência/);
+  assert.equal(searchDocs(docs,'Autora').filter(doc=>doc.view==='caderno').length,1);
   assert.equal(searchDocs(docs,'SOLUCAO_RESERVADA').length,0);
   assert.equal(searchDocs(docs,'Autora').some(doc=>doc.view==='praticar'),true);
 });
