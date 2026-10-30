@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6560677",
+  "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+  "lessons": [
+    9,
+    10
+  ],
+  "authors": [
+    "Atack",
+    "Passell"
+  ],
+  "title": "The great depression: explaining the contraction (Chapter 21, A New Economic View of American History)",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "O capítulo parte da falta de consenso sobre a Grande Depressão e examina a contração americana de 1929-33 pelas explicações de demanda agregada e monetaristas. Nas contas apresentadas, só a queda do investimento já pode explicar toda a queda da demanda agregada, o consumo também despencou, o comércio exterior teve papel modesto e a política fiscal só se tornou pró-cíclica com o aumento de impostos de 1932.",
+  "question": "O que explica a contração americana de 1929 até 1932-33, e quais explicações (de demanda agregada ou monetaristas) dão conta dos fatos?",
+  "refs": [
+    {
+      "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+      "pdf_page": 2,
+      "quote": "there are few events on which there is less consensus about the issues, the data, the relevant hypotheses, or the appropriate tests"
+    },
+    {
+      "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+      "pdf_page": 16,
+      "quote": "they can plausibly explain the entire change in aggregate demand between 1929 and 1933"
+    },
+    {
+      "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+      "pdf_page": 19,
+      "quote": "These declines are, however, modest by comparison with the changes in consumption and investment expenditures"
+    },
+    {
+      "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+      "pdf_page": 19,
+      "quote": "This ultimately played a role in converting what was by then a most severe depression into the Great Depression."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Os fatos: entre 1929 e 1933 o produto real caiu 29%, e o investimento bruto foi de cerca de 15% do PNB para menos de 1% em 1932-33. O capítulo trata só da contração e deixa a recuperação para o capítulo 22.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 2,
+          "quote": "Between 1929 and 1933 real output fell by 29 percent"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 2,
+          "quote": "Gross investment fell from about 15 percent of GNP"
+        }
+      ]
+    },
+    {
+      "claim": "A recessão começou antes do crash. O aperto do Fed a partir de 1928, motivado pela especulação na bolsa, é apontado por Schwartz como origem da desaceleração, visão que os autores aproximam da de Keynes. O pânico veio em outubro de 1929.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 21,
+          "quote": "view of the origins of the depression is surprisingly close to that first articulated by Keynes"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 21,
+          "quote": "this time in response to the immoderate concern of the Federal Reserve Board about speculation in the Stock Market."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 8,
+          "quote": "Panic selling hit the market the next day, October 24"
+        }
+      ]
+    },
+    {
+      "claim": "Consumo: para Temin, uma queda autônoma e inexplicada do consumo em 1930 é central. Num cálculo condicional dos autores, o efeito riqueza das perdas na bolsa pode responder por um terço ou mais da queda do consumo, e que a deflação piorou o balanço das famílias.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 15,
+          "quote": "The unexpectedly large decline in autonomous consumption expenditures in 1930 occupies a central role in Temin's explanation"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 13,
+          "quote": "a third or more of the decline in consumption between September 1929 and June 1932 might"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 15,
+          "quote": "the balance sheet for the average American household took a dramatic turn for the worse"
+        }
+      ]
+    },
+    {
+      "claim": "Investimento: na linha de Keynes, houve até desinvestimento. A construção residencial, que havia superconstruído nos anos 1920 e enfrentava desaceleração demográfica, já caía desde o meio da década, e a queda foi mascarada pelo consumo e pela especulação até 1930.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 16,
+          "quote": "they can plausibly explain the entire change in aggregate demand between 1929 and 1933"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 17,
+          "quote": "America's builders overbuilt but the deflationary economic impact of the decline in residential construction was delayed and disguised"
+        }
+      ]
+    },
+    {
+      "claim": "Setor externo: a alta dos juros americanos e a esterilização do ouro pelo Fed jogaram o ajuste sobre os devedores (Grã-Bretanha, Alemanha, América Latina, Ásia). A tarifa Smoot-Hawley provocou retaliação e o colapso do comércio, mas a queda das exportações líquidas foi pequena perto da de consumo e investimento.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 18,
+          "quote": "This policy forced the entire burden of adjustment upon the debtor countries"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 19,
+          "quote": "These declines are, however, modest by comparison with the changes in consumption and investment expenditures"
+        }
+      ]
+    },
+    {
+      "claim": "Governo e moeda: a política fiscal federal foi anticíclica até o aumento de impostos de junho de 1932 e não explica o início da depressão. Entre os monetaristas, Friedman e Schwartz culpam o Fed por não aliviar a crise de liquidez e listam cinco choques financeiros. O trecho disponível só cobre o crash e a primeira crise bancária.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 19,
+          "quote": "This ultimately played a role in converting what was by then a most severe depression into the Great Depression."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 21,
+          "quote": "blames the Federal Reserve for not doing enough to ease the liquidity crisis among the nation's banks."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 22,
+          "quote": "Friedman and Schwartz identify five separate financial shocks to the system"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Colapso do gasto autônomo, sobretudo do investimento (com desinvestimento) e do consumo, lido pela identidade keynesiana em que a variação do PNB é um múltiplo das variações do gasto.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 11,
+          "quote": "the change in GNP is a multiple of the changes in the spending"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 16,
+          "quote": "they can plausibly explain the entire change in aggregate demand between 1929 and 1933"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Assimetria internacional: o Fed neutralizou as entradas de ouro em vez de deixar o nível de preços americano se ajustar, o que forçou os países devedores a carregar o ajuste. Na avaliação de um economista britânico da época, citada no texto, a tarifa de 1930 trouxe o colapso do padrão-ouro internacional.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 18,
+          "quote": "the Fed deliberately tried to neutralize the effects of gold inflows"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 18,
+          "quote": "for it brought with it the collapse of the international gold standard."
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Deterioração do balanço das famílias: perdas de riqueza e aumento do peso real das dívidas reduziram a liquidez e desestimularam compras de bens duráveis e de casas.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 15,
+          "quote": "placing households in increasingly unfavorable liquidity positions and discouraging expenditures on durable goods"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Crash da bolsa de Nova York",
+      "period": "outubro de 1929 a meados de 1932",
+      "outcome": "Os preços seguiram caindo até meados de 1932. O efeito sobre o consumo é incerto, porque a posse de ações era concentrada (cerca de cinco milhões de acionistas).",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 9,
+          "quote": "Prices continued to drift lower until mid-1932."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 13,
+          "quote": "Only about five million people owned any stock"
+        }
+      ]
+    },
+    {
+      "name": "Construção residencial",
+      "period": "1924-1933",
+      "outcome": "Depois de recordes acima de 8% do PNB em meados dos anos 1920, a construção caiu para menos da metade do pico em 1929. Parte da queda vem da demografia.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 17,
+          "quote": "by 1929 residential construction was less than half its mid-decade peak"
+        }
+      ]
+    },
+    {
+      "name": "Tarifa Smoot-Hawley",
+      "period": "1930-1935",
+      "outcome": "As tarifas médias sobre importações tributadas quase dobraram, vieram retaliações e o comércio mundial entrou em espiral de contração.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 19,
+          "quote": "brought with it the collapse of world trade"
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 18,
+          "quote": "average ad valorem rates on dutiable imports rose from 25.9 percent over the period 1921-25 to 50.02 percent between 1931 and 1935"
+        }
+      ]
+    },
+    {
+      "name": "Primeira crise bancária (Bank of United States)",
+      "period": "outubro de 1930 a fevereiro de 1931",
+      "outcome": "Os depósitos em bancos suspensos dobraram em novembro e de novo em dezembro de 1930. A falência do Bank of United States foi a maior até então.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 25,
+          "quote": "Federal Reserve data list 236 banks as failing in November."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 25,
+          "quote": "which failed on December 11 with more than $200 million in deposits"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Renda transitória vs permanente",
+      "definition": "O consumo reage pouco a perdas de renda vistas como temporárias. Em 1930, o desemprego teria sido visto como perda transitória, até a percepção mudar.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 15,
+          "quote": "consumers viewed it as a purely transitory loss of expected income"
+        }
+      ]
+    },
+    {
+      "term": "Subconsumo (Schumpeter e outros)",
+      "definition": "Tese de que ganhos de produtividade dos anos 1920 não repassados aos salários fizeram a capacidade de produzir superar a de comprar. A crítica dos autores a essa tese está na p. 12, ilegível na extração.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 11,
+          "quote": "Depression was the result of \"underconsumption"
+        }
+      ]
+    },
+    {
+      "term": "Investment trust e compra na margem",
+      "definition": "Fundos alavancados com títulos de renda fixa e compras de ações com pequena entrada e o resto emprestado pelo corretor. Para Galbraith, foram as inovações que tornaram o crash inevitável.",
+      "refs": [
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 22,
+          "quote": "The major financial innovation was the investment trust."
+        },
+        {
+          "file_id": "27d1e0143d4a3cee78f7fa2d7a4bd7af20955d1040e8123a77529746baee7ad0",
+          "pdf_page": 23,
+          "quote": "creditworthy customers could buy stock with as little as 10 percent down"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "OCR falho: as pp. 10 e 12 estão invertidas e ilegíveis (abertura da seção 'Explaining the Depression' e crítica ao subconsumo e à renda agrícola). As pp. 3, 6, 8, 11 e 13 têm trechos corrompidos ou colunas misturadas, e a p. 14 é só uma imagem. Nada dessas lacunas foi preenchido. Fontes não revisadas: entrada parcial.",
+    "O capítulo está truncado: o PDF termina na p. 25 no meio da primeira crise bancária. Os demais choques de Friedman e Schwartz e a visão hayekiana não estão no arquivo, e a recuperação fica para o capítulo 22.",
+    "Autores e ano não aparecem nas páginas extraídas. 'Atack' e 'Passell' vêm do nome do arquivo ('atack-and-passel'), e o ano ficou em branco. A Tabela 21.1, citada na p. 13, não está na extração."
+  ],
+  "figures_note": [
+    "p. 4: Figura 21.3, PNB nominal e real, 1926-1934 (eixos ilegíveis na extração).",
+    "p. 5: Figura 21.4, taxa de desemprego, 1919-39.",
+    "p. 16: Tabela 21.2, investimento privado bruto e componentes, 1929-1939. Sustenta o argumento do desinvestimento.",
+    "p. 20: Figura 21.8, a espiral de contração do comércio mundial (Kindleberger), com valores mensais legíveis.",
+    "p. 24: Figura 21.9, índices de preços de ações e de dividendos, usados para datar a bolha a partir de 1928."
+  ]
+}

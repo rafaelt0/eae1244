@@ -82,9 +82,10 @@
 - Dependências: 10.
 
 ## 12. Aulas 2–16 (contexto curto)
-- [ ] Entradas `short`, `partial`, para os demais recursos; pendências explícitas na cobertura.
+- [x] Entradas `short`, `partial`, para os demais recursos; pendências explícitas na cobertura.
 - Verificação: `coverage` separa prioritárias e demais.
 - Dependências: 11. Pode ficar parcial.
+- Resultado (29/10/2026): 17 entradas curtas e parciais; `validate --scope all` sem problemas; cobertura com 14 completas, 17 parciais e nenhuma ausente. O validador passou a conferir as seções opcionais das entradas curtas, e o gerador do HTML recusa qualquer resumo presente que não passe nele. Lacunas de OCR, figuras não extraídas, PDFs truncados e uma divergência numérica entre Eloranta–Harrison e Broadberry–Harrison sobre as perdas da França estão nos `limits` e `figures_note` de cada entrada. A revisão humana por amostragem continua pendente.
 
 ---
 

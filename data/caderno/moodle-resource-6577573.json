@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6577573",
+  "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+  "lessons": [
+    11,
+    12
+  ],
+  "authors": [
+    "Atack",
+    "Passell"
+  ],
+  "title": "The Extension of Government Intervention",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Os autores descrevem o New Deal como uma expansão súbita e permanente do governo federal, organizada em medidas de recuperação, reforma e alívio (bancos e ouro, AAA, NIRA, FERA, WPA, Seguridade Social). Avaliam-no criticamente: a NIRA era uma ordem para cartelizar, muitas reformas foram mal concebidas ou ineficientes, e o alcance do governo nunca mais recuou.",
+  "question": "O que o New Deal fez entre 1933 e 1938, com quais instrumentos, e qual foi seu efeito sobre a economia e sobre o tamanho do governo?",
+  "refs": [
+    {
+      "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+      "pdf_page": 2,
+      "quote": "toward one of three goals: recovery, reform, or relief"
+    },
+    {
+      "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+      "pdf_page": 5,
+      "quote": "NIRA was an order to cartelize"
+    },
+    {
+      "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+      "pdf_page": 7,
+      "quote": "Many of New Deal structural reforms were misguided or inefficient."
+    },
+    {
+      "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+      "pdf_page": 7,
+      "quote": "The scope of government was forever increased, and this trend has not reversed to this day."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Antecedente: depois do Pânico de 1907, Oklahoma e outros estados criaram seguros de depósito com regulação frouxa; quebras logo esgotaram os fundos e nenhum sobreviveu aos anos 1920. Estados com bancos ramificados tiveram muito menos falências que os de bancos de agência única.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 1,
+          "quote": "None of the schemes survived the 1920s."
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 1,
+          "quote": "Bank failure rates and branch banking were"
+        }
+      ]
+    },
+    {
+      "claim": "Resposta imediata de Roosevelt em março de 1933: feriado bancário, entrega do ouro ao Fed, Emergency Banking Act e proibição de exportar ouro, o que na prática encerrou o padrão-ouro, com fim formal anunciado em 19 de abril de 1933.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "On March 9 Congress was called back into special session."
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "effectively terminated the gold standard, the demise of which was formally announced on April 19, 1933"
+        }
+      ]
+    },
+    {
+      "claim": "As leis dos Cem Dias se agrupam em recuperação (NIRA, AAA), alívio (CCC, FERA) e reforma (Glass-Steagall, lei da SEC). A FERA iniciou a mudança do gasto público do nível local para o federal: em 1940 cerca de metade dos serviços vinha do governo federal, puxada pelos programas de alívio.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "it is convenient to think of specific legislative initiatives as directed primarily"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "FERA marks the beginnings of a switch in government expenditure"
+        }
+      ]
+    },
+    {
+      "claim": "A AAA tratou os preços agrícolas baixos como excesso de oferta: fixou cotas de área por estado e por fazendeiro, compensadas com tributo sobre os processadores, sem incluir salários agrícolas (bloqueados pelos democratas do sul). Foi declarada inconstitucional em 1936 e substituída por programas que mantiveram pisos de preço.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 4,
+          "quote": "AAA perceived the problem of low prices as one of excess supply in"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 4,
+          "quote": "wages in the AAA were successfully thwarted by southern Democrats"
+        }
+      ]
+    },
+    {
+      "claim": "A NIRA atacou a espiral deflacionária suspendendo o antitruste e mandando empresas e trabalhadores redigirem códigos de \"concorrência leal\" legalmente vinculantes. Estimativas citadas atribuem aos códigos cerca de metade da alta dos salários e quase um terço da recuperação dos preços até a decisão Schechter (1935), mas os autores alertam que os dados são frágeis.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "The NIRA, in effect, suspended antitrust"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "about half the increase in wages and almost a third of the recovery in prices before the Schechter decision"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "place a heavy burden upon the data"
+        }
+      ]
+    },
+    {
+      "claim": "O Segundo New Deal (1935) trouxe a Seguridade Social, a WPA, o National Labor Relations Act, o salário mínimo do Fair Labor Standards Act e a reforma do Fed (Banking Act de 1935). No balanço dos autores, muitas leis foram feitas às pressas e derrubadas pela Suprema Corte, várias reformas foram ineficientes, mas o papel do governo na economia nunca voltou atrás.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 6,
+          "quote": "the Social Security Act"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 7,
+          "quote": "Much of this legislation was conceived in haste and repealed at leisure."
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 7,
+          "quote": "Many of New Deal structural reforms were misguided or inefficient."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "other",
+      "description": "Cartelização contra a deflação: a NIRA quis elevar preços e salários restringindo a produção. Se só alguns setores cartelizam, ganham à custa dos demais; se cartéis têm sucesso desigual, os preços relativos se distorcem, os bem-sucedidos produzem pouco e a renda nacional real cai.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "by dealing directly with the vicious cycle of price deflation"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "if only some sectors of the economy are allowed to cartelize"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "The successful cartels will produce too little"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Patronagem e federalismo: as verbas discricionárias da FERA abriram espaço para patronagem e corrupção; o Congresso respondeu com programas de contrapartida estrita, deixando o controle político com os estados e não com o Executivo. Os democratas do sul barraram salários agrícolas na AAA.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 4,
+          "quote": "FERA offered significant opportunities for political patronage"
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 4,
+          "quote": "Congress made sure that subsequent relief programs were on a strict"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Seguro de depósito e risco moral: a FDIC (Glass-Steagall, 1933) reduziu o risco de corridas, mas, para os autores, não resolveu o risco moral implícito nesses esquemas, e sua contribuição à estabilidade bancária é questionada.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "it failed to resolve the issue of moral hazard implicit in all such"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Seguro de depósitos de Oklahoma",
+      "period": "1908-anos 1920",
+      "outcome": "Popular no início, mas a quebra do maior banco do estado logo ameaçou o fundo; os esquemas estaduais foram extintos nos anos 1920.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 1,
+          "quote": "Trouble began almost immediately when the largest"
+        }
+      ]
+    },
+    {
+      "name": "Feriado bancário",
+      "period": "março de 1933",
+      "outcome": "Em 15 de março reabriram cerca de metade dos bancos, com cerca de 90% dos depósitos.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "about half of the nation's banks with about 90 percent"
+        }
+      ]
+    },
+    {
+      "name": "NIRA/NRA",
+      "period": "1933-1935",
+      "outcome": "Em janeiro de 1934 os códigos cobriam cerca de 90% da força de trabalho industrial; elevaram salários e preços; a Suprema Corte anulou a lei em 1935 (Schechter).",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "NRA regulations covered about 90 percent of the industrial work force."
+        },
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "the adoption of codes of fair competition increased nominal wages by 2.15 percent per month"
+        }
+      ]
+    },
+    {
+      "name": "AAA e sucessores",
+      "period": "1933-1938",
+      "outcome": "Tributo e controles anulados em 1936 (Butler); substituídos pela lei de conservação do solo e pela AAA de 1938, cujos empréstimos sem recurso funcionavam como piso para os preços agrícolas.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 6,
+          "quote": "These loans in effect established a floor under"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Recuperação, reforma e alívio",
+      "definition": "Os três objetivos com que os autores classificam as leis do New Deal: reativar a produção, reformar instituições vistas como falhas e aliviar desempregados e pobres.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "toward one of three goals: recovery, reform, or relief"
+        }
+      ]
+    },
+    {
+      "term": "Novo federalismo e matching grants",
+      "definition": "Deslocamento do gasto para o governo federal e repasse aos estados por contrapartida, iniciados com a FERA.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "FERA also marks the beginnings of the federal policy of matching grants"
+        }
+      ]
+    },
+    {
+      "term": "Preços de paridade",
+      "definition": "Meta da AAA de devolver ao agricultor o poder de compra anterior à Primeira Guerra, eliminando excedentes por redução da produção.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 2,
+          "quote": "to restore farm purchasing power by"
+        }
+      ]
+    },
+    {
+      "term": "Códigos de concorrência leal",
+      "definition": "Regras de preços e produção redigidas por conselhos de empresas e trabalhadores sob a NIRA, com força legal após aprovação do Executivo.",
+      "refs": [
+        {
+          "file_id": "7d85e3b9d98e0bfa263323e5b5daa55f168ae1222cee9da12e9a30aff33e78cd",
+          "pdf_page": 5,
+          "quote": "codes of fair competiton"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "OCR (tesseract) muito ruidoso: nas páginas 1, 2, 4, 5 e 6 as colunas se misturam e há trechos ilegíveis, e a página 7 marca dois trechos como ilegíveis na digitalização; nada disso foi preenchido, e números de trechos corrompidos (por exemplo, o efetivo da WPA) não foram usados.",
+    "O trecho é parte de um capítulo do livro A New Economic View of American History (cabeçalho \"The Extension of Government Intervention\", páginas impressas 664-677): começa no meio da discussão sobre seguro de depósitos e termina no início do Apêndice A, sobre cartéis. Autores e ano não aparecem nas páginas; os sobrenomes vêm do nome do arquivo (atack-and-passel).",
+    "Há juízos normativos fortes dos autores (a NIRA como teoria econômica equivocada ou flerte com o nacional-socialismo; programas agrícolas e salário mínimo como ineficientes) que são opinião, não resultado demonstrado no trecho; os próprios autores dizem que as estimativas sobre a NRA forçam os dados."
+  ],
+  "figures_note": [
+    "Página 3: Tabela 23.2 (leis dos Cem Dias, data, sigla e ação) parcialmente legível, com OCR corrompido em várias linhas.",
+    "Página 4: Figura 23.3 (participação do gasto por nível de governo, local, estadual e federal, desde o início do século) ilegível na extração; ela sustenta a afirmação sobre o novo federalismo.",
+    "Página 7: Figura 23A.1 (preço de cartel) só descrita; o apêndice é cortado."
+  ]
+}

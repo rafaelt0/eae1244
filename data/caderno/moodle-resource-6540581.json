@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6540581",
+  "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+  "lessons": [
+    6,
+    7
+  ],
+  "authors": [
+    "Stephen Broadberry",
+    "Mark Harrison"
+  ],
+  "title": "The economics of World War I: an overview",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Para Broadberry e Harrison, a economia decidiu a Primeira Guerra: falhado o plano alemão de vitória militar rápida, a superioridade aliada em população, território e sobretudo PIB (ampliada quando os EUA substituíram a Rússia em 1917) se impôs numa guerra de desgaste. A capacidade de mobilizar dependia do nível de desenvolvimento; nos países pobres, inclusive a Alemanha com seu setor agrícola atrasado, o campesinato se retirou do mercado, o que levou à fome urbana e ao colapso econômico que encerrou a guerra.",
+  "question": "O que os fatores econômicos contribuíram para a vitória e a derrota na Primeira Guerra Mundial, e como a guerra afetou as instituições e o desempenho econômico do pós-guerra?",
+  "refs": [
+    {
+      "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+      "pdf_page": 4,
+      "quote": "Ultimately, economics determined the outcome."
+    },
+    {
+      "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+      "pdf_page": 13,
+      "quote": "depended on three factors that varied independently: their level of economic development, their proximity to the front line, and the duration of their engagement."
+    },
+    {
+      "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+      "pdf_page": 20,
+      "quote": "to be poor when war broke out was to suffer the consequences of a peasant agriculture"
+    },
+    {
+      "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+      "pdf_page": 35,
+      "quote": "the Allied victory of 1945, like that of 1918, was enabled by an overwhelming predominance of resources."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "A guerra não foi travada por colônias, mas pelo controle da Europa, em terra. O plano alemão previa vencer no oeste em seis semanas por meios militares; só depois do impasse das trincheiras os governos passaram a mobilizar economias inteiras para uma guerra de desgaste.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 2,
+          "quote": "In fact, the European powers did not fight World War I over colonies."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 3,
+          "quote": "The war was intended to be won by military, not economic means"
+        }
+      ]
+    },
+    {
+      "claim": "Desde 1914 os Aliados tinham cerca de cinco vezes a população, onze vezes o território e três vezes o produto das Potências Centrais, embora com renda média menor por causa das colônias pobres, que pouco valiam para o esforço de guerra. Em 1917 a entrada dos EUA no lugar da Rússia multiplicou o produto aliado e elevou seu nível médio de desenvolvimento acima do adversário.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 8,
+          "quote": "the Allies had access to five times the population, eleven times the territory, and three times the output of the Central Powers"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 5,
+          "quote": "the mere possession of low-income territories was of little value to a great power in the war."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 10,
+          "quote": "When America replaced Russia the Allied population and territory declined but its output multiplied"
+        }
+      ]
+    },
+    {
+      "claim": "Os fatores morais, políticos, técnicos e organizacionais (a objeção de Overy) foram endógenos ao curso da guerra: cada revés levava a reorganizar estratégia e moral, e esses déficits tendiam a se corrigir. O que não se corrigia era a falta de recursos, como mostram as ofensivas alemãs de 1914 e de 1918.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 12,
+          "quote": "proved to be endogenous to the progress of the war."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 12,
+          "quote": "The one thing that could not be overcome was a deficit of resources."
+        }
+      ]
+    },
+    {
+      "claim": "A mobilização fiscal e militar cresceu com o nível de desenvolvimento e caiu com a distância do front e com menor duração do engajamento; os países ricos também armaram melhor seus soldados. A regressão da nota 3 explica a maior parte da variação e, segundo os autores, deixa pouco espaço para explicações baseadas em peculiaridades institucionais nacionais.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 13,
+          "quote": "depended on three factors that varied independently: their level of economic development, their proximity to the front line, and the duration of their engagement."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 15,
+          "quote": "economies were able to support capital-intensive warfare."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 36,
+          "quote": "hardly any room is left for traditional historical accounts"
+        }
+      ]
+    },
+    {
+      "claim": "A pobreza pesava pela agricultura camponesa. Com a indústria voltada ao exército, faltavam manufaturas para o campo, e os camponeses deixavam de vender comida; os governos fixavam preços baixos e pioravam o quadro. A fome urbana resultou da perda de titularidade (entitlement) das cidades, não da falta agregada de alimentos. A Alemanha, de modernização desequilibrada, entra nesse grupo.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 17,
+          "quote": "presence of a large peasantry proved to be a great disadvantage"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 18,
+          "quote": "the localised shortages that began to spread were famines that arose from the urban society's loss of entitlement"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 20,
+          "quote": "Germany paid a high price during the two world wars for protecting its agriculture in peacetime"
+        }
+      ]
+    },
+    {
+      "claim": "Quanto aos custos, os autores criticam Bogart por somar fluxos de gasto com variações de estoque de ativos e propõem o balanço patrimonial nacional (capital humano e físico, tangível e intangível, ativos externos). Sobre o longo prazo, são céticos quanto a efeitos positivos da guerra: o 'efeito catraca' do gasto público vem só do serviço da dívida, e o contraste entre neutros e combatentes em 1913-29 reforça a ênfase nos custos.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 23,
+          "quote": "it combines flows of current spending with changes in the stock of assets needed to generate those flows."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 24,
+          "quote": "the long-run impact of the war can best be assessed by looking at the effects on national wealth"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 29,
+          "quote": "the only reason for the ratchet effect was the cost of debt service"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 32,
+          "quote": "the most important difference is between neutral and combatant countries."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Nível de desenvolvimento como condição da mobilização: só com renda per capita alta, transporte e governo e finanças eficientes, população e território viravam poder militar; por isso a vantagem de recursos dos Aliados, e não a qualidade militar inicial alemã, decidiu o resultado.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 5,
+          "quote": "relatively high level of economic development was essential if territory and population were to count in war."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 35,
+          "quote": "the failure of its economy, not its army."
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Retirada camponesa do mercado: o camponês se comportou como um parceiro comercial neutro; sem manufaturas para comprar e com preços baixos, voltou à subsistência, e a comida ficou no lugar errado, espremendo os trabalhadores urbanos entre o exército e o campo.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 17,
+          "quote": "Peasant agriculture behaved very much like a neutral trading partner."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 18,
+          "quote": "Consequently, peasant farmers retreated into subsistence activities."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Controle de preços por razões orçamentárias: nos países pobres, os governos racionaram comida nas cidades e tentaram comprar do campo a preços fixados baixos, deslocando os termos de troca a favor das cidades; isso gerou excesso de demanda, mercado negro e menos oferta. Nos países ricos, o governo pagou mais aos produtores e funcionou.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 18,
+          "quote": "in richer countries the government paid more to the food producers, and this worked"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 20,
+          "quote": "the government stepped in and tried to hold prices down, creating excess demand and scope for a black market in each country."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Rússia",
+      "period": "1914-1917",
+      "outcome": "Economia grande mas pobre; colapso a partir de 1916 e saída da guerra em 1917; fome urbana e colapso industrial derrubaram os Romanov.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 10,
+          "quote": "Russia, however, began to collapse in 1916 and France in 1917"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 4,
+          "quote": "this led to Russia's exit from the war in 1917."
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "period": "1914-1918",
+      "outcome": "Produto 20-25% abaixo do pré-guerra durante quase toda a guerra; fome urbana tão aguda quanto na Rússia no fim; o esforço de guerra se tornou insustentável pela falha da economia, não do exército, que terminou em solo estrangeiro.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 10,
+          "quote": "the German and Austrian economies flatlined at 20 to 25 per cent below their prewar benchmarks for real output"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 20,
+          "quote": "urban famine was as acute in Germany in the closing stages of the war."
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido e Estados Unidos",
+      "period": "1914-1918",
+      "outcome": "Economias ricas que cresceram mais de 10% na guerra; agricultores responderam a preços maiores aumentando a produção; os EUA mobilizaram 17% do PIB no pico e emprestaram outros 5% aos aliados.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 10,
+          "quote": "in wartime the British and American economies expanded by over 10 per cent."
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 17,
+          "quote": "British and American farmers boosted production because they were offered higher prices"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 13,
+          "quote": "gave 17 per cent of its GDP to its own war effort at the peak of mobilisation and lent another 5 per cent"
+        }
+      ]
+    },
+    {
+      "name": "Áustria-Hungria",
+      "period": "1914-1918",
+      "outcome": "Parcela da renda nacional comandada pelo governo para a guerra nunca passou de um terço e caiu para um quarto em 1917/18; o colapso econômico encerrou as ambições militares dos Habsburgos.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 13,
+          "quote": "this proportion proved to be unsustainable and had declined to one-quarter by 1917/18"
+        },
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 35,
+          "quote": "economic collapse that ended the military ambitions of the Habsburgs"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Secessão camponesa",
+      "definition": "Expressão de Meyendorff, citada pelos autores, para a retirada dos camponeses do mercado na guerra; segundo o texto, ocorreu também na Itália, Áustria-Hungria, Império Otomano e Alemanha.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 17,
+          "quote": "the Russian peasant's secession from the economic fabric of the nation"
+        }
+      ]
+    },
+    {
+      "term": "Custos diretos e indiretos (Bogart)",
+      "definition": "Diretos: gasto governamental com a guerra acima do nível normal de pré-guerra; indiretos: perdas de capital humano e físico. Os autores criticam somar valores nominais de anos distintos e misturar fluxos com estoques.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 21,
+          "quote": "the flow of spending by governments on the prosecution of the war, i.e. spending over and above normal prewar levels."
+        }
+      ]
+    },
+    {
+      "term": "Riqueza nacional (balanço patrimonial)",
+      "definition": "Medida de impacto de longo prazo da guerra que inclui capital humano e físico, tangível e intangível, e ativos externos líquidos; a escala da mobilização se mede por fluxos (parcela do PIB), o impacto duradouro por estoques.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 24,
+          "quote": "defined here to include human as well as physical capital, intangible as well as tangible capital, and net overseas assets"
+        }
+      ]
+    },
+    {
+      "term": "Hipótese do deslocamento (Peacock e Wiseman)",
+      "definition": "Ideia de que a guerra desloca as normas sobre níveis aceitáveis de gasto e tributação, gerando um efeito catraca; os autores mostram que, excluído o serviço da dívida, o efeito desaparece.",
+      "refs": [
+        {
+          "file_id": "3d2bc1c9f3ccec83cbd8f28479f096c51d8740758e582ff4a9516c5efe5c65c3",
+          "pdf_page": 29,
+          "quote": "the war displaced norms concerning acceptable levels of government spending and taxation"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "É o capítulo introdutório de um livro organizado pelos dois autores e resume os capítulos por país; a extração não imprime o ano de publicação, por isso year fica nulo. Os autores avisam que os países pobres têm dados piores e que vários faltam nas tabelas (p. 13).",
+    "Os autores admitem dar peso deliberado à quantidade de recursos em vez de fatores contingentes (objeção de Overy, p. 11-12); a afirmação de que fatores organizacionais e de moral são endógenos é uma tese deles, não um resultado medido.",
+    "Fonte ainda não revisada em fontes (extração por pdftotext+tesseract); a p. 1 é só a folha de rosto e o OCR do título saiu imperfeito ('WORLD WAR |'). As 39 páginas foram lidas, incluindo notas e referências (p. 35-39)."
+  ],
+  "figures_note": [
+    "Tabelas 1.1-1.3 (p. 6-10): população, território e PIB por aliança; extraídas como texto em colunas, confira no original antes de citar razões.",
+    "Tabela 1.4 e figura 1.1 (p. 11), tabela 1.5 e figura 1.2 (p. 14): PIB real e parcela do gasto público por país em 1913-1918; os gráficos não são representados pela extração.",
+    "Figuras 1.3 (p. 15) e 1.4 (p. 16): dispersões de mobilização e de produção de armas contra PIB per capita; só restam eixos e legendas na extração.",
+    "Figuras 1.5 e 1.6 (p. 19): diagramas de oferta e demanda de alimentos para 'Rússia' e 'Alemanha' que carregam o argumento agrícola (pontos A-M); consulte o original junto com o texto das p. 18-20.",
+    "Tabelas 1.6-1.10 (p. 22-27) e 1.11-1.13 (p. 32 e 34): custos de Bogart, mortes, destruição de capital e crescimento; extraídas como texto, formatação ruidosa."
+  ]
+}

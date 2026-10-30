@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6540644",
+  "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+  "lessons": [
+    8
+  ],
+  "authors": [
+    "Barry Eichengreen"
+  ],
+  "title": "Instabilidade entre as guerras",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Para Eichengreen, o padrão-ouro restaurado na segunda metade dos anos 1920 não tinha as condições políticas e econômicas que sustentaram o sistema de antes de 1914: salários menos flexíveis, governos expostos a pressões por emprego e uma libra sem posição central. Por isso faltava-lhe credibilidade, e as perturbações provocavam fugas de capital que convertiam choques limitados em crises; a queda de 1929 virou a Grande Depressão e acabou derrubando o próprio padrão-ouro.",
+  "question": "Por que o padrão-ouro reconstruído no entreguerras funcionou tão mal e durou tão pouco, comparado ao sistema anterior à Primeira Guerra?",
+  "refs": [
+    {
+      "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+      "pdf_page": 2,
+      "quote": "compartilhava poucos dos méritos do funcionamento do sistema antes da guerra"
+    },
+    {
+      "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+      "pdf_page": 2,
+      "quote": "nao tinham como se defender das pressoes que reivindicavam estimulos ao crescimento e emprego, o novo regime nio tinha credibilidade"
+    },
+    {
+      "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+      "pdf_page": 2,
+      "quote": "transformando uma perturbagio limitada numa crise econômica e politica"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "As bases do padrão-ouro de antes da guerra tinham desaparecido: a Grã-Bretanha perdera a predominância e vendera ativos externos, a Alemanha virara devedora dependente de capital dos EUA, os salários já não se ajustavam rápido (sindicalismo e burocratização dos mercados de trabalho) e o sufrágio ampliado e os partidos trabalhistas tornavam os governos mais sensíveis ao desemprego.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 1,
+          "quote": "os saldrios ja não reagiam às instabilidades com sua tradicional rapidez"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 2,
+          "quote": "Nao era mais possivel contar com nenhum dos fatores que haviam dado sustentação ao padrio ouro"
+        }
+      ]
+    },
+    {
+      "claim": "Cronologia: a guerra suspendeu a conversibilidade e a primeira metade dos anos 1920 foi de flutuação relativamente limpa. Países com hiperinflação estabilizaram primeiro (1923-25), depois os de inflação moderada a câmbio desvalorizado (Bélgica, França, Itália) e os que voltaram à paridade de antes da guerra (Suécia 1924, Grã-Bretanha 1925). Como sistema global o padrão durou menos de cinco anos: a periferia saiu em 1929-30, Áustria, Alemanha e Grã-Bretanha em 1931, o mundo se dividiu em três blocos em 1932 e o bloco do ouro desvalorizou até 1936.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 3,
+          "quote": "um exemplo de um regime cambial de flutuagao relativamente limpa"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 5,
+          "quote": "teve vigéncia como um sistema global durante menos de cinco anos"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 6,
+          "quote": "o sistema monetario internacional havia se fracionado em trés blocos"
+        }
+      ]
+    },
+    {
+      "claim": "O caso do franco opõe Nurkse (o câmbio flutuante gera movimentos cumulativos que agravam a instabilidade das políticas) a Friedman (a instabilidade das políticas causa a do câmbio). A queda de 1924 se explica por déficits e pela disputa das reparações; mas em 1925-26 o franco caiu mesmo com o orçamento equilibrado, o que admite duas leituras: especulação desestabilizadora ou temor de um imposto sobre o capital num conflito distributivo não resolvido. O autor conclui que o debate não se resolve, e que a lição deveria ter sido que o novo padrão-ouro não teria a credibilidade do antigo.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 9,
+          "quote": "a instabilidade nas politicas era a causa, e a instabilidade da taxa de câmbio, sua conseqiiéncia"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 13,
+          "quote": "o franco retomou sua desvalorizagio em 1925"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 14,
+          "quote": "uma segunda interpretagio é igualmente coerente com os fatos"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 16,
+          "quote": "o novo padrio ouro nao teria a credibilidade e a durabilidade de seu predecessor de antes da guerra"
+        }
+      ]
+    },
+    {
+      "claim": "A reconstrução girou em torno da volta britânica de 1925 à paridade de antes da guerra, com a libra sobrevalorizada (Keynes estimou 10% a 15%), o que trouxe crescimento lento e desemprego; a paridade antiga visava a credibilidade e os interesses financeiros da City. Gênova (1922) propôs o padrão ouro-divisas e a cooperação entre bancos centrais, mas sem apoio dos EUA a cooperação ficou improvisada, e o sistema foi uma soma de arranjos nacionais.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 18,
+          "quote": "Keynes estimou que a libra estava supervalorizada em 10% a 15%."
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 19,
+          "quote": "a conversibilidade teria de ser restaurada ao nivel da paridade vigente antes da guerra"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 23,
+          "quote": "o carater pontual e casual da reconstrugao monetaria internacional langou as sementes de sua posterior desintegração"
+        }
+      ]
+    },
+    {
+      "claim": "O novo padrão sofria de reservas escassas e mal distribuídas: os bancos centrais erguiam passivos crescentes sobre pouco ouro, enquanto França (franco Poincaré subvalorizado, banco central proibido de expandir crédito doméstico) e Alemanha absorviam quase todo o aumento de reservas. Os EUA, com quase 45% do ouro mundial, não o liberaram e subiram juros em 1928 contra a especulação em Wall Street, forçando os demais a apertar.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 25,
+          "quote": "Os bancos centrais foram obrigados a erguer uma superestrutura cada vez maior de obrigagdes sobre uma base limitada de ouro monetario."
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 25,
+          "quote": "Franca e Alemanha, absorveram quase todo o crescimento das reservas monetarias mundiais"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 29,
+          "quote": "Ao não liberar ouro, o Fed fez crescer as rensoes sobre outros paises"
+        }
+      ]
+    },
+    {
+      "claim": "O ajuste de balanço de pagamentos dependia da reciclagem do superávit americano em empréstimos à Europa e outras regiões. Quando os empréstimos dos EUA caíram a zero no segundo semestre de 1928 e veio a Depressão, os devedores precisariam de deflação, mas ela aumentava o peso real das dívidas e ameaçava os bancos; perdões de dívidas e reparações não foram negociados a tempo, e a periferia abandonou o ouro em massa em 1929-30, o que comprometeu o centro.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 31,
+          "quote": "os Estados Unidos emprestaram grande parte de seu superavit de volta para a Europa"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 32,
+          "quote": "em niveis elevados no primeiro semestre de 1928, cairam a zero na segunda merade do ano."
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 33,
+          "quote": "havia limites a eficacia do remédio deflacionario habitual."
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "political_economy",
+      "description": "Credibilidade minada pela política doméstica: com direitos de cidadania ampliados, partidos trabalhistas e gasto social, os governos não podiam ignorar pressões por crescimento e emprego, então os mercados duvidavam de que defenderiam a paridade a qualquer custo.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 2,
+          "quote": "em vista da extensao dos direitos de cidadania, do crescimento dos partidos trabalhistas parlamentares"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Fluxos de capital desestabilizadores: diante de qualquer perturbação, o capital, que antes de 1914 se movia em direção estabilizadora, fugia; a perda de reservas forçava juros mais altos, mais desemprego e mais pressão por desvalorização, como no bloco do ouro depois de 1931.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 2,
+          "quote": "o capital financeiro, que no passado fluira em direções estabilizadoras, agora empreendia fugas"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 7,
+          "quote": "bancos centrais foram obrigados a elevar suas taxas de juro, agravando o desemprego"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Ajuste assimétrico e deflação: países superavitários (França, EUA) acumulavam ouro sem expandir moeda, deficitários (Grã-Bretanha) perdiam reservas e tinham de apertar; com dívidas fixadas em termos nominais, a deflação aumentava o custo real da dívida (o que Fisher chamou de deflação da dívida).",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 5,
+          "quote": "O mecanismo de ajuste era inadequado"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 32,
+          "quote": "a queda no nivel de preços fazia crescer o custo real dos recursos necessarios para honrar aqueles compromissos"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "França",
+      "period": "1924-1931",
+      "outcome": "Desvalorização do franco até julho de 1926, resolvida quando Poincaré voltou com plenos poderes e tirou o imposto sobre o capital da agenda; estabilizado a um câmbio subvalorizado, o país acumulou ouro (reservas do Banco da França mais que dobraram de 1926 a 1929).",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 15,
+          "quote": "a consolidação politica tirou de uma vez por todas a taxação do capital da agenda fiscal"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 25,
+          "quote": "Essa avalanche de ouro indicava uma subvalorizagio do franco Poincaré"
+        }
+      ]
+    },
+    {
+      "name": "Grã-Bretanha",
+      "period": "1925-1931",
+      "outcome": "Volta ao ouro em abril de 1925 à paridade de antes da guerra com preços altos demais; crescimento lento e desemprego de dois dígitos no resto da década, déficits de 1927 a 1931 e suspensão da conversibilidade em setembro de 1931.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 18,
+          "quote": "O crescimento lento e o desemprego da ordem de dois digitos que penalizaram a economia britinica"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 6,
+          "quote": "O governo britanico suspendeu a conversibilidade em setembro de 1931"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "period": "1926-1933",
+      "outcome": "Maior detentor de ouro, não o redistribuiu; o aperto de 1928 deteve a expansão e cortou o fluxo de capital ao exterior. Com Roosevelt, o país deixou o ouro, o dólar perdeu 40% ante as moedas do bloco do ouro e a medida ajudou a conter a crise bancária e iniciar a recuperação.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 29,
+          "quote": "O aperto monetirio deteve a expansio da economia norte-americana."
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 7,
+          "quote": "a colocar os Estados Unidos no caminho da recuperagao"
+        }
+      ]
+    },
+    {
+      "name": "Periferia exportadora de produtos primários",
+      "period": "1929-1930",
+      "outcome": "Atingidos ao mesmo tempo pela queda da importação de capital e das receitas de exportação, Argentina, Uruguai, Brasil, Austrália, Canadá e outros restringiram a conversibilidade e deixaram suas moedas cair; foi a primeira vez que quase toda a periferia saiu junta do ouro.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 6,
+          "quote": "os governos da Argentina e Uruguai limitaram a conversibilidade do ouro no final de 1929"
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 33,
+          "quote": "modificaram as regras de conversibilidade e permitiram a desvalorizagao de suas moedas"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Padrão ouro-divisas",
+      "definition": "Arranjo em que os bancos centrais completam as reservas de ouro com moeda estrangeira; recomendado em Gênova para economizar ouro, mas limitado por um problema de coordenação, pois quem o adotasse sozinho ficava exposto a especuladores.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 21,
+          "quote": "para transformar o padrão ouro em um padrdo ouro-divisas."
+        },
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 21,
+          "quote": "uma dificuldade de coordenagio, portanto, impedia a mudanga"
+        }
+      ]
+    },
+    {
+      "term": "Especulação desestabilizadora",
+      "definition": "Crítica de Nurkse às taxas flutuantes: compras e vendas especulativas desligadas dos fundamentos ('dinheiro quente') que ampliam desequilíbrios em vez de corrigi-los.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 8,
+          "quote": "por sua tendéncia a ser perturbada por vendas e compras especulativas"
+        }
+      ]
+    },
+    {
+      "term": "Externalidades de rede",
+      "definition": "Vantagem de adotar o mesmo padrão monetário que os demais; quando uma massa crítica voltou ao ouro em meados dos anos 1920, os outros foram atraídos, e o efeito enfraqueceu no mundo fragmentado dos anos 1930.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 5,
+          "quote": "o fator de externalidade em rede do sistema atraiu os demais países para o rebanho"
+        }
+      ]
+    },
+    {
+      "term": "Deflação da dívida",
+      "definition": "Termo de Irving Fisher, citado pelo autor: a queda de preços eleva o peso real de dívidas nominais, aumenta inadimplência e execuções e pode ameaçar o sistema bancário.",
+      "refs": [
+        {
+          "file_id": "547a3ea2fce857599a56f0e7c06d02c47962b6b403259332397feb0fd91afc97",
+          "pdf_page": 33,
+          "quote": "foi cunhado por Irving Fisher (1933)."
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Escopo: a leitura indicada vai até a p. 107 (pdf 1-33), e esta entrada resume só esse trecho. O PDF segue até a p. 130 (pdf 34-56, das reações à Grande Depressão em diante), que não entrou no resumo.",
+    "OCR de baixa qualidade (por exemplo 'padrio', 'nio', 'Gra-Bretanha'); as citações reproduzem os erros da extração e devem ser lidas como tal. A tabela 3.1 (p. 24) saiu desalinhada e seus valores não devem ser usados a partir da extração. A extração não traz o título do livro nem o ano (o cabeçalho diz 'A Globalizagao do Capital'), por isso year fica nulo; o nome do autor vem do nome do arquivo e da autocitação em nota da p. 37.",
+    "No caso do franco o próprio autor declara o debate Nurkse-Friedman sem solução (p. 15-16); a leitura de que o padrão-ouro não teria credibilidade é a conclusão dele, não um teste empírico."
+  ],
+  "figures_note": [
+    "Gráfico 3.1 (p. 4), número de países no padrão-ouro em 1921-37; gráfico 3.2 (p. 11), câmbio franco-dólar em 1921-26; gráfico 3.3 (p. 30), saídas de capital dos EUA em 1919-29: a extração só traz eixos e legendas.",
+    "Tabela 3.1 (p. 24), distribuição das reservas de ouro entre países em 1913-35: base dos argumentos sobre absorção de ouro por França, Alemanha e EUA (p. 25 e 28); colunas embaralhadas na extração, consulte o original."
+  ]
+}

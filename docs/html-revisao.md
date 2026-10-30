@@ -8,7 +8,8 @@ Conferência realizada em 29/10/2026. A revisão do usuário permanece pendente.
 - [Pacote offline completo](../dist/guia-eae1244.zip), aproximadamente 71 MB. Descompactar e abrir `index.html`, mantendo a pasta `originais` junto dele.
 - HTML de aproximadamente 1 MiB, com apresentação, código e dados incorporados.
 - 31 leituras indexadas, 14 resumos completos, oito temas, 16 exercícios e 44 originais preservados.
-- Os 17 resumos anteriores continuam pendentes; o guia mostra esse estado e permite abrir os arquivos. Revisões de extração ainda pendentes também são identificadas. A entrega não declara completos esses resumos.
+- Atualização de 29/10/2026: as 17 leituras anteriores passaram a ter resumos curtos, marcados como parciais e com aviso próprio. O sumário lateral conta completos, curtos e pendentes a partir dos dados.
+- Na entrega original, os 17 resumos anteriores ficavam pendentes; o guia mostrava esse estado e permitia abrir os arquivos. Revisões de extração ainda pendentes também são identificadas. A entrega não declara completos esses resumos.
 
 ## Verificações automatizadas
 

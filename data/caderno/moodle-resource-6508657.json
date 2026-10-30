@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6508657",
+  "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+  "lessons": [4, 5],
+  "authors": ["Barry Eichengreen", "Marc Flandreau"],
+  "title": "The Geography of the Gold Standard",
+  "year": 1994,
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Eichengreen e Flandreau mostram que a adesão ao padrão-ouro foi tardia (entre os anos 1870 e a primeira década do século XX) e seguiu rotas variadas. Em meados do século, o metal escolhido dependia menos de o país ser rico ou pobre que do padrão dos parceiros com quem transacionava, mas ter moeda conversível se correlacionava fortemente com o desenvolvimento. O ritmo da transição dependeu da renda, do tamanho das reservas diante do mercado mundial de metais, da concentração das reservas no banco central e de laços imperiais.",
+  "question": "Quando e por quais caminhos os países chegaram ao padrão-ouro, e o que explica, em meados do século XIX, a escolha entre ouro, prata e bimetalismo e a distinção entre moeda conversível e inconversível?",
+  "refs": [
+    {
+      "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+      "pdf_page": 48,
+      "quote": "depended not so much on whether it was rich or poor as on the monetary standard of the foreign country"
+    },
+    {
+      "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+      "pdf_page": 48,
+      "quote": "there was a strong correlation between economic development, as proxied by the level of per capita incomes, and"
+    },
+    {
+      "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+      "pdf_page": 48,
+      "quote": "Most countries went onto the gold standard between the 1870s and the first decade of the 20th century."
+    },
+    {
+      "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+      "pdf_page": 48,
+      "quote": "the magnitude of reserves relative to world specie markets, whether reserves were concentrated at the central bank,"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "A visão convencional, de um mundo quase todo no ouro no fim do século XIX, é tratada como espantalho: os estudos centrados na Europa Ocidental e na América do Norte distorcem a geografia do sistema. O ouro era a base da circulação em poucos países e, fora da Europa, a conversibilidade em ouro muitas vezes só veio nos anos imediatamente anteriores à Primeira Guerra.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 6,
+          "quote": "gold was the basis for the domestic circulation in only a limited number of countries."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 6,
+          "quote": "gold convertibility was first established only in the final years preceding World War I."
+        }
+      ]
+    },
+    {
+      "claim": "Retrato de 1868: na Europa só Grã-Bretanha e Portugal tinham moeda conversível exclusivamente em ouro. O padrão acompanhava a área com que cada país transacionava: a 'área britânica' estava no ouro, a 'área francesa' era bimetálica e a 'área alemã' estava na prata, como boa parte da Ásia.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 10,
+          "quote": "their currencies were unconditionally and exclusively convertible into gold."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 7,
+          "quote": "(France, Belgium, Italy and Switzerland) was bimetallic."
+        }
+      ]
+    },
+    {
+      "claim": "A distinção que importava até os anos 1870 era entre conversibilidade e inconversibilidade, não entre ouro e prata: moedas conversíveis em qualquer metal tinham câmbio estável entre si, e as inconversíveis oscilavam muito. A conversibilidade era um 'luxo caro' de países de renda alta e se associava também ao estado das finanças públicas; suspensões ocorriam sobretudo em guerras e insurreições (Áustria-Hungria, Grécia, Itália, Estados Unidos na Guerra Civil).",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 7,
+          "quote": "the important distinction was not between gold and silver but between metallic convertibility and inconvertibility."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 12,
+          "quote": "The presence or absence of a convertible currency was correlated not just with per capita incomes but with the state of the public finances."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 13,
+          "quote": "This tendency was most obvious in periods of military conflict and insurrection."
+        }
+      ]
+    },
+    {
+      "claim": "Antes de 1873, o bloco bimetálico funcionava como estoque regulador, absorvendo o metal abundante e exportando o escasso, o que estabilizava o câmbio entre países de ouro e de prata. Quando esse bloco abandonou o bimetalismo, as moedas de prata passaram a oscilar, o risco cambial desestimulou transações e, dado o peso britânico no comércio, cada nova adesão ao ouro tornava a opção mais atraente para os demais.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 16,
+          "quote": "the passive buffer-stock role of the bimetallic bloc, which"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 19,
+          "quote": "Exchange risk grew, discouraging international transactions."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 19,
+          "quote": "The more countries shifted to gold, the more appealing the option became for the remainder."
+        }
+      ]
+    },
+    {
+      "claim": "Outros motores: a industrialização tirou peso dos interesses mineiros e dos devedores agrícolas, base natural da prata, em favor de novas elites industriais e financeiras; a conversibilidade em ouro sinalizava compromisso com finanças sólidas e facilitava o crédito dos grandes emprestadores, todos já no ouro. Os autores admitem ainda um forte elemento de acaso: a convergência no ouro, e não na prata, foi em parte contingência histórica.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 19,
+          "quote": "silver-mining interests and agricultural debtors who formed natural constituencies for the more inflationary silver standard lost clout"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 20,
+          "quote": "A convertible currency thus promised to enhance a country's access to international capital markets."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 20,
+          "quote": "there was a strong element of serendipity"
+        }
+      ]
+    },
+    {
+      "claim": "Houve três rotas: passagem direta e cedo, sem instabilidade cambial (Alemanha, Holanda, Bélgica, França, Suíça, Escandinávia); passagem com longo intervalo de papel inconversível (Áustria, Rússia, parte da América Latina); e, para países pobres de prata com laços imperiais, a adoção de padrões ouro-divisas depois de 1890 (Índia). O ritmo é explicado por renda, concentração das reservas no banco central, tamanho do país, arranjos cooperativos como a União Latina, laços imperiais, guerra e contingências como colheitas e fluxos de capital.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 21,
+          "quote": "Countries seeking to complete this task followed one of three routes."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 22,
+          "quote": "they adopted gold-exchange standards rather than traditional gold standards."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 48,
+          "quote": "the magnitude of reserves relative to world specie markets, whether reserves were concentrated at the central bank,"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Colapso do estoque regulador bimetálico: enquanto o bloco bimetálico absorvia o metal abundante, o câmbio entre ouro e prata ficava estável e a escolha do metal era quase indiferente. Com a saída desse bloco, a prata passou a oscilar e o risco cambial empurrou os países para o ouro, num efeito de rede em que cada adesão tornava o ouro mais atraente.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 16,
+          "quote": "the abundant metal flowed toward the bimetallic bloc, supplanting the scarcer metal"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 19,
+          "quote": "The more countries shifted to gold, the more appealing the option became for the remainder."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Coalizões e credibilidade: a industrialização deslocou poder dos grupos favoráveis à prata inflacionária para elites industriais e financeiras; e a conversibilidade em ouro servia de sinal aos credores externos, a ponto de Londres exigir sua restauração como condição para emprestar ao Brasil.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 19,
+          "quote": "silver-mining interests and agricultural debtors who formed natural constituencies for the more inflationary silver standard lost clout"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 42,
+          "quote": "London demanded the restoration of gold convertibility as a precondition for lending"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Restrição de reservas: manter a conversibilidade exigia reservas em ouro acima de uma fração mínima do passivo monetário. Países pobres, com a restrição orçamentária apertada, recorreram ao padrão ouro-divisas, mais barato; países grandes precisavam vender prata devagar para não derrubar o preço do metal que liquidavam, enquanto os pequenos podiam fazê-lo sem afetar o mercado.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 21,
+          "quote": "the establishment and maintenance of gold convertibility required that gold"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 29,
+          "quote": "Poorer countries, for whom the budget constraint bound, were most likely to adopt the gold exchange standard."
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 35,
+          "quote": "Small countries were more likely than large ones"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Alemanha",
+      "period": "1871-1879",
+      "outcome": "Rota direta: limitou a cunhagem de prata em 1871 e instituiu a conversibilidade em ouro em dois anos, com a indenização da guerra franco-prussiana como recurso e impulso; mas, quando a França limitou a cunhagem de prata, a Alemanha teve de suspender as vendas em 1879, tendo liquidado só um terço do estoque.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 21,
+          "quote": "Germany, which limited silver coinage in 1871 and implemented gold"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 43,
+          "quote": "battlefield triumph supplying the impetus and resources for a transition to gold"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 40,
+          "quote": "Germany had disposed of only a third of its initial stock."
+        }
+      ]
+    },
+    {
+      "name": "Índia",
+      "period": "1835-1902",
+      "outcome": "Rota de país de prata com laço imperial: suspendeu a cunhagem livre de prata em 1893, tornou o soberano britânico moeda legal em 1899 e completou o sistema em 1901-1902 pagando ouro por rúpias, com reserva em Londres e Gold Reserve Fund, sem retirar a prata de circulação.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 34,
+          "quote": "Free coinage of silver was suspended in 1893"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 35,
+          "quote": "without withdrawing a penny from the silver circulation"
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "period": "1888-1912",
+      "outcome": "Abolição, República e guerras civis abriram período de instabilidade; o Funding Loan dos Rothschild (1898), com supervisão estrangeira do Tesouro, e a Caixa de Conversão (1906), espécie de currency board lastreado em libras, estabilizaram o câmbio, mas em 1912 só 40% das notas eram conversíveis.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 43,
+          "quote": "establishment of the Caixa de Conversao, essentially a currency board"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 43,
+          "quote": "only 40 per cent of the note issue was convertible as late as 1912."
+        }
+      ]
+    },
+    {
+      "name": "Japão",
+      "period": "1868-1897",
+      "outcome": "País de renda baixa e finanças perturbadas por guerras internas: levou quase três décadas para ir da prata ao ouro, com período de inconversibilidade; a indenização de Shimonoseki, convertida em libras e depositada no Banco da Inglaterra, deu lastro à lei do padrão-ouro de 1897.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 44,
+          "quote": "Japan required nearly three decades to complete the transition from silver to gold"
+        },
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 45,
+          "quote": "prompted the Diet's passage of a gold standard law in 1897."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Conversibilidade",
+      "definition": "Obrigação legal de os bancos emissores trocarem suas notas por metal (ouro, prata ou ambos); para os autores, é a distinção decisiva para a estabilidade cambial no século XIX, mais que o metal escolhido.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 10,
+          "quote": "A convertible-currency country was one in which issuing banks"
+        }
+      ]
+    },
+    {
+      "term": "Padrão ouro-divisas (gold exchange standard)",
+      "definition": "Regime em que o banco central ou o governo guarda reservas em ativos que rendem juros e são conversíveis em ouro (letras em Londres, Paris, Nova York ou Berlim), em vez de ouro físico; mais barato, ao custo de algum controle sobre os ativos.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 29,
+          "quote": "allowed the central bank or government to hold its reserves in the form of interest-bearing assets that were convertible into gold,"
+        }
+      ]
+    },
+    {
+      "term": "Estoque regulador bimetálico (buffer stock)",
+      "definition": "Papel passivo do bloco bimetálico, que ajustava sua circulação de ouro e prata às condições do mercado de metais e assim estabilizava o câmbio entre países de ouro e de prata até os anos 1870.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 16,
+          "quote": "the abundant metal flowed toward the bimetallic bloc, supplanting the scarcer metal"
+        }
+      ]
+    },
+    {
+      "term": "Versão monetária do atraso de Gerschenkron",
+      "definition": "Leitura dos autores: os industrializadores tardios, sem mercados financeiros e bancos centrais consolidados, precisaram de mais intervenção do governo e de inovações institucionais (como o padrão ouro-divisas) para chegar ao ouro.",
+      "refs": [
+        {
+          "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
+          "pdf_page": 29,
+          "quote": "Gerschenkron's \"backwardness\" hypothesis."
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Fonte não revisada (entrada parcial). Li as 56 páginas: as pp. 1-3 são capa e folhas de rosto, a p. 4 traz o resumo, as pp. 50-52 são referências, as pp. 53-54 são a lista da série de working papers e as pp. 55-56 vêm sem texto. A numeração das seções salta de IV (p. 21) para VI (p. 48), mas o texto corre contínuo; não preenchi nada além do que está extraído.",
+    "O método é descritivo e comparativo: os autores dizem que tomam cada fator 'como se' numa regressão, mas não estimam nenhuma; as correlações com renda e finanças públicas são frouxas por admissão própria (nota 11), e a classificação dos regimes de 1868 e 1908 deve ser lida 'cum grano salis', sobretudo fora da Europa.",
+    "Ressalvas dos próprios autores (inferência minha sobre o peso delas): a conversibilidade não era nem necessária nem suficiente para obter crédito externo (nota 22, citando Fishlow), e a escolha do ouro, e não da prata, é tratada em parte como acaso histórico. Na conclusão (p. 49), sugerem que o padrão-ouro foi menos uma ruptura que uma tentativa de recuperar a estabilidade perdida com o fim do bimetalismo, e que o sistema tinha vários centros (Londres, Paris, Berlim)."
+  ],
+  "figures_note": [
+    "Tabela 1 (p. 9, regimes monetários em 1868) e Tabela 2 (p. 17, regimes em 1908): o OCR está muito corrompido nos nomes de países e na coluna de conversibilidade; consulte o original antes de citar a classificação de um país.",
+    "Mapas 1 e 2 (p. 11, 'The Geography of the Gold Standard: 1868 and 1908'): só o título foi extraído.",
+    "Figura 1 (p. 14, renda per capita x conversibilidade e x padrão em 1868, dados de Crafts) e Figura 2 (p. 15, câmbio da libra 1860-1890): sustentam o argumento central (conversibilidade ligada à renda, metal não), mas os pontos não são legíveis na extração.",
+    "Figuras 3 a 6 (pp. 23-24 e 26-27, câmbio de Londres com Amsterdã, Calcutá, Viena e São Petersburgo), gráfico sem título em libras por 100 pesos (p. 28), Figuras 8 e 10 (pp. 31 e 33, reservas dos bancos da Dinamarca e da Noruega; a p. 32, entre elas, não tem rótulo legível), gráfico em milhões de francos (p. 36, provavelmente a Figura 11 citada na p. 37) e gráfico em milhões de florins (p. 39, provavelmente a Figura 12 citada na p. 38): só rótulos e eixos foram extraídos."
+  ]
+}

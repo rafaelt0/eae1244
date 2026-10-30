@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6577584",
+  "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+  "lessons": [
+    13,
+    14
+  ],
+  "authors": [
+    "Gabriel Tortella"
+  ],
+  "title": "The Origins of the Twenty-first Century",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Tortella sustenta que o fascismo, em sentido amplo, foi sobretudo uma reação defensiva à ameaça bolchevique, que triunfou nas sociedades instáveis e periféricas da Europa onde a democracia mal se enraizara, potencializada pelo desemprego da Depressão; os países avançados, exceto a Alemanha, ficaram imunes. A Revolução Russa, ao contrário da previsão de Marx, foi uma revolução camponesa num país atrasado e produziu uma ditadura do partido e da burocracia.",
+  "question": "Por que os regimes totalitários (comunista e fascistas) triunfaram no entreguerras, e por que em certos países e não em outros?",
+  "refs": [
+    {
+      "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+      "pdf_page": 13,
+      "quote": "The theory that conceives of fascism as a \"defensive reaction\" to the Bolshevik threat seems more accurate."
+    },
+    {
+      "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+      "pdf_page": 12,
+      "quote": "In Europe, fascism (broadly speaking) is a phenomenon suited to unstable and peripheral societies"
+    },
+    {
+      "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+      "pdf_page": 12,
+      "quote": "the advanced countries, except for Germany, which we will discuss shortly, were immune to fascist temptations"
+    },
+    {
+      "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+      "pdf_page": 9,
+      "quote": "For all practical purposes, the Russian Revolution was a peasant revolution"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "A Revolução Russa foi consequência da guerra e contrariou Marx, pois ocorreu num país atrasado e rural. Minoritários, os bolcheviques venceram a guerra civil pela vontade de seus líderes, pelo apoio camponês (terra e paz) e pelo sentimento antitsarista, e logo abandonaram a democracia por uma ditadura do partido.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 1,
+          "quote": "There is no doubt that the revolution was a consequence of the war."
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 5,
+          "quote": "There are three main answers to this"
+        }
+      ]
+    },
+    {
+      "claim": "Na economia soviética, ao comunismo de guerra (requisições) seguiu a NEP, uma volta ao capitalismo com mercado agrícola, reforma monetária e orçamento equilibrado; depois, os planos quinquenais e a coletivização aceleraram a industrialização explorando a agricultura e os camponeses.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 7,
+          "quote": "the government proclaimed a return to capitalism, what Lenin called state capitalism in industry and pure capitalism in agriculture"
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 8,
+          "quote": "they enabled Stalin and the government of the time to speed up Russia's industrialization by exploiting agriculture"
+        }
+      ]
+    },
+    {
+      "claim": "A causa última da Depressão foi tentar ao mesmo tempo o padrão-ouro, que exigia disciplina social estrita, e uma ordem democrática com mais gasto social. O desemprego e o descrédito do capitalismo fizeram florescer as sementes do fascismo na periferia europeia, onde o eleitorado se polarizou.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 11,
+          "quote": "Its ultimate cause was the attempt to simultaneously implement incompatible economic and social paradigms."
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 11,
+          "quote": "Those seeds flourished with the growth of unemployment brought about by the depression"
+        }
+      ]
+    },
+    {
+      "claim": "O autor rejeita explicar o fascismo por degeneração moral, por traços nacionais ou como estágio supremo do capitalismo, e defende a tese da reação defensiva com cinco argumentos: cronologia pós-1917, heterogeneidade dos regimes com a mesma missão anticomunista, chegada ao poder em acordo com os conservadores, \"proteção\" ao estilo de gângster e desaparecimento quando a ameaça comunista acabou.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 13,
+          "quote": "The theory that conceives of fascism as a \"defensive reaction\" to the Bolshevik threat seems more accurate."
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 14,
+          "quote": "Fascism had much to do with gangster \"protection.\""
+        }
+      ]
+    },
+    {
+      "claim": "O nacionalismo é o núcleo da doutrina fascista: nega a luta de classes e, com isso, justifica o controle estatal do mercado de trabalho, que o autor chama de traço econômico básico do totalitarismo, e a repressão de partidos e sindicatos de classe.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 15,
+          "quote": "This justifies, according to fascist doctrine, the state's control of the labor market (the basic economic feature of totalitarianism)"
+        }
+      ]
+    },
+    {
+      "claim": "Os casos nacionais variam: Itália e Alemanha, nações tardias e ressentidas, tiveram o fascismo mais puro; na Espanha, em Portugal e na Europa oriental o exército ou a Coroa fizeram o papel de baluarte anticomunista, e os fascistas puros tiveram dificuldade de chegar ao poder.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 18,
+          "quote": "the two purest and most successful types of fascism developed precisely in those countries that arrived late"
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 30,
+          "quote": "either the army or the Crown (or both jointly) played the role of anticommunist bulwark"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Incompatibilidade entre padrão-ouro e democracia de massas levou à Depressão; o desemprego e o medo da revolução polarizaram o eleitorado da periferia europeia e deram base à solução autoritária.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 11,
+          "quote": "Maintaining such discipline was politically impossible within the democratic order"
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 12,
+          "quote": "In peripheral Europe, by contrast, the electorate became radically polarized"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Conservadores, empresários e políticos democráticos usaram os fascistas como mal menor e como aríete contra a ameaça comunista; os fascistas cobravam dinheiro e apoio em troca dessa proteção.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 14,
+          "quote": "democratic politicians gave in repeatedly to the temptation of using fascist movements as a battering ram against internal and external communist threats"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "No caso alemão, a prosperidade de 1924-1929 dependia de importações de capital dos EUA; quando a crise de Wall Street cortou esse fluxo, voltaram as crises e as tensões sociais.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 21,
+          "quote": "When the crisis on Wall Street ended the flow of capital from the United States, the crises and social tensions returned."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Itália",
+      "period": "1919-1925",
+      "outcome": "País em transição industrial, com bancos mistos propensos a crises, tradição insurrecional à esquerda e ambições imperiais frustradas; Mussolini chegou ao poder com apoio parlamentar e a \"revolução\" fascista veio de cima em 1925.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 16,
+          "quote": "Italy is one of the countries where banks participated very early in the industrialization process"
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 14,
+          "quote": "three years after Mussolini's arrival to power with parliamentary support"
+        }
+      ]
+    },
+    {
+      "name": "Alemanha",
+      "period": "1918-1933",
+      "outcome": "Nação tardia, mito da punhalada nas costas, tradição autoritária, Versalhes e reparações, inflação de 1923 e dependência do capital americano; com a polarização da Depressão, Hitler foi aceito como mal menor em janeiro de 1933.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 19,
+          "quote": "had been \"stabbed in the back\" by pacifists, democrats, communists, and"
+        },
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 23,
+          "quote": "contributed to the party being accepted as the lesser evil in January 1933"
+        }
+      ]
+    },
+    {
+      "name": "Espanha (Primo de Rivera e Franco)",
+      "period": "1923 e 1936-1975",
+      "outcome": "O fascismo chegou ao poder duas vezes por pronunciamiento e guerra civil, não por via legal; foi um híbrido de fascismo e ditadura militar, com o anticomunismo como ideologia constante do franquismo.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 23,
+          "quote": "Spanish fascism had a hybrid character, being a mixture of fascism and military dictatorship"
+        }
+      ]
+    },
+    {
+      "name": "Hungria e Bálcãs",
+      "period": "1919-1944",
+      "outcome": "Regentes ou reis autoritários assumiram o papel de baluarte anticomunista e mantiveram os fascistas fora do poder; nos Bálcãs faltava proletariado industrial para tornar a ameaça comunista significativa.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 29,
+          "quote": "they lacked the essential element – the urban industrial proletariat – for the communist threat to acquire any significance"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Totalitarismo",
+      "definition": "Termo que reúne comunismo e fascismo: ditaduras de partido único com mobilização das massas, controle estatal do mercado de trabalho, ideologia excludente e vontade de controlar a sociedade inteira.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 12,
+          "quote": "The word \"totalitarianism\" refers to the will to control society totally."
+        }
+      ]
+    },
+    {
+      "term": "Smychka",
+      "definition": "Aliança de operários e camponeses proclamada por Lenin, que distribuiu a terra aos pequenos agricultores e garantiu apoio camponês aos bolcheviques.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 4,
+          "quote": "he proclaimed the so-called smychka, or the union of workers and peasants"
+        }
+      ]
+    },
+    {
+      "term": "NEP",
+      "definition": "Nova Política Econômica de 1921: grandes empresas seguiram estatizadas (capitalismo de Estado), mas a venda agrícola no mercado foi liberada e a moeda estabilizada.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 7,
+          "quote": "This was the famous New Economic Policy, the NEP."
+        }
+      ]
+    },
+    {
+      "term": "Ditadura da burocracia",
+      "definition": "Leitura, atribuída a Djilas, de que a revolução bolchevique criou uma nova classe dominante, a burocracia comunista, que se perpetuava por nomeações e por um Estado policial.",
+      "refs": [
+        {
+          "file_id": "82b0d2270d092d8118fe29c00ed9d247d0066cc4f1ad1f5de0a3fd36e15f15aa",
+          "pdf_page": 10,
+          "quote": "which in reality was the \"dictatorship of the bureaucracy\""
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O PDF reúne trechos selecionados de um livro (título no cabeçalho): as páginas 1-10 do PDF são as impressas 151-160 (capítulo \"War and democracy\": fim do voto feminino, \"The Communist Revolution\" e início de \"The Democratic Revolution\", cortado no meio da frase); as páginas 11-36 são as impressas 204-229 (capítulo \"Depression and totalitarianism\": fim da seção sobre a Depressão, \"The triumph of totalitarianism\" e \"World War II\"). A entrada cobre sobretudo o triunfo do totalitarismo e a Revolução Russa; a seção sobre a Segunda Guerra (responsabilidade de Hitler, Pearl Harbor, custos humanos) não foi resumida.",
+    "Autor e ano não aparecem nas páginas extraídas: o nome vem do arquivo (Gabriel Tortella - The Origins of the Twenty-First Century...) e o ano não consta no texto extraído.",
+    "É um texto ensaístico com juízos fortes do autor (a \"grande mentira\" de Lenin, a revolução democrática como a verdadeira revolução do século, um episódio pessoal com a polícia de Franco); a tese da reação defensiva é a teoria preferida do autor entre várias que ele discute, sem teste sistemático."
+  ]
+}

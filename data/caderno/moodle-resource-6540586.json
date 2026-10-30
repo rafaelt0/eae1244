@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6540586",
+  "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+  "lessons": [
+    6,
+    7
+  ],
+  "authors": [
+    "Jari Eloranta",
+    "Mark Harrison"
+  ],
+  "title": "War and disintegration, 1914–1950",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Para Eloranta e Harrison, as duas guerras mundiais e o entreguerras formam um único processo histórico, centrado na Europa, que interrompeu a globalização e a integração europeias e polarizou o continente entre democracias ricas e ditaduras pobres, sem interromper as forças subjacentes ao crescimento. Na guerra, venceram as coalizões ricas que integraram seus recursos; economias pobres de base camponesa se desintegraram. Depois de 1945, ao contrário de 1918, novas instituições de cooperação permitiram uma recuperação rápida.",
+  "question": "Como as duas guerras mundiais e o período entre elas interromperam e distorceram o desenvolvimento e a integração econômica da Europa, e por que as consequências de 1918 e de 1945 foram tão diferentes?",
+  "refs": [
+    {
+      "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+      "pdf_page": 2,
+      "quote": "the two wars can be understood as a single historical process."
+    },
+    {
+      "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+      "pdf_page": 3,
+      "quote": "whatever it was that came to an end in 1914, it was not the forces underlying economic growth."
+    },
+    {
+      "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+      "pdf_page": 14,
+      "quote": "the winners integrated and coordinated their economic and military resources with much greater effect than the losing countries"
+    },
+    {
+      "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+      "pdf_page": 21,
+      "quote": "post-war economic recovery after 1918 was strained and slow, whereas after 1945 it was generally rapid."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Globalização e império andavam juntos, mas nenhum dos dois causou diretamente a guerra de 1914; a interdependência até elevava o custo da guerra. Para os autores, a causa principal foi a corrida armamentista estimulada pela competição colonial, que a Alemanha iniciou e não conseguiu acompanhar; a industrialização dos armamentos pesou sobretudo na duração e na destrutividade. As alianças foram quase irrelevantes para as decisões nacionais de gasto militar.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 5,
+          "quote": "Neither globalization nor imperialism directly caused the war to break out in 1914."
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 6,
+          "quote": "arms race, stimulated by the competition for colonies, was a principal cause"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 7,
+          "quote": "the alliances themselves were ultimately inefficient and almost irrelevant to national spending decisions"
+        }
+      ]
+    },
+    {
+      "claim": "A guerra de 1914 foi lançada pelas potências menos democráticas (Alemanha, Áustria-Hungria e Rússia), e a derrota destruiu a legitimidade das monarquias. As democracias novas foram frágeis: em 1938 a maioria dos países ricos seguia democrática e a maioria dos pobres era autoritária. O ingrediente novo da rivalidade imperial do entreguerras foi o totalitarismo de Hitler e Stalin.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 9,
+          "quote": "was launched, however, by the mobilizations of the least democratic powers in Europe"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 10,
+          "quote": "most rich countries continued to uphold democracy, but most poor countries had succumbed to authoritarianism."
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 10,
+          "quote": "The new ingredient in interwar imperial rivalry was totalitarianism"
+        }
+      ]
+    },
+    {
+      "claim": "Na guerra, a maioria dos países produziu menos, não mais; com o produto inelástico, as necessidades militares espremeram consumo e investimento. Os principais beligerantes desviaram entre um terço e dois terços do produto para a guerra, com impostos, títulos de guerra e controles diretos.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 12,
+          "quote": "in practice most countries produced less in wartime, not more, despite determined attempts to mobilize their economies."
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 13,
+          "quote": "main belligerent countries had found ways of diverting between one third and two thirds of total output to warfare."
+        }
+      ]
+    },
+    {
+      "claim": "As coalizões vencedoras mobilizaram em escala supranacional, juntando o capital dos ricos à mão de obra militar dos pobres, enquanto os perdedores lutaram mais isolados. Em países pobres a escala efetiva da mobilização encolheu ao nível subnacional: os camponeses deixaram de vender comida por falta de bens industriais e o governo só controlava as economias urbanas.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 14,
+          "quote": "the winners integrated and coordinated their economic and military resources with much greater effect than the losing countries"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 14,
+          "quote": "the relevant scale of mobilization became subnational."
+        }
+      ]
+    },
+    {
+      "claim": "A guerra econômica (bloqueio, guerra submarina, bombardeio estratégico) foi neutralizada por contramedidas e substituição: o bombardeio de cidades teve retornos decrescentes e pouco efeito na produção alemã. Para os autores, ela não decidiu nenhum dos conflitos, embora possa tê-los encurtado.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 16,
+          "quote": "economic warfare did not determine the outcome of any conflict, but may have shortened the duration"
+        }
+      ]
+    },
+    {
+      "claim": "A Primeira Guerra encerrou a ordem liberal do século XIX e abriu uma fase de desglobalização: o comércio caiu de 22% do PIB mundial em 1913 para 9% em 1938, sob protecionismo, cotas e blocos, e as dívidas de guerra e Versalhes envenenaram o entreguerras, com a Liga das Nações fracassando. Depois de 1945, ajuda aliada sem dívida, hegemonia dos EUA, Bretton Woods e o Plano Marshall sustentaram uma recuperação rápida.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 19,
+          "quote": "The First World War ended the liberal order of the nineteenth century and began a phase of deglobalization."
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 19,
+          "quote": "share of trade in GDP fell from 22 percent in 1913 to 15 percent in 1929 and only 9 percent in 1938"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 21,
+          "quote": "the Bretton Woods system of exchange rate coordination under the International Monetary Fund"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Rivalidade colonial e corrida armamentista: a busca de colônias pelas potências em ascensão e a defesa delas pelas estabelecidas geraram crises repetidas e a corrida armamentista de antes de 1914; a Alemanha, incapaz de acompanhar a corrida que começou, apostou num ataque preventivo.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 6,
+          "quote": "Germany was unable to compete against its rivals, and was led therefore to gamble on a pre-emptive strike in 1914."
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Desintegração por secessão camponesa: sob a mobilização, a agricultura de subsistência 'se separava da nação'; a fome urbana vinha da relutância dos agricultores em vender sem bens industriais para comprar, não da falta total de comida.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 14,
+          "quote": "the growing reluctance of farmers to sell at any price, given the lack of industrial commodities to buy in exchange."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Dívidas de guerra e punição coletiva: a rede de empréstimos interaliados (EUA para Reino Unido e França, estes para Itália e Rússia) e o núcleo punitivo de Versalhes contra as ex-Potências Centrais tensionaram as relações do entreguerras e alimentaram a resistência nacionalista alemã; na Segunda Guerra a ajuda aliada foi gratuita e não deixou dívida.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 20,
+          "quote": "Interwar economic and political relationships were bedevilled by this network of debts"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 20,
+          "quote": "inflicted collective punishment on the former Central Powers"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Áustria-Hungria",
+      "period": "Primeira Guerra Mundial",
+      "outcome": "A Áustria, mais industrializada, precisava da comida húngara mas não podia fornecer manufaturas; o comércio entre os dois reinos encolheu, a comida ficou no campo e as cidades austríacas não ampliaram a produção.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 15,
+          "quote": "the food stayed in the Hungarian countryside while the Austrian cities were unable to scale up industrial production"
+        }
+      ]
+    },
+    {
+      "name": "Ocupação alemã do leste e da França",
+      "period": "Segunda Guerra Mundial",
+      "outcome": "O plano de converter Ucrânia e Rússia europeia em região excedente de alimentos fracassou; os recursos camponeses foram difíceis de mobilizar mesmo à força, e a Alemanha importou da França rica várias vezes o que confiscou na Rússia.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 15,
+          "quote": "Germany's imports of food from rich, industrialized France ran at several times the level of its food seizures in Russia"
+        }
+      ]
+    },
+    {
+      "name": "União Soviética",
+      "period": "Segunda Guerra Mundial (crise de 1942)",
+      "outcome": "Único país de baixa renda que manteve a integridade econômica sob ataque: a coletivização, a custo enorme, tirou dos camponeses a liberdade de sair do mercado, e soldados e operários comeram mesmo com milhões passando fome.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 15,
+          "quote": "the only low-income country to defend its economic integrity under serious attack was the Soviet Union in the second conflict."
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 15,
+          "quote": "Stalin had converted the peasants into residual claimants on their own produce."
+        }
+      ]
+    },
+    {
+      "name": "Recuperação europeia depois de 1918 e de 1945",
+      "period": "1918-1950",
+      "outcome": "Depois de 1918, neutros e vencedores levaram mais de três anos para voltar ao PIB per capita de 1913 e os perdedores quase uma década; depois de 1945 a recuperação foi muito mais rápida (tabela 6.9).",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 21,
+          "quote": "Europe's neutrals and victors generally took more than"
+        },
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 22,
+          "quote": "while the losers took nearly a decade to do so."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Military burden e defense share",
+      "definition": "As duas medidas padronizadas de gasto militar dos autores: peso sobre os recursos nacionais (% do PIB) e parcela do orçamento do governo central.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 6,
+          "quote": "the \"military burden\" on national resources (percent of GDP) and the \"defense share\" of budgetary means"
+        }
+      ]
+    },
+    {
+      "term": "Totalitarismo (Linz)",
+      "definition": "Estado com poder político centralizado, ideologia exclusiva usada pelo líder e mobilização dos cidadãos por partido único com violência contra opositores; os autores aplicam o termo à Alemanha nazista e à Rússia comunista, notando que a semelhança é debatível.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 10,
+          "quote": "a totalitarian state has: (1) centralized political power"
+        }
+      ]
+    },
+    {
+      "term": "Secessão da nação",
+      "definition": "Tendência da agricultura de subsistência, parcialmente comercializada, de se desligar da economia nacional sob a pressão da mobilização; o sintoma imediato é a fome urbana.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 14,
+          "quote": "displayed a tendency to \"secede from the nation.\""
+        }
+      ]
+    },
+    {
+      "term": "Índice Polity 2",
+      "definition": "Índice de regime político que subtrai a pontuação de autocracia da de democracia, de +10 (fortemente democrático) a -10 (fortemente autocrático); usado na tabela 6.4 para cruzar regime e PIB per capita.",
+      "refs": [
+        {
+          "file_id": "65e5283afe3654eaeb64209af234ccf9dd527f2bbaf8db3561961785932004a7",
+          "pdf_page": 9,
+          "quote": "subtracts autocracy scores from democracy scores"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "É o capítulo 6 de uma obra coletiva; a extração não traz o título do livro nem o ano de publicação, por isso year fica nulo. Texto de síntese que se apoia sobretudo em trabalhos anteriores (como Broadberry e Harrison 2005b e Harrison 1998), sem dados primários próprios.",
+    "Os autores afirmam explicitamente que não seguem a leitura de Nolte da 'guerra civil europeia' (p. 2); a tese de causalidade da corrida armamentista se apoia em Ferguson e Berghahn, citados por eles, e não numa demonstração própria.",
+    "A tabela 6.7 (p. 17) dá para a França 24,6% de perda de ativos domésticos e 31,0% de riqueza nacional, enquanto a tabela 1.10 de Broadberry e Harrison (leitura obrigatória das mesmas aulas) traz 59,6% e 54,7%; confira os originais antes de citar números da França. Fonte ainda não revisada; as 23 páginas foram lidas e a extração por pdftotext não mostrou lacunas."
+  ],
+  "figures_note": [
+    "Tabelas 6.5 (p. 12), 6.6 (p. 13) e 6.9 (p. 22) sustentam os argumentos sobre queda do produto, mobilização e recuperação; estão extraídas como texto, mas confira o alinhamento das colunas no original.",
+    "Tabelas 6.1 (p. 3), 6.2 (p. 4), 6.3 (p. 6), 6.4 (p. 9), 6.7 (p. 17) e 6.8 (p. 18): lados na guerra, colônias, gasto militar, regime político e destruição de capital."
+  ]
+}

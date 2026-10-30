@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6560680",
+  "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+  "lessons": [
+    9,
+    10
+  ],
+  "authors": [
+    "Temin et al."
+  ],
+  "title": "Unemployment (Chapter 7, The World Economy between the World Wars)",
+  "year": "não consta no texto extraído",
+  "depth": "short",
+  "status": "partial",
+  "thesis": "O capítulo sustenta que o desemprego em massa dos anos 1930 remete, em última instância, ao grande choque de demanda da Depressão, e não a pressões salariais dos trabalhadores. Os salários reais subiram porque salários nominais rígidos não acompanharam a queda de preços, a variação entre países seguiu as políticas monetárias e cambiais (quem ficou mais tempo no ouro sofreu mais), e só políticas macroeconômicas capazes de encerrar a depressão curariam o desemprego.",
+  "question": "Por que o desemprego se tornou o problema central dos anos 1930, por que variou tanto entre países e por que salários reais altos e programas de emprego não o resolveram?",
+  "refs": [
+    {
+      "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+      "pdf_page": 7,
+      "quote": "Our search for an explanation of the mass unemployment of the depression thus leads back to the causes of the large demand shock"
+    },
+    {
+      "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+      "pdf_page": 7,
+      "quote": "It cannot be said that workers were themselves responsible for their own plight"
+    },
+    {
+      "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+      "pdf_page": 5,
+      "quote": "Aggregate unemployment roughly reflects aggregate growth in the two decades, which in its turn depended to a considerable extent on monetary and exchange-rate policies."
+    },
+    {
+      "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+      "pdf_page": 8,
+      "quote": "only macroeconomic policies capable of ending the slump would cure unemployment."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "O desemprego mudou de sentido com a industrialização. Na economia agrária, ficar 'out of work' era sazonal e esperado. Quando os trabalhadores romperam os laços com o campo, o desemprego virou traço do mercado de trabalho e problema social, pela duração e pela incerteza.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 2,
+          "quote": "The difference between the two terms was sociological and psychological rather than just semantic."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 2,
+          "quote": "only then did unemployment became a main feature of labor markets as well as a major social problem"
+        }
+      ]
+    },
+    {
+      "claim": "Medir e comparar o desemprego entre países nos anos 1930 é quase impossível: os registros dependiam dos benefícios, cobriam sobretudo a indústria e subestimavam o subemprego.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 3,
+          "quote": "impossible to compare unemployment statistics across countries for the 1930s."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 3,
+          "quote": "registration depended on the amount and duration of benefits"
+        }
+      ]
+    },
+    {
+      "claim": "Mesmo assim, surgem dois grupos. O primeiro (área da libra e Escandinávia) teve desemprego alto nas duas décadas, e, tendo desvalorizado cedo, o menor aumento nos anos 1930. O segundo conteve o desemprego nos anos 1920 e sofreu desemprego alto e prolongado nos anos 1930 por ficar mais tempo no ouro.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 5,
+          "quote": "countries in Group I devalued early in the depression and had the least severe increase in unemployment"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 5,
+          "quote": "In the 1930s, however, they remained on longer on the gold standard longer than any other country."
+        }
+      ]
+    },
+    {
+      "claim": "Benefícios mais altos tiveram algum peso (Benjamin e Kochin, tese contestada). O fator principal foi outro: com salários nominais rígidos e preços em queda, os salários reais subiram e comprimiram os lucros. A explicação insider-outsider ajuda a entender a rigidez. A Alemanha foi exceção, com salários caindo mais rápido que os preços.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 6,
+          "quote": "it is now generally accepted that some weight should be given to the role of higher unemployment benefits in increasing unemployment"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 6,
+          "quote": "higher real wages in the mid-1930s were associated with higher unemployment."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 7,
+          "quote": "Except for Germany, real wages in 1933 were higher than in 1929 in every country for which data have been collected."
+        }
+      ]
+    },
+    {
+      "claim": "O estudo de Dimsdale et al. para a Grã-Bretanha indica que recessão e recuperação são consistentes com um choque de demanda exógeno, e não com aumentos salariais autônomos. Daí a conclusão de que a explicação volta às causas do choque de demanda.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 7,
+          "quote": "consistent with the consequences of a large exogenous demand shock"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 7,
+          "quote": "Autonomous changes in wages were not an important factor."
+        }
+      ]
+    },
+    {
+      "claim": "Programas de frentes de trabalho raramente fizeram grande diferença. No Reino Unido, o Tesouro barrou obras com déficit (crowding-out, defesa do ouro e da City). Na Alemanha e na Itália, a virada veio do gasto militar. Nos EUA, o CWA criou 4 milhões de empregos, mas os programas são mais bem vistos como passos rumo ao Estado de bem-estar.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 8,
+          "quote": "seldom was it really able to make much of a difference."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 13,
+          "quote": "the real breakthrough in the fight against mass unemployment did not occur until increases in military spending provided a major stimulus to aggregate demand."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 14,
+          "quote": "As work-relief programs made little impact on the roots of unemployment"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Choque de demanda agregada: o desemprego em massa decorre da queda da demanda que os capítulos anteriores do livro analisam (não incluídos no trecho).",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 7,
+          "quote": "consistent with the consequences of a large exogenous demand shock"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Salários nominais rígidos: com a queda de preços, o salário real sobe, os lucros se comprimem e o emprego cai, o que intensifica a depressão.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 6,
+          "quote": "When prices fall in a depression, real wages rise. The resultant profit squeeze intensifies the depression."
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Restrições de economia política à resposta: no Reino Unido, a defesa do ouro exigia juros altos e a City temia pela reputação de Londres. Na Alemanha, o Reichsbank vetou planos de criação de empregos por exigirem expansão do crédito.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 10,
+          "quote": "it was an imperative requirement of the restoration and preservation of the gold standard that interest rates should be kept high"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 9,
+          "quote": "would undermine the reputation and reliability of London as a financial center."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 12,
+          "quote": "The Reichsbank vetoed this plan, on the grounds that it required undesirable credit expansion."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Reino Unido: campanha de Keynes por obras públicas",
+      "period": "1929-1932",
+      "outcome": "O governo rejeitou o programa. Pela pesquisa recente citada, ele teria criado só cerca de 300 mil empregos, pois o multiplicador era menor que o previsto.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 11,
+          "quote": "would probably have created jobs for only about 300,000 of the more than one million who were out of work in 1929"
+        }
+      ]
+    },
+    {
+      "name": "Suécia",
+      "period": "1933-1935",
+      "outcome": "Política fiscal anticíclica deliberada, mas modesta e de efeito limitado. O desemprego já caía pela política monetária expansionista iniciada um ano antes.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 11,
+          "quote": "A policy of this nature was implemented from 1933 to 1935, but only on a modest scale, and its effects were relatively limited."
+        }
+      ]
+    },
+    {
+      "name": "Alemanha: de Brüning a Hitler",
+      "period": "1930-1938",
+      "outcome": "Brüning priorizou orçamento e reparações. Papen e Schleicher esboçaram planos de criação de empregos que Hitler ampliou. O mercado de trabalho chegou perto do pleno emprego no fim da década, com o gasto militar como virada.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 5,
+          "quote": "Toward the end of the 1930s, the German labor market was quite close to full employment."
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 12,
+          "quote": "This turned out to be the blueprint for the larger work-creation program introduced under Hitler."
+        }
+      ]
+    },
+    {
+      "name": "EUA: New Deal (FERA, CWA, CCC)",
+      "period": "1933-1935",
+      "outcome": "O CWA criou 4 milhões de empregos até janeiro de 1934, mas foi encerrado por custo e atrito político. O impacto geral do New Deal sobre o desemprego é visto como modesto, e o Social Security Act (1935) foi o legado duradouro.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 14,
+          "quote": "By January 1934, the CWA had been able to create the targeted four million new jobs"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 13,
+          "quote": "the prevailing view is that the New Deal's overall impact was relatively modest."
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Subemprego (underemployment)",
+      "definition": "Situação de quem não consegue trabalhar em tempo integral ao longo do ano ou da vida. Traço típico dos mercados de trabalho em transição do agrário ao industrial.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 2,
+          "quote": "would later be coined for those who could not work full time over the year or even the life cycle."
+        }
+      ]
+    },
+    {
+      "term": "Insiders e outsiders",
+      "definition": "Os salários são negociados entre empregadores e sindicatos que representam os empregados (insiders). Os desempregados (outsiders) não conseguem forçar os salários para baixo, o que sustenta salário alto com desemprego alto.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 6,
+          "quote": "Wages are determined by agreement between the employers and the unions, which represent employed workers"
+        }
+      ]
+    },
+    {
+      "term": "Crowding-out (visão do Tesouro)",
+      "definition": "Tese de que o gasto público apenas desloca gasto privado: pela confiança (psicológico) ou pela oferta limitada de poupança (financeiro).",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 10,
+          "quote": "any spending by the government would simply displace a corresponding amount of spending by the private sector"
+        },
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 10,
+          "quote": "displacement of spending would occur because there was a limited supply of savings."
+        }
+      ]
+    },
+    {
+      "term": "Multiplicador",
+      "definition": "Expansão do gasto total gerada por um aumento inicial de gasto. Nos cálculos citados, era menor que o suposto por Keynes porque parte do gasto vazava para importações.",
+      "refs": [
+        {
+          "file_id": "847a8a0946ce509cc568cca2038f46e955857e081fc623fa985379db0964e4f1",
+          "pdf_page": 11,
+          "quote": "the value of the multiplier—the expansion of expenditure as a result of the initial increase in spending"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "São TRECHOS do capítulo 7: pp. 113-115 e 124-134 do livro. Faltam as seções 7.3 e 7.4, e a Tabela 7.1, citada na p. 3, não está no PDF. As referências a capítulos 4, 6 e 8 não estão disponíveis. Fontes não revisadas: entrada parcial.",
+    "Autores e ano não aparecem nas páginas extraídas. 'Temin et al.' vem do nome do arquivo. O texto diz 'one of us' ao citar Toniolo e Piva, o que sugere Toniolo como coautor (inferência). O ano ficou em branco.",
+    "Inconsistência no próprio texto: a p. 4 põe a Bélgica no primeiro grupo, mas a Tabela 7.2 a lista no Grupo II. Na p. 5, o texto opõe ('On the other hand') a área da libra ao Grupo I, que são o mesmo grupo. Além disso, a extração tem ligaduras partidas ('fi rst', 'fi nancial'), sem perda de sentido."
+  ],
+  "figures_note": [
+    "p. 4: Tabela 7.2, taxas de desemprego de 1921-29 vs 1930-38 por país (Galenson e Zellner). Sustenta a divisão em dois grupos ligada ao padrão-ouro."
+  ]
+}

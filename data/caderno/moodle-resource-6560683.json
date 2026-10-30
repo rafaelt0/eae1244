@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6560683",
+  "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+  "lessons": [
+    9,
+    10
+  ],
+  "authors": [
+    "Ben S. Bernanke"
+  ],
+  "title": "Credit, Debt-Deflation, and the Great Depression Revisited",
+  "year": 2025,
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Bernanke retoma sua tese de 1983: a crise de crédito dos anos 1930, provocada pela deflação de dívidas (debt-deflation) sobre o endividamento privado acumulado nos anos 1920, foi o principal canal pelo qual a contração monetária derrubou produto e emprego nos EUA. Para o autor, a pesquisa empírica recente, com microdados e identificação causal, sustenta essa tese com mais força do que há 40 anos.",
+  "question": "Se a queda da oferta de moeda iniciou a Depressão, por que ela produziu uma queda tão grande e duradoura de produto e emprego? Qual foi o mecanismo de transmissão monetária?",
+  "refs": [
+    {
+      "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+      "pdf_page": 2,
+      "quote": "the credit crisis of the 1930s was, in fact, the primary mechanism through which monetary contraction debilitated the economy."
+    },
+    {
+      "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+      "pdf_page": 4,
+      "quote": "the new empirical research provides significant support for the view that credit-market dysfunction was a key transmission mechanism during the Depression"
+    },
+    {
+      "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+      "pdf_page": 21,
+      "quote": "falling prices and incomes severely constrained the ability of farmers, households, and businesses to service existing debts or to obtain new credit"
+    }
+  ],
+  "argument": [
+    {
+      "claim": "O autor aceita a explicação monetarista somada ao padrão-ouro (Friedman e Schwartz; Eichengreen) como peça essencial, mas aponta uma lacuna: ela diz pouco sobre o mecanismo de transmissão e trata a crise de crédito apenas pelo efeito dos pânicos bancários sobre o estoque de moeda.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 1,
+          "quote": "who blamed the economic contraction on a steep decline in the money supply"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 2,
+          "quote": "it provides limited insight into the monetary transmission mechanism"
+        }
+      ]
+    },
+    {
+      "claim": "O argumento une duas tradições: a debt-deflation de Fisher (a deflação aumenta o peso real das dívidas nominais) e a literatura de informação assimétrica (emprestar exige custos de triagem e monitoramento, maiores quando tomadores e bancos estão fragilizados). A deflação de dívidas enfraquece os dois lados e encarece a intermediação a ponto de paralisar o crédito privado.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 3,
+          "quote": "they must incur costs (which I called the costs of credit intermediation) to screen and monitor borrowers"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 3,
+          "quote": "Debt-deflation erodes the financial strength of both borrowers"
+        }
+      ]
+    },
+    {
+      "claim": "O otimismo do pós-guerra gerou um boom de crédito nos anos 1920, com padrões de empréstimo afrouxados e inovação financeira. Quando veio a deflação (preços ao consumidor cerca de 27% menores entre 1929 e 1933), agricultores, famílias e empresas não conseguiram servir as dívidas nem obter crédito novo.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 5,
+          "quote": "Lenders loosened credit standards and ran ad campaigns to encourage borrowing."
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 5,
+          "quote": "the buildup in private debt had made the economy vulnerable to declines in the price level (deflation) and incomes"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 9,
+          "quote": "at least 20 percent of the manufacturers reporting difficulty in obtaining credit from customary sources were in excellent financial shape"
+        }
+      ]
+    },
+    {
+      "claim": "Nos bancos, pesou não só a falência de cerca de um terço deles, mas também a retração dos sobreviventes, que temiam corridas e trocaram empréstimos por ativos líquidos e seguros. Segundo os estudos citados, ao menos antes de 1933 o risco de corrida dependia sobretudo do balanço de cada banco, e não de eventos macroeconômicos.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 10,
+          "quote": "The altered behavior of surviving banks in the face of heightened run risk was at least as important."
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 11,
+          "quote": "the condition of each bank's own balance sheet"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 12,
+          "quote": "accounted for 39 percent of the decline in bank lending between July 1929 and December 1932"
+        }
+      ]
+    },
+    {
+      "claim": "Hoover e Roosevelt trataram a normalização do crédito como prioridade (RFC, feriado bancário, refinanciamento de hipotecas, desvalorização para aliviar devedores). O autor lê esse esforço como evidência de que os contemporâneos viam o colapso do crédito como causa central da profundidade da crise, mas avalia o resultado como misto.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 13,
+          "quote": "Depression-era policymakers saw the breakdown of the credit system as a major reason for the depth and persistence of the slump."
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 17,
+          "quote": "Overall, the policy response to the Depression was a mixed bag."
+        }
+      ]
+    },
+    {
+      "claim": "O autor rejeita os dois mecanismos alternativos. A deflação provavelmente não foi antecipada, o que enfraquece a tese dos juros reais esperados altos. Contra os salários rígidos, a rigidez aparece sobretudo na manufatura, as empresas tinham outros modos de cortar custos e, nos dados do NICB, as indústrias que mais cortaram salários também mais demitiram.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 18,
+          "quote": "high real interest rates, induced by anticipations of deflation; and (2) sticky nominal wages."
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 20,
+          "quote": "neither the anticipated deflation nor the sticky-wage hypothesis seem able to account for the powerful impact of deflation on the real economy"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Origem monetária: o autor admite, com o consenso atual, que fatores monetários (queda da oferta de moeda, ligada ao padrão-ouro) deflagraram a Depressão. O artigo não disputa a causa, mas o canal pelo qual ela afetou a economia real.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 21,
+          "quote": "Economic historians today generally agree that monetary factors helped set off the Depression."
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Deflação de dívidas e ruptura do mercado de crédito: a queda de preços e rendas eleva o peso real das dívidas, gera inadimplência, enfraquece credores e corta o crédito, deprimindo o gasto privado.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 18,
+          "quote": "debt-deflation and credit-market disruption were key transmission mechanisms through which declines in the money supply"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "description": "Retroalimentação entre crédito e moeda (nota 4): perdas de crédito derrubam bancos ou os tornam mais conservadores, o que reduz ainda mais a oferta de moeda. O crédito em dificuldade amplifica o aperto monetário e também o agrava.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 11,
+          "quote": "distressed credit not only amplified the effects of monetary tightness but also led to further declines in the money stock."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Crise da dívida agrícola nos EUA",
+      "period": "1920s-1933",
+      "outcome": "Preços agrícolas caíram 58% entre 1929 e 1932, as execuções hipotecárias por mil fazendas foram de 14,7 para 38,8 e mais da metade da dívida hipotecária rural estava em atraso no início de 1933.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 6,
+          "quote": "the foreclosure rate per 1000 farms rose from 14.7 in 1929 to 38.8 in 1933"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 6,
+          "quote": "At the beginning of 1933, a remarkable 52 percent of farm mortgage debt was in arrears"
+        }
+      ]
+    },
+    {
+      "name": "Hipotecas residenciais e buildings and loans (B&Ls)",
+      "period": "1925-1941",
+      "outcome": "Em 1933, entre um terço e metade dos mutuários com hipoteca estavam inadimplentes. O crédito hipotecário privado quase desapareceu e mais da metade das B&Ls de 1929 faliu até 1941.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 8,
+          "quote": "by 1933 probably between one-third and one-half of American homeowners with mortgages were in default"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 8,
+          "quote": "by 1941, more than half of the B&Ls operating in 1929 had failed."
+        }
+      ]
+    },
+    {
+      "name": "Feriado bancário de março de 1933",
+      "period": "1933",
+      "outcome": "Os pânicos cessaram e a moeda voltou aos bancos, o que o autor atribui à garantia governamental implícita. O crédito bancário, porém, seguiu estagnado.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 14,
+          "quote": "bank panics ended and currency flowed back into the system"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 13,
+          "quote": "bank lending remained stagnant, creating a drag on the recovery."
+        }
+      ]
+    },
+    {
+      "name": "Desvalorização do dólar por Roosevelt",
+      "period": "1933-1935",
+      "outcome": "Junto com a estabilização bancária, ajudou a encerrar a deflação. Para o autor, o motivo de Roosevelt era aliviar os devedores, sobretudo agricultores.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 16,
+          "quote": "The devaluation of the dollar, ultimately to $35 per ounce, together with the stabilization of the banks, helped end deflation"
+        },
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 17,
+          "quote": "the rationale for the devaluation was to improve the ability of debtors (especially farmers) to service their debts"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Debt-deflation (Fisher)",
+      "definition": "Efeito da deflação sobre o valor real de dívidas fixadas em termos nominais. Fisher o via como a principal fonte da Depressão.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 3,
+          "quote": "the effects of deflation on the real value of nominal debts"
+        }
+      ]
+    },
+    {
+      "term": "Custos de intermediação de crédito",
+      "definition": "Custos que o credor incorre para selecionar e monitorar tomadores sob informação imperfeita. Sobem quando tomadores ou bancos perdem solidez financeira.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 3,
+          "quote": "they must incur costs (which I called the costs of credit intermediation) to screen and monitor borrowers"
+        }
+      ]
+    },
+    {
+      "term": "Scramble for liquidity",
+      "definition": "Reação dos bancos sobreviventes ao risco de corrida: migrar para ativos seguros e líquidos, cortar novos empréstimos e chamar ou não renovar os existentes.",
+      "refs": [
+        {
+          "file_id": "47e5922c23f96ef6fe3275da2bb7ef69b2c9acb013ae2a0da3c50bb62ef9e399",
+          "pdf_page": 11,
+          "quote": "shifting their holdings as quickly as possible toward safer, more liquid assets"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "O autor revisita a própria tese de 1983. O artigo é uma defesa dela, e a evidência empírica vem de uma seleção de estudos que ele mesmo diz ser parcial (p. 4). Fontes não revisadas: entrada parcial.",
+    "A análise é quase toda sobre os EUA. A dimensão internacional (padrão-ouro) é aceita como pano de fundo, mas não é analisada.",
+    "A rejeição da hipótese dos salários rígidos é do autor. Inferência do resumo: ela contrasta com leituras da mesma aula que aceitam salários nominais rígidos como canal (Crafts e Fearon; capítulo de desemprego de Temin et al.). As pp. 22-24 são só referências bibliográficas."
+  ]
+}

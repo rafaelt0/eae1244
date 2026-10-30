@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "resource_id": "moodle-resource-6560684",
+  "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+  "lessons": [
+    9,
+    10
+  ],
+  "authors": [
+    "Barry Eichengreen"
+  ],
+  "title": "The origins and nature of the Great Slump revisited",
+  "year": 1992,
+  "depth": "short",
+  "status": "partial",
+  "thesis": "Eichengreen sustenta que a pesquisa da década anterior produziu um consenso: o impulso inicial da Grande Depressão foi o aperto monetário dos EUA a partir de 1928, amplificado no exterior, e mudanças estruturais da guerra e dos anos 1920 (padrão-ouro frágil, dependência do crédito americano, bens duráveis e salários menos flexíveis nos EUA) fortaleceram sua propagação. O padrão-ouro transmitiu a deflação e travou as respostas; abandoná-lo foi precondição para a recuperação.",
+  "question": "O que a literatura recente diz sobre o início, a propagação internacional, a persistência e a recuperação da Grande Depressão, e em que pontos há consenso?",
+  "refs": [
+    {
+      "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+      "pdf_page": 2,
+      "quote": "the last decade has witnessed a hidden revolution in our understanding of the macroeconomics"
+    },
+    {
+      "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+      "pdf_page": 10,
+      "quote": "increasingly stringent US monetary policy contributed significantly to the onset of the slump"
+    },
+    {
+      "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+      "pdf_page": 25,
+      "quote": "Policy may have provided the initial destabilizing impulse, but changes in economic structure strengthened the propagation mechanism."
+    },
+    {
+      "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+      "pdf_page": 25,
+      "quote": "Abandoning the gold standard was a necessary precondition for their adoption."
+    }
+  ],
+  "argument": [
+    {
+      "claim": "Quatro mudanças estruturais da guerra e dos anos 1920 prepararam o terreno: peso crescente dos bens duráveis e menor flexibilidade do mercado de trabalho (sobretudo nos EUA, o que ajuda a explicar a gravidade da queda americana), fragilidade do padrão-ouro e novo padrão de liquidações internacionais dependente do crédito dos EUA (fenômenos globais).",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 10,
+          "quote": "All four changes in economic structure could have helped set the stage"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 10,
+          "quote": "The other two-the growing fragility of the gold standard and shifts in the pattern of international settlements-were global phenomena"
+        }
+      ]
+    },
+    {
+      "claim": "O impulso inicial foi o aperto do Fed em 1928, motivado pela especulação na bolsa: o crédito externo americano parou e, junto com a atração de ouro pela França, obrigou os demais bancos centrais a contrair ainda mais para defender suas paridades. Foi essa mudança mundial, e não só a americana, a fonte do choque contracionista.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 10,
+          "quote": "Monetary restriction by the Fed brought US foreign lending to a halt."
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 11,
+          "quote": "This shift in policy worldwide, and not merely in the US, was the source"
+        }
+      ]
+    },
+    {
+      "claim": "Os grandes importadores de capital dos anos 1920 entraram primeiro na recessão. Nos EUA, a queda se aprofundou por uma soma de fatores: exportações em queda, adiamento de compras de duráveis após o crash, novo aperto monetário a partir de meados de 1930 e rigidez do mercado de trabalho.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 12,
+          "quote": "It is no coincidence that these were the first countries to enter the slump"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 13,
+          "quote": "a more eclectic approach has considerable explanatory power"
+        }
+      ]
+    },
+    {
+      "claim": "A transmissão internacional operou com força porque o câmbio fixo do padrão-ouro ligava as economias: deflação de preços, drenagem de reservas para os EUA e queda das importações americanas. Quem ficava no ouro quase não podia compensar o choque, e até EUA e França, com cerca de 30% do ouro mundial cada, esbarraram na restrição externa.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 14,
+          "quote": "These channels operated powerfully because national economies were linked together by the fixed exchange rates of the gold standard"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 14,
+          "quote": "countries importing the destabilizing impulse from abroad thus had virtually"
+        }
+      ]
+    },
+    {
+      "claim": "A deflação derrubou a produção por dois canais: salários nominais que não acompanharam os preços (salário real em alta) e crises bancárias. Sob o ouro, socorrer bancos provocava fuga de capital, por isso os pânicos foram mais comuns nos países que se agarraram ao padrão-ouro; a reflação coordenada falhou por divergências entre países.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 15,
+          "quote": "money wages failed to keep pace with falling prices"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 18,
+          "quote": "banking panics were most prevalent in countries which held fast to the gold standard"
+        }
+      ]
+    },
+    {
+      "claim": "Na recuperação, as tarifas tiveram efeito agregado provavelmente pequeno (pesaram mais sobre devedores); o decisivo foi a depreciação, que liberou a expansão monetária unilateral. O momento e o tamanho da depreciação explicam boa parte do momento da recuperação, e a política monetária fez mais que a fiscal.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 20,
+          "quote": "on balance the aggregate effects of trade restrictions in the"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 21,
+          "quote": "The timing and extent of depreciation can explain much of the variation"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 24,
+          "quote": "monetary policy did most of the work"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    {
+      "kind": "cause",
+      "description": "Aperto monetário dos EUA em 1928, multiplicado no exterior pela esterilização de ouro na França e pela dependência de capital externo dos devedores, que forçou contrações ainda maiores fora dos EUA.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 10,
+          "quote": "Restrictive monetary policy in the US had such powerful effects because it induced"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 10,
+          "quote": "As the US and France siphoned off gold and financial capital from the rest of"
+        }
+      ]
+    },
+    {
+      "kind": "transmitter",
+      "description": "Padrão-ouro: o câmbio fixo propagou a deflação, drenou reservas e impediu tanto a expansão doméstica quanto o socorro aos bancos; a suspensão da conversibilidade era precondição para estabilizar o sistema bancário.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 14,
+          "quote": "So long as they remained committed to the fixed exchange rates of the"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 18,
+          "quote": "Suspending gold convertibility was therefore a precondition for effective intervention"
+        }
+      ]
+    },
+    {
+      "kind": "political_economy",
+      "description": "Falha de cooperação internacional: restrições políticas domésticas, a disputa sobre dívidas de guerra e reparações e marcos conceituais incompatíveis (no Reino Unido, falta de crédito; na França e nos EUA de Hoover, visão liquidacionista em que expandir a moeda era o problema).",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 8,
+          "quote": "Three factors limited the extent of international cooperation: domestic political constraints, international political disputes, and incompatible conceptual frameworks"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 19,
+          "quote": "In France, by contrast, monetary expansion was regarded as the problem rather than the solution."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "Importadores de capital (Alemanha, Argentina, Brasil, Austrália, Canadá, Polônia)",
+      "period": "1928-1929",
+      "outcome": "Com o fim do crédito americano, seus balanços de pagamentos pioraram e os bancos centrais reagiram com dureza; entraram em recessão antes dos EUA.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 12,
+          "quote": "Recessionary tendencies were evident in Germany, Argentina, Brazil, Australia, Canada, and Poland"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido e área da libra",
+      "period": "saída do ouro em setembro de 1931",
+      "outcome": "A desvalorização precoce ajuda a explicar a recuperação precoce; a área da libra cresceu bem acima do bloco do ouro na produção industrial até 1936 (Tabela 2).",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 21,
+          "quote": "Britain's early devaluation, for example, helps to explain the early date of its recovery"
+        }
+      ]
+    },
+    {
+      "name": "França e bloco do ouro",
+      "period": "até 1936",
+      "outcome": "Recuperação tardia associada à recusa em desvalorizar; tentativas de gasto deficitário de Flandin e Laval provocaram novas perdas de reservas e crises do franco.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 21,
+          "quote": "France's delayed recovery was clearly associated with its"
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 15,
+          "quote": "The result, in any case, was renewed reserve losses and another crisis of the franc."
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "period": "1929-1937",
+      "outcome": "Queda excepcional; após a desvalorização da libra o Fed ficou limitado pelo free gold; a recuperação coincidiu com a desvalorização do dólar, e a interrupção da expansão monetária em 1937 coincidiu com a interrupção da recuperação.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 21,
+          "quote": "US recovery coincided with the dollar's devaluation."
+        },
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 24,
+          "quote": "coincided with the one significant interruption to economic recovery"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Violação das \"regras do jogo\"",
+      "definition": "Política que impedia o crédito doméstico de subir e cair com as reservas internacionais; tornou-se mais frequente no entreguerras e fragilizou o padrão-ouro.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 7,
+          "quote": "Violations of the 'rules of the game', in which policymakers prevented domestic credit from rising and falling with international reserves"
+        }
+      ]
+    },
+    {
+      "term": "Free gold",
+      "definition": "Ouro do Fed acima do exigido como lastro; como títulos públicos não serviam de colateral para as notas, só ele permitia operações de mercado aberto expansionistas antes de 1932.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 14,
+          "quote": "Government securities did not qualify as collateral for Federal Reserve notes in circulation"
+        }
+      ]
+    },
+    {
+      "term": "Falha de coordenação salarial",
+      "definition": "Trabalhadores e rentistas aceitariam rendas nominais menores se confiassem que os outros fariam o mesmo; sem essa confiança, os salários não se ajustavam e só o governo poderia romper o impasse.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 17,
+          "quote": "A final factor contributing to the failure of wages to adjust lies in what economists refer to as coordination failure"
+        }
+      ]
+    },
+    {
+      "term": "Depreciação beggar-thy-neighbour",
+      "definition": "Como a expansão monetária foi tímida, os países que depreciaram supriram sua demanda por moeda importando ouro e capital, à custa das reservas dos que seguiam no ouro; para o autor, o problema foi a depreciação não ter sido mais ampla.",
+      "refs": [
+        {
+          "file_id": "149c691a6be64458ef08fa459e7cf3534f454ebe3b45cf381e3e0713de77e2cc",
+          "pdf_page": 25,
+          "quote": "Hence currency depreciation had beggar-thy-neighbour effects."
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "É um survey: as conclusões sintetizam trabalhos de terceiros e do próprio autor (sobretudo Golden fetters), sem evidência nova; o autor chama de controversa a conclusão sobre o efeito agregado das tarifas, e o debate sobre se a deflação de 1930 foi antecipada continua aberto no texto.",
+    "A extração vem do JSTOR com OCR que troca o algarismo 1 por I nos números (I929, I930s); a página 1 é a capa do JSTOR e as páginas 25-28 trazem as referências bibliográficas.",
+    "Classificar o aperto americano como causa, o ouro como transmissor e a falha de cooperação como economia política é leitura deste resumo; o autor descreve impulso inicial e mecanismo de propagação, sem usar esses rótulos."
+  ],
+  "figures_note": [
+    "Página 11: Tabela 1 (variação de M1 por região, 1926-1929) legível, base da afirmação de que a contração monetária foi maior fora da América do Norte; Figura 2 (agregados monetários dos EUA) só com rótulos.",
+    "Página 22: Tabela 2 (crescimento da produção industrial 1929-1936 por bloco: ouro, controle cambial, área da libra, outros depreciadores) legível, com I no lugar de 1 nos números; Figura 5 (produção industrial por país) ilegível.",
+    "Páginas 4, 16, 23 e 24: Figuras 1, 3, 4, 6, 7 e 8 (produção por setor, preços no atacado, salário-produto, construção, base monetária e moeda ampla) sem curvas legíveis na extração; consultar o original."
+  ]
+}
