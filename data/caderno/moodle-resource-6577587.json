@@ -1102,6 +1102,532 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 1",
+      "title": "Volume da produção de munições de combate dos principais beligerantes, 1935-44",
+      "unit": "gasto anual em US$ bilhões, preços de munições dos EUA de 1944",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 2,
+      "columns": [
+        "País",
+        "1935-9",
+        "1940",
+        "1941",
+        "1942",
+        "1943",
+        "1944"
+      ],
+      "rows": [
+        [
+          "EUA",
+          "0.3",
+          "1.5",
+          "4.5",
+          "20",
+          "38",
+          "42"
+        ],
+        [
+          "Canadá",
+          "0",
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "1.5"
+        ],
+        [
+          "Reino Unido",
+          "0.5",
+          "3.5",
+          "6.5",
+          "9",
+          "11",
+          "11"
+        ],
+        [
+          "URSS",
+          "1.6",
+          "5",
+          "8.5",
+          "11.5",
+          "14",
+          "16"
+        ],
+        [
+          "Alemanha",
+          "2.4",
+          "6",
+          "6",
+          "8.5",
+          "13.5",
+          "17"
+        ],
+        [
+          "Japão",
+          "0.4",
+          "1",
+          "2",
+          "3",
+          "4.5",
+          "6"
+        ]
+      ],
+      "supports": "Sustenta o ponto de partida do argumento (Goldsmith): os Aliados venceram por produzir muito mais munições que o Eixo, e mostra a liderança alemã antes de 1940 e a multiplicação da produção aliada depois.",
+      "note": "Tabela completa. Para 1935-9 a fonte (Goldsmith, 'Power of victory', p. 75) dá o gasto acumulado; aqui é a média anual."
+    },
+    {
+      "label": "Tabela 2 (A)",
+      "title": "Razão entre o gasto com munições e o gasto com soldo militar, 1939-45",
+      "unit": "razão",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 7,
+      "columns": [
+        "Ano",
+        "EUA",
+        "Reino Unido",
+        "URSS",
+        "Alemanha"
+      ],
+      "rows": [
+        [
+          "1939",
+          "…",
+          "3.6",
+          "…",
+          "1.9"
+        ],
+        [
+          "1940",
+          "4.2",
+          "4.1",
+          "3.3",
+          "1.0"
+        ],
+        [
+          "1941",
+          "3.7",
+          "3.4",
+          "…",
+          "0.8"
+        ],
+        [
+          "1942",
+          "3.9",
+          "2.7",
+          "2.6",
+          "0.9"
+        ],
+        [
+          "1943",
+          "3.0",
+          "2.3",
+          "3.3",
+          "…"
+        ],
+        [
+          "1944",
+          "2.4",
+          "1.9",
+          "3.6",
+          "…"
+        ],
+        [
+          "1945",
+          "1.8",
+          "1.4",
+          "…",
+          "…"
+        ]
+      ],
+      "supports": "Sustenta o passo sobre o padrão de rearmamento: os Aliados fizeram rearmamento 'intensivo' (mais munições por soldado pago), enquanto a Alemanha priorizou efetivo; a URSS manteve a ênfase em munições depois de 1942.",
+      "note": "Tabela completa. '…' = dado ausente no original (o original alterna '…' e '...'). Razões dos EUA e da URSS a preços constantes (1945 e custo de fatores de 1937); Reino Unido e Alemanha a preços correntes; o autor alerta para incerteza nos dados soviéticos e britânicos."
+    },
+    {
+      "label": "Tabela 2 (B)",
+      "title": "Volume da produção de munições de combate por militar, 1940-44",
+      "unit": "US$ de 1944 por homem",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 7,
+      "columns": [
+        "Ano",
+        "EUA",
+        "Reino Unido",
+        "URSS",
+        "Alemanha"
+      ],
+      "rows": [
+        [
+          "1940",
+          "2,800",
+          "1,500",
+          "1,200",
+          "1,100"
+        ],
+        [
+          "1941",
+          "2,800",
+          "1,900",
+          "…",
+          "800"
+        ],
+        [
+          "1942",
+          "5,400",
+          "2,200",
+          "1,100",
+          "900"
+        ],
+        [
+          "1943",
+          "4,200",
+          "2,300",
+          "1,300",
+          "1,200"
+        ],
+        [
+          "1944",
+          "3,700",
+          "2,200",
+          "1,400",
+          "1,400"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que, em termos reais por soldado, a vantagem anglo-americana sobre a Alemanha virou um abismo, enquanto o resultado soviético ficou mais próximo do alemão.",
+      "note": "Tabela completa; vírgula = separador de milhar, como no original. '…' = dado ausente. Para a URSS em 1943 o autor interpola 11 milhões de militares."
+    },
+    {
+      "label": "Tabela 3",
+      "title": "Mobilização do produto nacional líquido para a guerra: EUA, Reino Unido, URSS e Alemanha, 1938-45",
+      "unit": "% da renda nacional",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 16,
+      "columns": [
+        "Ano",
+        "EUA (I)",
+        "EUA (II)",
+        "Reino Unido (I)",
+        "Reino Unido (II)",
+        "URSS (I)",
+        "URSS (II)",
+        "Alemanha (I)",
+        "Alemanha (II)"
+      ],
+      "rows": [
+        [
+          "1938",
+          "…",
+          "…",
+          "7",
+          "2",
+          "…",
+          "…",
+          "17",
+          "18"
+        ],
+        [
+          "1939",
+          "1",
+          "2",
+          "16",
+          "8",
+          "…",
+          "…",
+          "25",
+          "24"
+        ],
+        [
+          "1940",
+          "1",
+          "3",
+          "48",
+          "31",
+          "20",
+          "20",
+          "44",
+          "36"
+        ],
+        [
+          "1941",
+          "13",
+          "14",
+          "55",
+          "41",
+          "…",
+          "…",
+          "56",
+          "44"
+        ],
+        [
+          "1942",
+          "36",
+          "40",
+          "54",
+          "43",
+          "75",
+          "66",
+          "69",
+          "52"
+        ],
+        [
+          "1943",
+          "47",
+          "53",
+          "57",
+          "47",
+          "76",
+          "58",
+          "76",
+          "60"
+        ],
+        [
+          "1944",
+          "47",
+          "54",
+          "56",
+          "47",
+          "69",
+          "52",
+          "…",
+          "…"
+        ],
+        [
+          "1945",
+          "…",
+          "44",
+          "47",
+          "36",
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      ],
+      "supports": "Sustenta a seção III: pela medida (I) o Reino Unido chega a 57% contra 47% dos EUA, pela (II) os EUA chegam a 53-54% contra 47%; a URSS atinge dois terços (II) a três quartos (I) em 1942 e 76% em 1943, e a Alemanha 76/60 em 1943.",
+      "note": "Tabela completa. (I) utilização nacional dos recursos para a guerra, qualquer que seja a origem (gasto militar; para os EUA, menos exportações líquidas). (II) financiamento doméstico (gasto militar menos importações líquidas para Reino Unido, URSS e Alemanha). '…' = dado ausente."
+    },
+    {
+      "label": "Tabela 4",
+      "title": "Produto nacional real dos EUA, Reino Unido, URSS e Alemanha, 1937-45",
+      "unit": "índices: EUA PNB 1939 = 100; Reino Unido PID 1938 = 100; URSS PNL 1937 = 100; Alemanha PNB 1939 = 100",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 17,
+      "columns": [
+        "Ano",
+        "EUA (PNB, 1939 = 100)",
+        "Reino Unido (PID, 1938 = 100)",
+        "URSS (PNL, 1937 = 100)",
+        "Alemanha (PNB, 1939 = 100)"
+      ],
+      "rows": [
+        [
+          "1937",
+          "…",
+          "…",
+          "100",
+          "…"
+        ],
+        [
+          "1938",
+          "…",
+          "100",
+          "101",
+          "…"
+        ],
+        [
+          "1939",
+          "100",
+          "103",
+          "107",
+          "100"
+        ],
+        [
+          "1940",
+          "108",
+          "120",
+          "117",
+          "100"
+        ],
+        [
+          "1941",
+          "125",
+          "127",
+          "94",
+          "102"
+        ],
+        [
+          "1942",
+          "137",
+          "128",
+          "66",
+          "105"
+        ],
+        [
+          "1943",
+          "149",
+          "131",
+          "77",
+          "116"
+        ],
+        [
+          "1944",
+          "152",
+          "124",
+          "93",
+          "…"
+        ],
+        [
+          "1945",
+          "…",
+          "115",
+          "92",
+          "…"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que EUA e Reino Unido mobilizaram com crescimento da renda real (cerca de metade e mais de um quarto) e a Alemanha com crescimento menor, enquanto a renda real soviética caiu mais de dois quintos em 1940-42.",
+      "note": "Tabela completa. '…' = dado ausente. Cada série tem base e conceito próprios (PNB a preços de mercado, PID e PNL a custo de fatores), então compare variações dentro de cada país, não níveis entre países."
+    },
+    {
+      "label": "Tabela 5",
+      "title": "Mobilização da força de trabalho para a guerra: EUA, Reino Unido, URSS e Alemanha, 1939/40 e 1943",
+      "unit": "% da população ativa",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 18,
+      "columns": [
+        "País e ano",
+        "Indústria do Grupo I",
+        "Forças armadas",
+        "Total ligado à guerra"
+      ],
+      "rows": [
+        [
+          "EUA 1940",
+          "8.4",
+          "1.0",
+          "9.4"
+        ],
+        [
+          "EUA 1943",
+          "19.0",
+          "16.4",
+          "35.4"
+        ],
+        [
+          "Reino Unido 1939",
+          "15.8",
+          "2.8",
+          "18.6"
+        ],
+        [
+          "Reino Unido 1943",
+          "23.0",
+          "22.3",
+          "45.3"
+        ],
+        [
+          "URSS 1940",
+          "8",
+          "5.9",
+          "14"
+        ],
+        [
+          "URSS 1943",
+          "31",
+          "23",
+          "54"
+        ],
+        [
+          "Alemanha 1939",
+          "14.1",
+          "4.2",
+          "18.3"
+        ],
+        [
+          "Alemanha 1943",
+          "14.2",
+          "23.4",
+          "37.6"
+        ]
+      ],
+      "supports": "Sustenta o passo sobre mobilização do trabalho: URSS a mais intensa (54% em 1943), depois Reino Unido (45%) e EUA (cerca de um terço), e a Alemanha quase sem ampliar o emprego industrial de guerra (14,1% para 14,2%) enquanto inchava o efetivo militar.",
+      "note": "Tabela completa. Grupo I, na definição britânica: sobretudo armamentos, construção naval, engenharia, metalurgia e química. A série soviética é estimada pelo autor com várias hipóteses de produtividade."
+    },
+    {
+      "label": "Tabela 6",
+      "title": "Oferta de recursos externos: importações líquidas dos EUA, Reino Unido, URSS e Alemanha, 1938-45",
+      "unit": "% da renda nacional",
+      "file_id": "e2b4265d5868eb7a80c2eca9871b8a6562238b8a5aacd15e48c67d8be4ab4995",
+      "pdf_page": 22,
+      "columns": [
+        "Ano",
+        "EUA",
+        "Reino Unido",
+        "URSS",
+        "Alemanha"
+      ],
+      "rows": [
+        [
+          "1938",
+          "-2",
+          "5",
+          "…",
+          "-1"
+        ],
+        [
+          "1939",
+          "-1",
+          "8",
+          "…",
+          "1"
+        ],
+        [
+          "1940",
+          "-2",
+          "17",
+          "…",
+          "7"
+        ],
+        [
+          "1941",
+          "-2",
+          "14",
+          "…",
+          "12"
+        ],
+        [
+          "1942",
+          "-4",
+          "11",
+          "9",
+          "17"
+        ],
+        [
+          "1943",
+          "-6",
+          "10",
+          "18",
+          "16"
+        ],
+        [
+          "1944",
+          "-6",
+          "9",
+          "17",
+          "…"
+        ],
+        [
+          "1945",
+          "…",
+          "11",
+          "…",
+          "…"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que todos menos os EUA (exportadores líquidos, valores negativos) dependeram muito de suprimento externo, com dependência de pico semelhante: Reino Unido via Lend-Lease, URSS via Lend-Lease e Alemanha via conquistas.",
+      "note": "Tabela completa. Valores negativos = exportação líquida. '…' = dado ausente. Fontes: as mesmas da tabela 3."
+    }
+  ],
   "limits": [
     "Escopo: o autor mede só intensidade da mobilização, não eficiência no uso dos recursos; ele próprio diz que nenhuma das duas basta sozinha (a conclusão sobre superioridade soviética vale 'por esse padrão').",
     "Qualidade dos dados: os números soviéticos e alguns britânicos têm incerteza declarada (apêndices A, B e C sob consulta ao autor); a série soviética está a custo de fatores constante de 1937, o que acompanha melhor mudanças reais mas não o sacrifício corrente do uso não bélico; os dados alemães deixam de ser confiáveis depois de 1943.",
@@ -1360,7 +1886,7 @@
     }
   ],
   "figures_note": [
-    "Texto, p. 2 (tabela 1), p. 7 (tabela 2, partes A e B), p. 16 (tabela 3), p. 17 (tabela 4), p. 18 (tabela 5) e p. 22 (tabela 6): as tabelas estão extraídas como texto, mas a formatação em colunas é ruidosa; confira os valores com o original antes de citar números exatos (especialmente os pontos '…' de dados ausentes).",
+    "Texto, p. 2 (tabela 1), p. 7 (tabela 2, partes A e B), p. 16 (tabela 3), p. 17 (tabela 4), p. 18 (tabela 5) e p. 22 (tabela 6): transcritas na seção Tabelas a partir da imagem da página, com os valores conferidos no original (a extração de texto tinha colunas ruidosas).",
     "Slides, p. 13 (tabela 2, munições e efetivos), p. 19 (tabela 3, mobilização do produto líquido), p. 21 (tabela 4, produto nacional real), p. 22 (tabela 1.3, PIB de guerra das grandes potências 1938-45), p. 23 (tabela 5, força de trabalho), p. 37 (tabela 1.11, perdas por destruição física) e p. 38 (tabela 3, baixas de guerra 1938-45, Klemann e Kudryashov 2012): são imagens/tabelas sem texto extraído; as tabelas 1.3, 1.11 e de baixas não estão em Harrison, devem ser lidas no original dos slides."
   ]
 }

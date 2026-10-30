@@ -66,4 +66,21 @@ Regra aplicada: frases de efeito, convites e títulos que explicam o óbvio fora
 
 ## A frase citada
 
-"Uma aula, um percurso" não existia literalmente no código, nos dados nem no pacote. A string mais próxima era "Uma leitura, comparação entre casos", no subtítulo dos temas de leitura única do Atlas, e foi substituída.
+"Uma aula, um percurso" não existia no ramo em que a reforma começou. Ela vinha da página inicial criada em paralelo na `main` (PR #2). Na integração de 30/10/2026, a página inicial virou o sumário "Temas da prova" e a frase saiu. A string parecida "Uma leitura, comparação entre casos", no Atlas, também foi substituída.
+
+## Textos da integração com a `main` (30/10/2026)
+
+| Na `main` | Agora |
+| --- | --- |
+| Uma aula, um percurso. / Leia, compare os argumentos e construa sua resposta. | Temas da prova; linha fina com a contagem de temas e leituras |
+| Continuar de onde parei; Retomar → | Marcador, com o nome da página e a área |
+| Seu estudo começa aqui; Escolha um percurso abaixo para começar… | removido |
+| Começar → | o título do tema é o link; Caderno, Atlas e Praticar ao lado |
+| Quero rever; Na revisão | Marcar para rever; Marcado para rever |
+| O que você quer rever / Seus temas marcados para voltar com mais atenção. | Para rever / Temas marcados neste navegador. |
+| Para rever (aba com ícone) | Para rever, no rodapé do sumário, com a contagem |
+| Aparência escura; Aparência clara | Página escura; Página clara |
+| Compartilhar; Compartilhar este conteúdo | Copiar link; Link desta página |
+| Nesta leitura | lista numerada das seções, sem rótulo |
+| ← Voltar à busca | Voltar ao índice remissivo |
+| Conferir no original · página física N | *arquivo*, página física N |

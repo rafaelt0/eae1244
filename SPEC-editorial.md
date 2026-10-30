@@ -180,7 +180,7 @@ chrome-devtools-axi run tests/html/browser.mjs
 
 ## Perguntas em aberto
 
-1. Onde aparece "Uma aula, um percurso"? A frase não está no código nem nos dados. Se estiver em uma versão anterior, em um título do Moodle ou em outro documento, isso muda o inventário.
-2. Página inicial: hoje o guia abre direto em uma leitura. Uma página de sumário como abertura, à maneira de um frontispício com índice, combina com o livro. Isso muda o fluxo, então só entra com o seu sim.
+1. Onde aparece "Uma aula, um percurso"? Resolvida em 30/10/2026: vinha da página inicial do PR #2, feita em paralelo na `main`. Saiu na integração.
+2. Página inicial: resolvida em 30/10/2026. O PR #2 já trazia uma página inicial, aprovada na `main`; na integração ela virou o sumário "Temas da prova", com marcador da última página lida.
 3. Cor de destaque: vermelho de impressão ou azul-tinta? O protótipo pode mostrar as duas.
 4. Habilidade "taste": não está instalada. Se você tiver uma fonte para ela, sigo as regras dela no protótipo; senão, sigo esta especificação com `frontend-ui-engineering`.

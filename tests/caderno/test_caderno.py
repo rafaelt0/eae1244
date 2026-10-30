@@ -90,6 +90,34 @@ class EntryValidationTests(unittest.TestCase):
         self.assertEqual(code, 0, out)
         self.assertTrue(json.loads(out)["ok"])
 
+    def table(self, **overrides):
+        table = {"label": "Tabela 1", "title": "Recuperação", "supports": "Quem saiu cedo se recuperou antes.",
+                 "file_id": FID, "pdf_page": 2, "columns": ["País", "Ano"], "rows": [["Reino Unido", "1931"]]}
+        table.update(overrides)
+        return table
+
+    def test_entry_with_valid_table_passes(self):
+        self.assertEqual(self.check(deep_entry(tables=[self.table()]))[0], 0)
+
+    def test_table_row_with_wrong_width_fails(self):
+        code, out, _ = self.check(deep_entry(tables=[self.table(rows=[["Reino Unido"]])]))
+        self.assertEqual(code, 1)
+        self.assertIn("linha 1", out)
+
+    def test_table_without_supported_argument_fails(self):
+        self.assertEqual(self.check(deep_entry(tables=[self.table(supports="")]))[0], 1)
+
+    def test_table_from_another_file_or_missing_page_fails(self):
+        self.assertEqual(self.check(deep_entry(tables=[self.table(file_id=OTHER_FID)]))[0], 1)
+        self.assertEqual(self.check(deep_entry(tables=[self.table(pdf_page=9)]))[0], 1)
+
+    def test_tables_report_lists_numbers_absent_from_page(self):
+        entry = deep_entry(tables=[self.table(rows=[["Reino Unido", "1931"], ["França", "1936"]])])
+        ws = Workspace(self, [resource(1, [18])], [("moodle-resource-1", entry)])
+        code, out, _ = ws.run("tables", "--manifest", "manifest.json", "--caderno", "data/caderno")
+        self.assertEqual(code, 0)
+        self.assertEqual(json.loads(out)["moodle-resource-1.json"][0]["unmatched"], ["1936"])
+
     def test_quote_matches_after_hyphenation_and_whitespace(self):
         ref = {**REF, "quote": "shock between countries. Early leavers"}
         entry = deep_entry(argument=[{"claim": "x", "refs": [ref]}])

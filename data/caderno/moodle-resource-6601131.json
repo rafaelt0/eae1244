@@ -1118,6 +1118,501 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 12.1",
+      "title": "Níveis e taxas de crescimento do PIB real per capita: Europa Ocidental e Estados Unidos",
+      "unit": "US$ de 1990 (Geary-Khamis) e % ao ano",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 5,
+      "columns": [
+        "Ano",
+        "Europa Ocidental (nível)",
+        "EUA (nível)",
+        "Período",
+        "Europa Ocidental (% a.a.)",
+        "EUA (% a.a.)"
+      ],
+      "rows": [
+        [
+          "1820",
+          "1205",
+          "1257",
+          "1820–70",
+          "0.98",
+          "1.34"
+        ],
+        [
+          "1870",
+          "1962",
+          "2445",
+          "1870–1913",
+          "1.33",
+          "1.82"
+        ],
+        [
+          "1913",
+          "3461",
+          "5301",
+          "1913–50",
+          "0.78",
+          "1.61"
+        ],
+        [
+          "1950",
+          "4582",
+          "9561",
+          "1950–73",
+          "4.06",
+          "2.45"
+        ],
+        [
+          "1973",
+          "11431",
+          "16689",
+          "1973–2005",
+          "1.86",
+          "1.91"
+        ],
+        [
+          "2005",
+          "20589",
+          "30519",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "supports": "Sustenta os fatos básicos do argumento: a Europa Ocidental caiu de cerca de 96% para 48% do nível americano entre 1820 e 1950, chegou a 68% em 1973 com crescimento de 4,06% a.a. contra 2,45% dos EUA, e depois de 1973 os ritmos ficaram praticamente iguais (1,86% contra 1,91%).",
+      "note": "Tabela completa. As duas metades (níveis por ano e taxas por período) são lado a lado no original; as células vazias na linha de 2005 também estão vazias no original. Europa Ocidental = agregado de dezesseis países. Fontes: GGDC 2007; Maddison 2003."
+    },
+    {
+      "label": "Tabela 12.2",
+      "title": "Níveis e taxas de crescimento do PIB real per capita em países da Europa Ocidental, 1950–73",
+      "unit": "US$ de 1990 (Geary-Khamis) e % ao ano",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 7,
+      "columns": [
+        "País",
+        "1950",
+        "1973",
+        "1950–73 (% a.a.)"
+      ],
+      "rows": [
+        [
+          "Dinamarca",
+          "6943",
+          "13945",
+          "3.08"
+        ],
+        [
+          "Reino Unido",
+          "6939",
+          "12025",
+          "2.42"
+        ],
+        [
+          "Suécia",
+          "6739",
+          "12494",
+          "3.06"
+        ],
+        [
+          "França",
+          "5271",
+          "13114",
+          "4.04"
+        ],
+        [
+          "Alemanha Ocidental",
+          "4281",
+          "13153",
+          "5.02"
+        ],
+        [
+          "Áustria",
+          "3706",
+          "11235",
+          "4.94"
+        ],
+        [
+          "Itália",
+          "3502",
+          "10634",
+          "4.95"
+        ],
+        [
+          "Irlanda",
+          "3453",
+          "6867",
+          "3.03"
+        ],
+        [
+          "Espanha",
+          "2189",
+          "7661",
+          "5.60"
+        ],
+        [
+          "Portugal",
+          "2086",
+          "7063",
+          "5.45"
+        ],
+        [
+          "Grécia",
+          "1915",
+          "7655",
+          "6.21"
+        ]
+      ],
+      "supports": "Sustenta a correlação inversa entre renda inicial e crescimento na Era de Ouro e os desvios citados no resumo: Alemanha Ocidental (5,02%) acima do esperado, Reino Unido (2,42%) abaixo de Dinamarca e Suécia, que partiam de nível parecido, e Irlanda (3,03%) muito abaixo dos demais países pobres.",
+      "note": "Só o painel 1950–73, na ordem do original (por renda de 1950). Omitidos Suíça, Holanda, Bélgica, Noruega e Finlândia, e o painel 1973–2005. O original imprime 12494 para a Suécia em 1973 neste painel e 13494 no painel 1973–2005; mantido como impresso. Fontes: GGDC 2007; Statistisches Bundesamt Deutschland 2007 (Alemanha Ocidental)."
+    },
+    {
+      "label": "Tabela 12.5",
+      "title": "Regressões de convergência incondicional: Europa Oriental e Ocidental",
+      "unit": "variável dependente: crescimento do PIB per capita (% a.a.)",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 9,
+      "columns": [
+        "Amostra e variável",
+        "1950–73",
+        "1973–2005"
+      ],
+      "rows": [
+        [
+          "Europa Ocidental: constante",
+          "6.340",
+          "4.091"
+        ],
+        [
+          "Europa Ocidental: PIB per capita inicial em % dos EUA",
+          "−0.045",
+          "−0.030"
+        ],
+        [
+          "Europa Ocidental: R²",
+          "0.667",
+          "0.605"
+        ],
+        [
+          "Europa Ocidental e Oriental: constante",
+          "6.468",
+          "3.858"
+        ],
+        [
+          "Europa Ocidental e Oriental: PIB per capita inicial em % dos EUA",
+          "−0.047",
+          "−0.027"
+        ],
+        [
+          "Europa Ocidental e Oriental: dummy oriental",
+          "−1.334",
+          "−2.084"
+        ],
+        [
+          "Europa Ocidental e Oriental: R²",
+          "0.643",
+          "0.637"
+        ]
+      ],
+      "supports": "Sustenta a β-convergência incondicional (coeficiente negativo da renda inicial, menor depois de 1973) e a afirmação de que, descontado o espaço de catch-up, o Leste comunista cresceu cerca de 1,3 ponto ao ano menos que o Oeste na Era de Ouro (dummy oriental −1.334).",
+      "note": "Estatísticas t (entre parênteses no original) omitidas; todas as estimativas são significativas. Fonte: cálculos dos autores com dados das Tabelas 12.2 e 12.4."
+    },
+    {
+      "label": "Tabela 12.7",
+      "title": "Contribuições ao crescimento da produtividade do trabalho: Europa Ocidental, EUA, Alemanha Oriental e URSS",
+      "unit": "% ao ano",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 12,
+      "columns": [
+        "País",
+        "Período",
+        "Aprofundamento de capital",
+        "Aprofundamento de capital humano",
+        "PTF",
+        "Crescimento da produtividade do trabalho"
+      ],
+      "rows": [
+        [
+          "Grécia",
+          "1960–70",
+          "3.63",
+          "0.26",
+          "4.45",
+          "8.34"
+        ],
+        [
+          "Espanha",
+          "1960–70",
+          "2.45",
+          "0.38",
+          "3.73",
+          "6.56"
+        ],
+        [
+          "Itália",
+          "1960–70",
+          "2.39",
+          "0.36",
+          "3.50",
+          "6.25"
+        ],
+        [
+          "França",
+          "1960–70",
+          "2.02",
+          "0.29",
+          "2.62",
+          "4.93"
+        ],
+        [
+          "Alemanha Ocidental",
+          "1960–70",
+          "2.10",
+          "0.23",
+          "2.03",
+          "4.36"
+        ],
+        [
+          "Reino Unido",
+          "1960–70",
+          "1.45",
+          "0.17",
+          "1.24",
+          "2.86"
+        ],
+        [
+          "EUA",
+          "1960–70",
+          "0.03",
+          "0.43",
+          "1.54",
+          "2.00"
+        ],
+        [
+          "URSS",
+          "1960–70",
+          "1.84",
+          "n/a",
+          "0.90",
+          "2.74"
+        ],
+        [
+          "Grécia",
+          "1970–90",
+          "1.24",
+          "0.50",
+          "0.06",
+          "1.80"
+        ],
+        [
+          "Espanha",
+          "1970–90",
+          "1.54",
+          "0.37",
+          "1.13",
+          "3.04"
+        ],
+        [
+          "Itália",
+          "1970–90",
+          "0.98",
+          "0.32",
+          "1.22",
+          "2.52"
+        ],
+        [
+          "França",
+          "1970–90",
+          "1.28",
+          "0.36",
+          "0.84",
+          "2.48"
+        ],
+        [
+          "Alemanha Ocidental",
+          "1970–90",
+          "0.79",
+          "0.40",
+          "0.69",
+          "1.88"
+        ],
+        [
+          "Reino Unido",
+          "1970–90",
+          "0.83",
+          "0.32",
+          "0.74",
+          "1.89"
+        ],
+        [
+          "EUA",
+          "1970–90",
+          "0.24",
+          "0.41",
+          "0.43",
+          "1.08"
+        ],
+        [
+          "URSS",
+          "1970–90",
+          "1.14",
+          "n/a",
+          "−0.06",
+          "1.08"
+        ]
+      ],
+      "supports": "Sustenta que na Era de Ouro a PTF foi a maior contribuição na maioria dos países (Grécia, Espanha, Itália) e que a desaceleração pós-1973 veio da queda de capital e, sobretudo, de PTF, com a PTF soviética fraca e depois negativa.",
+      "note": "Selecionados oito países nos painéis 1960–70 e 1970–90 (ambos na p. 12). Omitidos Áustria, Bélgica, Dinamarca, Finlândia, Irlanda, Holanda, Noruega, Portugal, Suécia, Suíça e Alemanha Oriental, e o painel 1990–2003 (p. 12–13). Estimativas com α = 0,35; para a URSS o capital humano está incluído na PTF ('n/a' no original). Fontes: Bosworth e Collins 2003; Allen 2003 e Harrison 1998c (URSS)."
+    },
+    {
+      "label": "Tabela 12.10",
+      "title": "Contribuição da mudança estrutural ao crescimento da produtividade do trabalho, 1950–73",
+      "unit": "% ao ano",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 17,
+      "columns": [
+        "País",
+        "Medida ortodoxa",
+        "Medida de Broadberry"
+      ],
+      "rows": [
+        [
+          "Dinamarca",
+          "0.24",
+          "1.10"
+        ],
+        [
+          "Reino Unido",
+          "−0.12",
+          "0.31"
+        ],
+        [
+          "Suécia",
+          "0.00",
+          "0.60"
+        ],
+        [
+          "Holanda",
+          "−0.31",
+          "0.29"
+        ],
+        [
+          "França",
+          "0.00",
+          "0.52"
+        ],
+        [
+          "Alemanha Ocidental",
+          "0.18",
+          "0.77"
+        ],
+        [
+          "Itália",
+          "0.83",
+          "1.77"
+        ],
+        [
+          "Espanha",
+          "0.80",
+          "1.77"
+        ]
+      ],
+      "supports": "Sustenta que a realocação de mão de obra para fora da agricultura teve grande impacto na Itália e na Espanha (1,77 ponto ao ano pela medida de Broadberry) e impacto sensível na França e na Alemanha Ocidental.",
+      "note": "Tabela completa. A medida de Broadberry mede o crescimento da produtividade nos setores em declínio pela taxa de crescimento da força de trabalho total, e não pela setorial; decomposição em três setores com a agricultura como setor em declínio. Fonte: dados de van Ark 1996."
+    },
+    {
+      "label": "Tabela 12.17",
+      "title": "Contribuições ao crescimento da produtividade do trabalho na economia de mercado: UE e EUA",
+      "unit": "% ao ano",
+      "file_id": "c8c25cf1e6e36671690504d71eab9c8f21fe91aebf37c203dac2a2978d4eec76",
+      "pdf_page": 31,
+      "columns": [
+        "Componente",
+        "1980–95",
+        "1995–2000",
+        "2000–5"
+      ],
+      "rows": [
+        [
+          "UE: produtividade do trabalho",
+          "2.6",
+          "1.8",
+          "1.2"
+        ],
+        [
+          "UE: aprofundamento de capital em TIC",
+          "0.4",
+          "0.7",
+          "0.4"
+        ],
+        [
+          "UE: PTF na produção de TIC",
+          "0.2",
+          "0.4",
+          "0.2"
+        ],
+        [
+          "UE: outro aprofundamento de capital",
+          "0.8",
+          "0.4",
+          "0.3"
+        ],
+        [
+          "UE: outra PTF",
+          "0.9",
+          "0.1",
+          "0.0"
+        ],
+        [
+          "UE: aprofundamento de capital humano",
+          "0.3",
+          "0.2",
+          "0.3"
+        ],
+        [
+          "EUA: produtividade do trabalho",
+          "1.9",
+          "3.0",
+          "2.9"
+        ],
+        [
+          "EUA: aprofundamento de capital em TIC",
+          "0.7",
+          "1.4",
+          "0.6"
+        ],
+        [
+          "EUA: PTF na produção de TIC",
+          "0.3",
+          "0.6",
+          "0.6"
+        ],
+        [
+          "EUA: outro aprofundamento de capital",
+          "0.3",
+          "0.3",
+          "0.2"
+        ],
+        [
+          "EUA: outra PTF",
+          "0.4",
+          "0.5",
+          "1.0"
+        ],
+        [
+          "EUA: aprofundamento de capital humano",
+          "0.2",
+          "0.3",
+          "0.4"
+        ]
+      ],
+      "supports": "Sustenta o revival da produtividade americana desde meados dos anos 1990 e a menor exploração das TIC pela Europa: produtividade de 3.0 contra 1.8 em 1995–2000, com capital em TIC contribuindo 1.4 nos EUA contra 0.7 na UE.",
+      "note": "Tabela completa. UE = dez países (Áustria, Bélgica, Dinamarca, Finlândia, França, Alemanha, Itália, Holanda, Espanha, Reino Unido). Fonte: dados EUKLEMS fornecidos por Bart van Ark."
+    }
+  ],
   "limits": [
     "Pressuposto metodológico: a contabilidade do crescimento depende de parcelas fatoriais fixas (0,35 para o capital) e a PTF é um resíduo, que inclui eficiência e economias de escala, não só tecnologia; os autores explicitam essa ressalva.",
     "Os autores dizem que a hipótese de Eichengreen não está comprovada: o teste simples com negociação centralizada não mostrou correlação com crescimento mais rápido ('o júri ainda não decidiu'). Inferência minha: usar essa hipótese como explicação única seria mais forte que o texto.",
@@ -1347,10 +1842,11 @@
   ],
   "figures_note": [
     "PDF p. 3: Figura 12.1 (crescimento endógeno, linhas de Solow e Schumpeter) é gráfico não capturado pela extração; consultar o original.",
-    "PDF p. 12-13: Tabela 12.7 (contribuições ao crescimento da produtividade, 1960-70, 1970-90, 1990-2003) está extraída, mas conferir os valores no original antes de citá-los.",
-    "PDF p. 17: Tabela 12.10 (contribuição da mudança estrutural) tem fórmula com símbolos perdidos na extração; consultar o original.",
+    "PDF p. 12-13: Tabela 12.7 (contribuições ao crescimento da produtividade): os painéis 1960-70 e 1970-90 de oito países foram transcritos na seção Tabelas a partir da imagem da p. 12; o painel 1990-2003 e os demais países não foram transcritos e devem ser conferidos no original antes de citados.",
+    "PDF p. 17: Tabela 12.10 (contribuição da mudança estrutural) foi transcrita na seção Tabelas a partir da imagem da página; a fórmula da nota, com símbolos perdidos na extração, deve ser lida no original.",
     "PDF p. 21-28: Tabelas 12.11 a 12.16 (emprego setorial, produtividade por hora, horas trabalhadas, tributação, regulação) estão como texto, mas com colunas possivelmente misturadas.",
-    "Slides 4, 5, 8, 14, 18 e 19 são imagens/tabelas sem texto: Tabela 12.1 (PIB per capita da Europa Ocidental e dos EUA), Tabela 1.1 (crescimento europeu 1890-1992, com 1950-73 destacado), Tabela 1.2 (danos de guerra e reconstrução), Tabela 12.5 (regressões de convergência incondicional) e Tabela 12.7 (contribuições à produtividade, 1960-70 e 1970-90). Os números devem ser lidos no original ou nas tabelas deste capítulo.",
-    "As Tabelas 1.1 e 1.2 dos slides não constam do capítulo 12 (PDF); por isso os números 5,99% (Alemanha) e 1,59% (RU) do slide 10 não são verificáveis neste texto."
+    "Slides 4, 5, 8, 14, 18 e 19 são imagens/tabelas sem texto: Tabela 12.1 (PIB per capita da Europa Ocidental e dos EUA), Tabela 1.1 (crescimento europeu 1890-1992, com 1950-73 destacado), Tabela 1.2 (danos de guerra e reconstrução), Tabela 12.5 (regressões de convergência incondicional) e Tabela 12.7 (contribuições à produtividade, 1960-70 e 1970-90). Os números devem ser lidos no original ou nas tabelas deste capítulo. As Tabelas 12.1, 12.5 e 12.7 (esta parcialmente) do capítulo foram transcritas na seção Tabelas a partir das imagens das páginas do PDF.",
+    "As Tabelas 1.1 e 1.2 dos slides não constam do capítulo 12 (PDF); por isso os números 5,99% (Alemanha) e 1,59% (RU) do slide 10 não são verificáveis neste texto.",
+    "PDF p. 7 e 31: Tabela 12.2 (painel 1950-73, onze países) e Tabela 12.17 (contribuições das TIC, UE x EUA) foram transcritas na seção Tabelas a partir da imagem da página; o painel 1973-2005 da Tabela 12.2 não foi transcrito."
   ]
 }

@@ -1,5 +1,22 @@
 # Especificação: HTML de estudo do Guia EAE1244
 
+## Evolução para hub público: direção B
+
+O usuário escolheu **Percurso por aula** e solicitou takeover/full send em 29/10/2026. Este adendo prevalece sobre as restrições anteriores de uso exclusivamente pessoal/local e sobre a navegação lateral. O guia mantém a versão portátil e passa a oferecer um site público compartilhável, sem cadastro e com hospedagem gratuita. O usuário declarou autorização para republicar os originais.
+
+Critérios desta evolução:
+
+- Início por percursos das aulas, com ações **Estudar leituras**, **Comparar autores** e **Treinar respostas**, contexto mantido entre áreas e marcação **Quero rever**.
+- Retomar leitura, seção/posição e exercício, preservando o modo guiado/autônomo. Rascunhos e autoavaliação existentes continuam na chave de armazenamento original; as novas preferências usam chave própria. Falhas de armazenamento mantêm a sessão e mostram a limitação.
+- Busca global por trechos e abertura na seção relevante, com retorno à busca. Resultados de exercícios não revelam roteiros nem exemplos.
+- Compartilhar links diretos com tema e seção, preservando rotas antigas. O site funciona para visitantes anônimos e não transmite o estado pessoal.
+- Acervo integral: 31 leituras indexadas, 14 resumos completos, oito temas, 16 exercícios e 44 originais. Manter mecanismos, casos, limites, evidências, exemplos, erros frequentes e os 17 resumos pendentes com seu estado real.
+- Visual B responsivo, contraste, foco visível, modos claro/escuro e sumário de leitura. Sem barra de alternativas nem código descartável no produto.
+- Preservar geração/validação, integridade do ZIP e funcionamento local sem dependências remotas. Publicar apenas os artefatos necessários; manter o repositório de trabalho privado.
+- Testar persistência, contexto e busca; verificar os fluxos reais em 320, 768, 1024 e 1440 px, incluindo falha de armazenamento, recarregamento, exportação e acesso aos PDFs. Submeter o diff à revisão Sol e ao CI antes de merge.
+
+Decisões assumidas na execução autônoma: estado por navegador, sem sincronização automática, login, banco de dados, IA de execução ou telemetria. A publicação usará um plano gratuito e subdomínio fornecido pelo serviço; não comprar domínio nem ativar cobrança. Cloudflare Pages é a preferência inicial, condicionada à autenticação disponível. A conclusão pública exige prova de acesso sem login; uma prévia local não conta como publicação.
+
 Módulo: `html`, conforme o [mapa de capacidades](CAPABILITY-MAP.md). Consome `fontes`, `caderno`, `atlas` e `oficina`.
 
 Status: **aprovada pelo usuário em 29/10/2026**, com solicitação de execução. Implementação concluída e verificada: pacote offline, 14 resumos completos, oito temas e 16 exercícios. Em 29/10/2026, as 17 leituras anteriores receberam resumos curtos e parciais, validados pelo mesmo contrato; a revisão humana deles permanece pendente.

@@ -999,6 +999,502 @@
       ]
     }
   ],
+  "tables": [
+    {
+      "label": "Tabela 2.4",
+      "title": "Taxas de crescimento do PIB real per capita",
+      "unit": "% ao ano",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 5,
+      "columns": [
+        "Região",
+        "1950–1973",
+        "1973–1990",
+        "1990–2000"
+      ],
+      "rows": [
+        [
+          "África",
+          "2.00",
+          "0.14",
+          "0.14"
+        ],
+        [
+          "Tigres Asiáticos",
+          "5.98",
+          "6.13",
+          "4.83"
+        ],
+        [
+          "China",
+          "2.86",
+          "4.77",
+          "6.31"
+        ],
+        [
+          "Índia",
+          "1.40",
+          "2.60",
+          "3.87"
+        ],
+        [
+          "América Latina",
+          "2.58",
+          "0.69",
+          "1.46"
+        ],
+        [
+          "Europa Ocidental",
+          "4.05",
+          "2.00",
+          "1.76"
+        ],
+        [
+          "Estados Unidos",
+          "2.45",
+          "1.96",
+          "1.95"
+        ]
+      ],
+      "supports": "Sustenta os fatos novos da década citados no resumo: crescimento rápido da China (6,31%) e aceleração da Índia (3,87%) muito acima da OCDE madura, ausência de catch-up na África (0,14%) e recuperação fraca da América Latina (1,46%).",
+      "note": "Omitidas as colunas 1870–1913 e 1913–1950. Tigres Asiáticos = Hong Kong, Singapura, Coreia do Sul e Taiwan. Fonte: Maddison (2003)."
+    },
+    {
+      "label": "Tabela 2.5",
+      "title": "Fontes do crescimento da produtividade do trabalho",
+      "unit": "% ao ano",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 7,
+      "columns": [
+        "País/região",
+        "Período",
+        "PTF",
+        "Educação",
+        "Aprofundamento do capital",
+        "Produtividade do trabalho"
+      ],
+      "rows": [
+        [
+          "França",
+          "1950–1973",
+          "3.2",
+          "0.4",
+          "1.4",
+          "5.0"
+        ],
+        [
+          "Japão",
+          "1950–1973",
+          "4.1",
+          "0.5",
+          "2.8",
+          "7.4"
+        ],
+        [
+          "Reino Unido",
+          "1950–1973",
+          "1.4",
+          "0.2",
+          "1.5",
+          "3.1"
+        ],
+        [
+          "Estados Unidos",
+          "1950–1973",
+          "1.6",
+          "0.5",
+          "1.0",
+          "3.1"
+        ],
+        [
+          "Alemanha Ocidental",
+          "1950–1973",
+          "3.6",
+          "0.3",
+          "1.8",
+          "5.7"
+        ],
+        [
+          "Países industriais",
+          "1990–2000",
+          "0.5",
+          "0.2",
+          "0.8",
+          "1.5"
+        ],
+        [
+          "China",
+          "1990–2000",
+          "5.3",
+          "0.3",
+          "3.2",
+          "8.8"
+        ],
+        [
+          "Leste Asiático",
+          "1990–2000",
+          "0.6",
+          "0.5",
+          "2.3",
+          "3.4"
+        ],
+        [
+          "América Latina",
+          "1990–2000",
+          "0.4",
+          "0.3",
+          "0.2",
+          "0.9"
+        ],
+        [
+          "Sul da Ásia",
+          "1990–2000",
+          "1.2",
+          "0.4",
+          "1.2",
+          "2.8"
+        ],
+        [
+          "África",
+          "1990–2000",
+          "−0.5",
+          "0.4",
+          "−0.1",
+          "−0.2"
+        ]
+      ],
+      "supports": "Sustenta a contabilidade do crescimento do resumo: sem retomada da PTF nos países industriais nos anos 1990 (0,5 contra 3,2–4,1 na era de ouro), crescimento do Leste Asiático baseado em aprofundamento do capital (2,3 contra PTF de 0,6), possível exceção da China e PTF negativa na África.",
+      "note": "Omitidos os painéis 1970–1980 e 1980–1990. Leste Asiático = Indonésia, Malásia, Filipinas, Singapura, Coreia do Sul, Taiwan e Tailândia; África = subsaariana. Fontes: Maddison (1996) para 1950–1973; Bosworth e Collins (2003) para 1990–2000."
+    },
+    {
+      "label": "Tabela 2.6",
+      "title": "Níveis do PIB per capita em dólares de 1990 (Geary-Khamis)",
+      "unit": "US$ de 1990 GK; entre parênteses, % do nível dos EUA",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 8,
+      "columns": [
+        "Região",
+        "1870",
+        "1950",
+        "1990",
+        "2000"
+      ],
+      "rows": [
+        [
+          "África",
+          "500 (20.4%)",
+          "894 (9.4%)",
+          "1444 (6.2%)",
+          "1464 (5.2%)"
+        ],
+        [
+          "Tigres Asiáticos",
+          "595 (24.3%)",
+          "955 (10.0%)",
+          "9975 (43.0%)",
+          "16010 (56.9%)"
+        ],
+        [
+          "China",
+          "530 (21.7%)",
+          "439 (4.6%)",
+          "1858 (8.0%)",
+          "3425 (12.2%)"
+        ],
+        [
+          "Índia",
+          "533 (21.8%)",
+          "619 (6.5%)",
+          "1309 (5.6%)",
+          "1910 (6.8%)"
+        ],
+        [
+          "América Latina",
+          "681 (27.9%)",
+          "2506 (26.2%)",
+          "5053 (21.8%)",
+          "5838 (20.8%)"
+        ],
+        [
+          "Europa Ocidental",
+          "1960 (80.2%)",
+          "4579 (47.9%)",
+          "15966 (68.8%)",
+          "19002 (67.6%)"
+        ],
+        [
+          "Estados Unidos",
+          "2445",
+          "9561",
+          "23201",
+          "28129"
+        ]
+      ],
+      "supports": "Sustenta a \"divergência em grande escala\": a África caiu de 20,4% do nível dos EUA em 1870 para 5,2% em 2000, enquanto nos anos 1990 China (8,0% para 12,2%) e Índia (5,6% para 6,8%) reduziram a distância percentual e os Tigres foram de 43,0% para 56,9%.",
+      "note": "Omitidas as colunas 1913 e 1973. No original, a percentagem do nível dos EUA aparece em linha separada abaixo de cada valor. Fonte: Maddison (2003)."
+    },
+    {
+      "label": "Tabela 2.9",
+      "title": "Crescimento do PIB real per capita de globalizadores e não globalizadores",
+      "unit": "% ao ano",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 11,
+      "columns": [
+        "Década",
+        "Globalizadores",
+        "Não globalizadores"
+      ],
+      "rows": [
+        [
+          "1960s",
+          "1.4",
+          "2.4"
+        ],
+        [
+          "1970s",
+          "2.9",
+          "3.3"
+        ],
+        [
+          "1980s",
+          "3.5",
+          "0.8"
+        ],
+        [
+          "1990s",
+          "5.0",
+          "1.4"
+        ]
+      ],
+      "supports": "Sustenta a afirmação de que os \"globalizadores\" cresceram muito mais que os \"não globalizadores\" nos anos 1980 e 1990 (5,0% contra 1,4% nos anos 1990), embora o inverso valesse nos anos 1960 e 1970.",
+      "note": "Tabela completa. Classificação de Dollar e Kraay (2004) pela expansão do comércio em relação ao PIB; os globalizadores incluem China e Índia e outros vinte e dois países."
+    },
+    {
+      "label": "Tabela 2.11",
+      "title": "Relação entre PIB real e produtividade do trabalho na UE e nos EUA: fontes da diferença de PIB per capita",
+      "unit": "% do nível dos Estados Unidos",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 15,
+      "columns": [
+        "País",
+        "Ano",
+        "Produtividade do trabalho",
+        "Horas trabalhadas",
+        "Emprego",
+        "PIB real per capita"
+      ],
+      "rows": [
+        [
+          "Alemanha",
+          "1973",
+          "−25",
+          "0",
+          "+4",
+          "−21"
+        ],
+        [
+          "Reino Unido",
+          "1973",
+          "−35",
+          "+3",
+          "+4",
+          "−28"
+        ],
+        [
+          "UE15",
+          "1973",
+          "−31",
+          "0",
+          "+2",
+          "−29"
+        ],
+        [
+          "Alemanha",
+          "1990",
+          "−1",
+          "−16",
+          "−3",
+          "−20"
+        ],
+        [
+          "Reino Unido",
+          "1990",
+          "−22",
+          "−6",
+          "−1",
+          "−29"
+        ],
+        [
+          "UE15",
+          "1990",
+          "−12",
+          "−12",
+          "−6",
+          "−30"
+        ],
+        [
+          "Alemanha",
+          "2003",
+          "+4",
+          "−24",
+          "−7",
+          "−27"
+        ],
+        [
+          "Reino Unido",
+          "2003",
+          "−15",
+          "−10",
+          "−2",
+          "−27"
+        ],
+        [
+          "UE15",
+          "2003",
+          "−8",
+          "−14",
+          "−7",
+          "−29"
+        ]
+      ],
+      "supports": "Sustenta que a Europa fez catch-up de produtividade até os anos 1990 (UE15 de −31 para −8 em relação aos EUA) enquanto a diferença de PIB per capita ficou estável (−29 a −30) porque horas e emprego caíram, isto é, tributação e regulação afetaram sobretudo níveis.",
+      "note": "Primeiro painel da tabela. Omitidas as linhas de Irlanda e Suécia. Até 1990 inclusive, Alemanha = Alemanha Ocidental. UE15 = os quinze membros da UE em 1995. Fonte: Groningen Growth and Development Centre (2005)."
+    },
+    {
+      "label": "Tabela 2.11",
+      "title": "Relação entre PIB real e produtividade do trabalho na UE e nos EUA: crescimento",
+      "unit": "% ao ano",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 15,
+      "columns": [
+        "Região",
+        "Período",
+        "Produtividade do trabalho",
+        "Horas trabalhadas",
+        "PIB real"
+      ],
+      "rows": [
+        [
+          "UE15",
+          "1973–1990",
+          "2.6",
+          "−0.2",
+          "2.4"
+        ],
+        [
+          "Estados Unidos",
+          "1973–1990",
+          "1.2",
+          "1.8",
+          "3.0"
+        ],
+        [
+          "UE15",
+          "1990–1995",
+          "2.5",
+          "−1.0",
+          "1.5"
+        ],
+        [
+          "Estados Unidos",
+          "1990–1995",
+          "1.0",
+          "1.4",
+          "2.4"
+        ],
+        [
+          "UE15",
+          "1995–2000",
+          "1.6",
+          "1.1",
+          "2.7"
+        ],
+        [
+          "Estados Unidos",
+          "1995–2000",
+          "1.9",
+          "2.2",
+          "4.1"
+        ],
+        [
+          "UE15",
+          "2000–2003",
+          "0.9",
+          "0.3",
+          "1.2"
+        ],
+        [
+          "Estados Unidos",
+          "2000–2003",
+          "1.9",
+          "0.1",
+          "2.0"
+        ]
+      ],
+      "supports": "Sustenta que a produtividade cresceu mais na Europa até meados dos anos 1990 (2,6 contra 1,2 em 1973–1990) e que desde 1995 os EUA passaram à frente (1,9 contra 1,6 em 1995–2000), a virada que o resumo liga à TIC.",
+      "note": "Segundo painel da tabela, completo. Fonte: Groningen Growth and Development Centre (2005)."
+    },
+    {
+      "label": "Tabela 2.12",
+      "title": "Posições de política do lado da oferta: índice de proteção ao emprego",
+      "unit": "índice de 0 a 2",
+      "file_id": "51a1a05a66773f075166367fe61a4d9a3ad72c1d88448769499820094cbc0855",
+      "pdf_page": 18,
+      "columns": [
+        "País",
+        "1960–1964",
+        "1973–1979",
+        "1980–1987",
+        "1998"
+      ],
+      "rows": [
+        [
+          "Alemanha",
+          "0.45",
+          "1.65",
+          "1.65",
+          "1.30"
+        ],
+        [
+          "Irlanda",
+          "0.02",
+          "0.45",
+          "0.50",
+          "0.50"
+        ],
+        [
+          "Suécia",
+          "0.00",
+          "1.46",
+          "1.80",
+          "1.10"
+        ],
+        [
+          "Reino Unido",
+          "0.16",
+          "0.33",
+          "0.35",
+          "0.35"
+        ],
+        [
+          "Mediana da UE",
+          "0.65",
+          "1.35",
+          "1.35",
+          "1.10"
+        ],
+        [
+          "Estados Unidos",
+          "0.10",
+          "0.10",
+          "0.10",
+          "0.10"
+        ]
+      ],
+      "supports": "Sustenta o argumento de que a proteção ao emprego, muito maior na UE (mediana 1,10 em 1998) que nos EUA (0,10), freou o investimento em TIC, e que o Reino Unido, com proteção muito fraca para padrões europeus (0,35), teve forte contribuição do capital em TIC.",
+      "note": "Só o painel de proteção ao emprego (Nickell, 2003). Omitidos os painéis de receitas tributárias distorcivas (% do PIB) e de reforma regulatória dos mercados de produtos (0–6), que estão na mesma página."
+    }
+  ],
   "limits": [
     "Crafts diz que a avaliação é preliminar: \"too soon to tell\" o que os anos 1990 implicam para a análise do crescimento (p. 6); as conclusões são hipóteses, não prova.",
     "Medidas de PTF são sujeitas a erro; comparações no tempo são menos confiáveis que entre países na mesma época. As estimativas da China para PTF e produto provavelmente estão muito exageradas (nota 2: superestimação de 1,7 p.p. na produtividade do trabalho e 1,6 p.p. na PTF não agrícola entre 1978 e 1998, segundo Young). Nota 4: a PTF pode estar subestimada em até 0,8% ao ano.",
@@ -1010,8 +1506,8 @@
     "Qualidade da extração: o capítulo tem 23 páginas parcialmente por OCR; algumas ligaduras tipográficas (\"ﬁ\", \"ﬂ\") aparecem no texto extraído, e as citações transcritas os preservam. As tabelas foram extraídas com espaçamento irregular."
   ],
   "figures_note": [
-    "Páginas 3 a 5, 7 a 11, 13, 15, 18, 20 e 21: tabelas 2.1 a 2.14 foram extraídas como texto com espaçamento irregular. As colunas da tabela 2.3 (p. 4) sobre a Ásia nas exportações estão desalinhadas (linhas \"Rest of Asia\", \"South and South-East Asia\" e China), de modo que os números dessas linhas precisam ser conferidos no original.",
-    "Página 15: a tabela 2.11 (lacuna de PIB per capita entre UE e EUA e crescimento 1973-2003) é complexa; conferir sinais e colunas no original antes de citar números por país.",
+    "Páginas 3 a 5, 7 a 11, 13, 15, 18, 20 e 21: tabelas 2.1 a 2.14 foram extraídas como texto com espaçamento irregular. As colunas da tabela 2.3 (p. 4) sobre a Ásia nas exportações estão desalinhadas (linhas \"Rest of Asia\", \"South and South-East Asia\" e China), de modo que os números dessas linhas precisam ser conferidos no original. As tabelas 2.4 (p. 5), 2.5 (p. 7), 2.6 (p. 8), 2.9 (p. 11), 2.11 (p. 15) e 2.12 (painel de proteção ao emprego, p. 18) foram transcritas na seção Tabelas a partir da imagem da página, com as linhas e colunas indicadas em cada nota; as demais tabelas e partes omitidas continuam sujeitas a esse aviso.",
+    "Página 15: a tabela 2.11 (lacuna de PIB per capita entre UE e EUA e crescimento 1973-2003) foi transcrita na seção Tabelas a partir da imagem da página (Alemanha, Reino Unido e UE15 no primeiro painel; segundo painel completo); as linhas de Irlanda e Suécia não foram transcritas e devem ser conferidas no original.",
     "Página 1: capa só com o título da coletânea e organizadores (Paul W. Rhode e Gianni Toniolo); a página não traz conteúdo do capítulo. O ano da obra não consta no texto extraído."
   ]
 }

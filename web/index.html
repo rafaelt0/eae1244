@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light">
+<meta name="color-scheme" content="light dark">
 <meta name="description" content="Caderno, atlas de autores e prática discursiva de História Econômica Geral do Século XX.">
 <title>EAE1244 · Caderno de estudo</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23f6f1e6'/%3E%3Ctext x='16' y='23' text-anchor='middle' fill='%23962d1f' font-size='23' font-family='serif'%3EH%3C/text%3E%3C/svg%3E">
@@ -12,18 +12,20 @@
 <body>
 <a class="skip" href="#content">Pular para o conteúdo</a>
 <header class="masthead">
-<a class="brand" href="#caderno/moodle-resource-6577587"><span class="brand-code">EAE1244</span><span class="brand-title">História Econômica Geral do Século XX</span></a>
+<a class="brand" href="#inicio/all"><span class="brand-code">EAE1244</span><span class="brand-title">História Econômica Geral do Século XX</span></a>
 <div class="search-wrap"><label class="sr-only" for="search">Buscar no guia</label><input type="search" id="search" placeholder="Buscar autor, conceito, caso…" autocomplete="off"><button id="clear-search" type="button" hidden>Limpar</button></div>
-<p class="exam">Prova discursiva <strong>19 nov. 2026</strong></p>
+<div class="masthead-end"><p class="exam">Prova discursiva <strong>19 nov. 2026</strong></p><button id="theme-toggle" type="button" class="text-button">Página escura</button></div>
 </header>
 <div class="workspace">
 <aside class="sidebar">
 <nav class="modes" aria-label="Áreas de estudo"><button data-view="caderno" type="button">Caderno</button><button data-view="atlas" type="button">Atlas</button><button data-view="praticar" type="button">Praticar</button></nav>
 <details class="index-panel" open><summary>Sumário</summary><div class="index-content"><label for="lesson">Recorte</label><select id="lesson"><option value="priority">Aulas 17–28</option><option value="all">Todas as aulas</option></select><p class="toc-caption" aria-hidden="true" id="menu-caption">Aula</p><div id="menu"></div></div></details>
-<div class="sidebar-foot"><p id="coverage"></p><button type="button" id="archive" class="text-button">Originais e apoios</button></div>
+<div class="sidebar-foot"><p id="coverage"></p><button type="button" data-view="rever" class="text-button">Para rever <span id="review-count" class="count"></span></button><button type="button" id="archive" class="text-button">Originais e apoios</button></div>
 </aside>
 <main id="content" tabindex="-1"><section id="results" hidden aria-label="Resultados da busca"></section><article id="article"></article><footer class="page-foot"><p class="ornament" aria-hidden="true">⁂</p><p>Interpretações de estudo. Confira as evidências e as ressalvas de cada leitura.</p></footer></main>
 </div>
+<p id="study-status" class="study-status" role="status"></p>
+<dialog id="share-dialog"><form method="dialog"><h2>Link desta página</h2><label for="share-url">Endereço</label><input id="share-url" readonly type="text"><p id="share-note"></p><button type="submit" class="text-button">Fechar</button></form></dialog>
 <noscript><p>Ative o JavaScript para navegar pelo guia. Os originais continuam disponíveis na pasta originais do pacote.</p></noscript>
 <script type="application/json" id="guide-data">/*DATA*/</script>
 <script>/*APP*/</script>
