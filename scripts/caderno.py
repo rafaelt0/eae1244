@@ -106,7 +106,11 @@ def validate_entry(entry: dict, resource: dict, sources: Sources, has_slides: bo
     if entry["status"] == "complete" and extraction["review_status"] != "reviewed":
         errors.append("entrada 'complete' exige fonte revisada.")
     if entry["depth"] == "short":
-        return errors + check_refs("refs", entry.get("refs"), sources)
+        errors += check_refs("refs", entry.get("refs"), sources)
+        for section, text_field in {**DEEP_SECTIONS, "professor_emphasis": "point"}.items():
+            if entry.get(section):
+                errors += check_items(entry, section, text_field, sources)
+        return errors
     absent = [f for f in DEEP_FIELDS if f not in entry or entry[f] in (None, "")]
     if absent:
         errors.append(f"campos obrigatórios ausentes: {', '.join(absent)}.")

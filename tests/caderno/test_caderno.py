@@ -154,6 +154,16 @@ class EntryValidationTests(unittest.TestCase):
         self.assertEqual(self.check(entry)[0], 0)
         self.assertEqual(self.check({**entry, "refs": []})[0], 1)
 
+    def test_short_entry_optional_sections_are_checked(self):
+        entry = {"resource_id": "moodle-resource-1", "file_id": FID, "lessons": [18],
+                 "authors": ["A"], "title": "T", "depth": "short", "status": "partial",
+                 "thesis": "Tese.", "refs": [REF], "argument": [{"claim": "Passo.", "refs": [REF]}]}
+        self.assertEqual(self.check(entry)[0], 0)
+        bad = {**entry, "argument": [{"claim": "Passo.", "refs": [{**REF, "quote": "trecho que não existe na página"}]}]}
+        self.assertEqual(self.check(bad)[0], 1)
+        self.assertEqual(self.check({**entry, "cases": [{"name": "Caso", "refs": [REF]}]})[0], 1)
+        self.assertEqual(self.check({**entry, "mechanisms": [{"kind": "x", "description": "D", "refs": [REF]}]})[0], 1)
+
     def test_entry_must_match_its_resource(self):
         self.assertEqual(self.check(deep_entry(resource_id="moodle-resource-9"))[0], 1)
         self.assertEqual(self.check(deep_entry(file_id=OTHER_FID))[0], 1)
