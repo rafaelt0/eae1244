@@ -13,7 +13,7 @@
   "title": "Lessons from the 1930s Great Depression",
   "year": 2010,
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "Para Crafts e Fearon, a Grande Depressão resultou de grandes choques de demanda agregada, monetários e de gasto, vindos sobretudo dos EUA e ampliados por um sistema financeiro frágil e por crises bancárias. O padrão-ouro foi o elemento-chave da transmissão internacional e da severidade desigual entre países, e abandoná-lo foi pré-requisito para a recuperação.",
   "question": "Por que a crise começou em 1929, por que foi tão profunda e longa, como se espalhou entre países e que lições de política deixa para a crise de 2007-2009?",
   "refs": [
@@ -307,7 +307,7 @@
     }
   ],
   "limits": [
-    "É um artigo-síntese que abre um número especial. Muitas conclusões resumem outros trabalhos (Fishback, Wolf, Calomiris, Hatton e Thomas, Eichengreen e Sachs). O resumo atribui aos autores apenas o que eles endossam. Fontes não revisadas: entrada parcial.",
+    "É um artigo-síntese que abre um número especial. Muitas conclusões resumem outros trabalhos (Fishback, Wolf, Calomiris, Hatton e Thomas, Eichengreen e Sachs). O resumo atribui aos autores apenas o que eles endossam.",
     "O foco é EUA e Reino Unido. Os demais países aparecem de forma agregada, e a comparação com 2007-2010 reflete a data de publicação (2010).",
     "A extração das tabelas tem números corrompidos (por exemplo, '228' por 22,8 e 'TB4' na Tabela 2). A p. 1 é a capa do JSTOR, e as pp. 30-34 são referências."
   ],

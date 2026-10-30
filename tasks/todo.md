@@ -34,14 +34,15 @@
 
 ## 5. Revisar a extração
 - [x] Aulas 17–28 (14 leituras): início, meio e fim conferidos; `verify --scope priority` passa. Demais recursos: revisão pendente.
-- [ ] Resolver OCR, formatos sem suporte e páginas vazias; registrar notas de revisão.
+- [x] Resolver OCR, formatos sem suporte e páginas vazias; registrar notas de revisão.
+- Resultado (30/10/2026): os 25 arquivos restantes (17 leituras, 6 apresentações, programa e prova) foram conferidos em início, meio e fim, com nota de revisão por arquivo no manifesto. Em Atack e Passell (aulas 9–10), as pp. 10 e 12, digitalizadas de cabeça para baixo, e a p. 14 (Tabela 21.1, antes registrada como prancha) foram transcritas da renderização. `verify --scope all` passa.
 - Verificação: originais e extrações conferidos; `verify --scope priority` e `verify --scope all`.
 - Dependências: 4.
 - Arquivos: manifesto, extrações locais, relatório de revisão.
 
 ## 6. Concluir e documentar
-- [ ] Reconciliar o inventário com a página atual do curso e registrar cobertura final.
-- [ ] Atualizar README, mapa e tarefas com resultado real e pendências, se houver.
+- [ ] Reconciliar o inventário com a página atual do curso e registrar cobertura final. Bloqueado: exige sessão autenticada no e-Disciplinas, que não está disponível nesta execução.
+- [x] Atualizar README, mapa e tarefas com resultado real e pendências, se houver.
 - Verificação: suíte completa, verificador local, Git sem mudanças pendentes e ponte de transferência encerrada.
 - Dependências: 5.
 - Arquivos: `README.md`, `CAPABILITY-MAP.md`, `tasks/todo.md`, relatório de fontes.

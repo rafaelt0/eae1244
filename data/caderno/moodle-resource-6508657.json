@@ -2,12 +2,18 @@
   "schema_version": 1,
   "resource_id": "moodle-resource-6508657",
   "file_id": "e8f982b02660245087165673387eb3cf24c12d8f200e716a620c46ecb988fa15",
-  "lessons": [4, 5],
-  "authors": ["Barry Eichengreen", "Marc Flandreau"],
+  "lessons": [
+    4,
+    5
+  ],
+  "authors": [
+    "Barry Eichengreen",
+    "Marc Flandreau"
+  ],
   "title": "The Geography of the Gold Standard",
   "year": 1994,
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "Eichengreen e Flandreau mostram que a adesão ao padrão-ouro foi tardia (entre os anos 1870 e a primeira década do século XX) e seguiu rotas variadas. Em meados do século, o metal escolhido dependia menos de o país ser rico ou pobre que do padrão dos parceiros com quem transacionava, mas ter moeda conversível se correlacionava fortemente com o desenvolvimento. O ritmo da transição dependeu da renda, do tamanho das reservas diante do mercado mundial de metais, da concentração das reservas no banco central e de laços imperiais.",
   "question": "Quando e por quais caminhos os países chegaram ao padrão-ouro, e o que explica, em meados do século XIX, a escolha entre ouro, prata e bimetalismo e a distinção entre moeda conversível e inconversível?",
   "refs": [

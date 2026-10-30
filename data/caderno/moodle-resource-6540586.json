@@ -13,7 +13,7 @@
   "title": "War and disintegration, 1914–1950",
   "year": "não consta no texto extraído",
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "Para Eloranta e Harrison, as duas guerras mundiais e o entreguerras formam um único processo histórico, centrado na Europa, que interrompeu a globalização e a integração europeias e polarizou o continente entre democracias ricas e ditaduras pobres, sem interromper as forças subjacentes ao crescimento. Na guerra, venceram as coalizões ricas que integraram seus recursos; economias pobres de base camponesa se desintegraram. Depois de 1945, ao contrário de 1918, novas instituições de cooperação permitiram uma recuperação rápida.",
   "question": "Como as duas guerras mundiais e o período entre elas interromperam e distorceram o desenvolvimento e a integração econômica da Europa, e por que as consequências de 1918 e de 1945 foram tão diferentes?",
   "refs": [
@@ -289,7 +289,7 @@
   "limits": [
     "É o capítulo 6 de uma obra coletiva; a extração não traz o título do livro nem o ano de publicação, por isso year fica nulo. Texto de síntese que se apoia sobretudo em trabalhos anteriores (como Broadberry e Harrison 2005b e Harrison 1998), sem dados primários próprios.",
     "Os autores afirmam explicitamente que não seguem a leitura de Nolte da 'guerra civil europeia' (p. 2); a tese de causalidade da corrida armamentista se apoia em Ferguson e Berghahn, citados por eles, e não numa demonstração própria.",
-    "A tabela 6.7 (p. 17) dá para a França 24,6% de perda de ativos domésticos e 31,0% de riqueza nacional, enquanto a tabela 1.10 de Broadberry e Harrison (leitura obrigatória das mesmas aulas) traz 59,6% e 54,7%; confira os originais antes de citar números da França. Fonte ainda não revisada; as 23 páginas foram lidas e a extração por pdftotext não mostrou lacunas."
+    "A tabela 6.7 (p. 17) dá para a França 24,6% de perda de ativos domésticos e 31,0% de riqueza nacional, enquanto a tabela 1.10 de Broadberry e Harrison (leitura obrigatória das mesmas aulas) traz 59,6% e 54,7%; confira os originais antes de citar números da França. As 23 páginas foram lidas e a extração por pdftotext não mostrou lacunas."
   ],
   "figures_note": [
     "Tabelas 6.5 (p. 12), 6.6 (p. 13) e 6.9 (p. 22) sustentam os argumentos sobre queda do produto, mobilização e recuperação; estão extraídas como texto, mas confira o alinhamento das colunas no original.",

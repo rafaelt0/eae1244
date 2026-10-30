@@ -12,7 +12,7 @@
   "title": "Unemployment (Chapter 7, The World Economy between the World Wars)",
   "year": "não consta no texto extraído",
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "O capítulo sustenta que o desemprego em massa dos anos 1930 remete, em última instância, ao grande choque de demanda da Depressão, e não a pressões salariais dos trabalhadores. Os salários reais subiram porque salários nominais rígidos não acompanharam a queda de preços, a variação entre países seguiu as políticas monetárias e cambiais (quem ficou mais tempo no ouro sofreu mais), e só políticas macroeconômicas capazes de encerrar a depressão curariam o desemprego.",
   "question": "Por que o desemprego se tornou o problema central dos anos 1930, por que variou tanto entre países e por que salários reais altos e programas de emprego não o resolveram?",
   "refs": [
@@ -296,7 +296,7 @@
     }
   ],
   "limits": [
-    "São TRECHOS do capítulo 7: pp. 113-115 e 124-134 do livro. Faltam as seções 7.3 e 7.4, e a Tabela 7.1, citada na p. 3, não está no PDF. As referências a capítulos 4, 6 e 8 não estão disponíveis. Fontes não revisadas: entrada parcial.",
+    "São TRECHOS do capítulo 7: pp. 113-115 e 124-134 do livro. Faltam as seções 7.3 e 7.4, e a Tabela 7.1, citada na p. 3, não está no PDF. As referências a capítulos 4, 6 e 8 não estão disponíveis.",
     "Autores e ano não aparecem nas páginas extraídas. 'Temin et al.' vem do nome do arquivo. O texto diz 'one of us' ao citar Toniolo e Piva, o que sugere Toniolo como coautor (inferência). O ano ficou em branco.",
     "Inconsistência no próprio texto: a p. 4 põe a Bélgica no primeiro grupo, mas a Tabela 7.2 a lista no Grupo II. Na p. 5, o texto opõe ('On the other hand') a área da libra ao Grupo I, que são o mesmo grupo. Além disso, a extração tem ligaduras partidas ('fi rst', 'fi nancial'), sem perda de sentido."
   ],

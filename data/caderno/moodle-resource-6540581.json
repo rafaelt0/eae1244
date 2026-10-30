@@ -13,7 +13,7 @@
   "title": "The economics of World War I: an overview",
   "year": "não consta no texto extraído",
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "Para Broadberry e Harrison, a economia decidiu a Primeira Guerra: falhado o plano alemão de vitória militar rápida, a superioridade aliada em população, território e sobretudo PIB (ampliada quando os EUA substituíram a Rússia em 1917) se impôs numa guerra de desgaste. A capacidade de mobilizar dependia do nível de desenvolvimento; nos países pobres, inclusive a Alemanha com seu setor agrícola atrasado, o campesinato se retirou do mercado, o que levou à fome urbana e ao colapso econômico que encerrou a guerra.",
   "question": "O que os fatores econômicos contribuíram para a vitória e a derrota na Primeira Guerra Mundial, e como a guerra afetou as instituições e o desempenho econômico do pós-guerra?",
   "refs": [
@@ -329,7 +329,7 @@
   "limits": [
     "É o capítulo introdutório de um livro organizado pelos dois autores e resume os capítulos por país; a extração não imprime o ano de publicação, por isso year fica nulo. Os autores avisam que os países pobres têm dados piores e que vários faltam nas tabelas (p. 13).",
     "Os autores admitem dar peso deliberado à quantidade de recursos em vez de fatores contingentes (objeção de Overy, p. 11-12); a afirmação de que fatores organizacionais e de moral são endógenos é uma tese deles, não um resultado medido.",
-    "Fonte ainda não revisada em fontes (extração por pdftotext+tesseract); a p. 1 é só a folha de rosto e o OCR do título saiu imperfeito ('WORLD WAR |'). As 39 páginas foram lidas, incluindo notas e referências (p. 35-39)."
+    "Extração por pdftotext e tesseract; a p. 1 é só a folha de rosto e o OCR do título saiu imperfeito ('WORLD WAR |'). As 39 páginas foram lidas, incluindo notas e referências (p. 35-39)."
   ],
   "figures_note": [
     "Tabelas 1.1-1.3 (p. 6-10): população, território e PIB por aliança; extraídas como texto em colunas, confira no original antes de citar razões.",

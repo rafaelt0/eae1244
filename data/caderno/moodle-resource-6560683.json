@@ -12,7 +12,7 @@
   "title": "Credit, Debt-Deflation, and the Great Depression Revisited",
   "year": 2025,
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "Bernanke retoma sua tese de 1983: a crise de crédito dos anos 1930, provocada pela deflação de dívidas (debt-deflation) sobre o endividamento privado acumulado nos anos 1920, foi o principal canal pelo qual a contração monetária derrubou produto e emprego nos EUA. Para o autor, a pesquisa empírica recente, com microdados e identificação causal, sustenta essa tese com mais força do que há 40 anos.",
   "question": "Se a queda da oferta de moeda iniciou a Depressão, por que ela produziu uma queda tão grande e duradoura de produto e emprego? Qual foi o mecanismo de transmissão monetária?",
   "refs": [
@@ -275,7 +275,7 @@
     }
   ],
   "limits": [
-    "O autor revisita a própria tese de 1983. O artigo é uma defesa dela, e a evidência empírica vem de uma seleção de estudos que ele mesmo diz ser parcial (p. 4). Fontes não revisadas: entrada parcial.",
+    "O autor revisita a própria tese de 1983. O artigo é uma defesa dela, e a evidência empírica vem de uma seleção de estudos que ele mesmo diz ser parcial (p. 4).",
     "A análise é quase toda sobre os EUA. A dimensão internacional (padrão-ouro) é aceita como pano de fundo, mas não é analisada.",
     "A rejeição da hipótese dos salários rígidos é do autor. Inferência do resumo: ela contrasta com leituras da mesma aula que aceitam salários nominais rígidos como canal (Crafts e Fearon; capítulo de desemprego de Temin et al.). As pp. 22-24 são só referências bibliográficas."
   ]

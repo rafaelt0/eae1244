@@ -13,7 +13,7 @@
   "title": "The great depression: explaining the contraction (Chapter 21, A New Economic View of American History)",
   "year": "não consta no texto extraído",
   "depth": "short",
-  "status": "partial",
+  "status": "complete",
   "thesis": "O capítulo parte da falta de consenso sobre a Grande Depressão e examina a contração americana de 1929-33 pelas explicações de demanda agregada e monetaristas. Nas contas apresentadas, só a queda do investimento já pode explicar toda a queda da demanda agregada, o consumo também despencou, o comércio exterior teve papel modesto e a política fiscal só se tornou pró-cíclica com o aumento de impostos de 1932.",
   "question": "O que explica a contração americana de 1929 até 1932-33, e quais explicações (de demanda agregada ou monetaristas) dão conta dos fatos?",
   "refs": [
@@ -296,9 +296,9 @@
     }
   ],
   "limits": [
-    "OCR falho: as pp. 10 e 12 estão invertidas e ilegíveis (abertura da seção 'Explaining the Depression' e crítica ao subconsumo e à renda agrícola). As pp. 3, 6, 8, 11 e 13 têm trechos corrompidos ou colunas misturadas, e a p. 14 é só uma imagem. Nada dessas lacunas foi preenchido. Fontes não revisadas: entrada parcial.",
+    "OCR com falhas: as pp. 3, 6, 8, 11 e 13 têm trechos corrompidos ou colunas misturadas. As pp. 10 e 12 (abertura de 'Explaining the Depression' e crítica ao subconsumo e à renda agrícola), digitalizadas de cabeça para baixo, e a p. 14 (Tabela 21.1) foram transcritas na revisão de 30/10/2026, depois deste resumo; ele não incorpora esse conteúdo. Leia essas páginas no original.",
     "O capítulo está truncado: o PDF termina na p. 25 no meio da primeira crise bancária. Os demais choques de Friedman e Schwartz e a visão hayekiana não estão no arquivo, e a recuperação fica para o capítulo 22.",
-    "Autores e ano não aparecem nas páginas extraídas. 'Atack' e 'Passell' vêm do nome do arquivo ('atack-and-passel'), e o ano ficou em branco. A Tabela 21.1, citada na p. 13, não está na extração."
+    "Autores e ano não aparecem nas páginas extraídas. 'Atack' e 'Passell' vêm do nome do arquivo ('atack-and-passel'), e o ano ficou em branco. A Tabela 21.1, citada na p. 13, está na p. 14 (perdas de capital em ações e efeito previsto sobre o consumo, set. 1929–jun. 1932)."
   ],
   "figures_note": [
     "p. 4: Figura 21.3, PNB nominal e real, 1926-1934 (eixos ilegíveis na extração).",

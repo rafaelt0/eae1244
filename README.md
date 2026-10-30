@@ -6,13 +6,13 @@ Material em português para estudar História Econômica Geral do Século XX e c
 
 ## Estado do projeto
 
-O caderno contém 14 resumos completos do recorte prioritário e 17 resumos curtos das aulas 2–16, marcados como parciais porque as extrações dessas fontes ainda não foram revisadas. O atlas contém oito temas com posições, relações fundamentadas, mecanismos, casos, diferenças de contexto e roteiros de resposta. A [revisão do atlas](docs/atlas-revisao.md) registra os testes e a suficiência dos oito roteiros.
+O caderno contém 14 resumos completos do recorte prioritário e 17 resumos curtos das aulas 2–16. Todas as 31 extrações foram revisadas (as das aulas 2–16 em 30/10/2026), e os resumos curtos aparecem como contexto, com aviso próprio. O atlas contém oito temas com posições, relações fundamentadas, mecanismos, casos, diferenças de contexto e roteiros de resposta. A [revisão do atlas](docs/atlas-revisao.md) registra os testes e a suficiência dos oito roteiros.
 
 A oficina contém 16 exercícios, com roteiros, parágrafos comentados e autoavaliação. O [índice da oficina](docs/oficina-revisao.md) apresenta as questões e os caminhos de resposta.
 
 O [HTML de estudo](dist/guia-eae1244/index.html) está implementado e verificado. Para usar em outro lugar, baixe o [pacote offline](dist/guia-eae1244.zip), descompacte-o e abra `index.html`, mantendo a pasta `originais` junto dele.
 
-Há Caderno, Atlas, busca global e Praticar com rascunhos e download da resposta. A interface segue uma composição editorial, conforme [SPEC-editorial.md](SPEC-editorial.md), com sumário de livro, notas de margem, matriz impressa e folha de prova. A [revisão da interface](docs/html-revisao.md) registra testes e capturas. Permanece pendente a revisão das extrações das fontes anteriores; até lá, os resumos curtos continuam parciais. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
+Há sumário de temas com marcador de leitura, Caderno, Atlas, busca global que abre a seção encontrada, lista pessoal "Para rever", página escura e Praticar com rascunhos e download da resposta. A interface segue uma composição editorial, conforme [SPEC-editorial.md](SPEC-editorial.md), com sumário de livro, notas de margem, matriz impressa e folha de prova. A [revisão da interface](docs/html-revisao.md) registra testes e capturas. Permanece pendente só a reconciliação do inventário com a página atual do curso, que exige acesso autenticado. O [mapa](CAPABILITY-MAP.md) e as [tarefas](tasks/todo.md) registram o escopo e o progresso.
 
 ## Atlas
 
