@@ -31,6 +31,20 @@ const scheme = await page.eval(() => document.documentElement.style.colorScheme)
 check('theme toggle switches and persists', scheme === 'dark' || scheme === 'light');
 await page.open(base);
 check('theme survives reload', (await page.eval(() => document.documentElement.style.colorScheme)) === scheme);
+check('lesson options readable in both themes', await page.eval(() => {
+  const root = document.documentElement, saved = root.style.colorScheme;
+  const rgba = value => value.match(/[\d.]+/g).map(Number);
+  const luminance = ([r, g, b]) => [r, g, b].map(v => { v /= 255; return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; }).reduce((sum, v, i) => sum + v * [0.2126, 0.7152, 0.0722][i], 0);
+  const readable = [...document.querySelectorAll('#lesson option')].length > 0 && ['dark', 'light'].every(theme => {
+    root.style.colorScheme = theme;
+    return [...document.querySelectorAll('#lesson option')].every(option => {
+      const style = getComputedStyle(option), back = rgba(style.backgroundColor), [a, b] = [luminance(rgba(style.color)), luminance(back)].sort((x, y) => y - x);
+      return (back[3] ?? 1) === 1 && (a + 0.05) / (b + 0.05) >= 4.5;
+    });
+  });
+  root.style.colorScheme = saved;
+  return readable;
+}));
 await page.fill('#search', 'convergencia');
 await page.click('#results .result-group .result');
 check('search opens the matching section', await page.eval(() => /secao=/.test(location.hash) && !!document.querySelector('.back-search')));

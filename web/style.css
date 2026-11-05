@@ -273,6 +273,10 @@ select {
   font-style:italic;
   margin-bottom:20px
 }
+option {
+  background-color:var(--sheet);
+  color:var(--ink)
+}
 .toc-caption {
   margin:0 0 6px;
   color:var(--muted);
