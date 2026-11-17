@@ -124,7 +124,7 @@ Em `.local/ux-qa/`:
 
 - **GLM 5.3 Flash:** 9,5/10 na verificação final, com descoberta, clareza, hierarquia, celular, acessibilidade e completude entre 9,5 e 9,6.
 - **DeepSeek V4.1 Flash:** 9,5/10 na reavaliação final, sem achados bloqueantes. Confirmou o destino de busca abaixo da barra fixa, a âncora `proposicao` do Atlas e "Referência completa" com 27 px.
-- **MiMo V2.6 Flash:** revisão final em andamento.
+- **MiMo V2.6 Flash:** 9,5/10 na verificação final, sem achados bloqueantes; o último resíduo visual do fio lateral foi corrigido antes da publicação final.
 
 As rodadas apontaram cópia de link sem confirmação, texto do Esc divergente, alvos de toque pequenos, escopo da busca não declarado, instrução de "Para rever" imprecisa, falta de cabeçalho na busca, barra fixa encobrindo o trecho, âncora `proposicao` ausente e "Referência completa" abaixo de 24 px. Todas as correções estão no pacote publicado.
 
@@ -142,14 +142,14 @@ Depois da primeira rodada do conselho, nove ajustes fecharam as lacunas restante
 - Os links do índice de leitura atualizam `?secao=` no endereço, então "Copiar link" compartilha a seção aberta.
 - O destino de busca é posicionado abaixo da barra fixa, sem encobrir a primeira linha; o Atlas ganhou a âncora `proposicao`, usada pelos resultados de busca; "Referência completa" também respeita os 24 px.
 - Entre 761 e 900 px, os três percursos e os cartões da ajuda passam a uma coluna, evitando colunas de ~144 px no tablet.
-- A barra lateral desconta a altura do cabeçalho, então o rodapé com "Para rever", "Originais" e "Como usar" cabe na viewport desde o topo. Links de índice abrem no título; só "Continuar de onde parou" retoma a posição salva, com `?retomar=1`.
+- A barra lateral desconta a altura do cabeçalho, então o rodapé com "Para rever", "Originais" e "Como usar" cabe na viewport desde o topo. O fio vertical passou para a coluna principal, cobrindo toda a altura mesmo quando a barra fica presa. Links de índice abrem no título; só "Continuar de onde parou" retoma a posição salva, com `?retomar=1`.
 
 A ordem de títulos da ajuda não salta níveis; as posições de leitura são salvas ao rolar e antes de clicar em um link interno, sem serem sobrescritas pelo `hashchange`. As 55 rotas continuam renderizando sem erro, e a medição de 10 rotas em cinco larguras não encontrou rolagem horizontal.
 
 ### Publicação no GitHub Pages (17/11/2026)
 
 - Endereço: <https://rafaelt0.github.io/eae1244/>.
-- Origem: branch `gh-pages`, commit `24dd7a1` (`Fit sidebar to viewport and make resume explicit`).
-- O `index.html` publicado é idêntico ao pacote gerado (1.528.399 bytes); o build do Pages terminou como `built`.
+- Origem: branch `gh-pages`, commit `7654737` (`Keep the sidebar rule full height`).
+- O `index.html` publicado é idêntico ao pacote gerado (1.528.440 bytes); o build do Pages terminou como `built`.
 - Os 44 originais responderam 200 no domínio público. Uma amostra de PDF foi baixada e o SHA-256 coincidiu com o arquivo do pacote (`e2b4265d…8be4ab4995`).
 - A branch publica apenas `index.html`, `originais/` e `.nojekyll`; o ZIP offline continua fora do Pages.
