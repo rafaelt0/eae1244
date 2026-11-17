@@ -1014,6 +1014,9 @@ h1 {
   font-style:italic
 }
 .source-meta summary {
+  display:list-item;
+  min-height:24px;
+  padding:3px 0;
   cursor:pointer;
   color:var(--muted);
   font-style:italic
@@ -2426,6 +2429,12 @@ dialog p {
     if (location.hash === hash) showRoute(true); else location.hash = hash;
   }
   function section(name, parent=content) { const s=el('section',null,'content-section');s.id=sectionId(name);s.append(el('h2',name)); parent.append(s); return s; }
+  function scrollToTarget(target) {
+    if(!target)return;
+    target.setAttribute('tabindex','-1');target.focus({preventScroll:true});
+    const bar=document.querySelector('.search-return'),offset=bar?bar.offsetHeight+14:0;
+    window.scrollTo(0,Math.max(0,target.getBoundingClientRect().top+window.scrollY-offset));
+  }
   function topicExercise(topic){const remembered=exercises.get(study.get().exercises[topic.debate_id]);return remembered?.debate_id===topic.debate_id?remembered:data.exercises.find(e=>e.debate_id===topic.debate_id&&e.mode==='guided');}
   function topicReading(topic){const remembered=study.get().readings[topic.debate_id];return topic.works.includes(remembered)?remembered:topic.works[0];}
   function topicPractice(topic){return exercises.get(topic.debate_id+'-guided')||data.exercises.find(e=>e.debate_id===topic.debate_id&&e.mode==='guided')||data.exercises.find(e=>e.debate_id===topic.debate_id);}
@@ -2741,7 +2750,7 @@ dialog p {
     if(entry.figures_note?.length){const box=section('Figuras e tabelas');entry.figures_note.forEach(t=>box.append(el('p',t)));}
     const sections=[...content.querySelectorAll('.content-section')];
     if(sections.length>2){const toc=el('nav',null,'reading-toc'),list=el('ol');toc.setAttribute('aria-label','Seções desta leitura');
-      for(const s of sections){const li=el('li'),link=el('a',s.querySelector('h2').textContent);link.href='#'+s.id;link.addEventListener('click',event=>{event.preventDefault();s.setAttribute('tabindex','-1');s.focus({preventScroll:true});s.scrollIntoView({block:'start'});try{const params=new URLSearchParams(location.hash.split('?')[1]||'');params.set('secao',s.id);history.replaceState(null,'',routeHref('caderno',resource.id,Object.fromEntries(params)));}catch(_){}});li.append(link);list.append(li);}
+      for(const s of sections){const li=el('li'),link=el('a',s.querySelector('h2').textContent);link.href='#'+s.id;link.addEventListener('click',event=>{event.preventDefault();scrollToTarget(s);try{const params=new URLSearchParams(location.hash.split('?')[1]||'');params.set('secao',s.id);history.replaceState(null,'',routeHref('caderno',resource.id,Object.fromEntries(params)));}catch(_){}});li.append(link);list.append(li);}
       toc.append(list);thesis.before(toc);}
     const related=relatedTopics(resource,data.atlas);
     if(related.length){
@@ -2797,8 +2806,9 @@ dialog p {
     const authors=topic.works.map(surname);
     heading(lessons(topic.lessons),'Atlas',topic.title,topic.entry_type==='single_reading'?authors[0]+' · leitura única, comparação entre países':authors.join(' · '),'atlas');
     topPager('atlas',orderedTopics.map(t=>({id:t.debate_id,name:t.title})),topic.debate_id);
-    content.append(el('p',topic.question,'question'));
-    const proposition=el('blockquote',null,'proposition');proposition.append(el('span','Proposição em exame','question-label'),el('p',topic.thesis_statement));content.append(proposition);
+    const propositionBlock=el('div',null,'atlas-proposition');propositionBlock.id='proposicao';
+    propositionBlock.append(el('p',topic.question,'question'));
+    const proposition=el('blockquote',null,'proposition');proposition.append(el('span','Proposição em exame','question-label'),el('p',topic.thesis_statement));propositionBlock.append(proposition);content.append(propositionBlock);
     const works=el('ul',null,'see-also quick-links');
     topic.works.forEach(rid=>{const li=el('li');li.append(el('span','Caderno','see-area'),button(title(resources.get(rid)),()=>go('caderno',rid)));works.append(li);});
     const practice=exercises.get(topic.debate_id+'-guided')||topicPractice(topic);
@@ -2928,7 +2938,7 @@ dialog p {
     if(options.keepScroll)return;
     const anchor=params.get('secao');
     requestAnimationFrame(()=>{const target=anchor&&document.getElementById(anchor);
-      if(target){target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({block:'start'});}
+      if(target)scrollToTarget(target);
       else{window.scrollTo(0,study.get().positions[state.view+'/'+state.id]||0);if(focus)$('#content').focus({preventScroll:true});}});
   }
   function reviewPage() {
