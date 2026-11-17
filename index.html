@@ -2005,6 +2005,36 @@ dialog p {
     font-style:normal
   }
 }
+@media(min-width:761px) and (max-width:900px) {
+  .pathways {
+    grid-template-columns:1fr;
+    border-bottom:0
+  }
+  .pathway,.pathway:first-child {
+    min-height:0;
+    padding:14px 0 16px;
+    border-left:0;
+    border-bottom:1px solid var(--rule)
+  }
+  .pathway:first-child:hover,.pathway:hover {
+    padding-left:0;
+    margin-left:0
+  }
+  .pathway:last-child {
+    border-bottom:0
+  }
+  .help-grid {
+    grid-template-columns:1fr
+  }
+  .help-card,.help-card:first-child {
+    padding:12px 0;
+    border-left:0;
+    border-top:1px solid var(--rule)
+  }
+  .help-card:first-child {
+    border-top:0
+  }
+}
 @media(max-width:760px) {
   :root {
     font-size:16px
