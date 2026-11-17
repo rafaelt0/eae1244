@@ -82,5 +82,23 @@ Regra aplicada: frases de efeito, convites e títulos que explicam o óbvio fora
 | Aparência escura; Aparência clara | Página escura; Página clara |
 | Compartilhar; Compartilhar este conteúdo | Copiar link; Link desta página |
 | Nesta leitura | lista numerada das seções, sem rótulo |
-| ← Voltar à busca | Voltar ao índice remissivo |
+| ← Voltar à busca | Voltar à busca (com a consulta no rótulo) |
+
+## Revisão de descoberta (17/11/2026)
+
+Objetivo: qualquer visitante encontra todas as funções sem instrução prévia. A página inicial deixou de ser apenas a lista de temas e passou a abrir com três caminhos nomeados.
+
+| Antes | Agora |
+| --- | --- |
+| Abas Caderno, Atlas e Praticar abriam um tema arbitrário | Abas abrem índices completos; o tema atual acompanha a navegação |
+| Lista de temas sem explicação das áreas | Cartões "Ler os resumos", "Comparar autores", "Treinar respostas" com contagem e destino |
+| Marcador de leitura com o nome da página | "Continuar de onde parou", com área e link direto |
+| Recorte escondido dentro de "Sumário" | Controle "Recorte" sempre visível, inclusive no celular |
+| Nenhuma visão geral de leituras ou questões | Índices de Caderno (31 leituras e estado do resumo), Atlas (8 temas) e Praticar (16 questões e rascunhos) |
+| Sem ligação entre áreas na mesma página | Faixa "Neste tema: Resumo · Atlas · Praticar", com a área atual marcada |
+| Só o sumário lateral para avançar | Navegação anterior/próxima ao fim de cada leitura, tema e questão |
+| Busca sem atalho declarado | `Ctrl K` ou `/`, sugestões sem resultado e "Voltar à busca" |
+| Funções só descobríveis por tentativa | Página "Como usar", com busca, evidências, originais, rascunhos, download, tema e impressão |
+
+Textos de garantia preservados: "Resumo curto de contexto…", "Resumo pendente…", "A revisão da extração…", "Não tratado no material usado", "Marque o que você conferiu. Não há nota.", "Rascunho salvo neste navegador." e o aviso de que marcações e rascunhos não acompanham o link.
 | Conferir no original · página física N | *arquivo*, página física N |

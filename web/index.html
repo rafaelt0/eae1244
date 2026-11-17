@@ -12,20 +12,21 @@
 <body>
 <a class="skip" href="#content">Pular para o conteúdo</a>
 <header class="masthead">
-<a class="brand" href="#inicio/all"><span class="brand-code">EAE1244</span><span class="brand-title">História Econômica Geral do Século XX</span></a>
-<div class="search-wrap"><label class="sr-only" for="search">Buscar no guia</label><input type="search" id="search" placeholder="Buscar autor, conceito, caso…" autocomplete="off"><button id="clear-search" type="button" hidden>Limpar</button></div>
+<a class="brand" href="#inicio"><span class="brand-code">EAE1244</span><span class="brand-title">História Econômica Geral do Século XX</span></a>
+<div class="search-wrap" role="search"><label class="sr-only" for="search">Buscar no guia</label><input type="search" id="search" placeholder="Buscar autor, conceito, caso…" autocomplete="off" aria-keyshortcuts="Control+K Meta+K /"><kbd id="search-hint" class="search-hint" aria-hidden="true">Ctrl K</kbd><button id="clear-search" type="button" hidden>Limpar</button></div>
 <div class="masthead-end"><p class="exam">Prova discursiva <strong>19 nov. 2026</strong></p><button id="theme-toggle" type="button" class="text-button">Página escura</button></div>
 </header>
 <div class="workspace">
 <aside class="sidebar">
-<nav class="modes" aria-label="Áreas de estudo"><button data-view="caderno" type="button">Caderno</button><button data-view="atlas" type="button">Atlas</button><button data-view="praticar" type="button">Praticar</button></nav>
-<details class="index-panel" open><summary>Sumário</summary><div class="index-content"><label for="lesson">Recorte</label><select id="lesson"><option value="priority">Aulas 17–28</option><option value="all">Todas as aulas</option></select><p class="toc-caption" aria-hidden="true" id="menu-caption">Aula</p><div id="menu"></div></div></details>
-<div class="sidebar-foot"><p id="coverage"></p><button type="button" data-view="rever" class="text-button">Para rever <span id="review-count" class="count"></span></button><button type="button" id="archive" class="text-button">Originais e apoios</button></div>
+<nav class="modes" aria-label="Áreas de estudo"><a href="#inicio" data-view="inicio">Início</a><a href="#caderno" data-view="caderno">Caderno</a><a href="#atlas" data-view="atlas">Atlas</a><a href="#praticar" data-view="praticar">Praticar</a></nav>
+<div class="recorte"><label for="lesson">Recorte</label><select id="lesson"><option value="priority">Aulas 17–28</option><option value="all">Todas as aulas</option></select></div>
+<details class="index-panel" open><summary>Sumário</summary><div class="index-content"><p class="toc-caption" aria-hidden="true" id="menu-caption">Leitura</p><div id="menu"></div></div></details>
+<div class="sidebar-foot"><p id="coverage"></p><a href="#rever" data-view="rever" class="text-button">Para rever <span id="review-count" class="count"></span></a><a href="#acervo" data-view="acervo" id="archive" class="text-button">Originais e apoios</a><a href="#ajuda" data-view="ajuda" class="text-button">Como usar</a></div>
 </aside>
-<main id="content" tabindex="-1"><section id="results" hidden aria-label="Resultados da busca"></section><article id="article"></article><footer class="page-foot"><p class="ornament" aria-hidden="true">⁂</p><p>Interpretações de estudo. Confira as evidências e as ressalvas de cada leitura.</p></footer></main>
+<main id="content" tabindex="-1"><section id="results" hidden aria-label="Resultados da busca"></section><article id="article"></article><footer class="page-foot"><p class="ornament" aria-hidden="true">⁂</p><p>Interpretações de estudo. Confira as evidências e as ressalvas de cada leitura.</p><nav class="foot-nav" aria-label="Ajuda e acervo"><a href="#ajuda">Como usar este guia</a><a href="#acervo">Originais e apoios</a><a href="#inicio">Início</a></nav></footer></main>
 </div>
 <p id="study-status" class="study-status" role="status"></p>
-<dialog id="share-dialog"><form method="dialog"><h2>Link desta página</h2><label for="share-url">Endereço</label><input id="share-url" readonly type="text"><p id="share-note"></p><button type="submit" class="text-button">Fechar</button></form></dialog>
+<dialog id="share-dialog" aria-labelledby="share-title"><form method="dialog"><h2 id="share-title">Link desta página</h2><label for="share-url">Endereço</label><input id="share-url" readonly type="text"><p id="share-note"></p><div class="dialog-actions"><button type="button" id="copy-share" class="text-button">Copiar</button><button type="submit" class="text-button">Fechar</button></div></form></dialog>
 <noscript><p>Ative o JavaScript para navegar pelo guia. Os originais continuam disponíveis na pasta originais do pacote.</p></noscript>
 <script type="application/json" id="guide-data">/*DATA*/</script>
 <script>/*APP*/</script>
