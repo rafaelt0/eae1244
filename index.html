@@ -914,7 +914,7 @@ option {
   padding-left:0;
   border-left:0
 }
-.help-card h3 {
+.help-card h2 {
   margin:0 0 4px;
   font-size:.72rem;
   letter-spacing:.16em;
@@ -2705,7 +2705,7 @@ dialog p {
     heading('Início / Ajuda','Como usar','Como usar este guia','Todas as funções, em um lugar.');
     content.append(el('p','O guia tem três áreas que olham para o mesmo conteúdo por ângulos diferentes. Você pode começar por qualquer uma delas; o tema atual acompanha a navegação.','index-lead'));
     const grid=el('div',null,'help-grid');
-    for(const [label,copy] of [['Caderno','Leia o resumo de cada obra: tese, argumento, mecanismos, casos, evidências, tabelas e ressalvas.'],['Atlas','Compare autores: posições, relações, matriz de mecanismos, diferenças de contexto e roteiro.'],['Praticar','Responda uma questão, abra o roteiro quando quiser, marque a autoavaliação e baixe o texto.']]){const card=el('div',null,'help-card');card.append(el('h3',label),el('p',copy));grid.append(card);}
+    for(const [label,copy] of [['Caderno','Leia o resumo de cada obra: tese, argumento, mecanismos, casos, evidências, tabelas e ressalvas.'],['Atlas','Compare autores: posições, relações, matriz de mecanismos, diferenças de contexto e roteiro.'],['Praticar','Responda uma questão, abra o roteiro quando quiser, marque a autoavaliação e baixe o texto.']]){const card=el('div',null,'help-card');card.append(el('h2',label),el('p',copy));grid.append(card);}
     content.append(grid);
     const find=section('Encontrar o conteúdo');
     find.append(el('p','Use o sumário à esquerda para percorrer leituras, temas ou questões. O seletor “Recorte” limita o sumário às aulas 17–28, a todas as aulas ou a uma aula específica.'));
@@ -2987,7 +2987,10 @@ dialog p {
   mobileQuery.addEventListener('change',event=>{$('.index-panel').open=!event.matches;});
   document.querySelector('.skip')?.addEventListener('click',event=>{event.preventDefault();const target=$('#content');target.focus({preventScroll:true});target.scrollIntoView({block:'start'});});
   document.querySelectorAll('[data-view]').forEach(link=>link.addEventListener('click',()=>{if(innerWidth<=760)$('.index-panel').open=false;}));
-  window.addEventListener('hashchange',()=>{rememberPosition();showRoute(true);});
+  let scrollTimer;
+  window.addEventListener('scroll',()=>{clearTimeout(scrollTimer);scrollTimer=setTimeout(rememberPosition,180);},{passive:true});
+  document.addEventListener('click',event=>{if(event.target.closest?.('a[href^="#"]'))rememberPosition();});
+  window.addEventListener('hashchange',()=>showRoute(true));
   window.addEventListener('pagehide',rememberPosition);
   if(innerWidth<=760)$('.index-panel').open=false;
   if(!location.hash){try{history.replaceState(null,'','#inicio');}catch(_){}}
