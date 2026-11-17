@@ -238,7 +238,6 @@ main:focus,main:focus-visible {
   max-height:calc(100vh - var(--masthead-height,7.4rem));
   overflow-y:auto;
   padding:28px 28px 32px 40px;
-  border-right:1px solid var(--rule);
   scrollbar-width:thin;
   scrollbar-color:var(--muted) transparent
 }
@@ -1925,6 +1924,11 @@ dialog p {
   gap:8px 22px;
   align-items:baseline;
   margin-top:12px
+}
+@media(min-width:761px) {
+  main {
+    border-left:1px solid var(--rule)
+  }
 }
 @media(min-width:1200px) {
   .argument>li,.items>.item,.content-section>.item {
