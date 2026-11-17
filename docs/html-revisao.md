@@ -123,7 +123,7 @@ Em `.local/ux-qa/`:
 ### Conselho de revisão
 
 - **GLM 5.3 Flash:** 9,5/10 na verificação final, com descoberta, clareza, hierarquia, celular, acessibilidade e completude entre 9,5 e 9,6.
-- **DeepSeek V4.1 Flash:** 9,2/10 antes dos três últimos ajustes (posição do destino de busca, âncora do Atlas e "Referência completa"); reavaliação em andamento.
+- **DeepSeek V4.1 Flash:** 9,5/10 na reavaliação final, sem achados bloqueantes. Confirmou o destino de busca abaixo da barra fixa, a âncora `proposicao` do Atlas e "Referência completa" com 27 px.
 - **MiMo V2.6 Flash:** revisão final em andamento.
 
 As rodadas apontaram cópia de link sem confirmação, texto do Esc divergente, alvos de toque pequenos, escopo da busca não declarado, instrução de "Para rever" imprecisa, falta de cabeçalho na busca, barra fixa encobrindo o trecho, âncora `proposicao` ausente e "Referência completa" abaixo de 24 px. Todas as correções estão no pacote publicado.
@@ -141,13 +141,14 @@ Depois da primeira rodada do conselho, nove ajustes fecharam as lacunas restante
 - O diálogo de link tem nome acessível e um botão "Copiar"; os termos encontrados aparecem destacados no resultado; `Esc` remove `busca`/`secao` do endereço, fecha a barra e devolve o foco ao conteúdo.
 - Os links do índice de leitura atualizam `?secao=` no endereço, então "Copiar link" compartilha a seção aberta.
 - O destino de busca é posicionado abaixo da barra fixa, sem encobrir a primeira linha; o Atlas ganhou a âncora `proposicao`, usada pelos resultados de busca; "Referência completa" também respeita os 24 px.
+- Entre 761 e 900 px, os três percursos e os cartões da ajuda passam a uma coluna, evitando colunas de ~144 px no tablet.
 
 A ordem de títulos da ajuda não salta níveis; as posições de leitura são salvas ao rolar e antes de clicar em um link interno, sem serem sobrescritas pelo `hashchange`. As 55 rotas continuam renderizando sem erro, e a medição de 10 rotas em cinco larguras não encontrou rolagem horizontal.
 
 ### Publicação no GitHub Pages (17/11/2026)
 
 - Endereço: <https://rafaelt0.github.io/eae1244/>.
-- Origem: branch `gh-pages`, commit `f72d4a6` (`Fix help heading order and reading position restore`).
-- O `index.html` publicado é idêntico ao pacote gerado (1.527.421 bytes); o build do Pages terminou como `built`.
+- Origem: branch `gh-pages`, commit `76e1ac1` (`Improve home layout at tablet widths`).
+- O `index.html` publicado é idêntico ao pacote gerado (1.528.031 bytes); o build do Pages terminou como `built`.
 - Os 44 originais responderam 200 no domínio público. Uma amostra de PDF foi baixada e o SHA-256 coincidiu com o arquivo do pacote (`e2b4265d…8be4ab4995`).
 - A branch publica apenas `index.html`, `originais/` e `.nojekyll`; o ZIP offline continua fora do Pages.
