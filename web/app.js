@@ -330,7 +330,7 @@
     const last=study.get().last,box=el('div',null,'resume');
     if(last&&validRoute(last)){
       box.append(el('p','Continuar de onde parou','resume-label'));
-      box.append(routeLink(last.view,last.id,routeName(last),'resume-link'));
+      box.append(routeLink(last.view,last.id,routeName(last),'resume-link',{retomar:'1'}));
       box.append(el('span',areaName[last.view],'resume-area'));
     }else{
       box.append(el('p','Comece pelo recorte prioritário','resume-label'));
@@ -640,7 +640,7 @@
     $('#search').value='';$('#clear-search').hidden=true;$('.search-wrap').classList.remove('has-query');
     const recorte=params.get('recorte');
     if(recorte&&['priority','all'].concat(nums.map(String)).includes(recorte)&&$('#lesson').value!==recorte){$('#lesson').value=recorte;studyUpdate({filter:recorte});}
-    const requested=topics.get(params.get('tema'));
+    const requested=topics.get(params.get('tema')),resume=params.get('retomar')==='1';
     if(state.view==='atlas'&&topics.has(state.id))context=state.id;
     else if(state.view==='praticar'&&exercises.has(state.id))context=exercises.get(state.id).debate_id;
     else if(state.view==='caderno'&&resources.has(state.id))context=requested?.works.includes(state.id)?requested.debate_id:topics.get(context)?.works.includes(state.id)?context:relatedTopics(resources.get(state.id),data.atlas)[0]?.debate_id||null;
@@ -671,7 +671,7 @@
     const anchor=params.get('secao');
     requestAnimationFrame(()=>{const target=anchor&&document.getElementById(anchor);
       if(target)scrollToTarget(target);
-      else{window.scrollTo(0,study.get().positions[state.view+'/'+state.id]||0);if(focus)$('#content').focus({preventScroll:true});}});
+      else{window.scrollTo(0,resume||!focus?(study.get().positions[state.view+'/'+state.id]||0):0);if(focus)$('#content').focus({preventScroll:true});}});
   }
   function reviewPage() {
     heading('Início / Para rever','Para rever','Para rever','Temas marcados neste navegador.');
@@ -725,6 +725,8 @@
   window.addEventListener('hashchange',()=>showRoute(true));
   window.addEventListener('pagehide',rememberPosition);
   if(innerWidth<=760)$('.index-panel').open=false;
+  function setMastheadHeight(){document.documentElement.style.setProperty('--masthead-height',document.querySelector('.masthead').offsetHeight+'px');}
+  setMastheadHeight();addEventListener('resize',setMastheadHeight);addEventListener('load',setMastheadHeight);
   if(!location.hash){try{history.replaceState(null,'','#inicio');}catch(_){}}
   applyTheme();reviewCount();
   showRoute();

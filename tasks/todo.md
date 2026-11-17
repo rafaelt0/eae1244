@@ -298,5 +298,5 @@ Especificação: [SPEC-editorial.md](../SPEC-editorial.md). Plano: [plan.md](pla
 - [x] Recorte sempre visível; faixa "Neste tema" com a área atual; navegação anterior/próxima.
 - [x] Busca com `Ctrl K`/`/`, sugestões, escopo declarado e retorno à consulta.
 - [x] Página "Como usar" e textos de ajuda; cópia de link com confirmação.
-- Verificação: 55 verificações de fluxo em Chromium headless, 55 rotas, 10 rotas em 320/390/768/1024/1440 px sem rolagem horizontal, `html.py verify`, testes Python e Node.
+- Verificação: 59 verificações de fluxo em Chromium headless, 55 rotas, 10 rotas em 320/390/768/1024/1440 px sem rolagem horizontal, `html.py verify`, testes Python e Node.
 - Arquivos: `web/`, `tests/html/browser.mjs`, `docs/html-revisao.md`, `docs/editorial-copy.md`, `README.md`.
